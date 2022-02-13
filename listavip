@@ -3,10 +3,10 @@
 #---TV PERU--
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA",Willax TV
-https://stream-04.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmh5F0Mj39eIMS80IaX8qOqY)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
+https://stream-03.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmrovM3TAHdIFtSM0QuAG8qA)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCNrKIpMpnWw1V3psfj-dpZMGqFWoIUsuaw&usqp=CAU" group-title="TV PERUANA",LatinaPE TV
-https://live-latina-mdstrm.secure.footprint.net/live-stream-dai/319fed2157fa4c48ae2f81928b21f8a4/manifest/f624fec49dadc88894ebeff1d974eab019af7757/5ce7109c7398b977dc0744cd/aa9d2069-9e21-4809-be6b-04da32b3bd3b/2.m3u8?aid=5ce70c587398b977dc0743b5&uid=aeajvmoih6g2n0py1bxdmpdcv7phaxab&sid=dsd6jwox3vvjvj5lcwsqidyl50h1iceb&pid=e8i8wsdzbukmorcex8mm73vrbr6yq0cv&ref=https%3a%2f%2fwww.latina.pe%2f&without_cookies=false&dnt=true&es=live-latina-mdstrm.secure.footprint.net&proto=https&pz=us&access_token=skhhac9uzn0mdrmgfl3gkku597zcz9en6exek94afdpofhvjckwotmduiiiuiibxlyznhirujfm&manifestfilter=video_height:240-480&hash=02e94513b949de4a9dc06
+https://latina.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/ATV_2005.svg/revision/latest/scale-to-width-down/200?cb=20210508210119&path-prefix=es" group-title="TV PERUANA",ATV HD PE
 https://d2tr4gdfol9ja.cloudfront.net:443/atv/smil:atv.smil/chunklist_b1024000.m3u8
