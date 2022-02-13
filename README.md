@@ -10,8 +10,8 @@ Lista Privada
 
 Copiar y Pegar la URL del Archivo de este Project:
 
-# Origin: https://raw.githubusercontent.com/xhokitope/0cio/main/listavip?token=GHSAT0AAAAAABRQXF6ZWR7Q7YMDGLRQ2YPUYQJNZOA
+# Origin: https://raw.githubusercontent.com/xhokitope/0cio/main/listavip?token=GHSAT0AAAAAABRQXF6ZZFJEHHFMSER2RRSMYQJOZZA
 
-# Opcional: http://bit.ly/github_m3u8
+# Opcional: http://bit.ly/mygithub_m3u8
 
 
