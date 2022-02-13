@@ -4,14 +4,20 @@
 
 # Creador @XhokitoPe
 
-Lista Privada
+# Lista Privada
 
 # Correo: marloncr78@gmail.com
 
-Copiar y Pegar la URL del Archivo de este Project:
+# Copiar y Pegar la URL "raw" del Archivo de este Project:
 
-# Origin: https://raw.githubusercontent.com/xhokitope/0cio/main/listavip?token=GHSAT0AAAAAABRQXF6ZZFJEHHFMSER2RRSMYQJOZZA
+https://raw.githubusercontent.com/xhokitope/0cio/main/listavip
 
-# Opcional: http://bit.ly/mygithub_m3u8
+# Link Opcional:
+
+http://bit.ly/0cioVIP_m3u8
+
+
+
+@XhokitoPe
 
 
