@@ -5,17 +5,23 @@
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA",Willax TV
 https://stream-03.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmrovM3TAHdIFtSM0QuAG8qA)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCNrKIpMpnWw1V3psfj-dpZMGqFWoIUsuaw&usqp=CAU" group-title="TV PERUANA",LatinaPE TV
-https://latina.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCNrKIpMpnWw1V3psfj-dpZMGqFWoIUsuaw&usqp=CAU" group-title="TV PERUANA",Latina HD
+https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFg8K3vUfodsHW3Uzxp343Xc)/dm/3/x774s7s/s/live-3.m3u8#cell=lnyc
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCNrKIpMpnWw1V3psfj-dpZMGqFWoIUsuaw&usqp=CAU" group-title="TV PERUANA",Latina SD
+https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFg8K3vUfodsHW3Uzxp343Xc)/dm/3/x774s7s/s/live-2.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/ATV_2005.svg/revision/latest/scale-to-width-down/200?cb=20210508210119&path-prefix=es" group-title="TV PERUANA",ATV HD PE
 https://d2tr4gdfol9ja.cloudfront.net:443/atv/smil:atv.smil/chunklist_b1024000.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkEZ36-Mkeu5mUlm6vIjo7Dm1qsOnI0LC1Ug&usqp=CAU" group-title="TV PERUANA",ATV+ PE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkEZ36-Mkeu5mUlm6vIjo7Dm1qsOnI0LC1Ug&usqp=CAU" group-title="TV PERUANA",ATV+ PE 
 https://d2tr4gdfol9ja.cloudfront.net:443/atv/smil:atv-mas.smil/chunklist_b1024000.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNodEC5o4GRK0MaFR_r8zSsrNxYuJjeDdUzA&usqp=CAU" group-title="TV PERUANA",PANAMERICANA TV
-https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFp1vIROPVNR0sQCu03mOodk)/dm/3/x774s7s/s/live-2.m3u8#cell=lnyc
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNodEC5o4GRK0MaFR_r8zSsrNxYuJjeDdUzA&usqp=CAU" group-title="TV PERUANA",PANAMERICANA HD
+https://stream-02.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFg8K3vUfodsHW3Uzxp343Xc)/dm/3/x774s7s/s/live-3.m3u8#cell=lnyc
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNodEC5o4GRK0MaFR_r8zSsrNxYuJjeDdUzA&usqp=CAU" group-title="TV PERUANA",PANAMERICANA SD
+https://stream-02.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFg8K3vUfodsHW3Uzxp343Xc)/dm/3/x774s7s/s/live-2.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmDXwq_JVNoby065mDeURMs9zHCd4FU9GnvQ&usqp=CAU" group-title="TV PERUANA",RED GLOBAL TV
 http://190.108.83.142:8000/play/a00x/index.m3u8
@@ -24,7 +30,7 @@ http://190.108.83.142:8000/play/a00x/index.m3u8
 https://cu.onliv3.com/livevd1/user2.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxIyj_mfRU8JD-q90rwby9aMHsNpvLf6IVbA&usqp=CAU" group-title="TV PERUANA",America TV
-https://pe-p1-p-e-di2.cdn.mdstrm.com/live-stream-secure/6099b04d9418ac082441dd74/publish/media_1800.m3u8?aid=5b8ea6f89ff52d0770a144c4&uid=AeajvmOih6G2N0PY1bxdMPDCV7pHaxAb&sid=KiJinrjSbkJNOrVSD71BsdQGqLyY6sng&pid=vMW6520NJr26ZSIkFEBo4oJ83biExcog&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&without_cookies=false&dnt=true&access_token=oyWXpxZHM4ifRExVX3LrcBzzEtpXk3z9ONiBRr9XEBjkCcyE3CC0ddUgXD55wZYfI1rixCVB332&es=pe-p1-p-e-di2.cdn.mdstrm.com&ote=1644209235644&ot=6001TY_9vhDicgssrHw6xg&proto=https&pz=us
+https://americatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNdDs_SQGQ74fhoHSN1luvc2x03yaFzrcaig&usqp=CAU" group-title="TV PERUANA",TV PERÚ HD
 https://cdnh71.iblups.com/hls/R9WtilpKKB.m3u8
