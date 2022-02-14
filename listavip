@@ -8,11 +8,11 @@ https://stream-03.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmrovM3TAHdIFtSM0Qu
 #EXTINF:-1 tvg-logo="https://geniostv.pe/wp-content/uploads/elementor/thumbs/grupo-genios1-oyk8y7dikc3ajryjcvqb5i1qsex0l3pp7grlsub4k0.png" group-title="TV PERUANA",GENIOS TV HD
 https://live.obslivestream.com:443/geniostvmux/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZWktkEnMQtRSruF-OeRINESOszGYHLTlJ0w&usqp=CAU" group-title="TV PERUANA",COSMOS TV
-https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w1568450049.m3u8
-
 #EXTINF:-1 tvg-logo="https://geniostv.pe/wp-content/uploads/elementor/thumbs/grupo-genios1-oyk8y7dikc3ajryjcvqb5i1qsex0l3pp7grlsub4k0.png" group-title="TV PERUANA",GENIOS TV SD
 https://live.obslivestream.com:443/geniostvmux/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZWktkEnMQtRSruF-OeRINESOszGYHLTlJ0w&usqp=CAU" group-title="TV PERUANA",COSMOS TV
+https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w1568450049.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCNrKIpMpnWw1V3psfj-dpZMGqFWoIUsuaw&usqp=CAU" group-title="TV PERUANA",Latina HD
 https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFg8K3vUfodsHW3Uzxp343Xc)/dm/3/x774s7s/s/live-3.m3u8#cell=lnyc
