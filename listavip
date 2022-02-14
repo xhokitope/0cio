@@ -5,6 +5,15 @@
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA",Willax TV
 https://stream-03.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmrovM3TAHdIFtSM0QuAG8qA)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
 
+#EXTINF:-1 tvg-logo="https://geniostv.pe/wp-content/uploads/elementor/thumbs/grupo-genios1-oyk8y7dikc3ajryjcvqb5i1qsex0l3pp7grlsub4k0.png" group-title="TV PERUANA",GENIOS TV HD
+https://live.obslivestream.com:443/geniostvmux/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZWktkEnMQtRSruF-OeRINESOszGYHLTlJ0w&usqp=CAU" group-title="TV PERUANA",COSMOS TV
+https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w1568450049.m3u8
+
+#EXTINF:-1 tvg-logo="https://geniostv.pe/wp-content/uploads/elementor/thumbs/grupo-genios1-oyk8y7dikc3ajryjcvqb5i1qsex0l3pp7grlsub4k0.png" group-title="TV PERUANA",GENIOS TV SD
+https://live.obslivestream.com:443/geniostvmux/tracks-v2a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCNrKIpMpnWw1V3psfj-dpZMGqFWoIUsuaw&usqp=CAU" group-title="TV PERUANA",Latina HD
 https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFg8K3vUfodsHW3Uzxp343Xc)/dm/3/x774s7s/s/live-3.m3u8#cell=lnyc
 
@@ -25,6 +34,21 @@ https://stream-02.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFg8K3vUfodsHW3Uzxp
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmDXwq_JVNoby065mDeURMs9zHCd4FU9GnvQ&usqp=CAU" group-title="TV PERUANA",RED GLOBAL TV
 http://190.108.83.142:8000/play/a00x/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/ondadigitaltv.com/wp-content/uploads/2018/11/LOGO-2019-1.png" group-title="TV PERUANA",ONDA DIGITAL TV
+https://ed1ov.live.opencaster.com/CwCfFGFdtebB/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Bestcable_logo.png/revision/latest/scale-to-width-down/250?cb=20210326222141&path-prefix=es" group-title="TV PERUANA",BEST CABLE TV
+https://ca.inka.net.pe/bestcable/bestcable/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="TV PERUANA",TOP LATINO
+https://5cefcbf58ba2e.streamlock.net:443/tltvweb/tvweb.stream/chunklist_w1363849901.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Karibe%C3%B1aTV2018.png/revision/latest/scale-to-width-down/2000?cb=20200217131332&path-prefix=es" group-title="TV PERUANA",Karibeña TV
+https://cu.onliv3.com/livevd/user1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8qIz7ZSjKp2qqymIFZgGwRPyRAValHqot1g&usqp=CAU" group-title="TV PERUANA",DMJ TV
+https://v4.tustreaming.cl:443/s1tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREhRKq4cEPB0Me2eJuYvc5nkCA97S96Q8Eng&usqp=CAU" group-title="TV PERUANA",Exitosa TV
 https://cu.onliv3.com/livevd1/user2.m3u8
@@ -49,6 +73,9 @@ https://cdnh71.iblups.com/hls/R9WtilpKKB.m3u8
 #---CINE & SERIES---
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1BhhE2faPh2oJvNVOhWwF89xVRtxTjxFq-g&usqp=CAU" group-title="Cine&Series",TV Carioca.Net
+https://srv5.zcast.com.br:443/tvcarioca/tvcarioca/chunklist_w444952345.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-5tD0JnogFt9k7b8X_TvA2uA0hZNb8CT_CQ&usqp=CAU" group-title="Cine&Series",Cinemax
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/cc_m5ftf
 
@@ -59,7 +86,7 @@ http://45.161.188.242:88/space/mono.m3u8
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w636648678_b700000_slen.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUvcZcRs5xmc3Lbhf_oRtDIsVf7GTMT220tw&usqp=CAU" group-title="Cine&Series",Warner TV
-https://vsd120.mycdn.me:443/hls/2194844486228.m3u8/sig/5NEStoVYrA4/expires/1644228300729/srcIp/132.184.131.112/clientType/0/srcAg/CHROME_ANDROID/mid/3443588800084/2194844486228_medium/index.m3u8
+https://vsd120.mycdn.me:443/hls/2194844486228.m3u8/sig/7uNl5jlxmIo/expires/1644952975333/srcIp/132.184.130.113/clientType/0/srcAg/CHROME_ANDROID/mid/3443588800084/2194844486228_medium/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="Cine&Series",TNT HD
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/ntn_19kl
@@ -74,25 +101,25 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/vfxr
 https://vsd102.mycdn.me:443/hls/1912740383443.m3u8/sig/J_oYULfPj0o/expires/1644226701332/srcIp/132.184.131.112/clientType/0/srcAg/CHROME_ANDROID/mid/3239439769299/1912740383443_medium/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhhuZUxQUsXQiUyyvPfOhlzK3C7a9GvXIF1v1qfHkJ1eaS9UyNpodsqVo&s=10" group-title="Cine&Series",HBO
-https://vsd79.mycdn.me:443/hls/2044907162183.m3u8/sig/qRwi36tnrAU/expires/1644217056656/srcIp/132.184.129.54/clientType/0/srcAg/CHROME_ANDROID/mid/5151560572487/2044907162183_medium/index.m3u8
+https://vsd93.mycdn.me:443/hls/2145793346119.m3u8/sig/v4OUCBa6sZo/expires/1644952508943/srcIp/132.184.130.113/clientType/0/srcAg/CHROME_ANDROID/mid/5236994350663/2145793346119_medium/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhhuZUxQUsXQiUyyvPfOhlzK3C7a9GvXIF1v1qfHkJ1eaS9UyNpodsqVo&s=10" group-title="Cine&Series",HBO HD
 http://f4.tvxweb.net:8082/9040/mpegts?token=MxPReBvRE1
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpjsld7I172GIduhfzanGIw71O-m9zaFKK4A&usqp=CAU" group-title="Cine&Series",HBO2
-https://vsd122.mycdn.me:443/hls/2044914895431.m3u8/sig/Z3IiUo7su80/expires/1644217129852/srcIp/132.184.129.54/clientType/0/srcAg/CHROME_ANDROID/mid/5151568436807/2044914895431_medium/index.m3u8
+https://vsd109.mycdn.me:443/hls/2145797409351.m3u8/sig/4DEPnz2okgQ/expires/1644952715855/srcIp/132.184.130.113/clientType/0/srcAg/CHROME_ANDROID/mid/5236997758535/2145797409351_medium/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDZV9xlhYXOI4mHXGrt2K5_0v4XT2ERosv2Q&usqp=CAU" group-title="Cine&Series",HBO FamilyHD
 http://45.161.188.242:88/hbofamilyhd/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Cine&Series",HBO Plus
-https://vsd109.mycdn.me:443/hls/2044918827591.m3u8/sig/vdxKjNv767s/expires/1644229235258/srcIp/132.184.131.112/clientType/0/srcAg/CHROME_ANDROID/mid/5151573024327/2044918827591_medium/index.m3u8
+https://vsd120.mycdn.me:443/hls/2145800751687.m3u8/sig/6PgmRmu65Tg/expires/1644952804918/srcIp/132.184.130.113/clientType/0/srcAg/CHROME_ANDROID/mid/5237005557319/2145800751687_medium/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png" group-title="Cine&Series",HBO Xtreme
-https://vsd103.mycdn.me:443/hls/2044917647943.m3u8/sig/w4eRVV87uIE/expires/1644229319208/srcIp/132.184.131.112/clientType/0/srcAg/CHROME_ANDROID/mid/5151571451463/2044917647943_medium/index.m3u8
+https://vsd139.mycdn.me:443/hls/2145802127943.m3u8/sig/QpFLwi6jcTM/expires/1644952910634/srcIp/132.184.130.113/clientType/0/srcAg/CHROME_ANDROID/mid/5237007392327/2145802127943_medium/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="Cine&Series",GOLDEN
-https://vsd112.mycdn.me:443/hls/2073043470919.m3u8/sig/OrF7qWzmfs4/expires/1644228616390/srcIp/132.184.131.112/clientType/0/srcAg/CHROME_ANDROID/mid/5176900591175/2073043470919_medium/index.m3u8
+https://vsd107.mycdn.me:443/hls/2145812613703.m3u8/sig/DnDsyhu97tY/expires/1644953211074/srcIp/132.184.130.113/clientType/0/srcAg/CHROME_ANDROID/mid/5237017615943/2145812613703_high/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/Logo-goldedge.png/revision/latest/scale-to-width-down/240?cb=20200422165936" group-title="Cine&Series",GOLDEN EDGE
 https://vsd70.mycdn.me:443/hls/2194857331284.m3u8/sig/MKpqxPMq3aU/expires/1644228902778/srcIp/132.184.131.112/clientType/0/srcAg/CHROME_ANDROID/mid/3443604332116/2194857331284_medium/index.m3u8
@@ -119,7 +146,7 @@ http://45.161.188.242:88/fxmovies/mono.m3u8
 https://vsd119.mycdn.me:443/hls/2166141487700.m3u8/sig/siuNK_PIKMY/expires/1644229415464/srcIp/132.184.131.112/clientType/0/srcAg/CHROME_ANDROID/mid/3418543431252/2166141487700_medium/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Cinecanal_1995.png/revision/latest?cb=20191214040757&path-prefix=es" group-title="Cine&Series",Cinecanal
-https://vsd129.mycdn.me:443/hls/2044921449031.m3u8/sig/AacPMXaZbWM/expires/1644229901514/srcIp/132.184.131.112/clientType/0/srcAg/CHROME_ANDROID/mid/5151576038983/2044921449031_medium/index.m3u8
+https://vsd72.mycdn.me:443/hls/2145808288327.m3u8/sig/eUg81DWhkLg/expires/1644953092447/srcIp/132.184.130.113/clientType/0/srcAg/CHROME_ANDROID/mid/5237014011463/2145808288327_high/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1280px-TBS_logo_2016.svg.png" group-title="Cine&Series",TBS
 http://45.161.188.242:88/tbs/mono.m3u8
@@ -171,6 +198,11 @@ http://45.161.188.242:88/tooncast/mono.m3u8
 #---DEPORTES---
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSebrNGshTDxT87D5rXTHy80JOzZ-uxs_QGYg&usqp=CAU" group-title="Deportes",BEST CABLE SPORTS
+https://ca.inka.net.pe:443/bestcablesports/bestcablesports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH5GklkaKxYtvuEIl_t8V19hoLfRoNWV3cAg&usqp=CAU" group-title="Deportes",ESPN
 http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
