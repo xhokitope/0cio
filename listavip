@@ -65,7 +65,7 @@ https://vsd120.mycdn.me:443/hls/2194844486228.m3u8/sig/5NEStoVYrA4/expires/16442
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/ntn_19kl
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_foGT7i25vezaYAJIB4J8jB1Gw-uU8x6hoA&usqp=CAU" group-title="Cine&Series",TNT SERIES
-http://e10.telerium.uno:2052/free10/099/chunks.m3u8?nimblesessionid=29837134&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDIyIDEyOjUwOjM0IEFNJmhhc2hfdmFsdWU9cmRROHZ5bU1wUGZzU0VWT0o3SXlZZz09JnZhbGlkbWludXRlcz0yNDA=
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/tt25qal
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkDiWrHRTTlNE2jqLwS-wfkbWYj8JwpFi62g&usqp=CAU" group-title="Cine&Series",STAR CHANNEL
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/vfxrt109x
@@ -75,6 +75,9 @@ https://vsd102.mycdn.me:443/hls/1912740383443.m3u8/sig/J_oYULfPj0o/expires/16442
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhhuZUxQUsXQiUyyvPfOhlzK3C7a9GvXIF1v1qfHkJ1eaS9UyNpodsqVo&s=10" group-title="Cine&Series",HBO
 https://vsd79.mycdn.me:443/hls/2044907162183.m3u8/sig/qRwi36tnrAU/expires/1644217056656/srcIp/132.184.129.54/clientType/0/srcAg/CHROME_ANDROID/mid/5151560572487/2044907162183_medium/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhhuZUxQUsXQiUyyvPfOhlzK3C7a9GvXIF1v1qfHkJ1eaS9UyNpodsqVo&s=10" group-title="Cine&Series",HBO HD
+http://f4.tvxweb.net:8082/9040/mpegts?token=MxPReBvRE1
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpjsld7I172GIduhfzanGIw71O-m9zaFKK4A&usqp=CAU" group-title="Cine&Series",HBO2
 https://vsd122.mycdn.me:443/hls/2044914895431.m3u8/sig/Z3IiUo7su80/expires/1644217129852/srcIp/132.184.129.54/clientType/0/srcAg/CHROME_ANDROID/mid/5151568436807/2044914895431_medium/index.m3u8
@@ -101,7 +104,7 @@ https://vsd103.mycdn.me:443/hls/2073040849479.m3u8/sig/XhbGNmGLPgM/expires/16442
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjIHmcblvs50BI_f5driHHt1_4rowK4nulKw&usqp=CAU" group-title="Cine&Series",AXN
-http://45.161.188.242:88/axn/mono.m3u8
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/anxcx96
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz_TWoSpFg65tCYF9l9r5QUAequpqecrHLJg&usqp=CAU" group-title="Cine&Series",Sony
 http://45.161.188.242:88/sony/mono.m3u8
@@ -140,7 +143,7 @@ http://45.161.188.242:88/cartoonnetwork/mono.m3u8
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/dk_0143
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXYFRbaEql7iO6mZjk2oR-iSwf9Dkhzrtl-g&usqp=CAU" group-title="Niños&Juniors",Nickelodeon HD
-http://45.161.188.242:88/nickhd/mono.m3u8
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/teen5300
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqaj0w2rPwtf4eTd_QXsaNwy8kJ1yxbJuwUw&usqp=CAU" group-title="Niños&Juniors",NickJunior
 http://45.161.188.242:88/nickjr/mono.m3u8
@@ -172,6 +175,9 @@ http://45.161.188.242:88/tooncast/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH5GklkaKxYtvuEIl_t8V19hoLfRoNWV3cAg&usqp=CAU" group-title="Deportes",ESPN
 http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH5GklkaKxYtvuEIl_t8V19hoLfRoNWV3cAg&usqp=CAU" group-title="Deportes",ESPN LA
+http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ3bmuXcsuH-cYvt_kV1iaA5a98CpwPVlU5w&usqp=CAU" group-title="Deportes",ESPN2
 https://edge-live14-hr.cvattv.com.ar/live/c2live/ESPN_HD/SA_SAGEMCOM/ESPN_HD.m3u8
 
@@ -190,10 +196,10 @@ https://edge10-sl.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1280px-Fox_sports_3_logo.svg.png" group-title="Deportes",FoxSport3
 https://edge10-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="Deportes",FoxSport Premium
-https://livestreamapis.com/v3/accounts/23200525/events/9691158/master.m3u8?token=b40b258bfa91b958ce9d4a7039f3ab64&clientId=18998&timestamp=1644126984600&signature=605c4756797d80000dfb2d167eacd10e6ff0c6c85b882142b0cc899a32fc467ff0f57085598668e8473fe0fd75159754
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRek4Pmg2fX9XcCVQ2uNqQvI4vNpchqFN6Kiw&usqp=CAU" group-title="Deportes",TyCSport HD
+https://d3awnlgqz0szay.cloudfront.net:443/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRek4Pmg2fX9XcCVQ2uNqQvI4vNpchqFN6Kiw&usqp=CAU" group-title="Deportes",TyCSport 480p
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRek4Pmg2fX9XcCVQ2uNqQvI4vNpchqFN6Kiw&usqp=CAU" group-title="Deportes",TyCSport SD
 https://d3awnlgqz0szay.cloudfront.net:443/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_10.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRek4Pmg2fX9XcCVQ2uNqQvI4vNpchqFN6Kiw&usqp=CAU" group-title="Deportes",TyCSport 360p
@@ -233,10 +239,10 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/vc_5
 https://127.0.0.1:8080.m3u
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Discovery_Channel_2000.svg/revision/latest/scale-to-width-down/300?cb=20200113170721&path-prefix=es" group-title="Ciencia&Cultura",DiscoveryChannel
-http://45.161.188.242:88/discoverychannel/mono.m3u8
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/dt_yy79
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT3NOLzvRqmf1wL-DUsW_afUzpYFkngKwRIg&usqp=CAU" group-title="Ciencia&Cultura",NatGeo
-http://45.161.188.242:88/natgeo/mono.m3u8
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/rr_99rrr
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Ciencia&Cultura",AnimalPlanet
 http://45.161.188.242:88/animalplanet/mono.m3u8
@@ -245,10 +251,10 @@ http://45.161.188.242:88/animalplanet/mono.m3u8
 http://45.161.188.242:88/discoveryturbo/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="Ciencia&Cultura",DiscoveryID
-http://45.161.188.242:88/discoveryid/mono.m3u8
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/1d_lx48
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2dCsSGmXpCTAEHiwsoUlmEMSeYQGXKlJfUw&usqp=CAU" group-title="Ciencia&Cultura",Home&Healt
-http://45.161.188.242:88/homeandhealth/mono.m3u8
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/aw_tt47
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/4e/fd/fd/4efdfddc6dafa48064a41f9b6f1d6293.png" group-title="Ciencia&Cultura",Entertaiment
 http://45.161.188.242:88/eentertainment/mono.m3u8
