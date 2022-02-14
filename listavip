@@ -125,7 +125,7 @@ https://vsd107.mycdn.me:443/hls/2145812613703.m3u8/sig/DnDsyhu97tY/expires/16449
 https://vsd70.mycdn.me:443/hls/2194857331284.m3u8/sig/MKpqxPMq3aU/expires/1644228902778/srcIp/132.184.131.112/clientType/0/srcAg/CHROME_ANDROID/mid/3443604332116/2194857331284_medium/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Golden_Plus_2017.png/revision/latest/scale-to-width-down/300?cb=20191215194002&path-prefix=es" group-title="Cine&Series",G PLUS
-https://vsd103.mycdn.me:443/hls/2073040849479.m3u8/sig/XhbGNmGLPgM/expires/1644229603843/srcIp/132.184.131.112/clientType/0/srcAg/CHROME_ANDROID/mid/5176897445447/2073040849479_medium/index.m3u8
+https://vsd130.mycdn.me:443/hls/2145815104071.m3u8/sig/BTFxOqGYjfg/expires/1644959745356/srcIp/132.184.130.113/clientType/0/srcAg/CHROME_ANDROID/mid/5237020433991/2145815104071_medium/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3WZwZrxF7d_UEIfcGiis8Z6McURZzwxFfuA&usqp=CAU" group-title="Cine&Series",Lancelot TV
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
@@ -143,7 +143,7 @@ https://vsd100.mycdn.me:443/hls/2194854971988.m3u8/sig/yVJoke4JrlE/expires/16442
 http://45.161.188.242:88/fxmovies/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT46CCtZMGzlA9ohosMFPE9jnbQ7DVLtM9mbQ&usqp=CAU" group-title="Cine&Series",Universal
-https://vsd119.mycdn.me:443/hls/2166141487700.m3u8/sig/siuNK_PIKMY/expires/1644229415464/srcIp/132.184.131.112/clientType/0/srcAg/CHROME_ANDROID/mid/3418543431252/2166141487700_medium/index.m3u8
+https://vsd92.mycdn.me:443/hls/2194843306580.m3u8/sig/s675N_5bVeE/expires/1644959607819/srcIp/132.184.130.113/clientType/0/srcAg/CHROME_ANDROID/mid/3443587882580/2194843306580_medium/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Cinecanal_1995.png/revision/latest?cb=20191214040757&path-prefix=es" group-title="Cine&Series",Cinecanal
 https://vsd72.mycdn.me:443/hls/2145808288327.m3u8/sig/eUg81DWhkLg/expires/1644953092447/srcIp/132.184.130.113/clientType/0/srcAg/CHROME_ANDROID/mid/5237014011463/2145808288327_high/index.m3u8
@@ -154,6 +154,8 @@ http://45.161.188.242:88/tbs/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Cine&Series",TCM
 http://45.161.188.242:88/tcm/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbNojQATsMECknERBKM7FFgk-JyJeQpLxuKgJ3VqGl2i1OxbGgvus5Y1o&s=10" group-title="Cine&Series",TELEMUNDO TV
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/tl_045mgtl
 
 
 
@@ -176,19 +178,28 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/teen
 http://45.161.188.242:88/nickjr/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Disney_Junior_logo.png/800px-Disney_Junior_logo.png" group-title="Niños&Juniors",DisneyJunior
-http://45.161.188.242:88/disneyjr/mono.m3u8
+https://vsd75.mycdn.me:443/hls/1694030563883.m3u8/sig/_Y7TvB8KW44/expires/1644959142159/srcIp/132.184.130.113/clientType/0/srcAg/CHROME_ANDROID/mid/3328455810603/1694030563883_medium/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png" group-title="Niños&Juniors",DisneyXD
-http://45.161.188.242:88/disneyxd/mono.m3u8
+https://vsd95.mycdn.me:443/hls/1694023158315.m3u8/sig/xvoueKzfVHc/expires/1644959207430/srcIp/132.184.130.113/clientType/0/srcAg/CHROME_ANDROID/mid/3328448929323/1694023158315_medium/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Nat_Geo_Kids_%282017%29.png/revision/latest?cb=20200126150715&path-prefix=es" group-title="Niños&Juniors",NatGeoKids
 http://45.161.188.242:88/natgeokids/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/discovery-kids/images/3/36/2013-2016_sin_wordmark.png/revision/latest/scale-to-width-down/250?cb=20211020152616&path-prefix=es" group-title="Niños&Juniors",DiscoveryKids
-http://45.161.188.242:88/discoverykids/mono.m3u8
+https://vsd96.mycdn.me:443/hls/1694035806763.m3u8/sig/uYevl9rfk_A/expires/1644959306636/srcIp/132.184.130.113/clientType/0/srcAg/CHROME_ANDROID/mid/3328460922411/1694035806763_medium/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1200px-Tooncast_logo.svg.png" group-title="Niños&Juniors",ToonCast
-http://45.161.188.242:88/tooncast/mono.m3u8
+https://vsd75.mycdn.me:443/hls/1694021257771.m3u8/sig/z2jpf4LEYdk/expires/1644959261109/srcIp/132.184.130.113/clientType/0/srcAg/CHROME_ANDROID/mid/3328447028779/1694021257771_medium/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbu8TsSgxniilFM-c-1T0J4pMFG_79XxPGCQ&usqp=CAU" group-title="Niños&Juniors",Boomerang
+https://vsd133.mycdn.me:443/hls/1694026566187.m3u8/sig/ni6DSbY38AI/expires/1644959367080/srcIp/132.184.130.113/clientType/0/srcAg/CHROME_ANDROID/mid/3328452140587/1694026566187_medium/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrydxW-1ZnM39xiqr9obKW9vMnLaojEXlihA&usqp=CAU" group-title="Niños&Juniors",Dragon Ball TV
+https://vsd125.mycdn.me:443/hls/2073019288135.m3u8/sig/MQ_quzM6ypo/expires/1644958131970/srcIp/132.184.130.113/clientType/0/srcAg/CHROME_ANDROID/mid/5176877129287/2073019288135_medium/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRegqP7UeP5E_VE7NrBptM714ypSv9iX9Elg&usqp=CAU" group-title="Niños&Juniors",Los Simpsons TV
+https://vsd103.mycdn.me:443/hls/2073017387591.m3u8/sig/nDG8auBh_1s/expires/1644958350586/srcIp/132.184.130.113/clientType/0/srcAg/CHROME_ANDROID/mid/5176874966599/2073017387591_medium/index.m3u8
 
 
 
@@ -289,7 +300,7 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/1d_l
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/aw_tt47
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/4e/fd/fd/4efdfddc6dafa48064a41f9b6f1d6293.png" group-title="Ciencia&Cultura",Entertaiment
-http://45.161.188.242:88/eentertainment/mono.m3u8
+https://vsd118.mycdn.me:443/hls/1912738941651.m3u8/sig/q-1HqZdS0NA/expires/1644957684617/srcIp/132.184.130.113/clientType/0/srcAg/CHROME_ANDROID/mid/3239437475539/1912738941651_medium/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ547nGlPFGhqNpwqCgzHQWBXYFk0PdRqmdJw&usqp=CAU",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
