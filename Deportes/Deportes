@@ -19,6 +19,9 @@ https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/28_.m3u8?token=bi5DVRDECZyCp
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjuP51tHIExjG1bxj9hAqVXjxT8rtFycak4Q&usqp=CAU" group-title="Deportes", ESPN 3 MX
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/29_.m3u8?token=cHcU_HLsOw1TbX7tg_Ya7w&expires=1644958293&ip=132.157.128.213
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRek4Pmg2fX9XcCVQ2uNqQvI4vNpchqFN6Kiw&usqp=CAU" group-title="Deportes",TyCSport SD
+https://d3awnlgqz0szay.cloudfront.net:443/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_10.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPFGzMlAKSk_klqZLyA5hedZYy6rkcXX2Fow&usqp=CAU" group-title="Deportes", TIGO SPORTS PA
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/201_.m3u8?token=2q4WPad1OJJZ1S4s3QHrBA&expires=1644958455&ip=132.157.128.213
 
@@ -31,15 +34,26 @@ https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/7_.m3u8?token=U7E-mAYl3walXq
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpICYrXPIfyB0U_0vTNOpTchr7-RxQYkcv5g&usqp=CAU" group-title="Deportes", GOL PERU
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/6_.m3u8?token=-G1gdacNUVjz9uHEGCj58g&expires=1644959177&ip=132.157.128.213
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSebrNGshTDxT87D5rXTHy80JOzZ-uxs_QGYg&usqp=CAU" group-title="Deportes",BEST CABLE SPORTS
+https://ca.inka.net.pe:443/bestcablesports/bestcablesports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVzMMU9XBaBvzlz8l3W6vg4t8NEvgLNOkT4g&usqp=CAU" group-title="Deportes", FOXSPORT
+https://edge10-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSwyhYrzw1uIeXHGkzDcvveFXLTa7bVUc2ZQ&usqp=CAU" group-title="Deportes", FOXSPORT 2
+https://edge10-sl.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1280px-Fox_sports_3_logo.svg.png" group-title="Deportes", FOXSPORTS 3
+https://edge10-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="Deportes", FOX SPORTS MX
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/24_.m3u8?token=U9m8_3b5SExREjvvZKFkeg&expires=1644959458&ip=132.157.128.213
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Deportes", FOX SPORTS 3 MX
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/26_.m3u8?token=Hvz28TWHT5hzEMdG7wyU0A&expires=1644959715&ip=132.157.128.213
 
-
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1280px-Claro_Sports_logo.svg.png" group-title="Deportes",Claro Sports
+https://claro-jw.cdn.vustreams.com:443/live/channel07/live.isml/live-audio_track_0_0_und=128000-video_track=2000000.m3u8vz28TWHT5hzEMdG7wyU0A
 
 
 
