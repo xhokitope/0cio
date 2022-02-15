@@ -1,0 +1,54 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH5GklkaKxYtvuEIl_t8V19hoLfRoNWV3cAg&usqp=CAU" group-title="Deportes", ESPN
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/17_.m3u8?token=rDpgmS0UzPQntuaKF-j7oQ&expires=1644956359&ip=132.157.128.213
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ3bmuXcsuH-cYvt_kV1iaA5a98CpwPVlU5w&usqp=CAU" group-title="Deportes", ESPN 2
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/18_.m3u8?token=lUyX8-VbhjEanvKym-WwJw&expires=1644957037&ip=132.157.128.213
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6rN7aAtDUn963aFACsjlQSd1i41XbnAeUwA&usqp=CAU" group-title="Deportes", ESPN 3
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/19_.m3u8?token=nvLkwpZra0ehBqmssn_Byw&expires=1644957434&ip=132.157.128.213
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjuP51tHIExjG1bxj9hAqVXjxT8rtFycak4Q&usqp=CAU" group-title="Deportes", ESPN MX
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/27_.m3u8?token=QtMOhA7MI_9SxWXtPHpK8g&expires=1644957654&ip=132.157.128.213
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQfB2T_7hXgQW51m4VHfx92ye2DfBikeBpzw&usqp=CAU" group-title="Deportes", ESPN 2 MX
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/28_.m3u8?token=bi5DVRDECZyCpYronk60zA&expires=1644958164&ip=132.157.128.213
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjuP51tHIExjG1bxj9hAqVXjxT8rtFycak4Q&usqp=CAU" group-title="Deportes", ESPN 3 MX
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/29_.m3u8?token=cHcU_HLsOw1TbX7tg_Ya7w&expires=1644958293&ip=132.157.128.213
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPFGzMlAKSk_klqZLyA5hedZYy6rkcXX2Fow&usqp=CAU" group-title="Deportes", TIGO SPORTS PA
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/201_.m3u8?token=2q4WPad1OJJZ1S4s3QHrBA&expires=1644958455&ip=132.157.128.213
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPqcdWM3UVkLnsZdM-CD_Q8SYCRUh5Pi2R2A&usqp=CAU" group-title="Deportes", BEIN SPORTS
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/23_.m3u8?token=XEvf_fmym64rUBp6Y6nHew&expires=1644958805&ip=132.157.128.213
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCDU8f9wRS6rWVZ5LjeLv_Wnc6MXU0GNHz6Q&usqp=CAU" group-title="Deportes", GOL TV
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/7_.m3u8?token=U7E-mAYl3walXqSe-SupDA&expires=1644959074&ip=132.157.128.213
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpICYrXPIfyB0U_0vTNOpTchr7-RxQYkcv5g&usqp=CAU" group-title="Deportes", GOL PERU
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/6_.m3u8?token=-G1gdacNUVjz9uHEGCj58g&expires=1644959177&ip=132.157.128.213
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="Deportes", FOX SPORTS MX
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/24_.m3u8?token=U9m8_3b5SExREjvvZKFkeg&expires=1644959458&ip=132.157.128.213
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Deportes", FOX SPORTS 3 MX
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/26_.m3u8?token=Hvz28TWHT5hzEMdG7wyU0A&expires=1644959715&ip=132.157.128.213
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
