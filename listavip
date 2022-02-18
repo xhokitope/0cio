@@ -157,6 +157,13 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/thee
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbNojQATsMECknERBKM7FFgk-JyJeQpLxuKgJ3VqGl2i1OxbGgvus5Y1o&s=10" group-title="Cine&Series",TELEMUNDO TV 2
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/tl_74mgtt
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbNojQATsMECknERBKM7FFgk-JyJeQpLxuKgJ3VqGl2i1OxbGgvus5Y1o&s=10" group-title="Cine&Series",TELEMUNDO TV 3
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/tl_041mgtl
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbNojQATsMECknERBKM7FFgk-JyJeQpLxuKgJ3VqGl2i1OxbGgvus5Y1o&s=10" group-title="Cine&Series",TELEMUNDO TV 4
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/tl_009mgtl
+
+
 
 
 
