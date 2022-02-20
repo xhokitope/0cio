@@ -77,7 +77,7 @@ https://srv5.zcast.com.br:443/tvcarioca/tvcarioca/chunklist_w444952345.m3u8
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/cc_m5ftf
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWx3jvzOQwIzp8wo-8_A-9stEoc93_tiLSA&usqp=CAU" group-title="Cine&Series",SPACE TV
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/39_.m3u8?token=6XHEgV2lQYfJxRP8eePhWw&expires=1644960017&ip=132.157.128.213
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/cb_v1034
 
 #EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="Cine&Series",WOW
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w636648678_b700000_slen.m3u8
