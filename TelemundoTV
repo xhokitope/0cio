@@ -24,6 +24,9 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/tl_1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbNojQATsMECknERBKM7FFgk-JyJeQpLxuKgJ3VqGl2i1OxbGgvus5Y1o&s=10" group-title="Cine&Series",TELEMUNDO TV 8
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/tlm_0144mgt
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbNojQATsMECknERBKM7FFgk-JyJeQpLxuKgJ3VqGl2i1OxbGgvus5Y1o&s=10" group-title="Cine&Series",TELEMUNDO TV 8
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/tlm_920mgtt
+
 
 
 
