@@ -11,6 +11,9 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/cc_m
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/CNN_en_Espa%C3%B1ol_2014.png/revision/latest/scale-to-width-down/250?cb=20160621221353&path-prefix=es" group-title="Canal Noticias",CNN ESPAÑOL
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/acapulcogames
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeyikB2qVMbyH3xTaQtUMlnlJt5UroPvzoDA&usqp=CAU" group-title="Canal Noticias",EURONEWS
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtu.be/JbKgQhFlMdU
+
 #EXTINF:-1 tvg-logo="https://geniostv.pe/wp-content/uploads/elementor/thumbs/grupo-genios1-oyk8y7dikc3ajryjcvqb5i1qsex0l3pp7grlsub4k0.png" group-title="TV PERUANA",GENIOS TV HD
 https://live.obslivestream.com:443/geniostvmux/tracks-v1a1/mono.m3u8
 
