@@ -8,8 +8,8 @@ https://stream-03.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmrovM3TAHdIFtSM0Qu
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-5tD0JnogFt9k7b8X_TvA2uA0hZNb8CT_CQ&usqp=CAU" group-title="Cine&Series",Cinemax
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/cc_m5ftf
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/CNN_en_Espa%C3%B1ol_2014.png/revision/latest/scale-to-width-down/250?cb=20160621221353&path-prefix=es" group-title="Canal Noticias",CNN ESPAÑOL
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/acapulcogames
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/CNN_en_Espa%C3%B1ol_2014.png/revision/latest/scale-to-width-down/250?cb=20160621221353&path-prefix=es" group-title="Canal Noticias",CNN CHILE
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtu.be/2qRET8Z5f2U
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQijry3sfjBEVZgvlD3G__nwl9gHQ_OMfIE8A&usqp=CAU" group-title="Canal Noticias",MEGA NOTICIAS CL
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/meganoticiascl
