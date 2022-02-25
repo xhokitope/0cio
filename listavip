@@ -12,6 +12,9 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/cc_m
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtu.be/2qRET8Z5f2U
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQijry3sfjBEVZgvlD3G__nwl9gHQ_OMfIE8A&usqp=CAU" group-title="Canal Noticias",MEGA NOTICIAS CL
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtu.be/uYsSpdSkdFc
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQijry3sfjBEVZgvlD3G__nwl9gHQ_OMfIE8A&usqp=CAU" group-title="Canal Noticias",MEGA NOTICIAS CL 2
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/meganoticiascl
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeyikB2qVMbyH3xTaQtUMlnlJt5UroPvzoDA&usqp=CAU" group-title="Canal Noticias",EURONEWS
