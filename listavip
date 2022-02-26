@@ -27,7 +27,7 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtu.be/wHn1_QVoX
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtu.be/lU8u1hEW8Ms
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3rqwWV_6FZ8_OjvyIDhenskrGXZTsQTLbYg&usqp=CAU" group-title="Canal Noticias",TELE 13 CL
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtu.be/Ove87nZ_1D4
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=Ove87nZ_1D4
 
 #EXTINF:-1 tvg-logo="https://geniostv.pe/wp-content/uploads/elementor/thumbs/grupo-genios1-oyk8y7dikc3ajryjcvqb5i1qsex0l3pp7grlsub4k0.png" group-title="TV PERUANA",GENIOS TV HD
 https://live.obslivestream.com:443/geniostvmux/tracks-v1a1/mono.m3u8
