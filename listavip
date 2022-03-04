@@ -27,7 +27,7 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtu.be/wHn1_QVoX
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtu.be/lU8u1hEW8Ms
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3rqwWV_6FZ8_OjvyIDhenskrGXZTsQTLbYg&usqp=CAU" group-title="Canal Noticias",TELE 13 CL
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=Ove87nZ_1D4
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtu.be/Ove87nZ_1D4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/C5N_2017_Alternate.svg/1200px-C5N_2017_Alternate.svg.png" group-title="Canal Noticias",C5N AR
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtu.be/8MrC0LPmOfc
