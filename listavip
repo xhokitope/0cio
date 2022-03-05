@@ -161,7 +161,7 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/anxc
 http://45.161.188.242:88/sony/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOW3XX3xScHmTkxEsPT1HbyI86yMMhFilRwQ&usqp=CAU" group-title="Cine&Series",FX
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/70_.m3u8?token=9LYPCquXV7UIm9v4lUGu2Q&expires=1644960198&ip=132.157.128.213
+https://vsd83.mycdn.me/hls/2316607687252.m3u8/sig/Zm9WTRRXh3k/expires/1646541690963/srcIp/132.184.131.72/clientType/0/srcAg/CHROME_ANDROID/mid/3545445637716/2316607687252_medium/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1280px-FX_Movies_logo.svg.png" group-title="Cine&Series",FX Movies
 http://45.161.188.242:88/fxmovies/mono.m3u8
