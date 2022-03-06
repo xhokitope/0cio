@@ -178,17 +178,12 @@ http://45.161.188.242:88/tbs/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Cine&Series",TCM
 http://45.161.188.242:88/tcm/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbNojQATsMECknERBKM7FFgk-JyJeQpLxuKgJ3VqGl2i1OxbGgvus5Y1o&s=10" group-title="Cine&Series",TELEMUNDO TV
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/theedomy
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1k-mDUCKlOtaZ-L4vssxrkvvhBVpPesnv7A&usqp=CAU" group-title="Cine&Series",LIFETIME
+https://vsd128.mycdn.me:443/hls/1912749361875.m3u8/sig/Wm4KpEqvvAk/expires/1646625521325/srcIp/132.184.128.10/clientType/0/srcAg/CHROME_ANDROID/mid/3239447174867/1912749361875_medium/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbNojQATsMECknERBKM7FFgk-JyJeQpLxuKgJ3VqGl2i1OxbGgvus5Y1o&s=10" group-title="Cine&Series",TELEMUNDO TV 2
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/tl_74mgtt
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbNojQATsMECknERBKM7FFgk-JyJeQpLxuKgJ3VqGl2i1OxbGgvus5Y1o&s=10" group-title="Cine&Series",TELEMUNDO TV 3
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/tl_041mgtl
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbNojQATsMECknERBKM7FFgk-JyJeQpLxuKgJ3VqGl2i1OxbGgvus5Y1o&s=10" group-title="Cine&Series",TELEMUNDO TV 4
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/tl_009mgtl
+
 
 
 
