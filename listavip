@@ -3,40 +3,7 @@
 #---TV PERU--
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA",Willax TV
-https://stream-01.sv4.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmgZA5O5Oiu9i3BUlqa8LkeA)/dm/3/x7x4dgx/s/live-1.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-5tD0JnogFt9k7b8X_TvA2uA0hZNb8CT_CQ&usqp=CAU" group-title="Cine&Series",Cinemax
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/cc_m5ftf
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/CNN_en_Espa%C3%B1ol_2014.png/revision/latest/scale-to-width-down/250?cb=20160621221353&path-prefix=es" group-title="Canal Noticias",CNN CHILE
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtu.be/2qRET8Z5f2U
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQijry3sfjBEVZgvlD3G__nwl9gHQ_OMfIE8A&usqp=CAU" group-title="Canal Noticias",MEGA NOTICIAS CL
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtu.be/WWVwv31dlLg
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQijry3sfjBEVZgvlD3G__nwl9gHQ_OMfIE8A&usqp=CAU" group-title="Canal Noticias",MEGA NOTICIAS CL 2
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/meganoticiascl
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeyikB2qVMbyH3xTaQtUMlnlJt5UroPvzoDA&usqp=CAU" group-title="Canal Noticias",EURONEWS
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtu.be/JbKgQhFlMdU
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRupA6YUAGd-toHu9Fayy3b-o-R0zt7x37O8Q&usqp=CAU" group-title="Canal Noticias",TN
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtu.be/wHn1_QVoXGM
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMiPOUSmwYDb45wDhaD4Poh6Z_bpxAg75K0A&usqp=CAU" group-title="Canal Noticias",FRANCE 24 ES
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtu.be/lU8u1hEW8Ms
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3rqwWV_6FZ8_OjvyIDhenskrGXZTsQTLbYg&usqp=CAU" group-title="Canal Noticias",TELE 13 CL
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtu.be/Ove87nZ_1D4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/C5N_2017_Alternate.svg/1200px-C5N_2017_Alternate.svg.png" group-title="Canal Noticias",C5N AR
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtu.be/8MrC0LPmOfc
-
-#EXTINF:-1 tvg-logo="https://geniostv.pe/wp-content/uploads/elementor/thumbs/grupo-genios1-oyk8y7dikc3ajryjcvqb5i1qsex0l3pp7grlsub4k0.png" group-title="TV PERUANA",GENIOS TV HD
-https://live.obslivestream.com:443/geniostvmux/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://geniostv.pe/wp-content/uploads/elementor/thumbs/grupo-genios1-oyk8y7dikc3ajryjcvqb5i1qsex0l3pp7grlsub4k0.png" group-title="TV PERUANA",GENIOS TV SD
-https://live.obslivestream.com:443/geniostvmux/tracks-v2a1/mono.m3u8
+https://stream-01.sv4.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmh3y85HytGxQMTsY3Z9UmEU)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lsv4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZWktkEnMQtRSruF-OeRINESOszGYHLTlJ0w&usqp=CAU" group-title="TV PERUANA",COSMOS TV
 https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w1568450049.m3u8
@@ -56,11 +23,8 @@ https://dysmuyxh5vstv.cloudfront.net:443/hls/live_480p30.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkEZ36-Mkeu5mUlm6vIjo7Dm1qsOnI0LC1Ug&usqp=CAU" group-title="TV PERUANA",ATV+ PE 
 https://d2tr4gdfol9ja.cloudfront.net:443/atv/smil:atv-mas.smil/chunklist_b1024000.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNodEC5o4GRK0MaFR_r8zSsrNxYuJjeDdUzA&usqp=CAU" group-title="TV PERUANA",PANAMERICANA HD
-https://stream-02.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFg8K3vUfodsHW3Uzxp343Xc)/dm/3/x774s7s/s/live-3.m3u8#cell=lnyc
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNodEC5o4GRK0MaFR_r8zSsrNxYuJjeDdUzA&usqp=CAU" group-title="TV PERUANA",PANAMERICANA SD
-https://stream-02.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFg8K3vUfodsHW3Uzxp343Xc)/dm/3/x774s7s/s/live-2.m3u8#cell=lnyc
+https://stream-03.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFkQ9G7LwR1efONn58eiLK3w)/dm/3/x774s7s/s/live-2.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmDXwq_JVNoby065mDeURMs9zHCd4FU9GnvQ&usqp=CAU" group-title="TV PERUANA",RED GLOBAL TV
 http://190.108.83.142:8000/play/a00x/index.m3u8
@@ -102,12 +66,11 @@ https://cdnh71.iblups.com/hls/R9WtilpKKB.m3u8
 
 #---CINE & SERIES---
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-5tD0JnogFt9k7b8X_TvA2uA0hZNb8CT_CQ&usqp=CAU" group-title="Cine&Series",Cinemax
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/cc_m11ftf
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1BhhE2faPh2oJvNVOhWwF89xVRtxTjxFq-g&usqp=CAU" group-title="Cine&Series",TV Carioca.Net
 https://srv5.zcast.com.br:443/tvcarioca/tvcarioca/chunklist_w444952345.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-5tD0JnogFt9k7b8X_TvA2uA0hZNb8CT_CQ&usqp=CAU" group-title="Cine&Series",Cinemax
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/cc_m5ftf
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWx3jvzOQwIzp8wo-8_A-9stEoc93_tiLSA&usqp=CAU" group-title="Cine&Series",SPACE TV
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/cb_v1034
@@ -116,16 +79,16 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/cb_v
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w636648678_b700000_slen.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUvcZcRs5xmc3Lbhf_oRtDIsVf7GTMT220tw&usqp=CAU" group-title="Cine&Series",Warner TV
-https://vsd120.mycdn.me:443/hls/2194844486228.m3u8/sig/7uNl5jlxmIo/expires/1644952975333/srcIp/132.184.130.113/clientType/0/srcAg/CHROME_ANDROID/mid/3443588800084/2194844486228_medium/index.m3u8
+https://vsd118.mycdn.me:443/hls/2398493411924.m3u8/sig/KaxPee0Hhp4/expires/1648520049974/srcIp/132.184.128.248/clientType/0/srcAg/CHROME_ANDROID/mid/3618020204116/2398493411924_medium/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="Cine&Series",TNT HD
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/ntn_19kl
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/tl_119mdd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_foGT7i25vezaYAJIB4J8jB1Gw-uU8x6hoA&usqp=CAU" group-title="Cine&Series",TNT SERIES
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/tt25qal
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/tl_411md
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkDiWrHRTTlNE2jqLwS-wfkbWYj8JwpFi62g&usqp=CAU" group-title="Cine&Series",STAR CHANNEL
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/vfxrt109x
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/vfxrt119x
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnAlN6WmMfLE76s7ZlsIp8c1-hmX2orsJEAQ&usqp=CAU" group-title="Cine&Series",STAR LIFE
 https://vsd102.mycdn.me:443/hls/1912740383443.m3u8/sig/J_oYULfPj0o/expires/1644226701332/srcIp/132.184.131.112/clientType/0/srcAg/CHROME_ANDROID/mid/3239439769299/1912740383443_medium/index.m3u8
@@ -134,7 +97,7 @@ https://vsd102.mycdn.me:443/hls/1912740383443.m3u8/sig/J_oYULfPj0o/expires/16442
 https://vsd93.mycdn.me:443/hls/2145793346119.m3u8/sig/v4OUCBa6sZo/expires/1644952508943/srcIp/132.184.130.113/clientType/0/srcAg/CHROME_ANDROID/mid/5236994350663/2145793346119_medium/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhhuZUxQUsXQiUyyvPfOhlzK3C7a9GvXIF1v1qfHkJ1eaS9UyNpodsqVo&s=10" group-title="Cine&Series",HBO HD
-http://f4.tvxweb.net:8082/9040/mpegts?token=MxPReBvRE1
+https://vsd110.mycdn.me:443/hls/2272617957959.m3u8/sig/F5BZGva-uvQ/expires/1648520417778/srcIp/132.184.128.248/clientType/0/srcAg/CHROME_ANDROID/mid/5347982253639/2272617957959_medium/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpjsld7I172GIduhfzanGIw71O-m9zaFKK4A&usqp=CAU" group-title="Cine&Series",HBO2
 https://vsd109.mycdn.me:443/hls/2145797409351.m3u8/sig/4DEPnz2okgQ/expires/1644952715855/srcIp/132.184.130.113/clientType/0/srcAg/CHROME_ANDROID/mid/5236997758535/2145797409351_medium/index.m3u8
@@ -161,10 +124,10 @@ https://vsd130.mycdn.me:443/hls/2145815104071.m3u8/sig/BTFxOqGYjfg/expires/16449
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjIHmcblvs50BI_f5driHHt1_4rowK4nulKw&usqp=CAU" group-title="Cine&Series",AXN
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/anxcx96
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/anxcx913
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz_TWoSpFg65tCYF9l9r5QUAequpqecrHLJg&usqp=CAU" group-title="Cine&Series",Sony
-http://45.161.188.242:88/sony/mono.m3u8
+https://vsd133.mycdn.me:443/hls/2272599870023.m3u8/sig/mc7C3_mowLA/expires/1648520639740/srcIp/132.184.128.248/clientType/0/srcAg/CHROME_ANDROID/mid/5347957349959/2272599870023_medium/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOW3XX3xScHmTkxEsPT1HbyI86yMMhFilRwQ&usqp=CAU" group-title="Cine&Series",FX
 https://vsd125.mycdn.me:443/hls/2316607687252.m3u8/sig/C3qxx3VgEiE/expires/1646543003224/srcIp/190.236.25.168/clientType/0/srcAg/CHROME_ANDROID/mid/3545445637716/2316607687252_lowest/index.m3u8
@@ -311,7 +274,7 @@ https://tihdukxhbitnsmoh.wzcdn431.net:8443/hls/dyzqotv15miwft.m3u8?s=3xUBDegECZA
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxqAVi_JxGZOCO3SdsICCV78r5T3S7Aj84iQ&usqp=CAU" group-title="Ciencia&Cultura",History
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/vc_55tt
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/vc_59tt
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYJ8U1zE4HmML93N6w3TRYhWdAg3oSGQgfQw&usqp=CAU" group-title="Ciencia&Cultura",History2
 https://127.0.0.1:8080.m3u
