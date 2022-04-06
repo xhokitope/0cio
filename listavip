@@ -24,7 +24,7 @@ https://dysmuyxh5vstv.cloudfront.net:443/hls/live_480p30.m3u8
 https://d2tr4gdfol9ja.cloudfront.net:443/atv/smil:atv-mas.smil/chunklist_b1024000.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNodEC5o4GRK0MaFR_r8zSsrNxYuJjeDdUzA&usqp=CAU" group-title="TV PERUANA",PANAMERICANA SD
-https://stream-03.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFkQ9G7LwR1efONn58eiLK3w)/dm/3/x774s7s/s/live-2.m3u8#cell=lnyc
+https://stream-03.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFuc5oQj6x318LptiMbbl8X4)/dm/3/x774s7s/s/live-2.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmDXwq_JVNoby065mDeURMs9zHCd4FU9GnvQ&usqp=CAU" group-title="TV PERUANA",RED GLOBAL TV
 http://190.108.83.142:8000/play/a00x/index.m3u8
