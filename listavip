@@ -45,7 +45,7 @@ https://cu.onliv3.com/livevd/user1.m3u8
 https://v4.tustreaming.cl:443/s1tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREhRKq4cEPB0Me2eJuYvc5nkCA97S96Q8Eng&usqp=CAU" group-title="TV PERUANA",Exitosa TV
-https://cu.onliv3.com/livevd1/user2.m3u8
+https://cu.onliv3.com/livevd1/user2_low/325004.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxIyj_mfRU8JD-q90rwby9aMHsNpvLf6IVbA&usqp=CAU" group-title="TV PERUANA",America TV
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/5_.m3u8?token=9Y9L_jvUv_VmCtQ4QI7BTw&expires=1644959818&ip=132.157.128.213
