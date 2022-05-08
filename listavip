@@ -277,7 +277,7 @@ https://tihdukxhbitnsmoh.wzcdn431.net:8443/hls/dyzqotv15miwft.m3u8?s=3xUBDegECZA
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/vc_59tt
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYJ8U1zE4HmML93N6w3TRYhWdAg3oSGQgfQw&usqp=CAU" group-title="Ciencia&Cultura",History2
-https://127.0.0.1:8080.m3u
+https://vsd122.mycdn.me:443/hls/2391777610451.m3u8/sig/mYlXD3zkaHU/expires/1652133132055/srcIp/132.184.131.16/clientType/0/srcAg/CHROME_ANDROID/mid/3806872936147/2391777610451_medium/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Discovery_Channel_2000.svg/revision/latest/scale-to-width-down/300?cb=20200113170721&path-prefix=es" group-title="Ciencia&Cultura",DiscoveryChannel
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/dt_yy79
