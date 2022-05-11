@@ -81,3 +81,6 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/rive
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/ea5096eb-a8bf-4fd9-80a0-8e1be81452c8-profile_image-300x300.png" group-title="TwitchStreamers"tvg-id="Amablitz" tvg-name="Amablitz",Amablitz
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/amablitz
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtprmyBSq3euPu9ltv6CFOyrWumQ2-D7vyAQ&usqp=CAU" group-title="TwitchStreamers"tvg-id="DJ Mariio" tvg-name="DJ Mariio",DJ Mariio
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/user/DjMaRiiO
+
