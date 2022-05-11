@@ -193,6 +193,9 @@ https://vsd125.mycdn.me:443/hls/2073019288135.m3u8/sig/MQ_quzM6ypo/expires/16449
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRegqP7UeP5E_VE7NrBptM714ypSv9iX9Elg&usqp=CAU" group-title="Niños&Juniors",Los Simpsons TV
 https://vsd103.mycdn.me:443/hls/2073017387591.m3u8/sig/nDG8auBh_1s/expires/1644958350586/srcIp/132.184.130.113/clientType/0/srcAg/CHROME_ANDROID/mid/5176874966599/2073017387591_medium/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRalyHZsrHit5MNqLp8nmWMZ5CiGktlwsYKkQ&usqp=CAU" group-title="Niños&Juniors",PJ Masks Español
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/PJMasksLAS
+
 
 
 
