@@ -247,13 +247,10 @@ https://edge10-sl.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD
 https://edge10-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRek4Pmg2fX9XcCVQ2uNqQvI4vNpchqFN6Kiw&usqp=CAU" group-title="Deportes",TyCSport HD
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/11_.m3u8?token=NV1mr6pLZZ_lQL0i-A3QiA&expires=1648179395&ip=132.184.129.186
+https://vsd72.mycdn.me:443/hls/2388580698806.m3u8/sig/IIw5-SH9KHc/expires/1652428849268/srcIp/132.184.131.35/clientType/0/srcAg/CHROME_ANDROID/mid/4584694554294/2388580698806_high/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRek4Pmg2fX9XcCVQ2uNqQvI4vNpchqFN6Kiw&usqp=CAU" group-title="Deportes",TyCSport SD
-https://chupachichi7.site/live/flowac8c8a92ab3535e.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRek4Pmg2fX9XcCVQ2uNqQvI4vNpchqFN6Kiw&usqp=CAU" group-title="Deportes",TyCSport 360p
-https://d3awnlgqz0szay.cloudfront.net:443/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_11.m3u8
+https://vsd72.mycdn.me:443/hls/2388580698806.m3u8/sig/IIw5-SH9KHc/expires/1652428849268/srcIp/132.184.131.35/clientType/0/srcAg/CHROME_ANDROID/mid/4584694554294/2388580698806_medium/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Estadio_TNT_Sports_2021.png/revision/latest?cb=20210120194115&path-prefix=es" group-title="Deportes",TNT Sports
 https://nedmediaworks.akamaized.net:443/hls/live/2034320/feedtv/hdntl=exp=1644216100~acl=%2f*~data=hdntl~hmac=8163fb06786a9665eeffbcd58bdabeb3a4583c6e02898aa94c246f985fceb2e5/master_540.m3u8
