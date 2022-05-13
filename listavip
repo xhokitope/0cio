@@ -75,6 +75,9 @@ http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-5tD0JnogFt9k7b8X_TvA2uA0hZNb8CT_CQ&usqp=CAU" group-title="Cine&Series",Cinemax
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/cc_m11ftf
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yNSgq7gv/CINE-ROMANCE.png" group-title="Cine&Series",Cine Romance
+https://n9.cl/cine-romance_m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1BhhE2faPh2oJvNVOhWwF89xVRtxTjxFq-g&usqp=CAU" group-title="Cine&Series",TV Carioca.Net
 https://srv5.zcast.com.br:443/tvcarioca/tvcarioca/chunklist_w444952345.m3u8
 
@@ -205,8 +208,8 @@ https://vsd103.mycdn.me:443/hls/2073017387591.m3u8/sig/nDG8auBh_1s/expires/16449
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRalyHZsrHit5MNqLp8nmWMZ5CiGktlwsYKkQ&usqp=CAU" group-title="Niños&Juniors",PJ Masks
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/PJMasksLAS
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjCV0fikEeaQUGkMCReZJzAvh_njoKff_X8g&usqp=CAU" group-title="Niños&Juniors",La Familia Del Barrio
-https://n9.cl/akwlv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw52fOqNLS22rMs0dDazADNufDCeI5SN0ZrA&usqp=CAU" group-title="Niños&Juniors",Retro Cartoons
+https://n9.cl/retro-cartoons_m3u8
 
 
 
