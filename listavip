@@ -59,11 +59,11 @@ https://cdnh71.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGlo-48YjEMk4tEjjkd3Xn2Pg3lmd-fgsxgQ&usqp=CAU" group-title="TV PERUANA",TeleRitmo
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/La_Red_Uruguay_2018.png/revision/latest/scale-to-width-down/200?cb=20200825011821&path-prefix=es" group-title="TV PERUANA",La Red UY
+https://d268yhgc98lzal.cloudfront.net/sdredtv/sdredtv.m3u8
 
-
-
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" group-title="Cine&Series",Net TV
+https://unlimited1-us.dps.live:443/nettv/nettv.smil/nettv/livestream2/chunks.m3u8?nimblesessionid=38516715
 
 #---CANALES CABLE---
 
@@ -162,11 +162,6 @@ https://vsd128.mycdn.me:443/hls/1912749361875.m3u8/sig/Wm4KpEqvvAk/expires/16466
 
 
 
-
-
-
-
-
 #---NIÑOS Y JUNIORS---
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjRlN-Ezo3o0QjFheHMpCsHpS5dNs--Xv5oQ&usqp=CAU" group-title="Niños&Juniors",CartoonNetwork
@@ -211,7 +206,8 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/PJMa
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw52fOqNLS22rMs0dDazADNufDCeI5SN0ZrA&usqp=CAU" group-title="Niños&Juniors",Retro Cartoons
 https://n9.cl/retro-cartoons_m3u8
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png" group-title="Niños&Juniors",Dragon Ball
+https://vsd145.mycdn.me:443/hls/2328973216327.m3u8/sig/F9vkHxP-7wA/expires/1652735724281/srcIp/132.184.128.166/clientType/0/srcAg/CHROME_ANDROID/mid/5397485461063/2328973216327_medium/index.m3u8
 
 
 
