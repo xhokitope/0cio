@@ -59,13 +59,30 @@ https://cdnh71.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGlo-48YjEMk4tEjjkd3Xn2Pg3lmd-fgsxgQ&usqp=CAU" group-title="TV PERUANA",TeleRitmo
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/La_Red_Uruguay_2018.png/revision/latest/scale-to-width-down/200?cb=20200825011821&path-prefix=es" group-title="TV PERUANA",La Red UY
-https://d268yhgc98lzal.cloudfront.net/sdredtv/sdredtv.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" group-title="Cine&Series",Net TV
-https://unlimited1-us.dps.live:443/nettv/nettv.smil/nettv/livestream2/chunks.m3u8?nimblesessionid=38516715
 
 #---CANALES CABLE---
+
+
+
+
+#----- INTERNACIONALES ------
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/La_Red_Uruguay_2018.png/revision/latest/scale-to-width-down/200?cb=20200825011821&path-prefix=es" group-title="TV INTERNACIONAL",La Red UY
+https://d268yhgc98lzal.cloudfront.net/sdredtv/sdredtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/457px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="TV INTERNACIONAL",America TV AR
+https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/6a040984-05eb-4e6d-a1be-42b199a94c3f:SCL/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" group-title="TV INTERNACIONAL",Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="TV INTERNACIONAL",TELEFE AR
+https://telefeappmitelefe1.akamaized.net:443/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1652760548~acl=%2f*~data=hdntl~hmac=7ebc8a3eb31bca1fc305382d5f2a1acba6c45d1b6dd9b3328b7769e26f37ab0b/master-mtlf1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNw7Mg4DrrnmVF8Zw_pBV_q9-Mk3fac9geKg&usqp=CAU" group-title="TV INTERNACIONAL",A24 AR
+https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/f56dfaaa-a9c0-4093-b4aa-185658700948:SCL/variant/ce563c014bc1e04c56eadc113791b41a/bandwidth/850000.m3u8
 
 
 
