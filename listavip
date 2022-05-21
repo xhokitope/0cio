@@ -73,7 +73,7 @@ http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 https://d268yhgc98lzal.cloudfront.net/sdredtv/sdredtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CMMedia.svg/1177px-CMMedia.svg.png" group-title="TV INTERNACIONAL",CMM ES
-https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/0_xs45iy5i/format/applehttp/protocol/https/uiConfId/39582391/a.m3u8?referrer=aHR0cHM6Ly93d3cuY21tZWRpYS5lcw==&playSessionId=d6d23cfe-9f81-d266-d1d7-99b67dc7901c&ks=djJ8MjI4ODY5MXwTIda3wq9N_nOysVOqc5po0y1iCJqDwyxySDnvQRJ_QSePXPZEATP8FKiEyixQt07t0SwHNSEdX2D8Z5rFdq1gPEtrM99h6YDa13Srob1Hcg==
+https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/0_xs45iy5i/format/applehttp/protocol/https/uiConfId/39582391/a.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" group-title="TV INTERNACIONAL",Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
