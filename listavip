@@ -72,19 +72,29 @@ http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/La_Red_Uruguay_2018.png/revision/latest/scale-to-width-down/200?cb=20200825011821&path-prefix=es" group-title="TV INTERNACIONAL",La Red UY
 https://d268yhgc98lzal.cloudfront.net/sdredtv/sdredtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/457px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="TV INTERNACIONAL",America TV AR
-https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/6a040984-05eb-4e6d-a1be-42b199a94c3f:SCL/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CMMedia.svg/1177px-CMMedia.svg.png" group-title="TV INTERNACIONAL",CMM ES
+https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/0_xs45iy5i/format/applehttp/protocol/https/uiConfId/39582391/a.m3u8?referrer=aHR0cHM6Ly93d3cuY21tZWRpYS5lcw==&playSessionId=d6d23cfe-9f81-d266-d1d7-99b67dc7901c&ks=djJ8MjI4ODY5MXwTIda3wq9N_nOysVOqc5po0y1iCJqDwyxySDnvQRJ_QSePXPZEATP8FKiEyixQt07t0SwHNSEdX2D8Z5rFdq1gPEtrM99h6YDa13Srob1Hcg==
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" group-title="TV INTERNACIONAL",Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="TV INTERNACIONAL",TELEFE AR
-https://telefeappmitelefe1.akamaized.net:443/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1652760548~acl=%2f*~data=hdntl~hmac=7ebc8a3eb31bca1fc305382d5f2a1acba6c45d1b6dd9b3328b7769e26f37ab0b/master-mtlf1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/1200px-ETB2_2022_logo.svg.png" group-title="TV INTERNACIONAL",ETB2 ES
+https://multimedia.eitb.eus:443/live-content/etb2hd-hls/bitrate_3.m3u8?start=1653100963
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNw7Mg4DrrnmVF8Zw_pBV_q9-Mk3fac9geKg&usqp=CAU" group-title="TV INTERNACIONAL",A24 AR
-https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/f56dfaaa-a9c0-4093-b4aa-185658700948:SCL/variant/ce563c014bc1e04c56eadc113791b41a/bandwidth/850000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/1200px-CEXMA_new.png" group-title="TV INTERNACIONAL",Canal Extremadura ES
+https://cdnlive.codev8.net/canalextremaduralive/smil:channel1.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbKleHHCPQ2-kC2P-Sx5MjE-hrlHi8O01OAA&usqp=CAU" group-title="TV INTERNACIONAL",Canal Andalucia HD
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCqwjtgaJflHga2aPWphG5PQ
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge9DG9sWvvAV0OPppAPdZQIF96FxwgWIGTw&usqp=CAU" group-title="TV INTERNACIONAL", Galicia TV America
+http://america-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge9DG9sWvvAV0OPppAPdZQIF96FxwgWIGTw&usqp=CAU" group-title="TV INTERNACIONAL", Galicia TV Europa
+http://europa-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLYR_TI2Bd6hH4dsuJmbCLmLDOWlaRvvxpfg&usqp=CAU" group-title="TV INTERNACIONAL",RTPA TV ES
+https://cdnlive.codev8.net/rtpalive/smil:directo.smil/fmt_token/hsOjcTqV52l29tMakjpu8ugSSUFzlSbPmWruxwD5nTM/eyJleHBpcmUiOjE2NTMxMjU0MDIsInVybF9hbGxvdyI6WyIvcnRwYWxpdmUiLCIvb25kZW1hbmQvYTRjZGRlYTYtZGVkMy00MGRkLTlkMTQtZmQ2MTAyYmRkNzM2Il19/playlist.m3u8?DVR
 
 
 #---CINE & SERIES---
