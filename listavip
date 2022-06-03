@@ -35,18 +35,6 @@ https://v4.tustreaming.cl/ondadigitaltv/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Bestcable_logo.png/revision/latest/scale-to-width-down/250?cb=20210326222141&path-prefix=es" group-title="TV PERUANA",BEST CABLE TV
 https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH9hc77m3zNJdA7J7Ba_8n8FzE7EomL_Re0A&usqp=CAU" group-title="TV PERUANA",BEST CABLE MUSIC
-https://tv.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="TV PERUANA",TOP LATINO
-https://5cefcbf58ba2e.streamlock.net:443/tltvweb/tvweb.stream/chunklist_w1363849901.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Karibe%C3%B1aTV2018.png/revision/latest/scale-to-width-down/2000?cb=20200217131332&path-prefix=es" group-title="TV PERUANA",Karibeña TV
-https://cu.onliv3.com/livevd/user1.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8qIz7ZSjKp2qqymIFZgGwRPyRAValHqot1g&usqp=CAU" group-title="TV PERUANA",DMJ TV
-https://v4.tustreaming.cl:443/s1tv/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREhRKq4cEPB0Me2eJuYvc5nkCA97S96Q8Eng&usqp=CAU" group-title="TV PERUANA",Exitosa TV
 https://cu.onliv3.com/livevd1/user2.m3u8
 
@@ -55,9 +43,6 @@ https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/5_.m3u8?token=9Y9L_jvUv_VmCt
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNdDs_SQGQ74fhoHSN1luvc2x03yaFzrcaig&usqp=CAU" group-title="TV PERUANA",TV PERÚ HD
 https://cdnh71.iblups.com/hls/R9WtilpKKB.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGlo-48YjEMk4tEjjkd3Xn2Pg3lmd-fgsxgQ&usqp=CAU" group-title="TV PERUANA",TeleRitmo
-http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Norte-Chiclayo-en-vivo-Online.png" group-title="TV PERUANA",TV Norte HD
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/TVNORTEHD
@@ -73,6 +58,12 @@ https://live.obslivestream.com/geniostvmux/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi35vERHsIqDHQVuU8sYNKbikNBOCV3_Bjwg&usqp=CAU" group-title="TV PERUANA",RTV TOTAL
 https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT466p8JV9MmfBXMP8SyX7AuaZ7wxd8F_RqMw&usqp=CAU" group-title="TV PERUANA",Central TV
+https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
+
+
+
 
 #---CANALES CABLE---
 
@@ -325,11 +316,26 @@ https://tihdukxhbitnsmoh.wzcdn431.net:8443/hls/dyzqotv15miwft.m3u8?s=3xUBDegECZA
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWnr1ieXXXA5Eg3jvv3TlLbV0mePE-HajX3g&usqp=CAU" group-title="Musica En Vivo",Music Top
-https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjJkbqWLh-IQwp7tif7-Xm_7X6KvQqNIVPtA&usqp=CAU" group-title="Musica En Vivo",Zapping Music TV
+https://zmlive.zappingtv.com:443/zm-free/zm.smil/chunklist_live2_b1931600_sles.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MTV-Logo.svg/1280px-MTV-Logo.svg.png" group-title="Musica En Vivo",MTV
-https://n9.cl/755f6
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s86045g.png" group-title="Musica En Vivo",Turbo Mix TV
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH9hc77m3zNJdA7J7Ba_8n8FzE7EomL_Re0A&usqp=CAU" group-title="TV PERUANA",BEST CABLE MUSIC
+https://tv.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="TV PERUANA",TOP LATINO
+https://5cefcbf58ba2e.streamlock.net:443/tltvweb/tvweb.stream/chunklist_w1363849901.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGlo-48YjEMk4tEjjkd3Xn2Pg3lmd-fgsxgQ&usqp=CAU" group-title="TV PERUANA",TeleRitmo
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Karibe%C3%B1aTV2018.png/revision/latest/scale-to-width-down/2000?cb=20200217131332&path-prefix=es" group-title="TV PERUANA",Karibeña TV
+https://cu.onliv3.com/livevd/user1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8qIz7ZSjKp2qqymIFZgGwRPyRAValHqot1g&usqp=CAU" group-title="TV PERUANA",DMJ TV
+https://v4.tustreaming.cl:443/s1tv/tracks-v1a1/mono.m3u8
 
 
 
