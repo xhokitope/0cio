@@ -62,6 +62,15 @@ https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT466p8JV9MmfBXMP8SyX7AuaZ7wxd8F_RqMw&usqp=CAU" group-title="TV PERUANA",Central TV
 https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhkD44m7xqTbJtIZuzRSPI63E-FuiddaqOtjTT_mXywMF77xvUei-bXjLymwGWmmrjoTsZFrcilairQXmat0h4JsTSYVW7hbWbe9pNvTJ08H2dwENnxH_H3SofxtQn8-Q2xa5WCDMO099Yk13D3C_-SjGvGtHvn44KwtLPDpwQY7xj_I6YhNO9NuTVpCw=s600" group-title="TV PERUANA",Play Medios TV
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/zeno-play-medios-tv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZADgGdXQztOk7T4C8vQubyHgHAmp0n96HHQ&usqp=CAU" group-title="TV PERUANA",Planeta Radio TV
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/planeta-radio-t-v
+
+#EXTINF:-1 tvg-logo="https://colorvision.com.do/wp-content/uploads/2018/10/LOGO-ColorVision-HD-full.png" group-title="TV PERUANA", Color Vision 9 TV
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/colorvision9
+
 
 
 
@@ -103,6 +112,14 @@ https://cdnlive.codev8.net/rtpalive/smil:directo.smil/fmt_token/hsOjcTqV52l29tMa
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3M82Y8YcqtSXtuHDW4Pf2k4KnhvBscSW3BQ&usqp=CAU" group-title="TV INTERNACIONAL",Real Madrid TV ES
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=1653452799~acl=/*~hmac=6fa983776826e1224ab4c19996ce92f00a1ad234617b07fd8a398160d72c19e0
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Xet5zEDv-seJIbytvF3NQmSc5ZPbmejOww&usqp=CAU" group-title="TV INTERNACIONAL", México Travel Channel
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/mexicotravelchannel
+
+
+
+
+
 
 
 #---CINE & SERIES---
@@ -337,7 +354,8 @@ https://cu.onliv3.com/livevd/user1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8qIz7ZSjKp2qqymIFZgGwRPyRAValHqot1g&usqp=CAU" group-title="Musica En Vivo",DMJ TV
 https://v4.tustreaming.cl:443/s1tv/tracks-v1a1/mono.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8_aOue4hLHObfFcugoyDws9TwLcw3j-egqg&usqp=CAU" group-title="Musica En Vivo",Urbano TV
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/urbano106
 
 
 
