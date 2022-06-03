@@ -59,6 +59,20 @@ https://cdnh71.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGlo-48YjEMk4tEjjkd3Xn2Pg3lmd-fgsxgQ&usqp=CAU" group-title="TV PERUANA",TeleRitmo
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Norte-Chiclayo-en-vivo-Online.png" group-title="TV PERUANA",TV Norte HD
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/TVNORTEHD
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbAvWDrOBX4a8EAZmrAsbH9TzZACayrIRX0g&usqp=CAU" group-title="TV PERUANA",Televisión Tarapoto
+https://videoserver.tmcreativos.com:19360/televisiontpp/televisiontpp.m3u8
+
+#EXTINF:-1 tvg-logo="https://viatelevision.pe/wp-content/uploads/2021/11/logo-retina.png" group-title="TV PERUANA",VIA TV
+https://multimedia.tmcreativos.com:1936/viatelevision/viatelevision/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK0zBZdQPtnoJWWA_VXF6WJuNZX7Y1iOeJzw&usqp=CAU" group-title="TV PERUANA",GENIOS TV
+https://live.obslivestream.com/geniostvmux/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi35vERHsIqDHQVuU8sYNKbikNBOCV3_Bjwg&usqp=CAU" group-title="TV PERUANA",RTV TOTAL
+https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
 
 #---CANALES CABLE---
 
