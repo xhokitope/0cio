@@ -322,19 +322,19 @@ https://zmlive.zappingtv.com:443/zm-free/zm.smil/chunklist_live2_b1931600_sles.m
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s86045g.png" group-title="Musica En Vivo",Turbo Mix TV
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH9hc77m3zNJdA7J7Ba_8n8FzE7EomL_Re0A&usqp=CAU" group-title="TV PERUANA",BEST CABLE MUSIC
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH9hc77m3zNJdA7J7Ba_8n8FzE7EomL_Re0A&usqp=CAU" group-title="Musica En Vivo",BEST CABLE MUSIC
 https://tv.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="TV PERUANA",TOP LATINO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="Musica En Vivo",TOP LATINO
 https://5cefcbf58ba2e.streamlock.net:443/tltvweb/tvweb.stream/chunklist_w1363849901.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGlo-48YjEMk4tEjjkd3Xn2Pg3lmd-fgsxgQ&usqp=CAU" group-title="TV PERUANA",TeleRitmo
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGlo-48YjEMk4tEjjkd3Xn2Pg3lmd-fgsxgQ&usqp=CAU" group-title="Musica En Vivo",TeleRitmo
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Karibe%C3%B1aTV2018.png/revision/latest/scale-to-width-down/2000?cb=20200217131332&path-prefix=es" group-title="TV PERUANA",Karibeña TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Karibe%C3%B1aTV2018.png/revision/latest/scale-to-width-down/2000?cb=20200217131332&path-prefix=es" group-title="Musica En Vivo",Karibeña TV
 https://cu.onliv3.com/livevd/user1.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8qIz7ZSjKp2qqymIFZgGwRPyRAValHqot1g&usqp=CAU" group-title="TV PERUANA",DMJ TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8qIz7ZSjKp2qqymIFZgGwRPyRAValHqot1g&usqp=CAU" group-title="Musica En Vivo",DMJ TV
 https://v4.tustreaming.cl:443/s1tv/tracks-v1a1/mono.m3u8
 
 
