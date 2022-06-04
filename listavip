@@ -251,7 +251,7 @@ https://vsd96.mycdn.me:443/hls/1694035806763.m3u8/sig/uYevl9rfk_A/expires/164495
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1200px-Tooncast_logo.svg.png" group-title="Niños&Juniors",ToonCast
 https://vsd75.mycdn.me:443/hls/1694021257771.m3u8/sig/z2jpf4LEYdk/expires/1644959261109/srcIp/132.184.130.113/clientType/0/srcAg/CHROME_ANDROID/mid/3328447028779/1694021257771_medium/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkFU1yFpUuczG09jLeZ63Do4TsvDfOiBnA8w&usqp=CAU" group-title="Niños&Juniors",El Pajaro Loco HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkFU1yFpUuczG09jLeZ63Do4TsvDfOiBnA8w&usqp=CAU" group-title="Niños&Juniors",Pajaro Loco
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCHtZ2_7hd1zy9aCqrrcaqcQ
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxMRaRuvmV2u6-Y2CXzl_ELJIv_wcKVi2afg&usqp=CAU" group-title="Niños&Juniors",Super toons TV
