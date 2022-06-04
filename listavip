@@ -364,6 +364,17 @@ https://v4.tustreaming.cl:443/s1tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8_aOue4hLHObfFcugoyDws9TwLcw3j-egqg&usqp=CAU" group-title="Musica En Vivo",Urbano TV
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/urbano106
 
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/81-813415_the-good-life-good-life-word-art.png" group-title="Musica En Vivo",The Good Life YT
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/TheGoodLiferadio
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPspvG3p3jhWWUMK47SqJE1KxF0NnbYDo4g&usqp=CAU" group-title="Musica En Vivo",Miracle Music YT
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCTJ9Qg-1vBu2pP_YrWUfGnQ
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm8H9C8obPJ00_fw79sjgivrxKWQFss4P6Zw&usqp=CAU" group-title="Musica En Vivo",Deep House Mix YT
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/Nora__THR
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSX3EcCjhEbH7s22uDN1it-dOTTbPCDHLaSExZd=s100-c-k-c0x00ffffff-no-rj" group-title="Musica En Vivo",Wonder Deep YT
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/user/redthekiller23
 
 
 #---Ciencia & CULTURA---
