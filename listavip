@@ -43,7 +43,7 @@ https://cu.onliv3.com/livevd1/user2.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxIyj_mfRU8JD-q90rwby9aMHsNpvLf6IVbA&usqp=CAU" group-title="TV PERUANA",America TV
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/5_.m3u8?token=9Y9L_jvUv_VmCtQ4QI7BTw&expires=1644959818&ip=132.157.128.213
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNdDs_SQGQ74fhoHSN1luvc2x03yaFzrcaig&usqp=CAU" group-title="TV PERUANA",TV PERÚ HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNdDs_SQGQ74fhoHSN1luvc2x03yaFzrcaig&usqp=CAU" group-title="TV PERUANA",TV PERU HD
 https://cdnh71.iblups.com/hls/R9WtilpKKB.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Norte-Chiclayo-en-vivo-Online.png" group-title="TV PERUANA",TV Norte HD
@@ -257,14 +257,14 @@ https://vsd133.mycdn.me:443/hls/1694026566187.m3u8/sig/ni6DSbY38AI/expires/16449
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrydxW-1ZnM39xiqr9obKW9vMnLaojEXlihA&usqp=CAU" group-title="Niños&Juniors",Dragon Ball TV
 https://vsd125.mycdn.me:443/hls/2073019288135.m3u8/sig/MQ_quzM6ypo/expires/1644958131970/srcIp/132.184.130.113/clientType/0/srcAg/CHROME_ANDROID/mid/5176877129287/2073019288135_medium/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRegqP7UeP5E_VE7NrBptM714ypSv9iX9Elg&usqp=CAU" group-title="Niños&Juniors",Los Simpsons TV
-https://vsd103.mycdn.me:443/hls/2073017387591.m3u8/sig/nDG8auBh_1s/expires/1644958350586/srcIp/132.184.130.113/clientType/0/srcAg/CHROME_ANDROID/mid/5176874966599/2073017387591_medium/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAin3y1QI2piNW9JgqOkC00axtwrq0tmGhXQ&usqp=CAU" group-title="Niños&Juniors",Tatty y Misifu
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/LaBrujitaTatty
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRalyHZsrHit5MNqLp8nmWMZ5CiGktlwsYKkQ&usqp=CAU" group-title="Niños&Juniors",PJ Masks
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/PJMasksLAS
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw52fOqNLS22rMs0dDazADNufDCeI5SN0ZrA&usqp=CAU" group-title="Niños&Juniors",Retro Cartoons
-https://n9.cl/retro-cartoons_m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/imagenesparapeques.com/wp-content/uploads/2014/07/pocoyo-en-Italiapng.png?ssl=1" group-title="Niños&Juniors",POCOYO HD
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/pocoyo
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGUgB6uU5Sl-Tu17nLz2Zgwp37QXFde5zIsA&usqp=CAU" group-title="Niños&Juniors",ANTIKS HD
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/OddbodsEspa%C3%B1ol
