@@ -219,6 +219,9 @@ https://vsd128.mycdn.me:443/hls/1912749361875.m3u8/sig/Wm4KpEqvvAk/expires/16466
 
 
 
+
+
+
 #---NIÑOS Y JUNIORS---
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjRlN-Ezo3o0QjFheHMpCsHpS5dNs--Xv5oQ&usqp=CAU" group-title="Niños&Juniors",CartoonNetwork
@@ -263,10 +266,11 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/PJMa
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw52fOqNLS22rMs0dDazADNufDCeI5SN0ZrA&usqp=CAU" group-title="Niños&Juniors",Retro Cartoons
 https://n9.cl/retro-cartoons_m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png" group-title="Niños&Juniors",Dragon Ball
-https://vsd145.mycdn.me:443/hls/2328973216327.m3u8/sig/F9vkHxP-7wA/expires/1652735724281/srcIp/132.184.128.166/clientType/0/srcAg/CHROME_ANDROID/mid/5397485461063/2328973216327_medium/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGUgB6uU5Sl-Tu17nLz2Zgwp37QXFde5zIsA&usqp=CAU" group-title="Niños&Juniors",ANTIKS HD
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/OddbodsEspa%C3%B1ol
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGs1EQ-FsdTBO9WMj6-JrGi21CLMgMB862TA&usqp=CAU" group-title="Niños&Juniors",PEPA PIG HD
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/PeppaPigOficial
 
 
 #---DEPORTES---
