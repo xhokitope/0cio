@@ -84,3 +84,9 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/amab
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtprmyBSq3euPu9ltv6CFOyrWumQ2-D7vyAQ&usqp=CAU" group-title="TwitchStreamers"tvg-id="DJ Mariio" tvg-name="DJ Mariio",DJ Mariio
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/user/DjMaRiiO
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw7LRzlg70PLRjUYynwrRRp_Gh-gFnxVbcfg&usqp=CAU" group-title="TwitchStreamers"tvg-id="Mr peet" tvg-name="Mr peet",Mr Peet A PRESION
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/APRESI%C3%93N
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc6IKPhVp81Meord7DpgLEhHXlhmaFXaco6Q&usqp=CAU" group-title="TwitchStreamers"tvg-id="ERICK Y GONZALO" tvg-name="ERICK Y GONZALO",ERICK Y GONZALO
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCcRSITGrzZce21uHdQ6GjZA
