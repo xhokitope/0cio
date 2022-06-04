@@ -121,7 +121,8 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=16
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Xet5zEDv-seJIbytvF3NQmSc5ZPbmejOww&usqp=CAU" group-title="TV INTERNACIONAL", México Travel Channel
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/mexicotravelchannel
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3WZwZrxF7d_UEIfcGiis8Z6McURZzwxFfuA&usqp=CAU" group-title="TV INTERNACIONAL",Lancelot TV
+https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/playlist.m3u8
 
 
 
@@ -185,9 +186,6 @@ https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/74_.m3u8?token=5hocZ7kcNaNX6
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Golden_Plus_2017.png/revision/latest/scale-to-width-down/300?cb=20191215194002&path-prefix=es" group-title="Cine&Series",G PLUS
 https://vsd130.mycdn.me:443/hls/2145815104071.m3u8/sig/BTFxOqGYjfg/expires/1644959745356/srcIp/132.184.130.113/clientType/0/srcAg/CHROME_ANDROID/mid/5237020433991/2145815104071_medium/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3WZwZrxF7d_UEIfcGiis8Z6McURZzwxFfuA&usqp=CAU" group-title="Cine&Series",Lancelot TV
-http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjIHmcblvs50BI_f5driHHt1_4rowK4nulKw&usqp=CAU" group-title="Cine&Series",AXN
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/anxcx913
