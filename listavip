@@ -76,7 +76,8 @@ https://stream-01.sv4.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmuUhKP0qxjaW49lA1j
 #EXTINF:-1 tvg-logo="https://colorvision.com.do/wp-content/uploads/2018/10/LOGO-ColorVision-HD-full.png" group-title="TV PERUANA", Color Vision 9 TV
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/colorvision9
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="TV PERUANA", EXITOSA NOTICIAS YT
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/ExitosaNoticiasOficial
 
 
 #---CANALES CABLE---
