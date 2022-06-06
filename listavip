@@ -11,6 +11,9 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/will
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/A-kqMDPRH-JRLmkx_U6PRnEu35wqVgTZ62GoUO1J_zTQBLqft67tR_Wk0MBabjdhj8d8jqA9tg=s176-c-k-c0x00ffffff-no-rj-mo" group-title="TV PERUANA",WF DIGITAL YT
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/WFDIGITAL20
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLWPBxepmaofG9R_BH_DyGmkiplS09rEiTRw&usqp=CAU" group-title="TV PERUANA",PBO En Vivo YT
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/PBODigital
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZWktkEnMQtRSruF-OeRINESOszGYHLTlJ0w&usqp=CAU" group-title="TV PERUANA",COSMOS TV
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
 
@@ -44,8 +47,11 @@ https://v4.tustreaming.cl/ondadigitaltv/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Bestcable_logo.png/revision/latest/scale-to-width-down/250?cb=20210326222141&path-prefix=es" group-title="TV PERUANA",BEST CABLE TV
 https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREhRKq4cEPB0Me2eJuYvc5nkCA97S96Q8Eng&usqp=CAU" group-title="TV PERUANA",Exitosa TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREhRKq4cEPB0Me2eJuYvc5nkCA97S96Q8Eng&usqp=CAU" group-title="TV PERUANA",EXITOSA TV
 https://cu.onliv3.com/livevd1/user2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="TV PERUANA", EXITOSA NOTICIAS YT
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/ExitosaNoticiasOficial
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxIyj_mfRU8JD-q90rwby9aMHsNpvLf6IVbA&usqp=CAU" group-title="TV PERUANA",America TV
 https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=Gs7rxOJpuOn9iDrRWWxfJI9SiIomfzW0&sid=ueWop4kt5jDQiaxJL3bA5aAEXf7qEzao&pid=pOO72ODJkWQ30W9EVYXnaWfH8vR0NU0o&an=screen&at=web-app&av=v5.2.250&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F%3Fdevice%3Dtrue&res=360x202&without_cookies=false&listenerid=&dnt=true&access_token=H1MrMUU8Ms1PZKCir1SvUVbVLiImIQdNVNptewVk186R2LVixis2SHetazZAuZT9lLUexwQy0al
@@ -83,8 +89,7 @@ https://stream-01.sv4.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmuUhKP0qxjaW49lA1j
 #EXTINF:-1 tvg-logo="https://colorvision.com.do/wp-content/uploads/2018/10/LOGO-ColorVision-HD-full.png" group-title="TV PERUANA", Color Vision 9 TV
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/colorvision9
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="TV PERUANA", EXITOSA NOTICIAS YT
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/ExitosaNoticiasOficial
+
 
 
 #---CANALES CABLE---
