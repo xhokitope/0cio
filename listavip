@@ -89,8 +89,11 @@ https://stream-01.sv4.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmuUhKP0qxjaW49lA1j
 #EXTINF:-1 tvg-logo="https://colorvision.com.do/wp-content/uploads/2018/10/LOGO-ColorVision-HD-full.png" group-title="TV PERUANA", Color Vision 9 TV
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/colorvision9
 
+#EXTINF:-1 tvg-logo="https://comunicaciones.congreso.gob.pe/wpuploads/2021/02/logo-web-4.png" group-title="TV PERUANA", Congreso Peru TV
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/CongresodelaRep%C3%BAblicadelPer%C3%BATVenvivo
 
-
+#EXTINF:-1 tvg-logo="https://justiciatv.pj.gob.pe/wp-content/uploads/2016/05/logo.png" group-title="TV PERUANA",JUSTICIA TV PERU
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCwsURxTXqGqijgu98ndod3A
 
 #---CANALES CABLE---
 
