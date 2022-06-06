@@ -59,6 +59,9 @@ https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=Gs7rxO
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNdDs_SQGQ74fhoHSN1luvc2x03yaFzrcaig&usqp=CAU" group-title="TV PERUANA",TV PERU HD
 https://cdnh71.iblups.com/hls/R9WtilpKKB.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgLVFOPR3S7hV2mmfwz2EaTiVyKYnGLBpLpg&usqp=CAU" group-title="TV PERUANA",TV PERU NOTICIAS YT
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/tvperunoticiasonline
+
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Norte-Chiclayo-en-vivo-Online.png" group-title="TV PERUANA",TV Norte HD
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/TVNORTEHD
 
