@@ -247,8 +247,8 @@ http://45.161.188.242:88/natgeokids/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/discovery-kids/images/3/36/2013-2016_sin_wordmark.png/revision/latest/scale-to-width-down/250?cb=20211020152616&path-prefix=es" group-title="Niños&Juniors",DiscoveryKids
 https://vsd96.mycdn.me:443/hls/1694035806763.m3u8/sig/uYevl9rfk_A/expires/1644959306636/srcIp/132.184.130.113/clientType/0/srcAg/CHROME_ANDROID/mid/3328460922411/1694035806763_medium/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1200px-Tooncast_logo.svg.png" group-title="Niños&Juniors",ToonCast
-https://vsd75.mycdn.me:443/hls/1694021257771.m3u8/sig/z2jpf4LEYdk/expires/1644959261109/srcIp/132.184.130.113/clientType/0/srcAg/CHROME_ANDROID/mid/3328447028779/1694021257771_medium/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Locomotion_2005.svg/revision/latest/scale-to-width-down/300?cb=20200125124642&path-prefix=es" group-title="Niños&Juniors",Locomotion
+http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkFU1yFpUuczG09jLeZ63Do4TsvDfOiBnA8w&usqp=CAU" group-title="Niños&Juniors",Pajaro Loco
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCHtZ2_7hd1zy9aCqrrcaqcQ
