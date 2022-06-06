@@ -143,6 +143,37 @@ https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjSOrmdx2zoWoHQzijCs-b_2YPtDXaPLXEkw&usqp=CAU" group-title="TV INTERNACIONAL",Canal Once MX
 https://vivo.canaloncelive.tv:443/alivepkgr3/ngrp:cepro_all/chunklist_b1411072.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRjpCWAHeZoaxG7uItZvA06n6qH7hPA3MiRpi0Ikw=s900-c-k-c0x00ffffff-no-rj" group-title="TV INTERNACIONAL",Milenio MX
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/milenio
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="TV INTERNACIONAL", America TV AR
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/americaenvivo
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRupA6YUAGd-toHu9Fayy3b-o-R0zt7x37O8Q&usqp=CAU" group-title="TV INTERNACIONAL",Todo Noticias AR
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/todonoticias
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-RjXsOFCUJa0/WbWZpQWlwZI/AAAAAAAABnA/vAeBWck6LNw4HpNBxdg5unnmIbpYXo1GgCLcBGAs/s1600/cronica-hd.png" group-title="TV INTERNACIONAL",CRONICA HD AR
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/cronicatv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuI2dsyMXwIdSS3hLylszxb5EwM2ZNsSDaJw&usqp=CAU" group-title="TV INTERNACIONAL",La Nacion AR
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/LaNacionMas
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmSN8j-26MxxcOaTXmpBIg7U5EdpERVfQOvA&usqp=CAU" group-title="TV INTERNACIONAL",El 7 Mendoza AR
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/CanalSieteMendoza1
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.tvp_2021_solo.png.94443cd20174a9375ec25bca58e326ac.png" group-title="TV INTERNACIONAL",TVP AR
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/user/TVPublicaArgentina
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC7-lvUuLgP8DahdfS49alySwSDw-qToZMtg&usqp=CAU" group-title="TV INTERNACIONAL",Noticias Caracol CO
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/noticiascaracol
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeZyUOQl7B44_cqoow5Wl_FTFL_naNNzScVg&usqp=CAU" group-title="TV INTERNACIONAL",Mega Noticias CL
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/Meganoticiasoficial
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0RZVhNcsWYkqPgKxg8WEbKTiQkc7VIYN5Vw&usqp=CAU" group-title="TV INTERNACIONAL",T13 En Vivo CL
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/tele13
+
+
 
 
 #---CINE & SERIES---
