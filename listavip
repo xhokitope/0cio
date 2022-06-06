@@ -132,7 +132,8 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.co
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3WZwZrxF7d_UEIfcGiis8Z6McURZzwxFfuA&usqp=CAU" group-title="TV INTERNACIONAL",Lancelot TV
 https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjSOrmdx2zoWoHQzijCs-b_2YPtDXaPLXEkw&usqp=CAU" group-title="TV INTERNACIONAL",Canal Once MX
+https://vivo.canaloncelive.tv:443/alivepkgr3/ngrp:cepro_all/chunklist_b1411072.m3u8
 
 
 
