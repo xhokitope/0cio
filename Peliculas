@@ -1,10 +1,13 @@
 #EXTM3U
 
-#EXTINF:-0 tvg-logo="https://static.wixstatic.com/media/37ea96_d3d5b47259d94ed9b74b27d9da02c907~mv2.png/v1/fit/w_300,h_300,al_c,q_5,enc_auto/file.png" group-title="Peliculas" tvg-id="Peliculas" tvg-name="Peliculas",CRUSH
+#EXTINF:-0 tvg-logo="https://static.wixstatic.com/media/37ea96_d3d5b47259d94ed9b74b27d9da02c907~mv2.png/v1/fit/w_300,h_300,al_c,q_5,enc_auto/file.png" group-title="Romance",CRUSH
 https://fvs.io/redirector?token=UmpmaG4zanlyOStXOFI1NDdJNW5qUURvbTd5R25TY014VVVwaDRGN00vUTRyYXFQcy9wL2FIZ01GN0FCVVNGM2h1V1JKa3RaTjdlMGg2NUl1NVRZbVB4bmZJZkdYSXJUSDQ5SzQ1b0dIZjFVUnM0QmtIU2wzSEtCSTEwdnk5ank1T1M3eklMa2xLVmF5TXBHU2R5QXpJcVpaSUM2dmFESi9XTVI6R2NZTEhJai8wbTJQWVFBN0htMUtxZz09ApBM
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlZopAuN7mOdT80QSJauIiuQAstnha9sKFRQ&usqp=CAU" group-title="Peliculas" tvg-id="Peliculas" tvg-name="Peliculas",This Is The Night (2021)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlZopAuN7mOdT80QSJauIiuQAstnha9sKFRQ&usqp=CAU" group-title="Romance",This Is The Night (2021)
 https://fvs.io/redirector?token=WGR3cEJYV0xMSG9ScDB3Z2pRUmwrdkhTZWdQS3l3ZzlMaWJJUjB5Sm51SlVlQTFDSE5aa3ZrdDI2T1UvaVFiQ2Q5VmlsdkVhak1IalFYbDBvRW53NkJ2cy9LS0lsREdoc3I1U3hUcm9nMlNyQkF4N2tnQXlRSkx2clUzbDFGekpoTzk1SlBWd2w4bHp0VmIra0NTTVVKUGFONVB4SjJQNzhWNjI6d3dWWVNCS05yNE9MdFdiSUtkc2t5Zz09KTvI
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFw3nqpudsvXBtEi6Nw82A7_5XJLUxWNq7oQ&usqp=CAU" group-title="Romance",Tal Para Cual
+https://leo2.zplayer.live/hls/,5fxcv6tkxcnufvsa6inu7wgvufoq7petckfdna6kkgal64xnkgnznx4n223q,.urlset/master.m3u8
 
 
 

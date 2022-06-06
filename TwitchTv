@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBqH_p8KNozANAcBjRUUPL80VlSzRIleFXLg&usqp=CAU" group-title="TwitchStreamers"tvg-id="auronplay" tvg-name="auronplay",AuronPlay
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBqH_p8KNozANAcBjRUUPL80VlSzRIleFXLg&usqp=CAU" group-title="TwitchStreamers" tvg-id="auronplay" tvg-name="auronplay",AuronPlay
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/auronplay
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTckLDgRK_7TA_-WlzwkY8DGOHbpwxrrdOMzw&usqp=CAU" group-title="TwitchStreamers" tvg-id="ZormanWorld" tvg-name="ZormanWorld",ZormanWorld
