@@ -112,9 +112,6 @@ https://d268yhgc98lzal.cloudfront.net/sdredtv/sdredtv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CMMedia.svg/1177px-CMMedia.svg.png" group-title="TV INTERNACIONAL",CMM ES
 https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/0_xs45iy5i/format/applehttp/protocol/https/uiConfId/39582391/a.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" group-title="TV INTERNACIONAL",Net TV
-https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyBofU7joQco1T9jbtu6yHAM2TbD7U0j6uDA&usqp=CAU" group-title="TV INTERNACIONAL",Euronews ES
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/euronewses
 
@@ -151,6 +148,9 @@ https://vivo.canaloncelive.tv:443/alivepkgr3/ngrp:cepro_all/chunklist_b1411072.m
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRjpCWAHeZoaxG7uItZvA06n6qH7hPA3MiRpi0Ikw=s900-c-k-c0x00ffffff-no-rj" group-title="TV INTERNACIONAL",Milenio MX
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/milenio
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" group-title="TV INTERNACIONAL",Net TV AR
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="TV INTERNACIONAL", America TV AR
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/americaenvivo
 
@@ -172,13 +172,32 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/user/T
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC7-lvUuLgP8DahdfS49alySwSDw-qToZMtg&usqp=CAU" group-title="TV INTERNACIONAL",Noticias Caracol CO
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/noticiascaracol
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" group-title="TV INTERNACIONAL",TelePacifico CO
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS-ntx4TEtbKyLcj5cctw4lj4t2uV0l4gQ3w&usqp=CAU" group-title="TV INTERNACIONAL",TeleMedellin CO
+https://liveingesta118.cdnmedia.tv//telemedellintvlive/smil:dvrlive.smil/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9UJymryz8AaByoUvKDD4EE2N_rnvd-rkLow&usqp=CAU" group-title="TV INTERNACIONAL",TeleAntioquia CO
+https://liveingesta118.cdnmedia.tv//teleantioquialive/smil:dvrlive.smil/playlist.m3u8?DVR
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeZyUOQl7B44_cqoow5Wl_FTFL_naNNzScVg&usqp=CAU" group-title="TV INTERNACIONAL",Mega Noticias CL
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/Meganoticiasoficial
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0RZVhNcsWYkqPgKxg8WEbKTiQkc7VIYN5Vw&usqp=CAU" group-title="TV INTERNACIONAL",T13 En Vivo CL
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/tele13
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYYleCyYAyENvTEWWUjPMHsM3x5QkZqi2JFA&usqp=CAU" group-title="TV INTERNACIONAL",ECUADOR TV
+https://player-api.new.livestream.com/accounts/27228685/events/9764041/broadcasts/231563085.secure.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm6zP9jYOWCqX8ijLsu4cSa0-GvrO1UlVTUA&usqp=CAU" group-title="TV INTERNACIONAL",TELE AMAZONAS EC
+https://player-api.new.livestream.com/accounts/1359588/events/9942377/broadcasts/231564477.secure.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgrRkqAFN17lrx1cFoh80m-qhC2vIoxeHDUA&usqp=CAU" group-title="TV INTERNACIONAL",ECOTEL TV EC
+https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRECsUmVb57w3vlP5b38xY0DVnzHi8o_LvFQg&usqp=CAU" group-title="TV INTERNACIONAL",PURUWA TV EC
+https://mediacp.us:8081/8054/index.m3u8
 
 
 #---CINE & SERIES---
@@ -424,6 +443,10 @@ https://v4.tustreaming.cl:443/s1tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8_aOue4hLHObfFcugoyDws9TwLcw3j-egqg&usqp=CAU" group-title="Musica En Vivo",Urbano TV
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/urbano106
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR29VF6M8BFTZoG1uqCdj1UzasKZxVLUn_Ong&usqp=CAU" group-title="Musica En Vivo",ECUA ESTEREO TV EC
+https://video.misistemareseller.com/ecuastereotv/ecuastereotv/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/81-813415_the-good-life-good-life-word-art.png" group-title="Musica En Vivo",The Good Life YT
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/TheGoodLiferadio
 
@@ -435,6 +458,8 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/Nora
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSX3EcCjhEbH7s22uDN1it-dOTTbPCDHLaSExZd=s100-c-k-c0x00ffffff-no-rj" group-title="Musica En Vivo",Wonder Deep YT
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/user/redthekiller23
+
+
 
 
 #---Ciencia & CULTURA---
