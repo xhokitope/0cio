@@ -356,6 +356,12 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channe
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKesWmfZouoQ8jz7_9mqnH680XsnxuCOKGeA&usqp=CAU" group-title="Deportes",Chiringuito De Jugones YT
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UC7R9ds4a3ADKRh9VLgG0DFg
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw7LRzlg70PLRjUYynwrRRp_Gh-gFnxVbcfg&usqp=CAU" group-title="TwitchStreamers"tvg-id="Mr peet" tvg-name="Mr peet",Mr Peet A PRESION
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/APRESI%C3%93N
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc6IKPhVp81Meord7DpgLEhHXlhmaFXaco6Q&usqp=CAU" group-title="TwitchStreamers"tvg-id="ERICK Y GONZALO" tvg-name="ERICK Y GONZALO",ERICK Y GONZALO
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCcRSITGrzZce21uHdQ6GjZA
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSebrNGshTDxT87D5rXTHy80JOzZ-uxs_QGYg&usqp=CAU" group-title="Deportes",BEST CABLE SPORTS
 https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
 
