@@ -272,7 +272,12 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channe
 https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpICYrXPIfyB0U_0vTNOpTchr7-RxQYkcv5g&usqp=CAU" group-title="Deportes",GOL PERU
-https://2202lw.janjua.pw:8088/adfree/Golpeh1/playlist.m3u8?id=107964&pk=ed70a30b838f6048febdbf7bd682f0e5e75f40f3102438d6a9d58e441744be85
+https://2204lw.janjua.pw:8088/adfree/Golpeh1/playlist.m3u8?vidictid=191519586765&id=107964&pk=8fa07970d96ff1c82a4f7d6ce61a624d2b5ea0269015a44a4b6cffc969bc9f60
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpICYrXPIfyB0U_0vTNOpTchr7-RxQYkcv5g&usqp=CAU" group-title="Deportes",GOL PERU Opcion 2
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/6_.m3u8?token=WQUAtO5WGzwgXXE7HqTo8g&expires=1654728590&ip=132.184.130.198
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH5GklkaKxYtvuEIl_t8V19hoLfRoNWV3cAg&usqp=CAU" group-title="Deportes",ESPN
 http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
