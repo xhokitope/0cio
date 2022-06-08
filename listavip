@@ -322,29 +322,11 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/user/r
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxqAVi_JxGZOCO3SdsICCV78r5T3S7Aj84iQ&usqp=CAU" group-title="Ciencia&Cultura",History
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/vc_59tt
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYJ8U1zE4HmML93N6w3TRYhWdAg3oSGQgfQw&usqp=CAU" group-title="Ciencia&Cultura",History2
-https://vsd122.mycdn.me:443/hls/2391777610451.m3u8/sig/mYlXD3zkaHU/expires/1652133132055/srcIp/132.184.131.16/clientType/0/srcAg/CHROME_ANDROID/mid/3806872936147/2391777610451_medium/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-js981enMtykVVTizk6YAE4YGdcsMdFqRsg&usqp=CAU" group-title="Ciencia&Cultura",Cultura24TV PE
+https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Discovery_Channel_2000.svg/revision/latest/scale-to-width-down/300?cb=20200113170721&path-prefix=es" group-title="Ciencia&Cultura",DiscoveryChannel
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/dt_yy79
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT3NOLzvRqmf1wL-DUsW_afUzpYFkngKwRIg&usqp=CAU" group-title="Ciencia&Cultura",NatGeo
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/rr_99rrr
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Ciencia&Cultura",AnimalPlanet
-http://45.161.188.242:88/animalplanet/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Discovery_Turbo-1.png/revision/latest/scale-to-width-down/370?cb=20190925155302&path-prefix=es" group-title="Ciencia&Cultura",DiscoveryTurbo
-http://45.161.188.242:88/discoveryturbo/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="Ciencia&Cultura",DiscoveryID
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/1d_lx48
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2dCsSGmXpCTAEHiwsoUlmEMSeYQGXKlJfUw&usqp=CAU" group-title="Ciencia&Cultura",Home&Healt
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/aw_tt47
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/4e/fd/fd/4efdfddc6dafa48064a41f9b6f1d6293.png" group-title="Ciencia&Cultura",Entertaiment
-https://vsd118.mycdn.me:443/hls/1912738941651.m3u8/sig/q-1HqZdS0NA/expires/1644957684617/srcIp/132.184.130.113/clientType/0/srcAg/CHROME_ANDROID/mid/3239437475539/1912738941651_medium/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThVacVpvWoxA94ohz-aG6Mk_ido7NRgIndKg&usqp=CAU" group-title="Ciencia&Cultura",RTVE ES
+https://ztnr.rtve.es/ztnr/1688877.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ547nGlPFGhqNpwqCgzHQWBXYFk0PdRqmdJw&usqp=CAU",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
