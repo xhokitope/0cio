@@ -268,6 +268,9 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/APRE
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc6IKPhVp81Meord7DpgLEhHXlhmaFXaco6Q&usqp=CAU" group-title="Deportes",ERICK Y GONZALO
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCcRSITGrzZce21uHdQ6GjZA
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_7MzeW7lccOAvnkj4FmLmwargYouhBu9KeA&usqp=CAU" group-title="Deportes",FUTBOL BRUTAL PE
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCxWhPYT4QSU3jDFNfCTt4kg
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSebrNGshTDxT87D5rXTHy80JOzZ-uxs_QGYg&usqp=CAU" group-title="Deportes",BEST CABLE SPORTS
 https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
 
