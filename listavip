@@ -129,10 +129,10 @@ https://cdnlive.codev8.net/canalextremaduralive/smil:channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbKleHHCPQ2-kC2P-Sx5MjE-hrlHi8O01OAA&usqp=CAU" group-title="TV INTERNACIONAL",Canal Andalucia HD
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCqwjtgaJflHga2aPWphG5PQ
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge9DG9sWvvAV0OPppAPdZQIF96FxwgWIGTw&usqp=CAU" group-title="TV INTERNACIONAL", Galicia TV America
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge9DG9sWvvAV0OPppAPdZQIF96FxwgWIGTw&usqp=CAU" group-title="TV INTERNACIONAL", Galicia TV America ES
 http://america-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge9DG9sWvvAV0OPppAPdZQIF96FxwgWIGTw&usqp=CAU" group-title="TV INTERNACIONAL", Galicia TV Europa
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge9DG9sWvvAV0OPppAPdZQIF96FxwgWIGTw&usqp=CAU" group-title="TV INTERNACIONAL", Galicia TV Europa Es
 http://europa-crtvg.flumotion.com/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLYR_TI2Bd6hH4dsuJmbCLmLDOWlaRvvxpfg&usqp=CAU" group-title="TV INTERNACIONAL",RTPA TV ES
@@ -153,14 +153,8 @@ https://vivo.canaloncelive.tv:443/alivepkgr3/ngrp:cepro_all/chunklist_b1411072.m
 #EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="TV INTERNACIONAL",WOW TV EL SALVADOR
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w636648678_b700000_slen.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXWx_b2ulQJ0s3JsvJhuhWbi1MHWN7HIF_5A&usqp=CAU" group-title="TV INTERNACIONAL",CANAL 10 EL SALVADOR
-https://5fe2654d6127d.streamlock.net/tves/smil:tves.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni84LzIwMjIgMjoxNjowNSBQTSZoYXNoX3ZhbHVlPUZGWWVqK3FLcDR0QTkwcG1LSFlFRFE9PSZ2YWxpZG1pbnV0ZXM9MTUmaWQ9
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaQs4zIK-7jaZt5cLUi3XYO9EAoFYU_m97lg&usqp=CAU" group-title="TV INTERNACIONAL",CANAL 12 EL SALVADOR
 https://sv-canal12-canal12-live.ned.media/canal12/smil:canal12.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7e2iENjyJGgYzIrvLhihXTKsNXv9TPIefLA&usqp=CAU" group-title="TV INTERNACIONAL",CANAL 33 EL SALVADOR
-https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni84LzIwMjIgMjoxMjoyMCBQTSZoYXNoX3ZhbHVlPWNPSmR1L3oxQ2xteExHYXc3dVZxRmc9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9&DVR
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQcDTYzBgdcxx2jVjZ6VXf6fmGKlnaKtUZZA&usqp=CAU" group-title="TV INTERNACIONAL",Canal 6 NICARAGUA
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/canal6nicaraguaoficial
