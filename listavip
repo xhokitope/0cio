@@ -154,7 +154,7 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/mile
 #EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="TV INTERNACIONAL",WOW TV EL SALVADOR
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w636648678_b700000_slen.m3u8
 
-#EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="TV INTERNACIONAL",Canal 6 NICARAGUA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQcDTYzBgdcxx2jVjZ6VXf6fmGKlnaKtUZZA&usqp=CAU" group-title="TV INTERNACIONAL",Canal 6 NICARAGUA
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/canal6nicaraguaoficial
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyt_V-m1TkufBoPYrCKgniaA_9jeHzTrUkaw&usqp=CAU" group-title="TV INTERNACIONAL",VIVA NICARAGUA
