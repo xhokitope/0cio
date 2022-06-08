@@ -245,6 +245,9 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/Chir
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJp9wHXHbxj4zw_9UvsDdTw6YjP0INHPJBSA&usqp=CAU" group-title="Deportes",Chiringuito SHOW YT
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCI_v54UK0Sh8djJuvYeDW0Q
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMkU0H8wU1zseho83CY-ARAIepIt8Bu1Zd5g&usqp=CAU" group-title="Deportes",Chiringuito HD YT
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCaxnIfZhqzUMrclbDDZS1mQ
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKesWmfZouoQ8jz7_9mqnH680XsnxuCOKGeA&usqp=CAU" group-title="Deportes",Chiringuito De Jugones YT
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UC7R9ds4a3ADKRh9VLgG0DFg
 
