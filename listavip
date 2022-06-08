@@ -187,12 +187,6 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/noti
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" group-title="TV INTERNACIONAL",TelePacifico CO
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS-ntx4TEtbKyLcj5cctw4lj4t2uV0l4gQ3w&usqp=CAU" group-title="TV INTERNACIONAL",TeleMedellin CO
-https://liveingesta118.cdnmedia.tv//telemedellintvlive/smil:dvrlive.smil/playlist.m3u8?DVR
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9UJymryz8AaByoUvKDD4EE2N_rnvd-rkLow&usqp=CAU" group-title="TV INTERNACIONAL",TeleAntioquia CO
-https://liveingesta118.cdnmedia.tv//teleantioquialive/smil:dvrlive.smil/playlist.m3u8?DVR
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeZyUOQl7B44_cqoow5Wl_FTFL_naNNzScVg&usqp=CAU" group-title="TV INTERNACIONAL",Mega Noticias CL
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/Meganoticiasoficial
 
