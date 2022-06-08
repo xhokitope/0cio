@@ -148,6 +148,9 @@ https://vivo.canaloncelive.tv:443/alivepkgr3/ngrp:cepro_all/chunklist_b1411072.m
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRjpCWAHeZoaxG7uItZvA06n6qH7hPA3MiRpi0Ikw=s900-c-k-c0x00ffffff-no-rj" group-title="TV INTERNACIONAL",Milenio MX
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/milenio
 
+#EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="TV INTERNACIONAL",WOW
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w636648678_b700000_slen.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" group-title="TV INTERNACIONAL",Net TV AR
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
@@ -200,123 +203,12 @@ https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
 https://mediacp.us:8081/8054/index.m3u8
 
 
-#---CINE & SERIES---
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-5tD0JnogFt9k7b8X_TvA2uA0hZNb8CT_CQ&usqp=CAU" group-title="Cine&Series",Cinemax
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/cc_m11ftf
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yNSgq7gv/CINE-ROMANCE.png" group-title="Cine&Series",Cine Romance
-https://n9.cl/cine-romance_m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1BhhE2faPh2oJvNVOhWwF89xVRtxTjxFq-g&usqp=CAU" group-title="Cine&Series",TV Carioca.Net
-https://srv5.zcast.com.br:443/tvcarioca/tvcarioca/chunklist_w444952345.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWx3jvzOQwIzp8wo-8_A-9stEoc93_tiLSA&usqp=CAU" group-title="Cine&Series",SPACE TV
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/cb_v1034
-
-#EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="Cine&Series",WOW
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w636648678_b700000_slen.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUvcZcRs5xmc3Lbhf_oRtDIsVf7GTMT220tw&usqp=CAU" group-title="Cine&Series",Warner TV
-https://vsd118.mycdn.me:443/hls/2398493411924.m3u8/sig/KaxPee0Hhp4/expires/1648520049974/srcIp/132.184.128.248/clientType/0/srcAg/CHROME_ANDROID/mid/3618020204116/2398493411924_medium/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="Cine&Series",TNT HD
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/tl_119mdd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_foGT7i25vezaYAJIB4J8jB1Gw-uU8x6hoA&usqp=CAU" group-title="Cine&Series",TNT SERIES
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/tl_411md
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkDiWrHRTTlNE2jqLwS-wfkbWYj8JwpFi62g&usqp=CAU" group-title="Cine&Series",STAR CHANNEL
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/vfxrt119x
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnAlN6WmMfLE76s7ZlsIp8c1-hmX2orsJEAQ&usqp=CAU" group-title="Cine&Series",STAR LIFE
-https://vsd102.mycdn.me:443/hls/1912740383443.m3u8/sig/J_oYULfPj0o/expires/1644226701332/srcIp/132.184.131.112/clientType/0/srcAg/CHROME_ANDROID/mid/3239439769299/1912740383443_medium/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhhuZUxQUsXQiUyyvPfOhlzK3C7a9GvXIF1v1qfHkJ1eaS9UyNpodsqVo&s=10" group-title="Cine&Series",HBO
-https://vsd93.mycdn.me:443/hls/2145793346119.m3u8/sig/v4OUCBa6sZo/expires/1644952508943/srcIp/132.184.130.113/clientType/0/srcAg/CHROME_ANDROID/mid/5236994350663/2145793346119_medium/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhhuZUxQUsXQiUyyvPfOhlzK3C7a9GvXIF1v1qfHkJ1eaS9UyNpodsqVo&s=10" group-title="Cine&Series",HBO HD
-https://vsd110.mycdn.me:443/hls/2272617957959.m3u8/sig/F5BZGva-uvQ/expires/1648520417778/srcIp/132.184.128.248/clientType/0/srcAg/CHROME_ANDROID/mid/5347982253639/2272617957959_medium/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpjsld7I172GIduhfzanGIw71O-m9zaFKK4A&usqp=CAU" group-title="Cine&Series",HBO2
-https://vsd109.mycdn.me:443/hls/2145797409351.m3u8/sig/4DEPnz2okgQ/expires/1644952715855/srcIp/132.184.130.113/clientType/0/srcAg/CHROME_ANDROID/mid/5236997758535/2145797409351_medium/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDZV9xlhYXOI4mHXGrt2K5_0v4XT2ERosv2Q&usqp=CAU" group-title="Cine&Series",HBO FamilyHD
-http://45.161.188.242:88/hbofamilyhd/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Cine&Series",HBO Plus
-https://vsd120.mycdn.me:443/hls/2145800751687.m3u8/sig/6PgmRmu65Tg/expires/1644952804918/srcIp/132.184.130.113/clientType/0/srcAg/CHROME_ANDROID/mid/5237005557319/2145800751687_medium/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png" group-title="Cine&Series",HBO Xtreme
-https://vsd139.mycdn.me:443/hls/2145802127943.m3u8/sig/QpFLwi6jcTM/expires/1644952910634/srcIp/132.184.130.113/clientType/0/srcAg/CHROME_ANDROID/mid/5237007392327/2145802127943_medium/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="Cine&Series",GOLDEN
-https://vsd107.mycdn.me:443/hls/2145812613703.m3u8/sig/DnDsyhu97tY/expires/1644953211074/srcIp/132.184.130.113/clientType/0/srcAg/CHROME_ANDROID/mid/5237017615943/2145812613703_high/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/Logo-goldedge.png/revision/latest/scale-to-width-down/240?cb=20200422165936" group-title="Cine&Series",GOLDEN EDGE
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/74_.m3u8?token=5hocZ7kcNaNX6Pc-Albh9g&expires=1644960338&ip=132.157.128.213
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Golden_Plus_2017.png/revision/latest/scale-to-width-down/300?cb=20191215194002&path-prefix=es" group-title="Cine&Series",G PLUS
-https://vsd130.mycdn.me:443/hls/2145815104071.m3u8/sig/BTFxOqGYjfg/expires/1644959745356/srcIp/132.184.130.113/clientType/0/srcAg/CHROME_ANDROID/mid/5237020433991/2145815104071_medium/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjIHmcblvs50BI_f5driHHt1_4rowK4nulKw&usqp=CAU" group-title="Cine&Series",AXN
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/anxcx913
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz_TWoSpFg65tCYF9l9r5QUAequpqecrHLJg&usqp=CAU" group-title="Cine&Series",Sony
-https://vsd133.mycdn.me:443/hls/2272599870023.m3u8/sig/mc7C3_mowLA/expires/1648520639740/srcIp/132.184.128.248/clientType/0/srcAg/CHROME_ANDROID/mid/5347957349959/2272599870023_medium/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOW3XX3xScHmTkxEsPT1HbyI86yMMhFilRwQ&usqp=CAU" group-title="Cine&Series",FX
-https://vsd125.mycdn.me:443/hls/2316607687252.m3u8/sig/C3qxx3VgEiE/expires/1646543003224/srcIp/190.236.25.168/clientType/0/srcAg/CHROME_ANDROID/mid/3545445637716/2316607687252_lowest/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1280px-FX_Movies_logo.svg.png" group-title="Cine&Series",FX Movies
-http://45.161.188.242:88/fxmovies/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT46CCtZMGzlA9ohosMFPE9jnbQ7DVLtM9mbQ&usqp=CAU" group-title="Cine&Series",Universal
-https://vsd92.mycdn.me:443/hls/2194843306580.m3u8/sig/s675N_5bVeE/expires/1644959607819/srcIp/132.184.130.113/clientType/0/srcAg/CHROME_ANDROID/mid/3443587882580/2194843306580_medium/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Cinecanal_1995.png/revision/latest?cb=20191214040757&path-prefix=es" group-title="Cine&Series",Cinecanal
-https://vsd72.mycdn.me:443/hls/2145808288327.m3u8/sig/eUg81DWhkLg/expires/1644953092447/srcIp/132.184.130.113/clientType/0/srcAg/CHROME_ANDROID/mid/5237014011463/2145808288327_high/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1280px-TBS_logo_2016.svg.png" group-title="Cine&Series",TBS
-http://45.161.188.242:88/tbs/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Cine&Series",TCM
-http://45.161.188.242:88/tcm/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1k-mDUCKlOtaZ-L4vssxrkvvhBVpPesnv7A&usqp=CAU" group-title="Cine&Series",LIFETIME
-https://vsd128.mycdn.me:443/hls/1912749361875.m3u8/sig/Wm4KpEqvvAk/expires/1646625521325/srcIp/132.184.128.10/clientType/0/srcAg/CHROME_ANDROID/mid/3239447174867/1912749361875_medium/index.m3u8
-
-
-
 
 
 
 
 #---NIÑOS Y JUNIORS---
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjRlN-Ezo3o0QjFheHMpCsHpS5dNs--Xv5oQ&usqp=CAU" group-title="Niños&Juniors",CartoonNetwork
-http://45.161.188.242:88/cartoonnetwork/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYjssVp5SmSscP296bGfaKFwCnf6E2oUqGrQ&usqp=CAU" group-title="Niños&Juniors",DisneyChannel
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/dk_0143
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXYFRbaEql7iO6mZjk2oR-iSwf9Dkhzrtl-g&usqp=CAU" group-title="Niños&Juniors",Nickelodeon HD
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/teen5300
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqaj0w2rPwtf4eTd_QXsaNwy8kJ1yxbJuwUw&usqp=CAU" group-title="Niños&Juniors",NickJunior
-http://45.161.188.242:88/nickjr/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Disney_Junior_logo.png/800px-Disney_Junior_logo.png" group-title="Niños&Juniors",DisneyJunior
-https://vsd75.mycdn.me:443/hls/1694030563883.m3u8/sig/_Y7TvB8KW44/expires/1644959142159/srcIp/132.184.130.113/clientType/0/srcAg/CHROME_ANDROID/mid/3328455810603/1694030563883_medium/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png" group-title="Niños&Juniors",DisneyXD
-https://vsd95.mycdn.me:443/hls/1694023158315.m3u8/sig/xvoueKzfVHc/expires/1644959207430/srcIp/132.184.130.113/clientType/0/srcAg/CHROME_ANDROID/mid/3328448929323/1694023158315_medium/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Nat_Geo_Kids_%282017%29.png/revision/latest?cb=20200126150715&path-prefix=es" group-title="Niños&Juniors",NatGeoKids
-http://45.161.188.242:88/natgeokids/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/discovery-kids/images/3/36/2013-2016_sin_wordmark.png/revision/latest/scale-to-width-down/250?cb=20211020152616&path-prefix=es" group-title="Niños&Juniors",DiscoveryKids
-https://vsd96.mycdn.me:443/hls/1694035806763.m3u8/sig/uYevl9rfk_A/expires/1644959306636/srcIp/132.184.130.113/clientType/0/srcAg/CHROME_ANDROID/mid/3328460922411/1694035806763_medium/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Locomotion_2005.svg/revision/latest/scale-to-width-down/300?cb=20200125124642&path-prefix=es" group-title="Niños&Juniors",Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
@@ -366,57 +258,10 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channe
 https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpICYrXPIfyB0U_0vTNOpTchr7-RxQYkcv5g&usqp=CAU" group-title="Deportes",GOL PERU
-https://2204lw.janjua.pw:8088/adfree/golpr5/playlist.m3u8?id=107058&pk=a40cc8eaa8e599e955d607599db8a0de4e1a4f2a5356f39107e70b94963e09c6
+https://2202lw.janjua.pw:8088/adfree/Golpeh1/playlist.m3u8?id=107964&pk=ed70a30b838f6048febdbf7bd682f0e5e75f40f3102438d6a9d58e441744be85
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH5GklkaKxYtvuEIl_t8V19hoLfRoNWV3cAg&usqp=CAU" group-title="Deportes",ESPN
 http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH5GklkaKxYtvuEIl_t8V19hoLfRoNWV3cAg&usqp=CAU" group-title="Deportes",ESPN LA
-http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ3bmuXcsuH-cYvt_kV1iaA5a98CpwPVlU5w&usqp=CAU" group-title="Deportes",ESPN2
-https://edge-live14-hr.cvattv.com.ar/live/c2live/ESPN_HD/SA_SAGEMCOM/ESPN_HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6rN7aAtDUn963aFACsjlQSd1i41XbnAeUwA&usqp=CAU" group-title="Deportes",ESPN3
-https://edge10-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnw1vVsskM_1nKMcSzLri4kE_zVCxCZdkhzQ&usqp=CAU" group-title="Deportes",ESPN EXTRA
-https://edge10-sl.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVzMMU9XBaBvzlz8l3W6vg4t8NEvgLNOkT4g&usqp=CAU" group-title="Deportes",FoxSport
-https://edge10-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSwyhYrzw1uIeXHGkzDcvveFXLTa7bVUc2ZQ&usqp=CAU" group-title="Deportes",FoxSport2
-https://edge10-sl.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1280px-Fox_sports_3_logo.svg.png" group-title="Deportes",FoxSport3
-https://edge10-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRek4Pmg2fX9XcCVQ2uNqQvI4vNpchqFN6Kiw&usqp=CAU" group-title="Deportes",TyCSport HD
-https://vsd72.mycdn.me:443/hls/2388580698806.m3u8/sig/IIw5-SH9KHc/expires/1652428849268/srcIp/132.184.131.35/clientType/0/srcAg/CHROME_ANDROID/mid/4584694554294/2388580698806_high/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRek4Pmg2fX9XcCVQ2uNqQvI4vNpchqFN6Kiw&usqp=CAU" group-title="Deportes",TyCSport SD
-https://vsd72.mycdn.me:443/hls/2388580698806.m3u8/sig/IIw5-SH9KHc/expires/1652428849268/srcIp/132.184.131.35/clientType/0/srcAg/CHROME_ANDROID/mid/4584694554294/2388580698806_medium/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Estadio_TNT_Sports_2021.png/revision/latest?cb=20210120194115&path-prefix=es" group-title="Deportes",TNT Sports
-https://nedmediaworks.akamaized.net:443/hls/live/2034320/feedtv/hdntl=exp=1644216100~acl=%2f*~data=hdntl~hmac=8163fb06786a9665eeffbcd58bdabeb3a4583c6e02898aa94c246f985fceb2e5/master_540.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/TNT_Sports_2_2021.png/revision/latest?cb=20210117170635&path-prefix=es" group-title="Deportes",TNT Sport2
-http://45.161.188.242:88/tntsports2/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/TNT_Sports_3_2021.png/revision/latest?cb=20210117183604&path-prefix=es" group-title="Deportes",TNT Sport3
-http://45.161.188.242:88/tntsports3/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1280px-Claro_Sports_logo.svg.png" group-title="Deportes",Claro Sports
-https://claro-jw.cdn.vustreams.com:443/live/channel07/live.isml/live-audio_track_0_0_und=128000-video_track=2000000.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logosfake/images/3/3a/BeIN_Sports_en_Espa%C3%B1ol.png/revision/latest/scale-to-width-down/2953?cb=20180913094220" group-title="Deportes",Bein Sports ñ
-http://bit.ly/BeinSportñ
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrf6OmNDVBrZZiqKKe2yFf2P3CIiMm1gfsCA&usqp=CAU" group-title="Deportes",DIRECTV SPORTS
-https://tihdukxhbitnsmoh.wzcdn431.net:8443/hls/dyzqotv15miwft.m3u8?s=3xUBDegECZAc7Q2fLo_MmA&e=1644159284
-
-
 
 
 
