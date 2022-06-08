@@ -105,6 +105,8 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channe
 #----- INTERNACIONALES ------
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWbDkR07oq9X2tt_HQWJE31Y-2HdCuIZVyxw&usqp=CAU" group-title="TV INTERNACIONAL",AmericaTeve MIAMI US
+https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/La_Red_Uruguay_2018.png/revision/latest/scale-to-width-down/200?cb=20200825011821&path-prefix=es" group-title="TV INTERNACIONAL",La Red UY
 https://d268yhgc98lzal.cloudfront.net/sdredtv/sdredtv.m3u8
@@ -150,6 +152,15 @@ https://vivo.canaloncelive.tv:443/alivepkgr3/ngrp:cepro_all/chunklist_b1411072.m
 
 #EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="TV INTERNACIONAL",WOW TV EL SALVADOR
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w636648678_b700000_slen.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXWx_b2ulQJ0s3JsvJhuhWbi1MHWN7HIF_5A&usqp=CAU" group-title="TV INTERNACIONAL",CANAL 10 EL SALVADOR
+https://5fe2654d6127d.streamlock.net/tves/smil:tves.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni84LzIwMjIgMjoxNjowNSBQTSZoYXNoX3ZhbHVlPUZGWWVqK3FLcDR0QTkwcG1LSFlFRFE9PSZ2YWxpZG1pbnV0ZXM9MTUmaWQ9
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaQs4zIK-7jaZt5cLUi3XYO9EAoFYU_m97lg&usqp=CAU" group-title="TV INTERNACIONAL",CANAL 12 EL SALVADOR
+https://sv-canal12-canal12-live.ned.media/canal12/smil:canal12.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7e2iENjyJGgYzIrvLhihXTKsNXv9TPIefLA&usqp=CAU" group-title="TV INTERNACIONAL",CANAL 33 EL SALVADOR
+https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni84LzIwMjIgMjoxMjoyMCBQTSZoYXNoX3ZhbHVlPWNPSmR1L3oxQ2xteExHYXc3dVZxRmc9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9&DVR
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQcDTYzBgdcxx2jVjZ6VXf6fmGKlnaKtUZZA&usqp=CAU" group-title="TV INTERNACIONAL",Canal 6 NICARAGUA
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/canal6nicaraguaoficial
@@ -331,9 +342,11 @@ https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThVacVpvWoxA94ohz-aG6Mk_ido7NRgIndKg&usqp=CAU" group-title="Ciencia&Cultura",RTVE ES
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ547nGlPFGhqNpwqCgzHQWBXYFk0PdRqmdJw&usqp=CAU",DW Español
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ547nGlPFGhqNpwqCgzHQWBXYFk0PdRqmdJw&usqp=CAU" group-title="Ciencia&Cultura",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUSgo0TsXOmLDi5uUYLaQ_OYlzKiPWTT1_Q&usqp=CAU" group-title="Ciencia&Cultura",HispanTV ES
+https://live1.presstv.ir/live/hispan.m3u8
 
 
 
