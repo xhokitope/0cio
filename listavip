@@ -74,7 +74,7 @@ https://multimedia.tmcreativos.com:1936/viatelevision/viatelevision/playlist.m3u
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK0zBZdQPtnoJWWA_VXF6WJuNZX7Y1iOeJzw&usqp=CAU" group-title="TV PERUANA",GENIOS TV
 https://live.obslivestream.com/geniostvmux/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi35vERHsIqDHQVuU8sYNKbikNBOCV3_Bjwg&usqp=CAU" group-title="TV PERUANA",RTV TOTAL
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi35vERHsIqDHQVuU8sYNKbikNBOCV3_Bjwg&usqp=CAU" group-title="TV PERUANA",RTV TOTAL Yurimaguas
 https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT466p8JV9MmfBXMP8SyX7AuaZ7wxd8F_RqMw&usqp=CAU" group-title="TV PERUANA",Central TV
@@ -332,6 +332,9 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/vc_5
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-js981enMtykVVTizk6YAE4YGdcsMdFqRsg&usqp=CAU" group-title="Ciencia&Cultura",Cultura24TV PE
 https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi35vERHsIqDHQVuU8sYNKbikNBOCV3_Bjwg&usqp=CAU" group-title="Ciencia&Cultura",RTV TOTAL Yurimaguas
+https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThVacVpvWoxA94ohz-aG6Mk_ido7NRgIndKg&usqp=CAU" group-title="Ciencia&Cultura",RTVE ES
 https://ztnr.rtve.es/ztnr/1688877.m3u8
