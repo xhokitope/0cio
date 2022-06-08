@@ -149,7 +149,7 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.co
 https://vivo.canaloncelive.tv:443/alivepkgr3/ngrp:cepro_all/chunklist_b1411072.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRjpCWAHeZoaxG7uItZvA06n6qH7hPA3MiRpi0Ikw=s900-c-k-c0x00ffffff-no-rj" group-title="TV INTERNACIONAL",Milenio MX
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/milenio
+https://www.dailymotion.com/cdn/live/video/x814m71.m3u8?sec=phGf01Je53zdT7IqJB3xuLY_j9NP-xA2CxmKVfvr7sfTCuv6hkiF-DsJdtK-hNzuCDZioTn9sbGM6IqWhBzsFA&dmTs=591175&dmV1st=0A30385F7CA98097A5F8347605E3672E
 
 #EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="TV INTERNACIONAL",WOW TV EL SALVADOR
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w636648678_b700000_slen.m3u8
