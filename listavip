@@ -109,6 +109,9 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channe
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/La_Red_Uruguay_2018.png/revision/latest/scale-to-width-down/200?cb=20200825011821&path-prefix=es" group-title="TV INTERNACIONAL",La Red UY
 https://d268yhgc98lzal.cloudfront.net/sdredtv/sdredtv.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3WZwZrxF7d_UEIfcGiis8Z6McURZzwxFfuA&usqp=CAU" group-title="TV INTERNACIONAL",Lancelot TV ES
+https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CMMedia.svg/1177px-CMMedia.svg.png" group-title="TV INTERNACIONAL",CMM ES
 https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/0_xs45iy5i/format/applehttp/protocol/https/uiConfId/39582391/a.m3u8
 
@@ -139,8 +142,8 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=16
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Xet5zEDv-seJIbytvF3NQmSc5ZPbmejOww&usqp=CAU" group-title="TV INTERNACIONAL", México Travel Channel
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/mexicotravelchannel
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3WZwZrxF7d_UEIfcGiis8Z6McURZzwxFfuA&usqp=CAU" group-title="TV INTERNACIONAL",Lancelot TV
-https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6VPzZKJNr2rpuTaBXwfjRsh2ejIfw6PkSAA&usqp=CAU" group-title="TV INTERNACIONAL",ImagenTV MX
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/Imagen_TV
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjSOrmdx2zoWoHQzijCs-b_2YPtDXaPLXEkw&usqp=CAU" group-title="TV INTERNACIONAL",Canal Once MX
 https://vivo.canaloncelive.tv:443/alivepkgr3/ngrp:cepro_all/chunklist_b1411072.m3u8
@@ -148,11 +151,20 @@ https://vivo.canaloncelive.tv:443/alivepkgr3/ngrp:cepro_all/chunklist_b1411072.m
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRjpCWAHeZoaxG7uItZvA06n6qH7hPA3MiRpi0Ikw=s900-c-k-c0x00ffffff-no-rj" group-title="TV INTERNACIONAL",Milenio MX
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/milenio
 
-#EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="TV INTERNACIONAL",WOW
+#EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="TV INTERNACIONAL",WOW TV EL SALVADOR
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w636648678_b700000_slen.m3u8
+
+#EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="TV INTERNACIONAL",Canal 6 NICARAGUA
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/canal6nicaraguaoficial
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyt_V-m1TkufBoPYrCKgniaA_9jeHzTrUkaw&usqp=CAU" group-title="TV INTERNACIONAL",VIVA NICARAGUA
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/vivanicaragua13
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" group-title="TV INTERNACIONAL",Net TV AR
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSXNqfDBJY9QzPIrWItft4ypJUxetC8Vceqw&usqp=CAU" group-title="TV INTERNACIONAL",Canal 10 MDP AR
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/canaldiezmardelplata
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="TV INTERNACIONAL", America TV AR
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/americaenvivo
