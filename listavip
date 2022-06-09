@@ -177,11 +177,20 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.co
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjSOrmdx2zoWoHQzijCs-b_2YPtDXaPLXEkw&usqp=CAU" group-title="TV INTERNACIONAL",Canal Once MX
 https://vivo.canaloncelive.tv:443/alivepkgr3/ngrp:cepro_all/chunklist_b1411072.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-e-3UbHllgiM-a2jFX7pjpNCnQ77ybA_wVw&usqp=CAU" group-title="TV INTERNACIONAL",Televisa Tijuana MX
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/user/televisatijuanaof
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_vq9ggrEbJBnKCHySlc-DOx8hWxAxSEdCHA&usqp=CAU" group-title="TV INTERNACIONAL",SINTESIS TV MX
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/sintesistv
+
 #EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="TV INTERNACIONAL",WOW TV EL SALVADOR
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w636648678_b700000_slen.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaQs4zIK-7jaZt5cLUi3XYO9EAoFYU_m97lg&usqp=CAU" group-title="TV INTERNACIONAL",CANAL 12 EL SALVADOR
 https://sv-canal12-canal12-live.ned.media/canal12/smil:canal12.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO3emx-pOFyxb0QBp0543C5d7QnfKRBfb34w&usqp=CAU" group-title="TV INTERNACIONAL",TV SUR COSTA RICA
+https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQcDTYzBgdcxx2jVjZ6VXf6fmGKlnaKtUZZA&usqp=CAU" group-title="TV INTERNACIONAL",Canal 6 NICARAGUA
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/canal6nicaraguaoficial
@@ -219,6 +228,9 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/noti
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" group-title="TV INTERNACIONAL",TelePacifico CO
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI3L3vFDJ3_ACK1xJdNXoUS0QCC62CPv7FVg&usqp=CAU" group-title="TV INTERNACIONAL",TeleTrece CO
+https://canaltrece-live.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeZyUOQl7B44_cqoow5Wl_FTFL_naNNzScVg&usqp=CAU" group-title="TV INTERNACIONAL",Mega Noticias CL
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/Meganoticiasoficial
 
@@ -247,6 +259,9 @@ https://mediacp.us:8081/8054/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Locomotion_2005.svg/revision/latest/scale-to-width-down/300?cb=20200125124642&path-prefix=es" group-title="Niños&Juniors",Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPGQT-zYfvO5pjH8RKO-v0OhnRBusVjVmeVQ&usqp=CAU" group-title="Niños&Juniors",CANAL IPE TV
+https://cdnh75.iblups.com/hls/OVJNKV4pSr.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkFU1yFpUuczG09jLeZ63Do4TsvDfOiBnA8w&usqp=CAU" group-title="Niños&Juniors",Pajaro Loco
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCHtZ2_7hd1zy9aCqrrcaqcQ
