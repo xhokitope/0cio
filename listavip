@@ -284,14 +284,17 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGs1EQ-FsdTBO9WMj6-JrGi21CLMgMB862TA&usqp=CAU" group-title="Niños&Juniors",PEPA PIG HD
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/PeppaPigOficial
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0RzYvNXB7gd1k3MgUNSmLGG2Tfkc8ZrFVxw&usqp=CAU" group-title="Niños&Juniors",Baby Alive TV
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UC8ilKvUpaeizs_af0Q4vE6A
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXOqbn6bEsrWJhy9BkB-ITDyhAeiJ28vTQag&usqp=CAU" group-title="Niños&Juniors",LEO EL CAMION TV
 http://bit.ly/CamionLeo_m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUhjDDaR_a1r1N0zjp7YbEmE8XcdQ53egweA&usqp=CAU" group-title="Niños&Juniors",Talking Tom TV
 http://bit.ly/TalkingTom_m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTulbPECGM0EGZ2k8blfJG_Y8pj2YeNf0kaxA&usqp=CAU" group-title="Niños&Juniors",Power Rangers TV
-http://bit.ly/PowerRangers_m3u8
+
+
 
 
 #---DEPORTES---
