@@ -53,8 +53,20 @@ https://cu.onliv3.com/livevd1/user2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="TV PERUANA", EXITOSA NOTICIAS YT
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/ExitosaNoticiasOficial
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxIyj_mfRU8JD-q90rwby9aMHsNpvLf6IVbA&usqp=CAU" group-title="TV PERUANA",America TV
-https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=Gs7rxOJpuOn9iDrRWWxfJI9SiIomfzW0&sid=ueWop4kt5jDQiaxJL3bA5aAEXf7qEzao&pid=pOO72ODJkWQ30W9EVYXnaWfH8vR0NU0o&an=screen&at=web-app&av=v5.2.250&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F%3Fdevice%3Dtrue&res=360x202&without_cookies=false&listenerid=&dnt=true&access_token=H1MrMUU8Ms1PZKCir1SvUVbVLiImIQdNVNptewVk186R2LVixis2SHetazZAuZT9lLUexwQy0al
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb2lW7EL5eXnTvmK-PWWDnkbfkZT3EQRWqlw&usqp=CAU" group-title="TV PERUANA",AutenticaTV Moyobamba
+https://live.obslivestream.com/autenticatvmux/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBJiCYqvq02_KuuMvLq_-y7Z_2sL-ROT3OhQ&usqp=CAU" group-title="TV PERUANA",CRTV Moyobamba
+https://live.obslivestream.com/crtvmux/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4uFe6pOhbCkQGnZWJS1RZbX8d8GWNxaivRA&usqp=CAU" group-title="TV PERUANA",Contacto Deportivo Moyobamba PE
+https://live.obslivestream.com/cdeportivo/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsYiK20B13qIGrFEvkoL7YxyfwJXr0jN5hLg&usqp=CAU" group-title="TV PERUANA",CTC TV CUSCO
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/ctcpecanal
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwhBlAg-kzdSDSvlJM2sctkmxdN3QoBeqDcQ&usqp=CAU" group-title="TV PERUANA",RADIO OVACION TV PE
+https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNdDs_SQGQ74fhoHSN1luvc2x03yaFzrcaig&usqp=CAU" group-title="TV PERUANA",TV PERU HD
 https://cdnh71.iblups.com/hls/R9WtilpKKB.m3u8
@@ -67,6 +79,9 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.co
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbAvWDrOBX4a8EAZmrAsbH9TzZACayrIRX0g&usqp=CAU" group-title="TV PERUANA",Televisión Tarapoto
 https://videoserver.tmcreativos.com:19360/televisiontpp/televisiontpp.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZYQ56H-tSxNoFA17VxW0hLBc29ABVMojuIQ&usqp=CAU" group-title="TV PERUANA",AntaresTV Tarapoto
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://viatelevision.pe/wp-content/uploads/2021/11/logo-retina.png" group-title="TV PERUANA",VIA TV
 https://multimedia.tmcreativos.com:1936/viatelevision/viatelevision/playlist.m3u8
@@ -82,6 +97,15 @@ https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZADgGdXQztOk7T4C8vQubyHgHAmp0n96HHQ&usqp=CAU" group-title="TV PERUANA",Planeta Radio TV
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/planeta-radio-t-v
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRey5HoMCCAuwPr3bh3uOqfdh-Ayk8DKMqwLg&usqp=CAU" group-title="TV PERUANA",CajamarcaTV
+https://tv.inka.net.pe/cajamarcatv/cajamarcatv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv9Nu3vIv5vMTwTxR-8n2FJXifXYS--auHbA&usqp=CAU" group-title="TV PERUANA",XTV JAEN
+https://tv.oyotunstream.com:1936/xtv/xtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOwVd_YybMNGThemXEIqu3KkP0f9b6rGkvuA&usqp=CAU" group-title="TV PERUANA",BHTV Villa Salvador PE
+https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://comunicaciones.congreso.gob.pe/wpuploads/2021/02/logo-web-4.png" group-title="TV PERUANA", Congreso Peru TV
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/CongresodelaRep%C3%BAblicadelPer%C3%BATVenvivo
@@ -283,7 +307,11 @@ https://2204lw.janjua.pw:8088/adfree/Golpeh1/playlist.m3u8?vidictid=191519586765
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpICYrXPIfyB0U_0vTNOpTchr7-RxQYkcv5g&usqp=CAU" group-title="Deportes",GOL PERU Opcion 2
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/6_.m3u8?token=WQUAtO5WGzwgXXE7HqTo8g&expires=1654728590&ip=132.184.130.198
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4uFe6pOhbCkQGnZWJS1RZbX8d8GWNxaivRA&usqp=CAU" group-title="Deportes",Contacto Deportivo Moyobamba PE
+https://live.obslivestream.com/cdeportivo/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwhBlAg-kzdSDSvlJM2sctkmxdN3QoBeqDcQ&usqp=CAU" group-title="Deportes",RADIO OVACION TV PE
+https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH5GklkaKxYtvuEIl_t8V19hoLfRoNWV3cAg&usqp=CAU" group-title="Deportes",ESPN
 http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
