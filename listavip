@@ -266,8 +266,8 @@ https://cdnh75.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkFU1yFpUuczG09jLeZ63Do4TsvDfOiBnA8w&usqp=CAU" group-title="Niños&Juniors",Pajaro Loco
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCHtZ2_7hd1zy9aCqrrcaqcQ
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxMRaRuvmV2u6-Y2CXzl_ELJIv_wcKVi2afg&usqp=CAU" group-title="Niños&Juniors",Super toons TV
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCBO856ZVw88_wjNY2izgu9w
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZ5E2ByJmzbNjI_0yjB25juoEDonkVsF9rg&usqp=CAU" group-title="Niños&Juniors",BÚHO HopHop TV
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/BuhoHophop
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAin3y1QI2piNW9JgqOkC00axtwrq0tmGhXQ&usqp=CAU" group-title="Niños&Juniors",Tatty y Misifu
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/LaBrujitaTatty
@@ -283,6 +283,15 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGs1EQ-FsdTBO9WMj6-JrGi21CLMgMB862TA&usqp=CAU" group-title="Niños&Juniors",PEPA PIG HD
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/PeppaPigOficial
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXOqbn6bEsrWJhy9BkB-ITDyhAeiJ28vTQag&usqp=CAU" group-title="Niños&Juniors",LEO EL CAMION TV
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/TVparani%C3%B1os
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUhjDDaR_a1r1N0zjp7YbEmE8XcdQ53egweA&usqp=CAU" group-title="Niños&Juniors",Talking Tom TV
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCBO856ZVw88_wjNY2izgu9w
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTulbPECGM0EGZ2k8blfJG_Y8pj2YeNf0kaxA&usqp=CAU" group-title="Niños&Juniors",Power Rangers TV
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/PowerRangersparaNi%C3%B1osCanalOficial
 
 
 #---DEPORTES---
