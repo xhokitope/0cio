@@ -248,67 +248,67 @@ https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRECsUmVb57w3vlP5b38xY0DVnzHi8o_LvFQg&usqp=CAU" group-title="TV INTERNACIONAL", PURUWA TV EC
 https://mediacp.us:8081/8054/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Locomotion_2005.svg/revision/latest/scale-to-width-down/300?cb=20200125124642&path-prefix=es" group-title="Niños&Juniors", Locomotion
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Locomotion_2005.svg/revision/latest/scale-to-width-down/300?cb=20200125124642&path-prefix=es" group-title="Niños | Juniors", Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOyy965FWCF_bcBOJ5Dl-Ijm7YX_hnpReoHg&usqp=CAU" group-title="Niños&Juniors", Zona Anime TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOyy965FWCF_bcBOJ5Dl-Ijm7YX_hnpReoHg&usqp=CAU" group-title="Niños | Juniors", Zona Anime TV
 http://azxtv.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPGQT-zYfvO5pjH8RKO-v0OhnRBusVjVmeVQ&usqp=CAU" group-title="Niños&Juniors", CANAL IPE TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPGQT-zYfvO5pjH8RKO-v0OhnRBusVjVmeVQ&usqp=CAU" group-title="Niños | Juniors", CANAL IPE TV
 https://cdnh75.iblups.com/hls/OVJNKV4pSr.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkFU1yFpUuczG09jLeZ63Do4TsvDfOiBnA8w&usqp=CAU" group-title="Niños&Juniors", Pajaro Loco
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkFU1yFpUuczG09jLeZ63Do4TsvDfOiBnA8w&usqp=CAU" group-title="Niños | Juniors", Pajaro Loco
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCHtZ2_7hd1zy9aCqrrcaqcQ
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3NCZTRn0peoz4cEoDh5kQtkbWQ3HyN_TIaw&usqp=CAU" group-title="Niños&Juniors", Granja de Zenon TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3NCZTRn0peoz4cEoDh5kQtkbWQ3HyN_TIaw&usqp=CAU" group-title="Niños | Juniors", Granja de Zenon TV
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/elreinoinfantil
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAin3y1QI2piNW9JgqOkC00axtwrq0tmGhXQ&usqp=CAU" group-title="Niños&Juniors", Tatty y Misifu
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAin3y1QI2piNW9JgqOkC00axtwrq0tmGhXQ&usqp=CAU" group-title="Niños | Juniors", Tatty y Misifu
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/LaBrujitaTatty
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRalyHZsrHit5MNqLp8nmWMZ5CiGktlwsYKkQ&usqp=CAU" group-title="Niños&Juniors", PJ Masks
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRalyHZsrHit5MNqLp8nmWMZ5CiGktlwsYKkQ&usqp=CAU" group-title="Niños | Juniors", PJ Masks
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/PJMasksLAS
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/imagenesparapeques.com/wp-content/uploads/2014/07/pocoyo-en-Italiapng.png?ssl=1" group-title="Niños&Juniors", POCOYO HD
+#EXTINF:-1 tvg-logo="https://i0.wp.com/imagenesparapeques.com/wp-content/uploads/2014/07/pocoyo-en-Italiapng.png?ssl=1" group-title="Niños | Juniors", POCOYO HD
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/pocoyo
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGUgB6uU5Sl-Tu17nLz2Zgwp37QXFde5zIsA&usqp=CAU" group-title="Niños&Juniors", ANTIKS HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGUgB6uU5Sl-Tu17nLz2Zgwp37QXFde5zIsA&usqp=CAU" group-title="Niños | Juniors", ANTIKS HD
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/OddbodsEspa%C3%B1ol
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGs1EQ-FsdTBO9WMj6-JrGi21CLMgMB862TA&usqp=CAU" group-title="Niños&Juniors", PEPA PIG HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGs1EQ-FsdTBO9WMj6-JrGi21CLMgMB862TA&usqp=CAU" group-title="Niños | Juniors", PEPA PIG HD
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/PeppaPigOficial
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs6I086E6tC6fyGLMCI1WZQy2uQ-Pzade-2A&usqp=CAU" group-title="Niños&Juniors", BabyBus TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs6I086E6tC6fyGLMCI1WZQy2uQ-Pzade-2A&usqp=CAU" group-title="Niños | Juniors", BabyBus TV
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/BabyBusCancionesInfantilesCuentos
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJa79IKOg0I-VarhB1bqusmLx9ywuBjw7JdQ&usqp=CAU" group-title="Niños&Juniors", Baby Shark TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJa79IKOg0I-VarhB1bqusmLx9ywuBjw7JdQ&usqp=CAU" group-title="Niños | Juniors", Baby Shark TV
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/BabySharkES
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR03S42m_AGzT5ui1w8dxE7Ed22FXnJkjjsNg&usqp=CAU" group-title="Niños&Juniors", Pinguino Pororo TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR03S42m_AGzT5ui1w8dxE7Ed22FXnJkjjsNg&usqp=CAU" group-title="Niños | Juniors", Pinguino Pororo TV
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/PororoSpanish
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0TjME7MYIoSrC64jpdDsKgKmYvBt8Jm-ZKQ&usqp=CAU" group-title="Niños&Juniors", Dragon ball Z TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0TjME7MYIoSrC64jpdDsKgKmYvBt8Jm-ZKQ&usqp=CAU" group-title="Niños | Juniors", Dragon ball Z TV
 https://z-p3-video.flim4-3.fna.fbcdn.net/hvideo-rva-eag/_nc_cat-103/_nc_sr_t-4/v/rbDR_7STTReJ78bG5BOgE/_nc_ohc-IyUA2K9oriUAX_lMHKu/live-dash/dash-abr5/539780071153965.mpd?_nc_eui2=AeFBL_0kRgc8gY6IA8ms1AFcTJcsST6b_8VMlyxJPpv_xaJC4wGEVy6k_ibB2kwMKeM&ccb=2-4&ms=m_CTPAL&sc_t=1&oh=00_AT8_NiAmFOCRQmxTI93xfvkWg_5LLFZN4DlgV7Cq8_C9Xw&oe=62A5A856
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsUDoAmdVGCaiSgjqa16aNMZWG3gq4PSJ_8Q&usqp=CAU" group-title="Niños&Juniors", Dragon ball Super TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsUDoAmdVGCaiSgjqa16aNMZWG3gq4PSJ_8Q&usqp=CAU" group-title="Niños | Juniors", Dragon ball Super TV
 https://video.ftru2-2.fna.fbcdn.net/hvideo-rva-eag/_nc_cat-110/_nc_sr_t-4/v/rJ_OV7UawiBtnVdOtTSGP/_nc_ohc-G84-20bkclwAX_NPKcH/live-dash/dash-abr5/180250637679945.mpd?_nc_eui2=AeFcJYDaDCm-bgMeiC6jBR60N9gDAK0HOj832AMArQc6P9sCh8QK_lBuLwKlaG7sUo4&ccb=2-4&ms=m_CTPAL&sc_t=1&oh=00_AT_4DNOSraogKFFvhz9bTBFlpexOYGgJq7D4QLivMDZohQ&oe=62A5A113
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRKgh9c7XzzzsG0mSPyidlmbOezn_OncIveg&usqp=CAU" group-title="Series&Peliculas", Peliculas HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRKgh9c7XzzzsG0mSPyidlmbOezn_OncIveg&usqp=CAU" group-title="Series | Peliculas", Peliculas HD
 https://z-p3-video.flim3-3.fna.fbcdn.net/hvideo-ncg-nao/_nc_cat-101/_nc_sr_t-4/v/r5Ca55K7xgEBcNZx9ku3U/_nc_ohc--e2ME-AGGOwAX-s8b3G/live-dash/dash-abr5/159249863312932.mpd?_nc_eui2=AeE26WZ1Y-FeXBw9IfdCEJnbOpRXQ4Qawt86lFdDhBrC38qpd_KL2EH2HhdymBYHvfA&ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AT8E1pYBaiX-9QhmAgWEC_iZbKQk2K7mfzlpT8OSsaNltg&oe=62A3A421
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLY-B9_MeoMH5mPQV3Nbc_beG3LA1nDTValQ&usqp=CAU" group-title="Series&Peliculas", Peliculas +
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLY-B9_MeoMH5mPQV3Nbc_beG3LA1nDTValQ&usqp=CAU" group-title="Series | Peliculas", Peliculas +
 https://z-p3-video.flim3-3.fna.fbcdn.net/hvideo-nao-eag/_nc_cat-105/_nc_sr_t-4/v/rIff5nH48tyhvuvri_mB4/_nc_ohc-iym1yGkglJgAX84_K9i/live-dash/dash-abr5/158696800036231.mpd?_nc_eui2=AeHnhzmr50SePHjaUQ7MXhsfm-0Yuxij0wyb7Ri7GKPTDDPBU1AFHLlcZpqSc2tzsMY&ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AT_5Hluyu6vy9EGk68QxZzAlEUeJy7_CsknTUAIfBs19uQ&oe=62A42E3F
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkA0QOWSs0BYu-Rqh7FXCWTH4NOHikFuvTew&usqp=CAU" group-title="Series&Peliculas", El Chavo Del 8 TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkA0QOWSs0BYu-Rqh7FXCWTH4NOHikFuvTew&usqp=CAU" group-title="Series | Peliculas", El Chavo Del 8 TV
 https://z-p3-video.flim4-2.fna.fbcdn.net/hvideo-prn-vll/_nc_cat-104/_nc_sr_t-4/v/rBtN5jC41djpYVLv02zuP/_nc_ohc-6k4vAuasPjMAX9hbwlc/live-dash/dash-abr5/146568594621214.mpd?_nc_eui2=AeHs0Wwo6w_S1RFeKFIJ0n1hrcvfB_WQ7yyty98H9ZDvLLzsLC6uAUUXGzvbjznPDIE&ccb=2-4&ms=m_CTPAL&sc_t=1&oh=00_AT_wLtx-ynE7TWrUWA1bKMGODUrRglzltbQJmHo7Z-gk3w&oe=62A5BFCD
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnFay6RNwnKV4PiSGJqQagIWPXvxWejLOPCg&usqp=CAU" group-title="Series&Peliculas", El Chavo Del 8 +
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnFay6RNwnKV4PiSGJqQagIWPXvxWejLOPCg&usqp=CAU" group-title="Series | Peliculas", El Chavo Del 8 +
 https://z-p3-video.flim4-3.fna.fbcdn.net/hvideo-ncg-prn/_nc_cat-107/_nc_sr_t-4/v/rDNWvphKS4WLemcO_mXV4/_nc_ohc-YSGDKDBd7zMAX_kwJyn/live-dash/dash-abr5/137210355611102.mpd?_nc_eui2=AeFAhtpAHvjUFHRYdYQD5pEM1TSnRe3BwgjVNKdF7cHCCBp2QYJ7x7FsUb6o-JPX_ho&ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AT8YxsYE3HADKo3vkHHYs7VeLX-QD06V6EHpmarce5TU4Q&oe=62A55D63
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFpq0NXYU7290syMIka2qL-jOGTqTHz1VD3g&usqp=CAU" group-title="Series&Peliculas", Los Simpsons TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFpq0NXYU7290syMIka2qL-jOGTqTHz1VD3g&usqp=CAU" group-title="Series | Peliculas", Los Simpsons TV
 https://z-p3-video.flim4-3.fna.fbcdn.net/hvideo-prn-vll/_nc_cat-106/_nc_sr_t-4/v/rwwMGbavz-1Xbq5ESfSuc/_nc_ohc-a-uMyWAwRRUAX8Lr9Q3/live-dash/dash-abr5/407261191412457.mpd?_nc_eui2=AeEAVJmkW26wUFXs8yHp-D1jO2gXz_Gtfjs7aBfP8a1-O5Kdpw3wvoCQeyvWX82N2NE&ccb=2-4&ms=m_CTPAL&sc_t=1&oh=00_AT-PTGPy0WzWTtY6E0nglZPJyuvrPKtGqtc0_9SZ5dts5g&oe=62A4DF37
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6EJ6qObX4UTj0y8p4qJKn0Am66Q-3It98Lw&usqp=CAU" group-title="Series&Peliculas", Streamer Del Dia
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6EJ6qObX4UTj0y8p4qJKn0Am66Q-3It98Lw&usqp=CAU" group-title="Series | Peliculas", Streamer Del Dia
 https://z-p3-video.flim4-3.fna.fbcdn.net/hvideo-ncg-ldc/_nc_cat-108/_nc_sr_t-4/v/rM7Rca8mPvLp8-XGBokKS/_nc_ohc-eohwqyKCqRQAX9TslRJ/live-dash/dash-abr5/153899883862177.mpd?_nc_eui2=AeG-cN8Ut2nOawH5cKjsdbDeWw8l0d8nvClbDyXR3ye8KV52qz3RH0cgaWBvCV96vTM&ccb=2-4&ms=m_CTPAL&sc_t=1&oh=00_AT9ygfyIWPf7vzTUhCWKOJ-zUXbdIvCDnKi6kWroRYdYRg&oe=62A52665
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLXT7z9CSPaJZU_Ee3pxCiIl80W8FUNzDueA&usqp=CAU" group-title="Deportes", Chiringuito Inside YT
@@ -392,65 +392,65 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/Nora
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSX3EcCjhEbH7s22uDN1it-dOTTbPCDHLaSExZd=s100-c-k-c0x00ffffff-no-rj" group-title="Musica En Vivo", Wonder Deep YT
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/user/redthekiller23
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxqAVi_JxGZOCO3SdsICCV78r5T3S7Aj84iQ&usqp=CAU" group-title="Ciencia&Cultura", History
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxqAVi_JxGZOCO3SdsICCV78r5T3S7Aj84iQ&usqp=CAU" group-title="Ciencia | Cultura", History
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/vc_59tt
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-js981enMtykVVTizk6YAE4YGdcsMdFqRsg&usqp=CAU" group-title="Ciencia&Cultura", Cultura24TV PE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-js981enMtykVVTizk6YAE4YGdcsMdFqRsg&usqp=CAU" group-title="Ciencia | Cultura", Cultura24TV PE
 https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi35vERHsIqDHQVuU8sYNKbikNBOCV3_Bjwg&usqp=CAU" group-title="Ciencia&Cultura", RTV TOTAL Yurimaguas
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi35vERHsIqDHQVuU8sYNKbikNBOCV3_Bjwg&usqp=CAU" group-title="Ciencia | Cultura", RTV TOTAL Yurimaguas
 https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThVacVpvWoxA94ohz-aG6Mk_ido7NRgIndKg&usqp=CAU" group-title="Ciencia&Cultura", RTVE ES
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThVacVpvWoxA94ohz-aG6Mk_ido7NRgIndKg&usqp=CAU" group-title="Ciencia | Cultura", RTVE ES
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ547nGlPFGhqNpwqCgzHQWBXYFk0PdRqmdJw&usqp=CAU" group-title="Ciencia&Cultura", DW Español
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ547nGlPFGhqNpwqCgzHQWBXYFk0PdRqmdJw&usqp=CAU" group-title="Ciencia | Cultura", DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUSgo0TsXOmLDi5uUYLaQ_OYlzKiPWTT1_Q&usqp=CAU" group-title="Ciencia&Cultura", HispanTV ES
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUSgo0TsXOmLDi5uUYLaQ_OYlzKiPWTT1_Q&usqp=CAU" group-title="Ciencia | Cultura", HispanTV ES
 https://live1.presstv.ir/live/hispan.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSonNZP3LVtPS2xbEzGP2-nBysDuq9-2dVrZQ&usqp=CAU" group-title="RadioOnLine", Studio92
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSonNZP3LVtPS2xbEzGP2-nBysDuq9-2dVrZQ&usqp=CAU" group-title="Radio en Vivo", Studio92
 https://us-b4-p-e-cz3-audio.cdn.mdstrm.com/live-audio-aw/5fada553978fe1080e3ac5ea?aid=5faaeb72f92d7b07dfe10181&pid=7Tyx5ohcNf4ODxYbstFG0gaMx68fb7cH&sid=9S0I9HavoaDTNJLIktwqErKW4TVsPmfk&uid=hdtfKZCOuRM3uav0bmK7B8J1gtVHoBDe&es=us-b4-p-e-cz3-audio.cdn.mdstrm.com&ote=1642873721541&ot=Zyratm100AEjjHXhWNkJ3g&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada553978fe1080e3ac5ea
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToxGgaye2LRf_TKql2ncN5dmT50_queEnfxA&usqp=CAU" group-title="RadioOnLine", Oxigeno
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToxGgaye2LRf_TKql2ncN5dmT50_queEnfxA&usqp=CAU" group-title="Radio en Vivo", Oxigeno
 https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/icecast.audio
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2NoQ-0BuNMGntNZxzXYcLf497Fnkqhf7E1A&usqp=CAU" group-title="RadioOnLine", RadioModa
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2NoQ-0BuNMGntNZxzXYcLf497Fnkqhf7E1A&usqp=CAU" group-title="Radio en Vivo", RadioModa
 https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MOD_SC?csegid=20001&dist=20001&ttag=20001
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ab0-x6z493H1iguQP3T674IIyEtJdzx8Hg&usqp=CAU" group-title="RadioOnLine", LaZona
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ab0-x6z493H1iguQP3T674IIyEtJdzx8Hg&usqp=CAU" group-title="Radio en Vivo", LaZona
 https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_fedb53qah_JYwBwcTQbrktduLQurNeN3_w&usqp=CAU" group-title="RadioOnLine", OasisRock&Pop
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_fedb53qah_JYwBwcTQbrktduLQurNeN3_w&usqp=CAU" group-title="Radio en Vivo", OasisRock&Pop
 https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_OAS_SC?csegid=20001&dist=20001&ttag=20001
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI4SSXH0OJkBXXumnDpCB3nYK_HYd1NMCazA&usqp=CAU" group-title="RadioOnLine", LaMega
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI4SSXH0OJkBXXumnDpCB3nYK_HYd1NMCazA&usqp=CAU" group-title="Radio en Vivo", LaMega
 https://mdstrm.com/audio/5fada56fe4e09508207a7951/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd7bzR8HCuEteQkN2Qk98XoOZqAskQkuK1Pw&usqp=CAU" group-title="RadioOnLine", RadioPlaneta
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd7bzR8HCuEteQkN2Qk98XoOZqAskQkuK1Pw&usqp=CAU" group-title="Radio en Vivo", RadioPlaneta
 https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_PLA_SC?csegid=20001&dist=20001&ttag=20001
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa7J_URXRr_pUGQRi5bNs5_Gqp90D5WVK_Bw&usqp=CAU" group-title="RadioOnLine", NuevaQ
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa7J_URXRr_pUGQRi5bNs5_Gqp90D5WVK_Bw&usqp=CAU" group-title="Radio en Vivo", NuevaQ
 https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_NQ_SC?csegid=20001&dist=20001&ttag=20001
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW57dw_gKdxGY0VEyZJDS6Ai4UMcyyj6HDpg&usqp=CAU" group-title="RadioOnLine", TopLatino
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW57dw_gKdxGY0VEyZJDS6Ai4UMcyyj6HDpg&usqp=CAU" group-title="Radio en Vivo", TopLatino
 https://5cefcbf58ba2e.streamlock.net/latino/latino.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s171892g.png" group-title="RadioOnLine", SuperVip
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s171892g.png" group-title="Radio en Vivo", SuperVip
 https://rautemusik-de-hz-fal-stream18.radiohost.de/charthits
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEyMXXbSUrJIaHkKGGOkZDShJ687XCt20qOw&usqp=CAU" group-title="RadioOnLine", SuperStereo
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEyMXXbSUrJIaHkKGGOkZDShJ687XCt20qOw&usqp=CAU" group-title="Radio en Vivo", SuperStereo
 http://node-24.zeno.fm/g6nexaf92d0uv?rj-ttl=5&rj-tok=AAABfn3h-LAAyW0n6uryUf12Fg
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxTM49WV_9ab3TZ34hy9zZChhWvlNLQSCSUg&usqp=CAU" group-title="RadioOnLine", PBO Radio
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxTM49WV_9ab3TZ34hy9zZChhWvlNLQSCSUg&usqp=CAU" group-title="Radio en Vivo", PBO Radio
 https://streamingv2.shoutcast.com/pbo-radiofm?1644124234781
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREhRKq4cEPB0Me2eJuYvc5nkCA97S96Q8Eng&usqp=CAU" group-title="RadioOnLine", RadioExitosa
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREhRKq4cEPB0Me2eJuYvc5nkCA97S96Q8Eng&usqp=CAU" group-title="Radio en Vivo", RadioExitosa
 http://7.innovatestream.pe:2020/stream/exitosaoficial/stream
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="RadioOnLine", RPP
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="Radio en Vivo", RPP
 https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/icecast.audio
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Radio_La_Red_AM_910.png" group-title="RadioOnLine", 910 AM Radio La Red
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Radio_La_Red_AM_910.png" group-title="Radio en Vivo", 910 AM Radio La Red
 https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC_SC
