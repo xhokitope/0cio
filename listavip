@@ -338,6 +338,9 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channe
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSebrNGshTDxT87D5rXTHy80JOzZ-uxs_QGYg&usqp=CAU" group-title="Deportes", BEST CABLE SPORTS
 https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRGddKrL26aY3Yf7enSL107-oL1XdMhAdFaA&usqp=CAU" group-title="Deportes", Futbol En America l Dom 10 pm
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCxzM16KsVlgCjMW14sJCHDg
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpICYrXPIfyB0U_0vTNOpTchr7-RxQYkcv5g&usqp=CAU" group-title="Deportes", GOL PERU
 https://2206.janjua.pw:8088/adfree/coque/playlist.m3u8?vidictid=191569767467&id=107602&pk=cd89e0ce4fca0c465be83b782fa401fae481a84ded5eb257f5a2d109f65ddc8d
 
