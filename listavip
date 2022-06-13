@@ -339,10 +339,16 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channe
 https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpICYrXPIfyB0U_0vTNOpTchr7-RxQYkcv5g&usqp=CAU" group-title="Deportes", GOL PERU
-https://2204lw.janjua.pw:8088/adfree/Golpeh1/playlist.m3u8?vidictid=191519586765&id=107964&pk=8fa07970d96ff1c82a4f7d6ce61a624d2b5ea0269015a44a4b6cffc969bc9f60
+https://2206.janjua.pw:8088/adfree/coque/playlist.m3u8?vidictid=191569767467&id=107602&pk=cd89e0ce4fca0c465be83b782fa401fae481a84ded5eb257f5a2d109f65ddc8d
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpICYrXPIfyB0U_0vTNOpTchr7-RxQYkcv5g&usqp=CAU" group-title="Deportes", GOL PERU Opcion 2
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/6_.m3u8?token=WQUAtO5WGzwgXXE7HqTo8g&expires=1654728590&ip=132.184.130.198
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/6_.m3u8?token=yIh6CvfXUwz2ZW_QCxBClQ&expires=1655099225&ip=132.184.131.173
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpICYrXPIfyB0U_0vTNOpTchr7-RxQYkcv5g&usqp=CAU" group-title="Deportes", GOL PERU Opcion 3
+https://2204lw.janjua.pw:8088/adfree/Golpeh1/playlist.m3u8?vidictid=191562141380&id=107964&pk=cd89e0ce4fca0c465be83b782fa401fae481a84ded5eb257f5a2d109f65ddc8d
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpICYrXPIfyB0U_0vTNOpTchr7-RxQYkcv5g&usqp=CAU" group-title="Deportes", GOL PERU Opcion 4
+https://b41841-p10-hfd-afyisuzz.2.cdn.telefonica.com/_41841/_-_81JdORNhLfCWz1_dyKGyJIQgQ0WEU9x9jwoDLb-Tna-oXVPaeQPHgZVK6JUtmOXe_-_/live/disk1/MovistarDeportes/MOVDEPORTES_SP_DASH_HD/MovistarDeportes.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4uFe6pOhbCkQGnZWJS1RZbX8d8GWNxaivRA&usqp=CAU" group-title="Deportes", Contacto Deportivo Moyobamba PE
 https://live.obslivestream.com/cdeportivo/index.m3u8
