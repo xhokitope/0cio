@@ -404,6 +404,24 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/Nora
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSX3EcCjhEbH7s22uDN1it-dOTTbPCDHLaSExZd=s100-c-k-c0x00ffffff-no-rj" group-title="Musica En Vivo", Wonder Deep YT
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/user/redthekiller23
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShGQRp2wfklStvkHiDVva6SEVtS_HqHmiBVw&usqp=CAU" group-title="Musica En Vivo", Mix Reggaeton 2022
+https://youtu.be/uiojoq8Kyh8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbOCcbdUb594vBDQaRYUBEtZaChVYMBOTuxg&usqp=CAU" group-title="Musica En Vivo", Fiesta Latina Mix
+https://youtu.be/lp2QQT2wOlk
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqaIBhV3-NjCxDkDUE-tEJu1vGc-TdC_ZX1Q&usqp=CAU" group-title="Musica En Vivo", Salsa Para Bailar
+https://youtu.be/ZEFnXj89C44
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/JOnAzpD2hSo/maxresdefault.jpg" group-title="Musica En Vivo", Mix Salsa Romantica
+https://youtu.be/BSN0jiR5CS0
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQS7NPBDROJavknyiaNnl_ZgmnHtR381OC3Q&usqp=CAU" group-title="Musica En Vivo", Rock 80s 90s
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCv7YyZqMZOHlguozyLp4wdg
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_T10dqJzMKRH_OL9rVhOFZN6EnAUvG4_UFg&usqp=CAU" group-title="Musica En Vivo", Baladas Ingles 80s 90s
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCQkNZghkromJkI72Oz7SGww
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxqAVi_JxGZOCO3SdsICCV78r5T3S7Aj84iQ&usqp=CAU" group-title="Ciencia | Cultura", History
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/vc_59tt
 
