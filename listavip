@@ -353,6 +353,9 @@ https://2204lw.janjua.pw:8088/adfree/Golpeh1/playlist.m3u8?vidictid=191562141380
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpICYrXPIfyB0U_0vTNOpTchr7-RxQYkcv5g&usqp=CAU" group-title="Deportes", GOL PERU Opcion 4
 https://b41841-p10-hfd-afyisuzz.2.cdn.telefonica.com/_41841/_-_81JdORNhLfCWz1_dyKGyJIQgQ0WEU9x9jwoDLb-Tna-oXVPaeQPHgZVK6JUtmOXe_-_/live/disk1/MovistarDeportes/MOVDEPORTES_SP_DASH_HD/MovistarDeportes.mpd
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFKueaSZ_4733wkNutT-IFyykzzJAiGW2tAA&usqp=CAU" group-title="Deportes", Diario Depor PE
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/DiarioDeporoficial
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4uFe6pOhbCkQGnZWJS1RZbX8d8GWNxaivRA&usqp=CAU" group-title="Deportes", Contacto Deportivo Moyobamba PE
 https://live.obslivestream.com/cdeportivo/index.m3u8
 
