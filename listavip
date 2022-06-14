@@ -17,7 +17,7 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/WFDI
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/PBODigital
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/Lql5U9xcawSmCM2sVc0KVjZwdNkBMc7laQaah2u5NAG_ByqsYB0nwVz7QME2K3CnLFmdkxLBVQ=s900-c-k-c0x00ffffff-no-rj" group-title="TV PERUANA", 24 Horas PE
-https://q22link.herokuapp.com/iptv-query?streaming-iphttps://youtube.com/c/24horasperu
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/24horasperu
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZWktkEnMQtRSruF-OeRINESOszGYHLTlJ0w&usqp=CAU" group-title="TV PERUANA", COSMOS TV
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
