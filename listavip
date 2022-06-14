@@ -49,6 +49,9 @@ http://190.108.83.142:8000/play/a00x/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnj4six21x50vnaiL29u8xyeoD9Aas4BGSIQ&usqp=CAU" group-title="TV PERUANA", América TvGO
 https://z-p3-video.flim3-2.fna.fbcdn.net/hvideo-cln-odn/_nc_cat-1/_nc_sr_t-16/v/r3cQINrZgMkU-8F36ioOm/_nc_ohc-QO20WOdrE3wAX_CYn9s/live-dash/dash-abr5/5987294534625645.mpd?_nc_eui2=AeFjeKabfOlP0jm8GiRIrCfkvvKyfdbfOgO-8rJ91t86A2lzPuapj2uq5ObhyMhjnFE&ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AT-WmHvCifPdF0JFCtbkJN7Whj66uQMQe5i3Vwe51PAwsA&oe=62A9A420
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnj4six21x50vnaiL29u8xyeoD9Aas4BGSIQ&usqp=CAU" group-title="TV PERUANA", América TvGO 2
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1655198909/ei/XQCoYuG2L-uD1sQP-NOUkAU/ip/132.184.130.109/id/zNLuSLpSLL4.1/source/yt_live_broadcast/requiressl/yes/tx/24176215/txs/24176215%2C24176221/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/gcr/pe/spc/4ocVCxp_kPwhM_IWqKph9pvPbU1bbjS28c5RCNW4IXfW/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgYHqb3YoF3Tpmsbeil4xvkqjaYGKKslFtFZBz8Aj2-GYCIQDgpOqk7Rdb3NMCMAWotam8zAPynCDrC84IdFt7vnM8rw%3D%3D/file/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i0.wp.com/ondadigitaltv.com/wp-content/uploads/2018/11/LOGO-2019-1.png" group-title="TV PERUANA", ONDA DIGITAL TV
 https://v4.tustreaming.cl/ondadigitaltv/index.m3u8
 
