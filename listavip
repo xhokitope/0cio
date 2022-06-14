@@ -47,7 +47,7 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.co
 http://190.108.83.142:8000/play/a00x/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnj4six21x50vnaiL29u8xyeoD9Aas4BGSIQ&usqp=CAU" group-title="TV PERUANA", América TvGO
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/americatvnovelas
+https://z-p3-video.flim3-2.fna.fbcdn.net/hvideo-cln-odn/_nc_cat-1/_nc_sr_t-16/v/r3cQINrZgMkU-8F36ioOm/_nc_ohc-QO20WOdrE3wAX_CYn9s/live-dash/dash-abr5/5987294534625645.mpd?_nc_eui2=AeFjeKabfOlP0jm8GiRIrCfkvvKyfdbfOgO-8rJ91t86A2lzPuapj2uq5ObhyMhjnFE&ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AT-WmHvCifPdF0JFCtbkJN7Whj66uQMQe5i3Vwe51PAwsA&oe=62A9A420
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/ondadigitaltv.com/wp-content/uploads/2018/11/LOGO-2019-1.png" group-title="TV PERUANA", ONDA DIGITAL TV
 https://v4.tustreaming.cl/ondadigitaltv/index.m3u8
