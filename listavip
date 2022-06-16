@@ -169,6 +169,15 @@ https://cdnlive.codev8.net/rtpalive/smil:directo.smil/fmt_token/0Jo2_dDvuSo1yz-p
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3M82Y8YcqtSXtuHDW4Pf2k4KnhvBscSW3BQ&usqp=CAU" group-title="TV INTERNACIONAL", Real Madrid TV ES
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=1653452799~acl=/*~hmac=6fa983776826e1224ab4c19996ce92f00a1ad234617b07fd8a398160d72c19e0
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmn0_QtL2lo8yb2fUQ1E9DuNkZgQcwse_dSg&usqp=CAU" group-title="TV INTERNACIONAL", MX Prime
+http://177.53.152.186:8000/play/a001/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe-yuIWhB4yF0BBr3sHNZw6DcAy7DBQuyDQw&usqp=CAU" group-title="TV INTERNACIONAL", MX Classic
+http://177.53.152.186:8000/play/a004/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeSKraRSEVJWpxD_g-K9vzM_7bJSDEwU5GQg&usqp=CAU" group-title="TV INTERNACIONAL", MX Family
+http://177.53.152.186:8000/play/a002/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Xet5zEDv-seJIbytvF3NQmSc5ZPbmejOww&usqp=CAU" group-title="TV INTERNACIONAL", México Travel Channel
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/mexicotravelchannel
 
