@@ -94,6 +94,17 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channe
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/21ca8a68-3036-4366-8e0f-4844359e0a53-profile_image-300x300.png" group-title="Streamers En Directo", Komanche
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/komanche
 
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/6ef5787c-53d5-4626-b41f-620735a05384-profile_image-300x300.png" group-title="Streamers En Directo", Noe 9977
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/noe9977
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTG8gqiMdUzDa7gYPuARqLtM6uO6L3-FDg-g&usqp=CAU" group-title="Streamers En Directo", El Xokas
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/elxokas
+
+
+
+
+
+
 
 
 
