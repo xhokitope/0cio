@@ -419,6 +419,9 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.co
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR29VF6M8BFTZoG1uqCdj1UzasKZxVLUn_Ong&usqp=CAU" group-title="Musica En Vivo", ECUA ESTEREO TV EC
 https://video.misistemareseller.com/ecuastereotv/ecuastereotv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ49WURwKDmW2F2ppir8kgv-WObM10V3hP5g&usqp=CAU" group-title="Musica En Vivo", KPOP
+http://177.53.152.186:8000/play/a00j/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/81-813415_the-good-life-good-life-word-art.png" group-title="Musica En Vivo", The Good Life YT
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/TheGoodLiferadio
 
