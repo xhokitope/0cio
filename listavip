@@ -395,6 +395,24 @@ http://siloh.pluto.tv/lilo/production/bein/1/master_2.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjJkbqWLh-IQwp7tif7-Xm_7X6KvQqNIVPtA&usqp=CAU" group-title="Musica En Vivo", Zapping Music TV
 https://zmlive.zappingtv.com:443/zm-free/zm.smil/chunklist_live2_b1931600_sles.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSVpDjZrhZOagCAjGX8yU_HSHr2URuHXD_4g&usqp=CAU" group-title="Musica En Vivo", 4FUN.TV
+https://stream.4fun.tv:8888/hls/4f.m3u8
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Visi%C3%B3n-TV-M%C3%BAsica-en-vivo-Online.png" group-title="Musica En Vivo", Visi0n Music TV
+https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ49As8F5dI-MTdZnOFzsl9KDL9wGGLE0nHuw&usqp=CAU" group-title="Musica En Vivo", CM Music TV AR
+http://g2.vxral-hor.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8?sense=true
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB60TndvDZyeYseBtiNHI_0qpaUOhuYvSn8w&usqp=CAU" group-title="Musica En Vivo", MusicTop TV
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwyit1SBqhjJalHz4jM1kBEOXOUrgsIN6S2A&usqp=CAU" group-title="Musica En Vivo", RETRO TV
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLtUYhpQuZ2VottkgKyV-DZzF6omkKco2IwA&usqp=CAU" group-title="Musica En Vivo", Venus Media
+https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8?k=2cfe750de323a74c9d48e459877d284e64853a6b4517b7293d4bd638014957f5&exp=1655759686
+
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s86045g.png" group-title="Musica En Vivo", Turbo Mix TV
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 
