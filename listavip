@@ -477,7 +477,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/strea
 https://live1.presstv.ir/live/hispan.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSonNZP3LVtPS2xbEzGP2-nBysDuq9-2dVrZQ&usqp=CAU" group-title="Radio en Vivo", Studio92
-https://us-b4-p-e-cz3-audio.cdn.mdstrm.com/live-audio-aw/5fada553978fe1080e3ac5ea?aid=5faaeb72f92d7b07dfe10181&pid=7Tyx5ohcNf4ODxYbstFG0gaMx68fb7cH&sid=9S0I9HavoaDTNJLIktwqErKW4TVsPmfk&uid=hdtfKZCOuRM3uav0bmK7B8J1gtVHoBDe&es=us-b4-p-e-cz3-audio.cdn.mdstrm.com&ote=1642873721541&ot=Zyratm100AEjjHXhWNkJ3g&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada553978fe1080e3ac5ea
+https://mdstrm.com/audio/5fada553978fe1080e3ac5ea/icecast.audio
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToxGgaye2LRf_TKql2ncN5dmT50_queEnfxA&usqp=CAU" group-title="Radio en Vivo", Oxigeno
 https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/icecast.audio
