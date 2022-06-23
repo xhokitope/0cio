@@ -476,6 +476,9 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/strea
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUSgo0TsXOmLDi5uUYLaQ_OYlzKiPWTT1_Q&usqp=CAU" group-title="Ciencia | Cultura", HispanTV ES
 https://live1.presstv.ir/live/hispan.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpuaWvdNdvC1MX_BkIlVxhfx2i5XJ1f4y-CQ&usqp=CAU" group-title="Ciencia | Cultura", Heraldos Del Evangelio
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UChJqPe9oknbubGvn-8uN4Ug
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSonNZP3LVtPS2xbEzGP2-nBysDuq9-2dVrZQ&usqp=CAU" group-title="Radio en Vivo", Studio92
 https://mdstrm.com/audio/5fada553978fe1080e3ac5ea/icecast.audio
 
