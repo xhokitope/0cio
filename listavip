@@ -491,6 +491,15 @@ https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_fedb53qah_JYwBwcTQbrktduLQurNeN3_w&usqp=CAU" group-title="Radio en Vivo", OasisRock&Pop
 https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_OAS_SC?csegid=20001&dist=20001&ttag=20001
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKtZDGNw8FhOSRFjop36O65Kf7a-5kGu8M0Q&usqp=CAU" group-title="Radio en Vivo", Z Rock & Pop
+http://167.114.118.120:7440/;
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpZLyZy3uxrf9NNPHilBd1LNYbwWO_JBhZKw&usqp=CAU" group-title="Radio en Vivo", La Rock N Pop
+https://seven.360cpanel.com/8012/stream
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiAQ0dUx7slBmv8oFtxfiS6xQWRwLKTwsqjw&usqp=CAU" group-title="Radio en Vivo", La 90 Tera
+https://radiosonline.one/radio/8100/radio.mp3?_=1
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI4SSXH0OJkBXXumnDpCB3nYK_HYd1NMCazA&usqp=CAU" group-title="Radio en Vivo", LaMega
 https://mdstrm.com/audio/5fada56fe4e09508207a7951/live.m3u8
 
@@ -508,6 +517,9 @@ https://rautemusik-de-hz-fal-stream18.radiohost.de/charthits
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEyMXXbSUrJIaHkKGGOkZDShJ687XCt20qOw&usqp=CAU" group-title="Radio en Vivo", SuperStereo
 http://node-24.zeno.fm/g6nexaf92d0uv?rj-ttl=5&rj-tok=AAABfn3h-LAAyW0n6uryUf12Fg
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQw_x3ZmMLqXWYsT5EEXI4AFSSMbc9X19-Fg&usqp=CAU" group-title="Radio en Vivo", Karibeña
+https://7.innovatestream.pe:2020/stream/karibenaoficial/stream/1/
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxTM49WV_9ab3TZ34hy9zZChhWvlNLQSCSUg&usqp=CAU" group-title="Radio en Vivo", PBO Radio
 https://streamingv2.shoutcast.com/pbo-radiofm?1644124234781
