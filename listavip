@@ -302,6 +302,10 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/Baby
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR03S42m_AGzT5ui1w8dxE7Ed22FXnJkjjsNg&usqp=CAU" group-title="Niños | Juniors", Pinguino Pororo TV
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/PororoSpanish
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0tCqG4gsOXJgH6BTp0PnFb1x422IhVB6cBw&usqp=CAU" group-title="Niños | Juniors", Dragon Ball
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/dragonballenvivo
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0TjME7MYIoSrC64jpdDsKgKmYvBt8Jm-ZKQ&usqp=CAU" group-title="Niños | Juniors", Dragon ball Z TV
 https://z-p3-video.flim3-3.fna.fbcdn.net/hvideo-ncg-ldc/_nc_cat-105/_nc_sr_t-4/v/rRZDmb0oINVD7hAfbVxS1/_nc_ohc-hLDlHyoIUCgAX9ab5SV/live-dash/dash-abr5/144337384841443.mpd?_nc_eui2=AeHl5hachuODKb234-d6w4gd6x5JyXBCLHLrHknJcEIscsu1J_DGQ90BsW1UUbNDwFc&ccb=2-4&ms=m_CTPAL&sc_t=1&oh=00_AT_i3ibT_bd9WtR6oP75hyUsTO9ObFUAqtRnjJxuSCI8-Q&oe=62AA56AD
 
