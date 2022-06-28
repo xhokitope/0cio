@@ -399,6 +399,12 @@ http://siloh.pluto.tv/lilo/production/bein/1/master_2.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjJkbqWLh-IQwp7tif7-Xm_7X6KvQqNIVPtA&usqp=CAU" group-title="Musica En Vivo", Zapping Music TV
 https://zmlive.zappingtv.com:443/zm-free/zm.smil/chunklist_live2_b1931600_sles.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvIfKQ_Ta1wQHJJlfefL0TODQ_bqVwEsHQNQ&usqp=CAU" group-title="Musica En Vivo", Vorteix Rock
+https://prepublish.f.qaotic.net/a08/ngrp:vorterix_video1-20057_all/Playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnwoAS3m-KRMYcaQhgC80258XKZ44ynqv_Zw&usqp=CAU" group-title="Musica En Vivo", Venus Media
+https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSVpDjZrhZOagCAjGX8yU_HSHr2URuHXD_4g&usqp=CAU" group-title="Musica En Vivo", 4FUN.TV
 https://stream.4fun.tv:8888/hls/4f.m3u8
 
