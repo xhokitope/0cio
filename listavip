@@ -305,12 +305,11 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/Poro
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0tCqG4gsOXJgH6BTp0PnFb1x422IhVB6cBw&usqp=CAU" group-title="Niños | Juniors", Dragon Ball
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/dragonballenvivo
 
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0TjME7MYIoSrC64jpdDsKgKmYvBt8Jm-ZKQ&usqp=CAU" group-title="Niños | Juniors", Dragon ball Z TV
 https://z-p3-video.flim3-3.fna.fbcdn.net/hvideo-ncg-ldc/_nc_cat-105/_nc_sr_t-4/v/rRZDmb0oINVD7hAfbVxS1/_nc_ohc-hLDlHyoIUCgAX9ab5SV/live-dash/dash-abr5/144337384841443.mpd?_nc_eui2=AeHl5hachuODKb234-d6w4gd6x5JyXBCLHLrHknJcEIscsu1J_DGQ90BsW1UUbNDwFc&ccb=2-4&ms=m_CTPAL&sc_t=1&oh=00_AT_i3ibT_bd9WtR6oP75hyUsTO9ObFUAqtRnjJxuSCI8-Q&oe=62AA56AD
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsUDoAmdVGCaiSgjqa16aNMZWG3gq4PSJ_8Q&usqp=CAU" group-title="Niños | Juniors", Dragon ball Super TV
-https://z-p3-video.flim4-2.fna.fbcdn.net/hvideo-ncg-prn/_nc_cat-109/_nc_sr_t-4/v/r8WwW8jA-hHzVckocQHRz/_nc_ohc-oMSEVOPM8vAAX8oVkWy/live-dash/dash-abr5/546107317187907.mpd?_nc_eui2=AeGUSgUoKcemuvFYz3TwYEtJ55AzWafSWSbnkDNZp9JZJtTgqHMx-o1lC-gWkidNTJ8&ccb=2-4&ms=m_CTPAL&sc_t=1&oh=00_AT8dabzDYvd-Q74i2fB3J2vY4ovNkG1MNbLTyBQtgRbuEQ&oe=62B15215
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/dragonballentwitch
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRKgh9c7XzzzsG0mSPyidlmbOezn_OncIveg&usqp=CAU" group-title="Series | Peliculas", Peliculas HD
 https://z-p3-video.flim3-3.fna.fbcdn.net/hvideo-ncg-nao/_nc_cat-101/_nc_sr_t-4/v/r5Ca55K7xgEBcNZx9ku3U/_nc_ohc--e2ME-AGGOwAX-s8b3G/live-dash/dash-abr5/159249863312932.mpd?_nc_eui2=AeE26WZ1Y-FeXBw9IfdCEJnbOpRXQ4Qawt86lFdDhBrC38qpd_KL2EH2HhdymBYHvfA&ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AT8E1pYBaiX-9QhmAgWEC_iZbKQk2K7mfzlpT8OSsaNltg&oe=62A3A421
