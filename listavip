@@ -130,10 +130,10 @@ https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/La_Red_Uruguay_2018.png/revision/latest/scale-to-width-down/200?cb=20200825011821&path-prefix=es" group-title="TV INTERNACIONAL", La Red UY
 https://d268yhgc98lzal.cloudfront.net/sdredtv/sdredtv.m3u8
 
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnNygwBUBPEh1bWv4STpIseUuB1Y5DgLyIpQ&usqp=CAU" group-title="TV INTERNACIONAL", LaRed CL
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnNygwBUBPEh1bWv4STpIseUuB1Y5DgLyIpQ&usqp=CAU" group-title="TV INTERNACIONAL", LaRed CL
 https://d2ab26kihxq8p0.cloudfront.net/hls/live.m3u8
 
-EXTINF:-1 tvg-logo="https://arica.tv/wp-content/uploads/2020/02/aricatv-color_Mesa-de-trabajo-1-1.png" group-title="TV INTERNACIONAL", Arica TV CL
+#EXTINF:-1 tvg-logo="https://arica.tv/wp-content/uploads/2020/02/aricatv-color_Mesa-de-trabajo-1-1.png" group-title="TV INTERNACIONAL", Arica TV CL
 https://5eaccbab48461.streamlock.net:1936/8002/8002/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhkD44m7xqTbJtIZuzRSPI63E-FuiddaqOtjTT_mXywMF77xvUei-bXjLymwGWmmrjoTsZFrcilairQXmat0h4JsTSYVW7hbWbe9pNvTJ08H2dwENnxH_H3SofxtQn8-Q2xa5WCDMO099Yk13D3C_-SjGvGtHvn44KwtLPDpwQY7xj_I6YhNO9NuTVpCw=s600" group-title="TV INTERNACIONAL", Play Medios TV GUATEMALA
@@ -538,6 +538,9 @@ https://rautemusik-de-hz-fal-stream18.radiohost.de/charthits
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEyMXXbSUrJIaHkKGGOkZDShJ687XCt20qOw&usqp=CAU" group-title="Radio en Vivo", SuperStereo
 http://node-24.zeno.fm/g6nexaf92d0uv?rj-ttl=5&rj-tok=AAABfn3h-LAAyW0n6uryUf12Fg
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_kPMpxop8JDugExuTzsadrYDp1T27GkJnwQ&usqp=CAU" group-title="Radio en Vivo", Universal Stereo MX
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEUNO_AM_SC
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQw_x3ZmMLqXWYsT5EEXI4AFSSMbc9X19-Fg&usqp=CAU" group-title="Radio en Vivo", Karibeña
 https://7.innovatestream.pe:2020/stream/karibenaoficial/stream/1/
