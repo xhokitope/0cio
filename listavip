@@ -326,6 +326,42 @@ http://168.232.168.242:8089/play/a05h/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Warner_Channel_logo.png" group-title="Series | Peliculas", WARNER CHANNEL
 http://168.232.168.242:8089/play/a0eq/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmxLjLoWX7LfHckMq-sgbxYFBhpCE4yyBhwg&usqp=CAU" group-title="Series | Peliculas", TNT Series
+http://168.232.168.242:8089/play/a06l/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsMAZLSYszYGCUCY_5Wd77FJMscnxntVQLFg&usqp=CAU" group-title="Series | Peliculas", SONY CHANNEL
+http://168.232.168.242:8089/play/a09v/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoUGEERa9XF4J3AwfDYWwTNGl4RWSo2KMrvQ&usqp=CAU" group-title="Series | Peliculas", HBO HD
+http://168.232.168.242:8089/play/a010/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYdWe0yKsRRdJpxYhe34kd6DBX7F1xOAy5eg&usqp=CAU" group-title="Series | Peliculas", HBO 2
+http://168.232.168.242:8089/play/a011/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ99qxRFTVRvT7OYHfKG7kZJixOIKCl0IpYMw&usqp=CAU" group-title="Series | Peliculas", HBO PLUS
+http://168.232.168.242:8089/play/a012/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Series | Peliculas", HBO FAMILY
+http://168.232.168.242:8089/play/a013/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="Series | Peliculas", HBO XTREME
+http://168.232.168.242:8089/play/a014/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuy06bmT3Yu_WeK7X68zmYjWp4PzUCxf_X6g&usqp=CAU" group-title="Series | Peliculas", STAR CHANNEL
+http://168.232.168.242:8089/play/a04r/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5yZkqbvct3fly86Sx7CZegyAQZ7wKI-_wTg&usqp=CAU" group-title="Series | Peliculas", GOLDEN
+http://168.232.168.242:8089/play/a039/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_yx6U7B6vE_SFMsswrHNBhWva9J2EgGG06w&usqp=CAU" group-title="Series | Peliculas", CINEMAX
+http://168.232.168.242:8089/play/a053/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaefm-GHOeqHBxSKtgsUmQWWGospj0FC3Xhg&usqp=CAU" group-title="Series | Peliculas", FX
+http://168.232.168.242:8089/play/a05r/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsVitIRNOf3awFp6qPT9CwRqv67pI1Bq5G5A&usqp=CAU" group-title="Series | Peliculas", COMEDY CENTRAL
+http://168.232.168.242:8089/play/a066/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="Series | Peliculas", Cine Acción
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -533,6 +569,12 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channe
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxqAVi_JxGZOCO3SdsICCV78r5T3S7Aj84iQ&usqp=CAU" group-title="Ciencia | Cultura", History
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/vc_59tt
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxqAVi_JxGZOCO3SdsICCV78r5T3S7Aj84iQ&usqp=CAU" group-title="Ciencia | Cultura", History HD
+http://168.232.168.242:8089/play/a026/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYJ8U1zE4HmML93N6w3TRYhWdAg3oSGQgfQw&usqp=CAU" group-title="Ciencia | Cultura", History 2
+http://168.232.168.242:8089/play/a033/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-js981enMtykVVTizk6YAE4YGdcsMdFqRsg&usqp=CAU" group-title="Ciencia | Cultura", Cultura24TV PE
 https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
