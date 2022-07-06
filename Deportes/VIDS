@@ -6,10 +6,10 @@ http://178.132.2.27:6600/BRAZZERS_TV/index.m3u8
 #EXTINF:0 , Hustler TV
 http://178.132.2.27:6600/HUSTLER_HD/index.m3u8
 
-#EXTINF:0 , Private TV
+#EXTINF:0 , Private
 http://178.132.2.27:6600/PRIVATE_HD/index.m3u8
 
-#EXTINF:0 , Dorcel HD
+#EXTINF:0 , Dorcel
 http://178.132.2.27:6600/DORCEL_TV/index.m3u8
 
 #EXTINF:0 , VIVID RED HD
@@ -30,7 +30,7 @@ http://168.232.168.242:8089/play/a015/index.m3u8
 #EXTINF:0 , VENUS HD
 http://168.232.168.242:8089/play/a0ex/index.m3u8
 
-#EXTINF:0 , VENUS HD
+#EXTINF:0 , VENUS
 http://45.171.66.198:8082/play/a02l
 
 
