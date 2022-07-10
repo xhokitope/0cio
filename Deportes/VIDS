@@ -36,7 +36,7 @@ http://168.232.168.242:8089/play/a015/index.m3u8
 #EXTINF:0 , VENUS HD
 http://168.232.168.242:8089/play/a0ex/index.m3u8
 
-#EXTINF:0 , VENUS
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png", VENUS
 http://45.171.66.198:8082/play/a02l
 
 EXTINF:0 , RK TV
