@@ -479,12 +479,15 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/simp
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/simpsonmania28
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-GAIlp4pYbtLgMUcbGQ&usqp=CAU" group-title="Deportes", ESPN
-http://168.232.168.242:8089/play/a06f/index.m3u8
+http://45.71.185.142:8500/play/a01e
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-GAIlp4pYbtLgMUcbGQ&usqp=CAU" group-title="Deportes", ESPN HD
 http://181.176.148.142:8000/play/a02d
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH5GklkaKxYtvuEIl_t8V19hoLfRoNWV3cAg&usqp=CAU" group-title="Deportes", ESPN
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-GAIlp4pYbtLgMUcbGQ&usqp=CAU" group-title="Deportes", ESPN
+http://200.24.132.99:8000/play/a022
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH5GklkaKxYtvuEIl_t8V19hoLfRoNWV3cAg&usqp=CAU" group-title="Deportes", ESPN HD
 http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ellfQo2qVP_bHllprPmDcKY2FcFVHjEn4w&usqp=CAU" group-title="Deportes", ESPN EXTRA
@@ -519,6 +522,9 @@ http://181.176.148.142:8000/play/a02g
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-GAIlp4pYbtLgMUcbGQ&usqp=CAU" group-title="Deportes", ESPN CO
 http://181.64.11.222:8000/play/a021
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpICYrXPIfyB0U_0vTNOpTchr7-RxQYkcv5g&usqp=CAU" group-title="Deportes", GOL PERU
+http://181.78.10.235:58002/play/a0c1/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8bvldEAciCevtvsrv5aPlA6g6_X1aWbGOhA&usqp=CAU" group-title="Deportes", TyC Sports
 http://181.64.11.222:8000/play/a012
@@ -555,9 +561,6 @@ https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRGddKrL26aY3Yf7enSL107-oL1XdMhAdFaA&usqp=CAU" group-title="Deportes", Futbol En America l Dom 10 pm
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCxzM16KsVlgCjMW14sJCHDg
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpICYrXPIfyB0U_0vTNOpTchr7-RxQYkcv5g&usqp=CAU" group-title="Deportes", GOL PERU
-https://z-p3-video.flim4-3.fna.fbcdn.net/hvideo-ncg-ftw/_nc_cat006/_nc_sr_t-4/v/rEs_pnVZHS_TVQ2z_seA1/_nc_ohc-CQC03SmunMAAX-Jpl6o/live-dash/dash-abr5/513614527198763.mpd?_nc_eui2=AeEwZtMfhGoCIq_EclcY3l736Z4JU3ggnf7pnglTeCCd_u5BM3AxSGquCIT7kDggt_g&ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AT8aH7JOnn4hfMJmdIAV5LegWpE2p7hH7sono0wfL8rDkQ&oe=62B0D1DF
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpICYrXPIfyB0U_0vTNOpTchr7-RxQYkcv5g&usqp=CAU" group-title="Deportes", GOL PERU Opcion 2
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/6_.m3u8?token=yIh6CvfXUwz2ZW_QCxBClQ&expires=1655099225&ip=132.184.131.173
