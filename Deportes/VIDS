@@ -39,13 +39,13 @@ http://168.232.168.242:8089/play/a0ex/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png", VENUS
 http://45.171.66.198:8082/play/a02l
 
-EXTINF:0 , RKTV
+#EXTINF:0 , RK HD
 http://85.11.144.9:7766/RealityKings?token=test
 
-EXTINF:0 , EROXTV
+#EXTINF:0 , EROX TV
 http://85.11.144.9:7766/EroxHD?token=test
 
-EXTINF:0 , HOTHD
+#EXTINF:0 , HOT TV
 http://85.11.144.9:7766/SuperOneHD?token=test
 
 #EXTINF:-1,MILF
