@@ -345,11 +345,11 @@ https://www.twitch.tv/drakeplaydz
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0TjME7MYIoSrC64jpdDsKgKmYvBt8Jm-ZKQ&usqp=CAU" group-title="Niños | Juniors", Dragon ball Z
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/dragon_ball_superz
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiI-5aAtYdD4yDanonpy3HywaFpXZoS8g3cA&usqp=CAU" group-title="Niños | Juniors", Saint Seiya
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/francisco_sensei
-
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsUDoAmdVGCaiSgjqa16aNMZWG3gq4PSJ_8Q&usqp=CAU" group-title="Niños | Juniors", Dragon ball Super
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/dragonballentwitch
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiI-5aAtYdD4yDanonpy3HywaFpXZoS8g3cA&usqp=CAU" group-title="Niños | Juniors", Saint Seiya
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/francisco_sensei
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmn0_QtL2lo8yb2fUQ1E9DuNkZgQcwse_dSg&usqp=CAU" group-title="Series | Peliculas", MX Prime
 http://177.53.152.186:8000/play/a001/index.m3u8
