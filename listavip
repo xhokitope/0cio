@@ -339,8 +339,7 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/Poro
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/dragonballenvivoz
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt8B8o5UPLnGsaBFfER3OrleXRkoUroRwsag&usqp=CAU" group-title="Niños | Juniors", Dragon Ball +
-https://q22link.herokuapp.com/iptv-query?streaming-ip=
-https://www.twitch.tv/drakeplaydz
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/drakeplaydz
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0TjME7MYIoSrC64jpdDsKgKmYvBt8Jm-ZKQ&usqp=CAU" group-title="Niños | Juniors", Dragon ball Z
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/dragon_ball_superz
