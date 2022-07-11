@@ -277,8 +277,7 @@ https://canaltrece-live.logicideas.media/canaltrece-live/smil:live.smil/playlist
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeZyUOQl7B44_cqoow5Wl_FTFL_naNNzScVg&usqp=CAU" group-title="TV INTERNACIONAL", Mega Noticias CL
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/Meganoticiasoficial
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0RZVhNcsWYkqPgKxg8WEbKTiQkc7VIYN5Vw&usqp=CAU" group-title="TV INTERNACIONAL"
-, T13 En Vivo CL
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0RZVhNcsWYkqPgKxg8WEbKTiQkc7VIYN5Vw&usqp=CAU" group-title="TV INTERNACIONAL", T13 En Vivo CL
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/tele13
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYYleCyYAyENvTEWWUjPMHsM3x5QkZqi2JFA&usqp=CAU" group-title="TV INTERNACIONAL", ECUADOR TV
