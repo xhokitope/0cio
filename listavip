@@ -97,6 +97,9 @@ https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREhRKq4cEPB0Me2eJuYvc5nkCA97S96Q8Eng&usqp=CAU" group-title="TV PERUANA", EXITOSA TV
 https://cu.onliv3.com/livevd1/user2.m3u8
 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREhRKq4cEPB0Me2eJuYvc5nkCA97S96Q8Eng&usqp=CAU" group-title="TV PERUANA", EXITOSA TV
+http://200.48.64.110:8080/udp/239.2.2.138:1010
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="TV PERUANA", EXITOSA NOTICIAS YT
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/ExitosaNoticiasOficial
 
@@ -355,17 +358,20 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/fran
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmn0_QtL2lo8yb2fUQ1E9DuNkZgQcwse_dSg&usqp=CAU" group-title="Series | Peliculas", MX Prime
 http://177.53.152.186:8000/play/a001/index.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe-yuIWhB4yF0BBr3sHNZw6DcAy7DBQuyDQw&usqp=CAU" group-title="Series | Peliculas", MX Classic
-http://177.53.152.186:8000/play/a004/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZUaPmIleejqBePDBbE2YNH0zk3Cy2l-_gVw&usqp=CAU" group-title="Series | Peliculas", Cinema Inolvidable
+http://200.48.64.110:8080/udp/239.2.2.138:1009
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeSKraRSEVJWpxD_g-K9vzM_7bJSDEwU5GQg&usqp=CAU" group-title="Series | Peliculas", MX Family
-http://177.53.152.186:8000/play/a002/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT06Za6sS8deTJjPQdNI5mdDwAoXKvEcbdJcQ&usqp=CAU" group-title="Series | Peliculas", Cine Premium
+http://200.48.64.110:8080/udp/239.2.2.138:1007
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxm3WcA7_HkSg7ELbQw0E97yrlywVkVCiFfw&usqp=CAU" group-title="Series | Peliculas", SPACE
 http://45.71.185.142:8500/play/a02z
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxm3WcA7_HkSg7ELbQw0E97yrlywVkVCiFfw&usqp=CAU" group-title="Series | Peliculas", SPACE HD
 http://181.78.10.235:58002/play/a0bu/index.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxm3WcA7_HkSg7ELbQw0E97yrlywVkVCiFfw&usqp=CAU" group-title="Series | Peliculas", SPACE
+http://200.48.64.110:8080/udp/239.2.2.138:1002
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Warner_Channel_logo.png" group-title="Series | Peliculas", WARNER CHANNEL
 http://45.71.185.142:8500/play/a01a
@@ -547,6 +553,9 @@ http://45.71.185.142:8500/play/a06x
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpICYrXPIfyB0U_0vTNOpTchr7-RxQYkcv5g&usqp=CAU" group-title="Deportes", GOL PERU
 http://181.78.10.235:58002/play/a0c1/index.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpICYrXPIfyB0U_0vTNOpTchr7-RxQYkcv5g&usqp=CAU" group-title="Deportes", GOL PERU
+http://200.48.64.110:8080/udp/239.2.2.138:1001
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8bvldEAciCevtvsrv5aPlA6g6_X1aWbGOhA&usqp=CAU" group-title="Deportes", TyC Sports
 http://181.64.11.222:8000/play/a012
