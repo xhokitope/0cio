@@ -10,6 +10,9 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/zorm
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu6Lo1AnG9FMMUMucbHC01NyOkl7LNIXGqOg&usqp=CAU" group-title="Streamers En Directo", Staryuuki
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/staryuuki
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE3A5wPr8VUF6KVfrEVK27X4DAas0kvuOk_w&usqp=CAU" group-title="Streamers En Directo", VioletaG
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/violetag
+
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b563146b-3b41-4f0e-937f-031357516c23-profile_image-300x300.png" group-title="Streamers En Directo", AriGameplays
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/arigameplays
 
@@ -22,7 +25,7 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/rubi
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjdfEUN--b7ZO1pL_sJxoiR7FyVH3wtdmeoQ&usqp=CAU" group-title="Streamers En Directo", Don Ibai
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/ibai
 
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/e463b74a-7e63-49b3-94d7-33d6959c5d45-profile_image-300x300.png" group-title="Streamers En Directo", Tanizen
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHBwshcJSVlf_znNr2qs44aEiBJJenRmNjQw&usqp=CAU" group-title="Streamers En Directo", Tanizen
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/tanizen
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwNuzqDC9yth8j7w0rw9ZJvKZ-hyKjPVo6zQ&usqp=CAU" group-title="Streamers En Directo", TheGrefg
@@ -31,7 +34,7 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/theg
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/9fe6686f-d1a0-41a5-9962-5c73997d3dca-profile_image-300x300.png" group-title="Streamers En Directo", IamCristinini
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/iamcristinini
 
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/720866a6-230d-46a3-b627-d6ac53e9bb95-profile_image-300x300.png" group-title="Streamers En Directo", Biyin
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1T5nv1UMtYBAeDEIIZmEF00Fu6a4yI-5qjA&usqp=CAU" group-title="Streamers En Directo", Biyin
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/biyin_
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH5--Br8V-ia91efX5OBpggS0lyWbhrADpmw&usqp=CAU" group-title="Streamers En Directo", ElChiringuitoTV
