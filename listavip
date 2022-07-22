@@ -41,7 +41,7 @@ http://186.46.29.115:8000/play/a01l/index.m3u8
 http://181.176.148.142:8000/play/a02p
 
 EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCNrKIpMpnWw1V3psfj-dpZMGqFWoIUsuaw&usqp=CAU" group-title="TV PERUANA", Latina TV
-http://181.176.148.142:8000/play/a02p
+http://181.65.169.36:8000/play/60187/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCNrKIpMpnWw1V3psfj-dpZMGqFWoIUsuaw&usqp=CAU" group-title="TV PERUANA", Latina HD
 http://177.53.152.186:8000/play/a019/index.m3u8
@@ -86,7 +86,7 @@ http://181.176.148.142:8000/play/a02k
 http://186.46.29.115:8000/play/a01m/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnj4six21x50vnaiL29u8xyeoD9Aas4BGSIQ&usqp=CAU" group-title="TV PERUANA", América TvGO 2
-http://l3d.us:25461/daleplayD/PN2WghCVNvMk/11437
+http://181.65.169.36:8000/play/a05u/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjFu1v4nogWUR6-t48F7HH8GASg290M1uc6w&usqp=CAU" group-title="TV PERUANA", Canal N
 http://l3d.us:25461/daleplayD/PN2WghCVNvMk/10636
@@ -561,7 +561,7 @@ http://181.78.10.235:58002/play/a0c1/index.m3u8
 http://200.48.64.110:8080/udp/239.2.2.138:1001
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpICYrXPIfyB0U_0vTNOpTchr7-RxQYkcv5g&usqp=CAU" group-title="Deportes", GOL PERU
-http://l3d.us:25461/daleplayD/PN2WghCVNvMk/10921
+http://181.65.169.36:8000/play/a02v/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWqoQOMrVxiQQOvQc3nvAeRHhXmfTG3vtgRQ&usqp=CAU" group-title="Deportes", Movistar Deportes
 http://l3d.us:25461/daleplayD/PN2WghCVNvMk/10643
@@ -576,7 +576,7 @@ http://l3d.us:25461/daleplayD/PN2WghCVNvMk/202157
 http://l3d.us:25461/daleplayD/PN2WghCVNvMk/219210
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIVl8zFNoC6pDcyD3ZCEoSmxe0icENy0E8sg&usqp=CAU" group-title="Deportes", DirecTV Sports 2
-http://l3d.us:25461/daleplayD/PN2WghCVNvMk/203187
+http://181.65.169.36:8000/play/a02r/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8bvldEAciCevtvsrv5aPlA6g6_X1aWbGOhA&usqp=CAU" group-title="Deportes", TyC Sports
 http://181.64.11.222:8000/play/a012
@@ -619,15 +619,6 @@ https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRGddKrL26aY3Yf7enSL107-oL1XdMhAdFaA&usqp=CAU" group-title="Deportes", Futbol En America l Dom 10 pm
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCxzM16KsVlgCjMW14sJCHDg
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpICYrXPIfyB0U_0vTNOpTchr7-RxQYkcv5g&usqp=CAU" group-title="Deportes", GOL PERU Opcion 2
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/6_.m3u8?token=yIh6CvfXUwz2ZW_QCxBClQ&expires=1655099225&ip=132.184.131.173
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpICYrXPIfyB0U_0vTNOpTchr7-RxQYkcv5g&usqp=CAU" group-title="Deportes", GOL PERU Opcion 3
-https://2204lw.janjua.pw:8088/adfree/Golpeh1/playlist.m3u8?vidictid=191562141380&id=107964&pk=cd89e0ce4fca0c465be83b782fa401fae481a84ded5eb257f5a2d109f65ddc8d
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpICYrXPIfyB0U_0vTNOpTchr7-RxQYkcv5g&usqp=CAU" group-title="Deportes", GOL PERU Opcion 4
-https://b41841-p10-hfd-afyisuzz.2.cdn.telefonica.com/_41841/_-_81JdORNhLfCWz1_dyKGyJIQgQ0WEU9x9jwoDLb-Tna-oXVPaeQPHgZVK6JUtmOXe_-_/live/disk1/MovistarDeportes/MOVDEPORTES_SP_DASH_HD/MovistarDeportes.mpd
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFKueaSZ_4733wkNutT-IFyykzzJAiGW2tAA&usqp=CAU" group-title="Deportes", Diario Depor PE
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/DiarioDeporoficial

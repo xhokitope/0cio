@@ -33,6 +33,9 @@ http://168.232.168.242:8089/play/a0i9/index.m3u8
 EXTINF:0 , PLAYBOY
 http://168.232.168.242:8089/play/a015/index.m3u8
 
+EXTINF:0 , PLAYBOY
+http://181.224.161.88:58003/play/a00x/index.m3u8
+
 #EXTINF:0 , VENUS HD
 http://168.232.168.242:8089/play/a0ex/index.m3u8
 
@@ -44,6 +47,9 @@ http://85.11.144.9:7766/RealityKings?token=test
 
 #EXTINF:0 , EROX TV
 http://85.11.144.9:7766/EroxHD?token=test
+
+#EXTINF:0 , EROX TV
+http://176.210.110.122:8000/play/a0id/index.m3u8
 
 #EXTINF:0 , HOT TV
 http://85.11.144.9:7766/SuperOneHD?token=test
