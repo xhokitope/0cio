@@ -3,6 +3,9 @@
 #EXTINF:0 , Brazzers TV Europe
 http://178.132.2.27:6600/BRAZZERS_TV/index.m3u8
 
+#EXTINF:0 , Brazzers TV Europe
+http://176.210.110.122:8000/play/a0kr/index.m3u8
+
 #EXTINF:0 , Hustler TV
 http://178.132.2.27:6600/HUSTLER_HD/index.m3u8
 
@@ -14,6 +17,24 @@ http://178.132.2.27:6600/PRIVATE_HD/index.m3u8
 
 #EXTINF:0 , Private TV
 http://85.11.144.9:7766/Private?token=test
+
+#EXTINF:0 , SEXTREME
+http://191.212.166.203:4000/play/a0ed
+
+#EXTINF:0 , SEXY HOT
+http://191.212.166.203:4000/play/a0ef
+
+#EXTINF:0 , SEXPRIVE
+http://191.212.166.203:4000/play/a0fu
+
+#EXTINF:0 , ADULTOS
+http://191.212.166.203:4000/play/a0g5
+
+#EXTINF:0 , ADULTOS
+http://191.212.166.203:4000/play/a0fw
+
+#EXTINF:0 , ADULTOS
+http://191.212.166.203:4000/play/a0fx
 
 #EXTINF:0 , Dorcel
 http://178.132.2.27:6600/DORCEL_TV/index.m3u8
