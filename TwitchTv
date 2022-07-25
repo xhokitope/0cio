@@ -4,11 +4,17 @@
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBqH_p8KNozANAcBjRUUPL80VlSzRIleFXLg&usqp=CAU" group-title="Streamers En Directo", AuronPlay
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/auronplay
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNvKx7p-w6Tpr3twlznyVETN6Ryk9r1QSBLw&usqp=CAU" group-title="Streamers En Directo", Ampeterby7
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/ampeterby7
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTckLDgRK_7TA_-WlzwkY8DGOHbpwxrrdOMzw&usqp=CAU" group-title="Streamers En Directo", ZormanWorld
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/zormanworld
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu6Lo1AnG9FMMUMucbHC01NyOkl7LNIXGqOg&usqp=CAU" group-title="Streamers En Directo", Staryuuki
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/staryuuki
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2bEg2Iz0_g6LrxS_-axvRjYwDH8I1T7AOgw&usqp=CAU" group-title="Streamers En Directo", Karchez
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/karchez
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE3A5wPr8VUF6KVfrEVK27X4DAas0kvuOk_w&usqp=CAU" group-title="Streamers En Directo", VioletaG
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/violetag
