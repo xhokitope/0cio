@@ -29,7 +29,7 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/WFDI
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/PBODigital
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5z9NwZ-1ngD9OF16quK1nBf_-V_Qjpg9WWQ&usqp=CAU" group-title="TV PERUANA", Retro HD
-http://181.176.148.142:8000/play/a02y
+http://181.176.148.142:8000/play/a02x
 
 
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/Lql5U9xcawSmCM2sVc0KVjZwdNkBMc7laQaah2u5NAG_ByqsYB0nwVz7QME2K3CnLFmdkxLBVQ=s900-c-k-c0x00ffffff-no-rj" group-title="TV PERUANA", 24 Horas PE
@@ -339,7 +339,7 @@ http://azxtv.com/hls/stream.m3u8
 https://cdnh75.iblups.com/hls/OVJNKV4pSr.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5z9NwZ-1ngD9OF16quK1nBf_-V_Qjpg9WWQ&usqp=CAU" group-title="Niños | Juniors", Retro HD
-http://181.176.148.142:8000/play/a02y
+http://181.176.148.142:8000/play/a02x
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAJ7y_koapV8_Y119f_6OMLabrk7PQTi9tTw&usqp=CAU" group-title="Niños | Juniors", TaTeTi CL
 https://player.vimeo.com/external/525696991.m3u8?s=52bfc0cf9cec79027e89aef30cc6b3c81d1f218c
@@ -390,7 +390,7 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/drag
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/francisco_sensei
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5z9NwZ-1ngD9OF16quK1nBf_-V_Qjpg9WWQ&usqp=CAU" group-title="Series | Peliculas", Retro HD
-http://181.176.148.142:8000/play/a02y
+http://181.176.148.142:8000/play/a02x
 
 #EXTINF:0 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinefamiliar.png" group-title="Series | Peliculas", Cine Familiar
 http://181.176.148.142:8000/play/a023
