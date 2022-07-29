@@ -395,11 +395,23 @@ http://181.176.148.142:8000/play/a02x
 #EXTINF:0 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinefamiliar.png" group-title="Series | Peliculas", Cine Familiar
 http://181.176.148.142:8000/play/a023
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZUaPmIleejqBePDBbE2YNH0zk3Cy2l-_gVw&usqp=CAU" group-title="Series | Peliculas", Cinema Inolvidable
-http://200.48.64.110:8080/udp/239.2.2.138:1009
+#EXTINF:0 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinehispano.png" group-title="Series | Peliculas", Cine Hispano
+http://181.176.148.142:8000/play/a024
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT06Za6sS8deTJjPQdNI5mdDwAoXKvEcbdJcQ&usqp=CAU" group-title="Series | Peliculas", Cine Premium
-http://200.48.64.110:8080/udp/239.2.2.138:1007
+http://181.176.148.142:8000/play/a025
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTkXsvfPIsko4y3HPTetW2DMmgD-EBLGAgVw&usqp=CAU" group-title="Series | Peliculas", AXN
+http://8.242.179.184:58002/play/a04a/index.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTkXsvfPIsko4y3HPTetW2DMmgD-EBLGAgVw&usqp=CAU" group-title="Series | Peliculas", AXN
+http://200.119.218.90:58001/play/a02q/index.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1200px-Universal_Channel_Logo_2013.svg.png" group-title="Series | Peliculas", UNIVERSAL
+http://8.242.179.184:58002/play/a041/index.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1200px-Universal_Channel_Logo_2013.svg.png" group-title="Series | Peliculas", UNIVERSAL
+http://181.78.6.57:8000/play/a005/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxm3WcA7_HkSg7ELbQw0E97yrlywVkVCiFfw&usqp=CAU" group-title="Series | Peliculas", SPACE
 http://45.71.185.142:8500/play/a02z
@@ -409,6 +421,12 @@ http://181.78.10.235:58002/play/a0bu/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxm3WcA7_HkSg7ELbQw0E97yrlywVkVCiFfw&usqp=CAU" group-title="Series | Peliculas", SPACE
 http://200.48.64.110:8080/udp/239.2.2.138:1002
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP8pBXGLHFsD0WRf1cGc2IiuO_zQrIDeLSbA&usqp=CAU" group-title="Series | Peliculas", PARAMOUNT NETWORK
+http://200.119.218.90:58001/play/a01i/index.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP8pBXGLHFsD0WRf1cGc2IiuO_zQrIDeLSbA&usqp=CAU" group-title="Series | Peliculas", PARAMOUNT NETWORK
+http://181.65.169.36:8000/play/a017/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Warner_Channel_logo.png" group-title="Series | Peliculas", WARNER CHANNEL
 http://45.71.185.142:8500/play/a01a
@@ -437,14 +455,14 @@ http://168.232.168.242:8089/play/a06l/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmxLjLoWX7LfHckMq-sgbxYFBhpCE4yyBhwg&usqp=CAU" group-title="Series | Peliculas", TNT SERIES
 http://45.171.66.198:8082/play/a00x
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsMAZLSYszYGCUCY_5Wd77FJMscnxntVQLFg&usqp=CAU" group-title="Series | Peliculas", SONY CHANNEL
-http://168.232.168.242:8089/play/a09v/index.m3u
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsMAZLSYszYGCUCY_5Wd77FJMscnxntVQLFg&usqp=CAU" group-title="Series | Peliculas", SONY
+http://200.119.218.90:58001/play/a03m/index.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsMAZLSYszYGCUCY_5Wd77FJMscnxntVQLFg&usqp=CAU" group-title="Series | Peliculas", SONY CHANNEL
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsMAZLSYszYGCUCY_5Wd77FJMscnxntVQLFg&usqp=CAU" group-title="Series | Peliculas", SONY
 http://200.24.132.99:8000/play/a02o
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsMAZLSYszYGCUCY_5Wd77FJMscnxntVQLFg&usqp=CAU" group-title="Series | Peliculas", SONY
-http://181.64.11.222:8000/play/a01q
+http://45.225.95.170:8005/play/a02i
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoUGEERa9XF4J3AwfDYWwTNGl4RWSo2KMrvQ&usqp=CAU" group-title="Series | Peliculas", HBO HD
 http://45.71.185.142:8500/play/a02v
