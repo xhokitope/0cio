@@ -402,7 +402,7 @@ http://181.176.148.142:8000/play/a024
 http://181.176.148.142:8000/play/a025
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTkXsvfPIsko4y3HPTetW2DMmgD-EBLGAgVw&usqp=CAU" group-title="Series | Peliculas", AXN
-http://8.242.179.184:58002/play/a04a/index.m3u8
+http://45.225.95.171:8000/play/a0fn/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTkXsvfPIsko4y3HPTetW2DMmgD-EBLGAgVw&usqp=CAU" group-title="Series | Peliculas", AXN
 http://200.119.218.90:58001/play/a02q/index.m3u8
@@ -428,11 +428,10 @@ http://200.119.218.90:58001/play/a01i/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP8pBXGLHFsD0WRf1cGc2IiuO_zQrIDeLSbA&usqp=CAU" group-title="Series | Peliculas", PARAMOUNT NETWORK
 http://181.65.169.36:8000/play/a017/index.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Warner_Channel_logo.png" group-title="Series | Peliculas", WARNER CHANNEL
-http://45.71.185.142:8500/play/a01a
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Warner_Channel_logo.png" group-title="Series | Peliculas", WARNER TV
-http://181.64.11.222:8000/play/a00y
+#EXTINF:0 tvg-logo="https://seeklogo.com/images/W/warner-channel-logo-7CD6F1795B-seeklogo.com.png" group-title="Series | Peliculas", WARNER CHANNEL
+http://8.242.187.236:5007/play/a038/index.m3u8
+#EXTINF:0 tvg-logo="https://seeklogo.com/images/W/warner-channel-logo-7CD6F1795B-seeklogo.com.png" group-title="Series | Peliculas", WARNER
+http://45.225.95.170:8005/play/a02j
 
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/8/8f/TNT_Logo_2016.svg.png/revision/latest?cb=20161130200545&path-prefix=es" group-title="Series | Peliculas", TNT
 http://45.71.185.142:8500/play/a00g
