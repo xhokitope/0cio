@@ -496,10 +496,10 @@ http://45.71.185.142:8500/play/a012
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="Series | Peliculas", HBO XTREME
 http://45.71.185.142:8500/play/a011
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuy06bmT3Yu_WeK7X68zmYjWp4PzUCxf_X6g&usqp=CAU" group-title="Series | Peliculas", FOX CHANNEL
+#EXTINF:0 tvg-name"FOX CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuy06bmT3Yu_WeK7X68zmYjWp4PzUCxf_X6g&usqp=CAU" group-title="Series | Peliculas", STAR CHANNEL
 http://45.71.185.142:8500/play/a00c
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuy06bmT3Yu_WeK7X68zmYjWp4PzUCxf_X6g&usqp=CAU" group-title="Series | Peliculas", STAR CHANNEL
+#EXTINF:0 tvg-name="FOX CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuy06bmT3Yu_WeK7X68zmYjWp4PzUCxf_X6g&usqp=CAU" group-title="Series | Peliculas", STAR CHANNEL
 http://181.78.10.235:58002/play/a0b2/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5yZkqbvct3fly86Sx7CZegyAQZ7wKI-_wTg&usqp=CAU" group-title="Series | Peliculas", GOLDEN
@@ -626,10 +626,10 @@ http://190.108.85.117:8000/play/a01e/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-GAIlp4pYbtLgMUcbGQ&usqp=CAU" group-title="Deportes", ESPN CO
 http://45.71.185.142:8500/play/a06x
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpICYrXPIfyB0U_0vTNOpTchr7-RxQYkcv5g&usqp=CAU" group-title="Deportes", GOL PERU
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpICYrXPIfyB0U_0vTNOpTchr7-RxQYkcv5g&usqp=CAU" group-title="Deportes", GOLPERU HD
 http://181.78.10.235:58002/play/a0c1/index.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpICYrXPIfyB0U_0vTNOpTchr7-RxQYkcv5g&usqp=CAU" group-title="Deportes", GOL PERU
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpICYrXPIfyB0U_0vTNOpTchr7-RxQYkcv5g&usqp=CAU" group-title="Deportes", GOLPERU
 http://45.225.95.171:8000/play/a0ir/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpICYrXPIfyB0U_0vTNOpTchr7-RxQYkcv5g&usqp=CAU" group-title="Deportes", GOL PERU
@@ -638,7 +638,7 @@ http://209.45.81.8:8000/play/a00h/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpICYrXPIfyB0U_0vTNOpTchr7-RxQYkcv5g&usqp=CAU" group-title="Deportes", GOL PERU
 http://181.65.169.36:8000/play/a02v/index.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWqoQOMrVxiQQOvQc3nvAeRHhXmfTG3vtgRQ&usqp=CAU" group-title="Deportes", Movistar Deportes
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWqoQOMrVxiQQOvQc3nvAeRHhXmfTG3vtgRQ&usqp=CAU" group-title="Deportes", M Deportes
 http://209.45.81.8:8000/play/a00b/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp06MjF6mDiTCRVUxglZoxi6DdHF_4JgwMlA&usqp=CAU" group-title="Deportes", DirecTV Sports
