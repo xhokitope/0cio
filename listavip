@@ -389,19 +389,19 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/drag
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiI-5aAtYdD4yDanonpy3HywaFpXZoS8g3cA&usqp=CAU" group-title="Niños | Juniors", Saint Seiya
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/francisco_sensei
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkA0QOWSs0BYu-Rqh7FXCWTH4NOHikFuvTew&usqp=CAU" group-title="Series | Peliculas", El Chavo Del 8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkA0QOWSs0BYu-Rqh7FXCWTH4NOHikFuvTew&usqp=CAU" group-title="Niños | Juniors", El Chavo Del 8
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/chavo_mania
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnFay6RNwnKV4PiSGJqQagIWPXvxWejLOPCg&usqp=CAU" group-title="Series | Peliculas", El Chavo Del 8 +
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnFay6RNwnKV4PiSGJqQagIWPXvxWejLOPCg&usqp=CAU" group-title="Niños | Juniors", El Chavo Del 8 +
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/chavodel8ocho
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQodPlkF0dzQM9TyP6ruFWV0pMYCABJr20C9g&usqp=CAU" group-title="Series | Peliculas", El Chapulin Colorado
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQodPlkF0dzQM9TyP6ruFWV0pMYCABJr20C9g&usqp=CAU" group-title="Niños | Juniors", El Chapulin Colorado
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/chapulin_colorado_directo
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFpq0NXYU7290syMIka2qL-jOGTqTHz1VD3g&usqp=CAU" group-title="Series | Peliculas", Los Simpsons
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFpq0NXYU7290syMIka2qL-jOGTqTHz1VD3g&usqp=CAU" group-title="Niños | Juniors", Los Simpsons
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/simpsonmania24_7
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_N9eD6PrD1q4-Iu7bQb2Q9Z4CK12S1cvKrg&usqp=CAU" group-title="Series | Peliculas", Los Simpsons +
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_N9eD6PrD1q4-Iu7bQb2Q9Z4CK12S1cvKrg&usqp=CAU" group-title="Niños | Juniors", Los Simpsons +
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/simpsonmania28
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5z9NwZ-1ngD9OF16quK1nBf_-V_Qjpg9WWQ&usqp=CAU" group-title="Series | Peliculas", Retro HD
