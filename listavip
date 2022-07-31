@@ -2,8 +2,7 @@
 
 
 #EXTINF:0 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax TV
-
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/WillaxTV
+http://bit.ly/willax_m3u8
 
 #EXTINF:0 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax TV
 http://186.46.29.115:8000/play/a01j/index.m3u8
