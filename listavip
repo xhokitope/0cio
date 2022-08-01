@@ -2,10 +2,7 @@
 
 
 #EXTINF:0 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/WillaxTV
-
-#EXTINF:0 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
-http://186.46.29.115:8000/play/a01j/index.m3u8
+http://209.45.81.8:8000/play/a02p/index.m3u8
 
 #EXTINF:0 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
 http://181.176.148.142:8000/play/a01v
@@ -15,6 +12,9 @@ http://209.45.81.8:8000/play/a02p/index.m3u8
 
 #EXTINF:0 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
 http://190.108.85.117:8000/play/a02g/index.m3u8
+
+#EXTINF:0 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/WillaxTV
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBJPpzvZ3ZeFcbatXoR4Hszd6CK73VrroUA&usqp=CAU" group-title="TV PERUANA", Willax YT
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/willaxtv
@@ -74,19 +74,19 @@ https://d2b3qmftt7nn1c.cloudfront.net:443/atv/smil:atv-mas.smil/chunklist_b10240
 https://d2b3qmftt7nn1c.cloudfront.net:443/atv/smil:atv-mas.smil/chunklist_b850000.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNodEC5o4GRK0MaFR_r8zSsrNxYuJjeDdUzA&usqp=CAU" group-title="TV PERUANA", PANAMERICANA TV
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/PanamericanaPTV
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNodEC5o4GRK0MaFR_r8zSsrNxYuJjeDdUzA&usqp=CAU" group-title="TV PERUANA", PANAMERICANA TV
 http://181.176.148.142:8000/play/a02v
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNodEC5o4GRK0MaFR_r8zSsrNxYuJjeDdUzA&usqp=CAU" group-title="TV PERUANA", PANAMERICANA TV
-http://181.64.11.222:8000/play/a01j
+http://45.225.95.171:8000/play/a0ec/index.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNodEC5o4GRK0MaFR_r8zSsrNxYuJjeDdUzA&usqp=CAU" group-title="TV PERUANA", PANAMERICANA TV
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/PanamericanaPTV
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmDXwq_JVNoby065mDeURMs9zHCd4FU9GnvQ&usqp=CAU" group-title="TV PERUANA", GLOBAL PE
 http://190.108.83.142:8000/play/a00x/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmDXwq_JVNoby065mDeURMs9zHCd4FU9GnvQ&usqp=CAU" group-title="TV PERUANA", GLOBAL PE
-http://190.108.85.117:8000/play/a02i/index.m3u8
+http://45.225.95.171:8000/play/a0eh/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmDXwq_JVNoby065mDeURMs9zHCd4FU9GnvQ&usqp=CAU" group-title="TV PERUANA", GLOBAL PE
 http://181.176.148.142:8000/play/a02k
@@ -98,7 +98,10 @@ http://186.46.29.115:8000/play/a01m/index.m3u8
 http://181.65.169.36:8000/play/a05u/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjFu1v4nogWUR6-t48F7HH8GASg290M1uc6w&usqp=CAU" group-title="TV PERUANA", Canal N
-http://l3d.us:25461/daleplayD/PN2WghCVNvMk/10636
+http://45.225.95.171:8000/play/a0ef/index.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjFu1v4nogWUR6-t48F7HH8GASg290M1uc6w&usqp=CAU" group-title="TV PERUANA", Canal N
+http://45.225.95.171:8000/play/a0f4/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i0.wp.com/ondadigitaltv.com/wp-content/uploads/2018/11/LOGO-20190.png" group-title="TV PERUANA", ONDA DIGITAL TV
 https://v4.tustreaming.cl/ondadigitaltv/index.m3u8
@@ -111,9 +114,6 @@ https://cu.onliv3.com/livevd1/user2.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREhRKq4cEPB0Me2eJuYvc5nkCA97S96Q8Eng&usqp=CAU" group-title="TV PERUANA", EXITOSA NOTICIAS
 http://200.48.64.110:8080/udp/239.2.2.138:1010
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="TV PERUANA", EXITOSA NOTICIAS YT
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/ExitosaNoticiasOficial
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKSMfslaD8NtNeI1iCUvpdB3iUz-9tDEZvNQ&usqp=CAU" group-title="TV PERUANA", RPP
 http://45.225.95.171:8000/play/a0f5/index.m3u8
@@ -467,10 +467,10 @@ http://45.225.95.170:8005/play/a03n
 http://190.108.87.149:8000/play/a028/index.m3u8
 
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/8/8f/TNT_Logo_2016.svg.png/revision/latest?cb=20161130200545&path-prefix=es" group-title="Series | Peliculas", TNT
-http://8.242.187.236:5007/play/a05n/index.m3u8
+http://45.225.95.171:8000/play/a0jd/index.m3u8
 
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/8/8f/TNT_Logo_2016.svg.png/revision/latest?cb=20161130200545&path-prefix=es" group-title="Series | Peliculas", TNT
-http://45.171.66.198:8082/play/a015
+http://8.242.187.236:5007/play/a05n/index.m3u8
 
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/8/8f/TNT_Logo_2016.svg.png/revision/latest?cb=20161130200545&path-prefix=es" group-title="Series | Peliculas", TNT HD
 http://181.78.10.235:58002/play/a0cn/index.m3u8
@@ -482,7 +482,7 @@ http://181.78.10.235:58002/play/a0b3/index.m3u8
 http://181.78.10.235:58002/play/a0co/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmxLjLoWX7LfHckMq-sgbxYFBhpCE4yyBhwg&usqp=CAU" group-title="Series | Peliculas", TNT SERIES
-http://168.232.168.242:8089/play/a06l/index.m3u8
+http://45.225.95.171:8000/play/a0je/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmxLjLoWX7LfHckMq-sgbxYFBhpCE4yyBhwg&usqp=CAU" group-title="Series | Peliculas", TNT SERIES
 http://45.171.66.198:8082/play/a00x
@@ -505,7 +505,7 @@ http://191.212.166.203:4000/play/a0hh
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYdWe0yKsRRdJpxYhe34kd6DBX7F1xOAy5eg&usqp=CAU" group-title="Series | Peliculas", HBO2 HD
 http://45.71.185.142:8500/play/a00z
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfSGhLOTn3UGyuP9fqX7Ct3Vu5sKdORYWgMA&usqp=CAU" group-title="Series | Peliculas", HBO +
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfSGhLOTn3UGyuP9fqX7Ct3Vu5sKdORYWgMA&usqp=CAU" group-title="Series | Peliculas", HBO+
 http://45.71.185.142:8500/play/a010
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDZV9xlhYXOI4mHXGrt2K5_0v4XT2ERosv2Q&usqp=CAU" group-title="Series | Peliculas", HBO FAMILY HD
@@ -515,10 +515,16 @@ http://45.71.185.142:8500/play/a012
 http://45.71.185.142:8500/play/a011
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuy06bmT3Yu_WeK7X68zmYjWp4PzUCxf_X6g&usqp=CAU" group-title="Series | Peliculas", FOX CHANNEL
+http://45.225.95.171:8000/play/a0gg/index.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuy06bmT3Yu_WeK7X68zmYjWp4PzUCxf_X6g&usqp=CAU" group-title="Series | Peliculas", FOX CHANNEL
 http://8.242.187.236:5007/play/a05k/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuy06bmT3Yu_WeK7X68zmYjWp4PzUCxf_X6g&usqp=CAU" group-title="Series | Peliculas", FOX CHANNEL
-http://181.78.10.235:58002/play/a0b2/index.m3u8
+http://45.225.95.171:8000/play/a0ew/index.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuy06bmT3Yu_WeK7X68zmYjWp4PzUCxf_X6g&usqp=CAU" group-title="Series | Peliculas", FOX CHANNEL
+http://181.78.10.235:58002/play/a0b2/index.m3
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5yZkqbvct3fly86Sx7CZegyAQZ7wKI-_wTg&usqp=CAU" group-title="Series | Peliculas", GOLDEN
 http://168.232.168.242:8089/play/a039/index.m3u8
@@ -542,7 +548,7 @@ http://8.242.187.236:5007/play/a05u/index.m3u8
 http://8.242.187.236:5007/play/a03m/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn0RjzIqOgMoEfZu0I7PfgO3Q-WXfIOUYV0w&usqp=CAU" group-title="Series | Peliculas", CLARO CINEMA
-http://45.71.185.142:8500/play/a03r
+http://8.242.179.184:58002/play/a03j/index.m3u8
 
 #EXTINF:0 tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="Series | Peliculas", Cine Acción
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
