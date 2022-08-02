@@ -56,10 +56,10 @@ http://177.53.152.186:8000/play/a019/index.m3u8
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/LatinaNoticias
 
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/ATV_2005.svg/revision/latest/scale-to-width-down/200?cb=20210508210119&path-prefix=es" group-title="TV PERUANA", ATV.PE
-http://181.64.11.222:8000/play/a01k
+http://209.45.81.8:8000/play/a02u/index.m3u8
 
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/ATV_2005.svg/revision/latest/scale-to-width-down/200?cb=20210508210119&path-prefix=es" group-title="TV PERUANA", ATV PE
-http://l3d.us:25461/daleplayD/PN2WghCVNvMk/10639
+http://45.225.95.171:8000/play/a0eg/index.m3u8
 
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/ATV_2005.svg/revision/latest/scale-to-width-down/200?cb=20210508210119&path-prefix=es" group-title="TV PERUANA", ATV.PE HD
 https://dysmuyxh5vstv.cloudfront.net:443/hls/live_720p30.m3u8
@@ -911,7 +911,7 @@ https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi35vERHsIqDHQVuU8sYNKbikNBOCV3_Bjwg&usqp=CAU" group-title="Ciencia | Cultura", RTV TOTAL Yurimaguas
 https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThVacVpvWoxA94ohz-aG6Mk_ido7NRgIndKg&usqp=CAU" group-title="Ciencia | Cultura", RTVE
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThVacVpvWoxA94ohz-aG6Mk_ido7NRgIndKg&usqp=CAU" group-title="Ciencia | Cultura", RTVE PLAY
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ547nGlPFGhqNpwqCgzHQWBXYFk0PdRqmdJw&usqp=CAU" group-title="Ciencia | Cultura", DW (DEUTSCH +)
