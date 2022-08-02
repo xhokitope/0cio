@@ -92,7 +92,7 @@ http://45.225.95.171:8000/play/a0eh/index.m3u8
 http://181.176.148.142:8000/play/a02k
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnj4six21x50vnaiL29u8xyeoD9Aas4BGSIQ&usqp=CAU" group-title="TV PERUANA", AmericaTV
-http://186.46.29.115:8000/play/a01m/index.m3u8
+http://209.45.81.8:8000/play/a00f/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnj4six21x50vnaiL29u8xyeoD9Aas4BGSIQ&usqp=CAU" group-title="TV PERUANA", America TV
 http://181.65.169.36:8000/play/a05u/index.m3u8
