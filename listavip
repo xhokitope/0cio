@@ -14,7 +14,7 @@ http://209.45.81.8:8000/play/a02p/index.m3u8
 http://190.108.85.117:8000/play/a02g/index.m3u8
 
 #EXTINF:0 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/WillaxTV
+"https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/WillaxTV"
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBJPpzvZ3ZeFcbatXoR4Hszd6CK73VrroUA&usqp=CAU" group-title="TV PERUANA", Willax YT
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/willaxtv
@@ -891,7 +891,7 @@ http://8.242.187.236:5007/play/a05d/index.m3u8
 http://45.225.95.170:8005/play/a02g
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxqAVi_JxGZOCO3SdsICCV78r5T3S7Aj84iQ&usqp=CAU" group-title="Ciencia | Cultura", HISTORY
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/vc_59tt
+"https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/vc_59tt"
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYJ8U1zE4HmML93N6w3TRYhWdAg3oSGQgfQw&usqp=CAU" group-title="Ciencia | Cultura", HISTORY 2
 http://45.225.95.171:8000/play/a0hg/index.m3u8
