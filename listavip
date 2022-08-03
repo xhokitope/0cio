@@ -929,10 +929,10 @@ https://mdstrm.com/audio/5fada553978fe1080e3ac5ea/icecast.audio
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToxGgaye2LRf_TKql2ncN5dmT50_queEnfxA&usqp=CAU" group-title="Radio en Vivo", Oxigeno
 https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/icecast.audio
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2NoQ-0BuNMGntNZxzXYcLf497Fnkqhf7E1A&usqp=CAU" group-title="Radio en Vivo", RadioModa
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2NoQ-0BuNMGntNZxzXYcLf497Fnkqhf7E1A&usqp=CAU" group-title="Radio en Vivo", Radio Moda
 https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MOD_SC?csegid=20001&dist=20001&ttag=20001
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ab0-x6z493H1iguQP3T674IIyEtJdzx8Hg&usqp=CAU" group-title="Radio en Vivo", LaZona
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ab0-x6z493H1iguQP3T674IIyEtJdzx8Hg&usqp=CAU" group-title="Radio en Vivo", La Zona
 https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_fedb53qah_JYwBwcTQbrktduLQurNeN3_w&usqp=CAU" group-title="Radio en Vivo", OasisRock&Pop
@@ -944,20 +944,35 @@ http://167.114.118.120:7440/;
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpZLyZy3uxrf9NNPHilBd1LNYbwWO_JBhZKw&usqp=CAU" group-title="Radio en Vivo", La Rock N Pop
 https://seven.360cpanel.com/8012/stream
 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpZLyZy3uxrf9NNPHilBd1LNYbwWO_JBhZKw&usqp=CAU" group-title="Radio en Vivo", FM 96 (Trujillo)
+http://148.72.144.29:9610/stream/1/
+
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiAQ0dUx7slBmv8oFtxfiS6xQWRwLKTwsqjw&usqp=CAU" group-title="Radio en Vivo", La 90 Tera
 https://radiosonline.one/radio/8100/radio.mp3?_=1
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI4SSXH0OJkBXXumnDpCB3nYK_HYd1NMCazA&usqp=CAU" group-title="Radio en Vivo", LaMega
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMNyVfWsbgZehJm7f1F9zGMQr1PVw0Eb1upQ&usqp=CAU" group-title="Radio en Vivo", Radio Disney Perú
+https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_PER_LM_SC
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI4SSXH0OJkBXXumnDpCB3nYK_HYd1NMCazA&usqp=CAU" group-title="Radio en Vivo", La Mega
 https://mdstrm.com/audio/5fada56fe4e09508207a7951/live.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd7bzR8HCuEteQkN2Qk98XoOZqAskQkuK1Pw&usqp=CAU" group-title="Radio en Vivo", RadioPlaneta
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwzwAt4du6uNEspUIibWxJEUO91j2pWYFx9A&usqp=CAU" group-title="Radio en Vivo", Portal Cumbia
+https://portalcumbia.radioca.st/stream/1/
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd7bzR8HCuEteQkN2Qk98XoOZqAskQkuK1Pw&usqp=CAU" group-title="Radio en Vivo", Radio Planeta
 https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_PLA_SC?csegid=20001&dist=20001&ttag=20001
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa7J_URXRr_pUGQRi5bNs5_Gqp90D5WVK_Bw&usqp=CAU" group-title="Radio en Vivo", NuevaQ
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTnMczNSsvHcnCbDR5sI3MpDynazl8GGbKXQ&usqp=CAU" group-title="Radio en Vivo", Radio JR (Arequipa)
+https://tupanel.info:2000/stream/radiojr/stream/1/
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa7J_URXRr_pUGQRi5bNs5_Gqp90D5WVK_Bw&usqp=CAU" group-title="Radio en Vivo", Nueva Q
 https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_NQ_SC?csegid=20001&dist=20001&ttag=20001
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW57dw_gKdxGY0VEyZJDS6Ai4UMcyyj6HDpg&usqp=CAU" group-title="Radio en Vivo", TopLatino
-https://5cefcbf58ba2e.streamlock.net/latino/latino.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW57dw_gKdxGY0VEyZJDS6Ai4UMcyyj6HDpg&usqp=CAU" group-title="Radio en Vivo", Radio Top Latino
+http://online.radiodifusion.net:8020/;
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZanbyFARfWdT33pDurlAcsIlKFUZujgi9Sw&usqp=CAU" group-title="Radio en Vivo", Radio 1160
+https://streaming.gometri.com/stream/8021/stream/1/
 
 #EXTINF:0 tvg-logo="https://cdn-radiotime-logos.tunein.com/s171892g.png" group-title="Radio en Vivo", SuperVip
 https://rautemusik-de-hz-fal-stream18.radiohost.de/charthits
@@ -970,6 +985,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XEUNO_AM_SC
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQw_x3ZmMLqXWYsT5EEXI4AFSSMbc9X19-Fg&usqp=CAU" group-title="Radio en Vivo", Karibeña
 https://7.innovatestream.pe:2020/stream/karibenaoficial/stream/1/
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdturNhhuYOtZpQzgzAIRlYrkAXDZTiFz8_w&usqp=CAU", Radio Nova
+https://serverssl.innovatestream.pe:8080/167.114.118.120:7166/stream/1/
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxTM49WV_9ab3TZ34hy9zZChhWvlNLQSCSUg&usqp=CAU" group-title="Radio en Vivo", PBO Radio
 https://streamingv2.shoutcast.com/pbo-radiofm?1644124234781
