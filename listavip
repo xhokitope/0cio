@@ -467,19 +467,19 @@ http://181.65.199.218:8000/play/a07x/index.m3u8
 http://181.143.231.99:9000/play/a03q
 
 #EXTINF:0 audio-track="spa" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/8/8f/TNT_Logo_2016.svg.png/revision/latest?cb=20161130200545&path-prefix=es" group-title="Series | Peliculas", TNT
-http://45.225.95.171:8000/play/a0jd/index.m3u8
+http://181.65.199.218:8000/play/a00q/index.m3u8
 
 #EXTINF:0 audio-track="spa" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/8/8f/TNT_Logo_2016.svg.png/revision/latest?cb=20161130200545&path-prefix=es" group-title="Series | Peliculas", TNT
 http://8.242.187.236:5007/play/a05n/index.m3u8
 
 #EXTINF:0 audio-track="spa" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/8/8f/TNT_Logo_2016.svg.png/revision/latest?cb=20161130200545&path-prefix=es" group-title="Series | Peliculas", TNT HD
-http://181.78.10.235:58002/play/a0cn/index.m3u8
+http://181.64.11.83:8000/play/a00d
 
 #EXTINF:0 audio-track="spa" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/8/8f/TNT_Logo_2016.svg.png/revision/latest?cb=20161130200545&path-prefix=es" group-title="Series | Peliculas", TNT HD
-http://181.78.10.235:58002/play/a0b3/index.m3u8
+http://181.143.231.99:9000/play/a011
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmxLjLoWX7LfHckMq-sgbxYFBhpCE4yyBhwg&usqp=CAU" group-title="Series | Peliculas", TNT Series
-http://181.78.10.235:58002/play/a0co/index.m3u8
+http://181.65.199.218:8000/play/a06n/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmxLjLoWX7LfHckMq-sgbxYFBhpCE4yyBhwg&usqp=CAU" group-title="Series | Peliculas", TNT SERIES
 http://45.225.95.171:8000/play/a0je/index.m3u8
@@ -506,13 +506,13 @@ http://45.225.95.171:8000/play/a0ex/index.m3u8
 http://45.225.95.170:8005/play/a03z
 
 #EXTINF:0 audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoUGEERa9XF4J3AwfDYWwTNGl4RWSo2KMrvQ&usqp=CAU" group-title="Series | Peliculas", HBO
-http://45.225.95.171:8000/play/a0hs/index.m3u8
+http://181.65.199.218:8000/play/a0dx/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYdWe0yKsRRdJpxYhe34kd6DBX7F1xOAy5eg&usqp=CAU" group-title="Series | Peliculas", HBO2 HD
 http://45.225.95.170:8005/play/a013
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYdWe0yKsRRdJpxYhe34kd6DBX7F1xOAy5eg&usqp=CAU" group-title="Series | Peliculas", HBO 2
-http://45.225.95.171:8000/play/a0ey/index.m3u8
+http://181.65.199.218:8000/play/a016/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfSGhLOTn3UGyuP9fqX7Ct3Vu5sKdORYWgMA&usqp=CAU" group-title="Series | Peliculas", HBO PLUS
 http://45.225.95.171:8000/play/a0ji/index.m3u8
@@ -527,34 +527,37 @@ http://45.225.95.170:8005/play/a04z
 http://45.225.95.171:8000/play/a0jj/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuy06bmT3Yu_WeK7X68zmYjWp4PzUCxf_X6g&usqp=CAU" group-title="Series | Peliculas", FOX CHANNEL
-http://45.225.95.171:8000/play/a0gg/index.m3u8
+http://181.65.199.218:8000/play/a00m/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuy06bmT3Yu_WeK7X68zmYjWp4PzUCxf_X6g&usqp=CAU" group-title="Series | Peliculas", FOX CHANNEL
 http://8.242.187.236:5007/play/a05k/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuy06bmT3Yu_WeK7X68zmYjWp4PzUCxf_X6g&usqp=CAU" group-title="Series | Peliculas", FOX CHANNEL
-http://45.225.95.171:8000/play/a0ew/index.m3u8
+http://181.143.231.99:9000/play/a00y
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuy06bmT3Yu_WeK7X68zmYjWp4PzUCxf_X6g&usqp=CAU" group-title="Series | Peliculas", FOX CHANNEL
-http://181.78.10.235:58002/play/a0b2/index.m3
+http://170.83.242.9:5350/play/a037
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5yZkqbvct3fly86Sx7CZegyAQZ7wKI-_wTg&usqp=CAU" group-title="Series | Peliculas", GOLDEN
 http://168.232.168.242:8089/play/a039/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_yx6U7B6vE_SFMsswrHNBhWva9J2EgGG06w&usqp=CAU" group-title="Series | Peliculas", CINEMAX
-http://45.71.185.142:8500/play/a02w
+http://181.65.199.218:8000/play/a036/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJNbLoIDKavwggQYbadSsepqCXc1r6X1ib3w&usqp=CAU" group-title="Series | Peliculas", CINECANAL
-http://45.71.185.142:8500/play/a005
+http://181.65.199.218:8000/play/a00f/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaefm-GHOeqHBxSKtgsUmQWWGospj0FC3Xhg&usqp=CAU" group-title="Series | Peliculas", FX
-http://45.71.185.142:8500/play/a030
+http://181.65.199.218:8000/play/a03a/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsVitIRNOf3awFp6qPT9CwRqv67pI1Bq5G5A&usqp=CAU" group-title="Series | Peliculas", COMEDY CENTRAL HD
-http://181.78.10.235:58002/play/a0b1/index.m3u8
+http://181.65.199.218:8000/play/a08j/index.m3u8
 
 #EXTINF:0 tvg-logo="https://unity-img.tbxapis.com/v0/images/9bb19fc2ad40d0932596594264f6710c/section/5e57e9146ac3bf34c6dd3c66/4f12b95f92b0ef310be380695e0cf02f/img.png" group-title="Series | Peliculas", Lifetime
 http://8.242.187.236:5007/play/a05u/index.m3u8
+
+#EXTINF:0 tvg-logo="https://unity-img.tbxapis.com/v0/images/9bb19fc2ad40d0932596594264f6710c/section/5e57e9146ac3bf34c6dd3c66/4f12b95f92b0ef310be380695e0cf02f/img.png" group-title="Series | Peliculas", Lifetime
+http://181.65.199.218:8000/play/a06q/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLZ2z0QO5FF8XePaqcTzUGOQYlAyoQ_CpZyA&usqp=CAU" group-title="Series | Peliculas", TBS
 http://8.242.187.236:5007/play/a03m/index.m3u8
@@ -603,7 +606,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b177600077652
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-GAIlp4pYbtLgMUcbGQ&usqp=CAU" group-title="Deportes", ESPN
-http://45.71.185.142:8500/play/a01e
+http://181.143.231.99:9000/play/a01s
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-GAIlp4pYbtLgMUcbGQ&usqp=CAU" group-title="Deportes", ESPN HD
 http://181.176.148.142:8000/play/a02d
@@ -614,13 +617,16 @@ http://200.24.132.99:8000/play/a022
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH5GklkaKxYtvuEIl_t8V19hoLfRoNWV3cAg&usqp=CAU" group-title="Deportes", ESPN HD
 http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-GAIlp4pYbtLgMUcbGQ&usqp=CAU" group-title="Deportes", ESPN
+http://181.64.11.83:8000/play/a021
+
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ellfQo2qVP_bHllprPmDcKY2FcFVHjEn4w&usqp=CAU" group-title="Deportes", ESPN EXTRA
 http://8.242.179.179:58001/play/a032/index.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ellfQo2qVP_bHllprPmDcKY2FcFVHjEn4w&usqp=CAU" group-title="Deportes", ESPN EXTRA
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ellfQo2qVP_bHllprPmDcKY2FcFVHjEn4w&usqp=CAU" group-title="Deportes", ESPN +
 http://8.242.179.182:58001/play/a032/index.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ellfQo2qVP_bHllprPmDcKY2FcFVHjEn4w&usqp=CAU" group-title="Deportes", ESPN EXTRA
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ellfQo2qVP_bHllprPmDcKY2FcFVHjEn4w&usqp=CAU" group-title="Deportes", ESPN+
 http://168.232.168.242:8089/play/a027/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0RI-sb5dpMfb04dic4PrKzJhkwov9INt6yw&usqp=CAU" group-title="Deportes", ESPN 2
@@ -630,22 +636,28 @@ http://168.232.168.242:8089/play/a06h/index.m3u8
 http://181.176.148.142:8000/play/a02e
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0RI-sb5dpMfb04dic4PrKzJhkwov9INt6yw&usqp=CAU" group-title="Deportes", ESPN 2 HD
-http://45.71.185.142:8500/play/a015
+http://181.65.199.218:8000/play/a01c/index.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0RI-sb5dpMfb04dic4PrKzJhkwov9INt6yw&usqp=CAU" group-title="Deportes", ESPN 2 +
-http://200.24.149.59:8000/play/a01i/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0RI-sb5dpMfb04dic4PrKzJhkwov9INt6yw&usqp=CAU" group-title="Deportes", ESPN 2
+http://181.64.11.83:8000/play/a00t
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHqZht9geM_oNkQLIHeqYTxZhplJUPB-iBJg&usqp=CAU" group-title="Deportes", ESPN 2 MX
-http://168.232.168.242:8089/play/a09p/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHqZht9geM_oNkQLIHeqYTxZhplJUPB-iBJg&usqp=CAU" group-title="Deportes", ESPN 2
+http://181.64.11.83:8000/play/a011
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHqZht9geM_oNkQLIHeqYTxZhplJUPB-iBJg&usqp=CAU" group-title="Deportes", ESPN 2
+http://177.209.220.127:4000/play/a03f
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUBbLekeJrUFh26V7KZ2dkRKnARy5rqj9a3w&usqp=CAU" group-title="Deportes", ESPN 3
 http://181.176.148.142:8000/play/a02f
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUBbLekeJrUFh26V7KZ2dkRKnARy5rqj9a3w&usqp=CAU" group-title="Deportes", ESPN 3
-http://168.232.168.242:8089/play/a06g/index.m3u8
+http://181.65.199.218:8000/play/a03l/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUBbLekeJrUFh26V7KZ2dkRKnARy5rqj9a3w&usqp=CAU" group-title="Deportes", ESPN 3 HD
-http://200.24.149.59:8000/play/a05x/index.m3u8
+http://181.64.11.83:8000/play/a01y
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUBbLekeJrUFh26V7KZ2dkRKnARy5rqj9a3w&usqp=CAU" group-title="Deportes", ESPN 3 HD
+http://177.209.220.127:4000/play/a03g
 
 #EXTINF:0 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/61a4c896fc740bb1476f0225_LOGO_ESPN4%5B2%5D.png" group-title="Deportes", ESPN 4
 http://181.176.148.142:8000/play/a02g
@@ -657,13 +669,13 @@ http://200.24.149.59:8000/play/a03f/index.m3u8
 http://45.225.95.171:8000/play/a0ig/index.m3u8
 
 #EXTINF:0 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/61a4c896fc740bb1476f0225_LOGO_ESPN4%5B2%5D.png" group-title="Deportes", ESPN 4
-http://190.108.85.117:8000/play/a01e/index.m3u8
+http://181.65.199.218:8000/play/a02f/index.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-GAIlp4pYbtLgMUcbGQ&usqp=CAU" group-title="Deportes", ESPN CO
-http://45.71.185.142:8500/play/a06x
+#EXTINF:0 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/61a4c896fc740bb1476f0225_LOGO_ESPN4%5B2%5D.png" group-title="Deportes", ESPN 4
+http://177.209.220.127:4000/play/a03h
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpICYrXPIfyB0U_0vTNOpTchr7-RxQYkcv5g&usqp=CAU" group-title="Deportes", GOLPERU HD
-http://181.78.10.235:58002/play/a0c1/index.m3u8
+http://181.65.199.218:8000/play/a0c1/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpICYrXPIfyB0U_0vTNOpTchr7-RxQYkcv5g&usqp=CAU" group-title="Deportes", GOLPERU
 http://45.225.95.171:8000/play/a0ir/index.m3u8
@@ -677,7 +689,7 @@ http://181.65.169.36:8000/play/a02v/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWqoQOMrVxiQQOvQc3nvAeRHhXmfTG3vtgRQ&usqp=CAU" group-title="Deportes", M Deportes
 http://209.45.81.8:8000/play/a00b/index.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWqoQOMrVxiQQOvQc3nvAeRHhXmfTG3vtgRQ&usqp=CAU" group-title="Deportes", M Deportes
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWqoQOMrVxiQQOvQc3nvAeRHhXmfTG3vtgRQ&usqp=CAU" group-title="Deportes", Movistar Deportes
 http://45.225.95.171:8000/play/a0ea/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp06MjF6mDiTCRVUxglZoxi6DdHF_4JgwMlA&usqp=CAU" group-title="Deportes", DirecTV Sports
@@ -693,49 +705,52 @@ http://l3d.us:25461/daleplayD/PN2WghCVNvMk/219210
 http://181.65.169.36:8000/play/a02r/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8bvldEAciCevtvsrv5aPlA6g6_X1aWbGOhA&usqp=CAU" group-title="Deportes", TyC Sports
-http://200.24.149.59:8000/play/a05c/index.m3u8
+http://181.65.199.218:8000/play/a01q/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8bvldEAciCevtvsrv5aPlA6g6_X1aWbGOhA&usqp=CAU" group-title="Deportes", TyC Sports
-http://45.225.95.171:8000/play/a0f2/index.m3u8
+http://181.64.11.83:8000/play/a012
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8bvldEAciCevtvsrv5aPlA6g6_X1aWbGOhA&usqp=CAU" group-title="Deportes", TyC Sports
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/aw_tt49
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJn34JqQ3sS1SIXt8Do8LqtUjoRb5yB79z9w&usqp=CAU" group-title="Deportes", TNT Sports 2
-http://181.78.10.235:58002/play/a0bq/index.m3u8
+http://170.79.235.29:8000/play/234
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJn34JqQ3sS1SIXt8Do8LqtUjoRb5yB79z9w&usqp=CAU" group-title="Deportes", TNT Sports 2
-http://200.24.134.18:9000/play/a0hg/index.m3u8
+http://170.79.235.29:8000/play/234
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_LXDPoZq66I-aRzisZzV6O45LFVTfasNH7w&usqp=CAU" group-title="Deportes", TNT Sports 3
-http://181.78.10.235:58002/play/a0az/index.m3u8
+http://168.194.171.33:8000/play/a01d/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="Deportes", FOX SPORTS
-http://45.5.151.145:8000/play/a0ix/index.m3u8
+http://181.143.231.99:9000/play/a01a
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="Deportes", FOX SPORTS
+http://170.79.235.29:8000/play/a0ix
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSwyhYrzw1uIeXHGkzDcvveFXLTa7bVUc2ZQ&usqp=CAU" group-title="Deportes", FOX SPORTS 2
-http://8.242.179.181:58001/play/a01h/index.m3u8
+http://181.65.199.218:8000/play/a021/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSwyhYrzw1uIeXHGkzDcvveFXLTa7bVUc2ZQ&usqp=CAU" group-title="Deportes", FOX SPORTS 2
-http://8.242.179.182:58001/play/a01h/index.m3u8
+http://181.64.11.83:8000/play/a017
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSwyhYrzw1uIeXHGkzDcvveFXLTa7bVUc2ZQ&usqp=CAU" group-title="Deportes", FOX SPORTS 2
-http://209.45.81.8:8000/play/a02h/index.m3u8
+http://181.143.231.99:9000/play/a020
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSwyhYrzw1uIeXHGkzDcvveFXLTa7bVUc2ZQ&usqp=CAU" group-title="Deportes", FOX SPORTS 2
-http://200.119.218.90:58001/play/a039/index.m3u8
+http://177.209.220.127:4000/play/a00x
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSwyhYrzw1uIeXHGkzDcvveFXLTa7bVUc2ZQ&usqp=CAU" group-title="Deportes", FOX SPORTS 2
-http://200.24.149.59:8000/play/a032/index.m3u8
+http://170.83.242.9:5350/play/a013
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Deportes", FOX SPORTS 3
-http://8.242.179.183:58001/play/a013/index.m3u8
+http://181.65.199.218:8000/play/a022/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Deportes", FOX SPORTS 3
-http://8.242.179.182:58001/play/a013/index.m3u8
+http://181.64.11.83:8000/play/a018
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Deportes", FOX SPORTS 3
-http://209.45.81.8:8000/play/a02i/index.m3u8
+http://181.143.231.99:9000/play/a021
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxDOdYaebLusnpTDTMfe-iTsUFz1RoXk9IEw&usqp=CAU" group-title="Deportes", FOX SPORTS NEWS
 https://austchannel-live.akamaized.net:443/hls/live/2002736/austchannel-sport/master960x540_v3.m3u8
@@ -744,7 +759,7 @@ https://austchannel-live.akamaized.net:443/hls/live/2002736/austchannel-sport/ma
 http://siloh.pluto.tv/lilo/production/bein/1/master_2.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_ikg6XkXgJo3t1KMI9IQEeOvtHUaQe9KDfw&usqp=CAU" group-title="Deportes", Claro Sports
-http://45.71.185.142:8500/play/a03x
+http://181.65.199.218:8000/play/a0fe/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLXT7z9CSPaJZU_Ee3pxCiIl80W8FUNzDueA&usqp=CAU" group-title="Deportes", Chiringuito Inside YT
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/ChiringuitoTvInside
