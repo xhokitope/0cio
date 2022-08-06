@@ -428,7 +428,7 @@ http://181.64.11.83:8000/play/a01r
 http://181.65.199.218:8000/play/a038/index.m3u8
 
 #EXTINF:0 tvg-id="UniversalChannel.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXbZEYrTK8hmFglHkS6fOp-FZOxoMfUjE3SA&usqp=CAU" group-title="Series | Peliculas", UNIVERSAL
-http://8.242.179.184:58002/play/a041/index.m3u8
+http://181.65.199.218:8000/play/a00g/index.m3u8
 
 #EXTINF:0 tvg-id="UniversalChannel.ar" tvg-shift="-5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXbZEYrTK8hmFglHkS6fOp-FZOxoMfUjE3SA&usqp=CAU" group-title="Series | Peliculas", UNIVERSAL
 http://181.64.11.83:8000/play/a005
