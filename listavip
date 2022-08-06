@@ -854,7 +854,7 @@ http://g2.vxral-hor.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica000044_
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB60TndvDZyeYseBtiNHI_0qpaUOhuYvSn8w&usqp=CAU" group-title="Musica En Vivo", MusicTop TV
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
-#EXTINF:0 tvg-id="RetroMusic.cz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwyit1SBqhjJalHz4jM1kBEOXOUrgsIN6S2A&usqp=CAU" group-title="Musica En Vivo", RETRO TV
+#EXTINF:0 tvg-id="RetroMusic.cz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwyit1SBqhjJalHz4jM1kBEOXOUrgsIN6S2A&usqp=CAU" group-title="Musica En Vivo", RetroMusic.cz
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdp_wTw0MdW-pFc7Q-5IE-ytEZKapwa3F7KQ&usqp=CAU" group-title="Musica En Vivo", Carolina CL
