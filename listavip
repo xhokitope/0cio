@@ -490,13 +490,13 @@ http://181.64.11.83:8000/play/a00d
 #EXTINF:0 tvg-id="TNT.ar" audio-track="spa" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/8/8f/TNT_Logo_2016.svg.png/revision/latest?cb=20161130200545&path-prefix=es" group-title="Series | Peliculas", TNT HD
 http://181.143.231.99:9000/play/a011
 
-#EXTINF:0 tvg-id="TNTSeries.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmxLjLoWX7LfHckMq-sgbxYFBhpCE4yyBhwg&usqp=CAU" group-title="Series | Peliculas", TNT Series
+#EXTINF:0 tvg-id="TNTSeries.mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmxLjLoWX7LfHckMq-sgbxYFBhpCE4yyBhwg&usqp=CAU" group-title="Series | Peliculas", TNT Series
 http://181.65.199.218:8000/play/a06n/index.m3u8
 
 #EXTINF:0 tvg-id="TNTSeries.mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmxLjLoWX7LfHckMq-sgbxYFBhpCE4yyBhwg&usqp=CAU" group-title="Series | Peliculas", TNT SERIES
 http://45.225.95.171:8000/play/a0je/index.m3u8
 
-#EXTINF:0 tvg-id="TNTSeries.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmxLjLoWX7LfHckMq-sgbxYFBhpCE4yyBhwg&usqp=CAU" group-title="Series | Peliculas", TNT SERIES
+#EXTINF:0 tvg-id="TNTSeries.mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmxLjLoWX7LfHckMq-sgbxYFBhpCE4yyBhwg&usqp=CAU" group-title="Series | Peliculas", TNT SERIES
 http://45.171.66.198:8082/play/a00x
 
 #EXTINF:0 tvg-id="SonyEntertainmentTV.mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsMAZLSYszYGCUCY_5Wd77FJMscnxntVQLFg&usqp=CAU" group-title="Series | Peliculas", SONY
