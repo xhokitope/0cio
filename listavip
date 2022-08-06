@@ -478,10 +478,10 @@ http://181.65.199.218:8000/play/a07x/index.m3u8
 #EXTINF:0 tvg-id="AMC.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd8Tk9e4vDK3HhLpPEbFjcySwK25C6SSxFyw&usqp=CAU" group-title="Series | Peliculas", AMC HD
 http://181.143.231.99:9000/play/a03q
 
-#EXTINF:0 tvg-id="TNT.ar" audio-track="spa" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/8/8f/TNT_Logo_2016.svg.png/revision/latest?cb=20161130200545&path-prefix=es" group-title="Series | Peliculas", TNT
+#EXTINF:0 tvg-id="TNT.mx" audio-track="spa" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/8/8f/TNT_Logo_2016.svg.png/revision/latest?cb=20161130200545&path-prefix=es" group-title="Series | Peliculas", TNT
 http://181.65.199.218:8000/play/a00q/index.m3u8
 
-#EXTINF:0 tvg-id="TNT.ar" audio-track="spa" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/8/8f/TNT_Logo_2016.svg.png/revision/latest?cb=20161130200545&path-prefix=es" group-title="Series | Peliculas", TNT
+#EXTINF:0 tvg-id="TNT.mx" audio-track="spa" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/8/8f/TNT_Logo_2016.svg.png/revision/latest?cb=20161130200545&path-prefix=es" group-title="Series | Peliculas", TNT
 http://8.242.187.236:5007/play/a05n/index.m3u8
 
 #EXTINF:0 tvg-id="TNT.ar" audio-track="spa" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/8/8f/TNT_Logo_2016.svg.png/revision/latest?cb=20161130200545&path-prefix=es" group-title="Series | Peliculas", TNT HD
