@@ -421,13 +421,13 @@ http://181.176.148.142:8000/play/a024
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT06Za6sS8deTJjPQdNI5mdDwAoXKvEcbdJcQ&usqp=CAU" group-title="Series | Peliculas", Cine Premium
 http://181.176.148.142:8000/play/a025
 
-#EXTINF:0 tvg-id="AXN.ar" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTkXsvfPIsko4y3HPTetW2DMmgD-EBLGAgVw&usqp=CAU" group-title="Series | Peliculas", AXN
+#EXTINF:0 tvg-shift="-5" tvg-id="AXN.ar" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTkXsvfPIsko4y3HPTetW2DMmgD-EBLGAgVw&usqp=CAU" group-title="Series | Peliculas", AXN
 http://181.64.11.83:8000/play/a01r
 
-#EXTINF:0 tvg-id="AXN.ar" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTkXsvfPIsko4y3HPTetW2DMmgD-EBLGAgVw&usqp=CAU" group-title="Series | Peliculas", AXN
+#EXTINF:0 tvg-shift="-5" tvg-id="AXN.ar" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTkXsvfPIsko4y3HPTetW2DMmgD-EBLGAgVw&usqp=CAU" group-title="Series | Peliculas", AXN
 http://181.65.199.218:8000/play/a038/index.m3u8
 
-#EXTINF:0 tvg-id="UniversalChannel.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXbZEYrTK8hmFglHkS6fOp-FZOxoMfUjE3SA&usqp=CAU" group-title="Series | Peliculas", UNIVERSAL
+#EXTINF:0 tvg-id="-4" tvg-id="UniversalChannel.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXbZEYrTK8hmFglHkS6fOp-FZOxoMfUjE3SA&usqp=CAU" group-title="Series | Peliculas", UNIVERSAL
 http://181.65.199.218:8000/play/a00g/index.m3u8
 
 #EXTINF:0 tvg-id="UniversalChannel.ar" tvg-shift="-5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXbZEYrTK8hmFglHkS6fOp-FZOxoMfUjE3SA&usqp=CAU" group-title="Series | Peliculas", UNIVERSAL
@@ -460,7 +460,7 @@ http://181.65.199.218:8000/play/a043/index.m3u8
 #EXTINF:0 tvg-id="ParamountChannel.mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP8pBXGLHFsD0WRf1cGc2IiuO_zQrIDeLSbA&usqp=CAU" group-title="Series | Peliculas", PARAMOUNT
 http://181.65.199.218:8000/play/a092/index.m3u8
 
-#EXTINF:0 tvg-id="Warner.ar" tvg-logo="https://seeklogo.com/images/W/warner-channel-logo-7CD6F1795B-seeklogo.com.png" group-title="Series | Peliculas", WARNER CHANNEL
+#EXTINF:0 tvg-shift="-2" tvg-id="Warner.ar" tvg-logo="https://seeklogo.com/images/W/warner-channel-logo-7CD6F1795B-seeklogo.com.png" group-title="Series | Peliculas", WARNER CHANNEL
 http://8.242.187.236:5007/play/a038/index.m3u8
 
 #EXTINF:0 tvg-id="Warner.ar" tvg-logo="https://seeklogo.com/images/W/warner-channel-logo-7CD6F1795B-seeklogo.com.png" group-title="Series | Peliculas", WARNER
