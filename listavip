@@ -2,16 +2,16 @@
 
 
 #EXTINF:0 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
-http://209.45.81.8:8000/play/a02p/index.m3u8
+http://181.65.199.218:8000/play/a029/index.m3u8
 
 #EXTINF:0 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
 http://181.176.148.142:8000/play/a01v
 
 #EXTINF:0 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
-http://209.45.81.8:8000/play/a02p/index.m3u8
+http://181.64.11.83:8000/play/a01f
 
 #EXTINF:0 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
-http://190.108.85.117:8000/play/a02g/index.m3u8
+http://181.143.231.99:9000/play/a027
 
 #EXTINF:0 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/WillaxTV
@@ -431,7 +431,19 @@ http://181.65.199.218:8000/play/a038/index.m3u8
 http://8.242.179.184:58002/play/a041/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXbZEYrTK8hmFglHkS6fOp-FZOxoMfUjE3SA&usqp=CAU" group-title="Series | Peliculas", UNIVERSAL
-http://181.78.6.57:8000/play/a005/index.m3u8
+http://181.64.11.83:8000/play/a005
+
+#EXTINF:0 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.945333694_UniversalCinema-Oscuro.png.0c63ffe5cc2ea7868f7d08da0de7c7d4.png" group-title="Series | Peliculas", UNIVERSAL CINEMA
+http://170.83.242.9:5350/play/a0kp
+
+#EXTINF:0 audio-track="spa" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.1606587218_UniversalComedy-Oscuro.png.edc0710afb67e742c9e68589f4006992.png" group-title="Series | Peliculas", UNIVERSAL COMEDY
+http://170.83.242.9:5350/play/a0kq
+
+#EXTINF:0 tvg-logo="https://www.universalplus.com/files/channels/398064723.png" group-title="Series | Peliculas", UNIVERSAL PREMIER
+http://181.65.199.218:8000/play/a0bc/index.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ4O7MlTo8vbUyOexSGCaMzukInuWcOnSM7Q&usqp=CAU" group-title="Series | Peliculas", ESTUDIO UNIVERSAL
+http://181.65.199.218:8000/play/a0ce/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxm3WcA7_HkSg7ELbQw0E97yrlywVkVCiFfw&usqp=CAU" group-title="Series | Peliculas", SPACE
 http://181.65.199.218:8000/play/a039/index.m3u8
