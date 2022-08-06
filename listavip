@@ -4,25 +4,25 @@
 #EXTINF:0 tvg-id="willax.pe" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
 http://181.65.199.218:8000/play/a029/index.m3u8
 
-#EXTINF:0 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
+#EXTINF:0 tvg-id="willax.pe" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
 http://181.176.148.142:8000/play/a01v
 
-#EXTINF:0 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
+#EXTINF:0 tvg-id="willax.pe" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
 http://181.64.11.83:8000/play/a01f
 
-#EXTINF:0 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
+#EXTINF:0 tvg-id="willax.pe" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
 http://181.143.231.99:9000/play/a027
 
-#EXTINF:0 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
+#EXTINF:0 tvg-id="willax.pe" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/WillaxTV
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBJPpzvZ3ZeFcbatXoR4Hszd6CK73VrroUA&usqp=CAU" group-title="TV PERUANA", Willax YT
+#EXTINF:0 tvg-id="willax.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBJPpzvZ3ZeFcbatXoR4Hszd6CK73VrroUA&usqp=CAU" group-title="TV PERUANA", Willax YT
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/willaxtv
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL5zodtrTLJP9QQ7s2tc_qDoFDaeHN_-xe7g&usqp=CAU" group-title="TV PERUANA", Willax+ YT
+#EXTINF:0 tvg-id="willax.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL5zodtrTLJP9QQ7s2tc_qDoFDaeHN_-xe7g&usqp=CAU" group-title="TV PERUANA", Willax+ YT
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCnkyadBrxP_hJ67dkf2qm5A
 
-#EXTINF:0 tvg-logo="https://yt3.ggpht.com/A-kqMDPRH-JRLmkx_U6PRnEu35wqVgTZ62GoUO1J_zTQBLqft67tR_Wk0MBabjdhj8d8jqA9tg=s176-c-k-c0x00ffffff-no-rj-mo" group-title="TV PERUANA", WF DIGITAL YT
+#EXTINF:0 tvg-id="willax.pe" tvg-logo="https://yt3.ggpht.com/A-kqMDPRH-JRLmkx_U6PRnEu35wqVgTZ62GoUO1J_zTQBLqft67tR_Wk0MBabjdhj8d8jqA9tg=s176-c-k-c0x00ffffff-no-rj-mo" group-title="TV PERUANA", WF DIGITAL YT
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/WFDIGITAL20
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLWPBxepmaofG9R_BH_DyGmkiplS09rEiTRw&usqp=CAU" group-title="TV PERUANA", PBO En Vivo YT
@@ -31,64 +31,64 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/PBOD
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5z9NwZ-1ngD9OF16quK1nBf_-V_Qjpg9WWQ&usqp=CAU" group-title="TV PERUANA", Retro HD
 http://181.176.148.142:8000/play/a02x
 
-#EXTINF:0 tvg-logo="https://yt3.ggpht.com/Lql5U9xcawSmCM2sVc0KVjZwdNkBMc7laQaah2u5NAG_ByqsYB0nwVz7QME2K3CnLFmdkxLBVQ=s900-c-k-c0x00ffffff-no-rj" group-title="TV PERUANA", 24 Horas PE
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/24horasperu
-
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZWktkEnMQtRSruF-OeRINESOszGYHLTlJ0w&usqp=CAU" group-title="TV PERUANA", TV COSMOS
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZWktkEnMQtRSruF-OeRINESOszGYHLTlJ0w&usqp=CAU" group-title="TV PERUANA", TV COSMOS
 http://181.176.148.142:8000/play/a026
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCNrKIpMpnWw1V3psfj-dpZMGqFWoIUsuaw&usqp=CAU" group-title="TV PERUANA", Latina
+#EXTINF:0 tvg-id="FrecuenciaLatina.pe"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCNrKIpMpnWw1V3psfj-dpZMGqFWoIUsuaw&usqp=CAU" group-title="TV PERUANA", Latina
 http://181.65.199.218:8000/play/a02b/index.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCNrKIpMpnWw1V3psfj-dpZMGqFWoIUsuaw&usqp=CAU" group-title="TV PERUANA", Latina
+#EXTINF:0 tvg-id="FrecuenciaLatina.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCNrKIpMpnWw1V3psfj-dpZMGqFWoIUsuaw&usqp=CAU" group-title="TV PERUANA", Latina
 http://186.46.29.115:8000/play/a01l/index.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCNrKIpMpnWw1V3psfj-dpZMGqFWoIUsuaw&usqp=CAU" group-title="TV PERUANA", Latina
+#EXTINF:0 tvg-id="FrecuenciaLatina.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCNrKIpMpnWw1V3psfj-dpZMGqFWoIUsuaw&usqp=CAU" group-title="TV PERUANA", Latina
 http://181.176.148.142:8000/play/a02p
 
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCNrKIpMpnWw1V3psfj-dpZMGqFWoIUsuaw&usqp=CAU" group-title="TV PERUANA", Latina
+EXTINF:0 tvg-id="FrecuenciaLatina.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCNrKIpMpnWw1V3psfj-dpZMGqFWoIUsuaw&usqp=CAU" group-title="TV PERUANA", Latina
 http://181.65.169.36:8000/play/60187/index.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR55Vl1pFtDL3_qdAVEbpfaI8AIa-uvhzuQWQ&usqp=CAU" group-title="TV PERUANA", Latina Noticias YT
+#EXTINF:0 tvg-id="FrecuenciaLatina.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR55Vl1pFtDL3_qdAVEbpfaI8AIa-uvhzuQWQ&usqp=CAU" group-title="TV PERUANA", Latina Noticias YT
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/LatinaNoticias
 
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/ATV_2005.svg/revision/latest/scale-to-width-down/200?cb=20210508210119&path-prefix=es" group-title="TV PERUANA", ATV.PE
+#EXTINF:0 tvg-id="ATV.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/ATV_2005.svg/revision/latest/scale-to-width-down/200?cb=20210508210119&path-prefix=es" group-title="TV PERUANA", ATV.PE
 http://209.45.81.8:8000/play/a02u/index.m3u8
 
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/ATV_2005.svg/revision/latest/scale-to-width-down/200?cb=20210508210119&path-prefix=es" group-title="TV PERUANA", ATV PE
+#EXTINF:0 tvg-id="ATV.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/ATV_2005.svg/revision/latest/scale-to-width-down/200?cb=20210508210119&path-prefix=es" group-title="TV PERUANA", ATV PE
 http://45.225.95.171:8000/play/a0eg/index.m3u8
 
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/ATV_2005.svg/revision/latest/scale-to-width-down/200?cb=20210508210119&path-prefix=es" group-title="TV PERUANA", ATV.PE HD
+#EXTINF:0 tvg-id="ATV.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/ATV_2005.svg/revision/latest/scale-to-width-down/200?cb=20210508210119&path-prefix=es" group-title="TV PERUANA", ATV.PE HD
 https://dysmuyxh5vstv.cloudfront.net:443/hls/live_720p30.m3u8
 
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/ATV_2005.svg/revision/latest/scale-to-width-down/200?cb=20210508210119&path-prefix=es" group-title="TV PERUANA", ATV.PE
+#EXTINF:0 tvg-id="ATV.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/ATV_2005.svg/revision/latest/scale-to-width-down/200?cb=20210508210119&path-prefix=es" group-title="TV PERUANA", ATV.PE
 https://dysmuyxh5vstv.cloudfront.net:443/hls/live_480p30.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkEZ36-Mkeu5mUlm6vIjo7Dm1qsOnI0LC1Ug&usqp=CAU" group-title="TV PERUANA", ATV+
+#EXTINF:0 tvg-id="ATVPlus.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkEZ36-Mkeu5mUlm6vIjo7Dm1qsOnI0LC1Ug&usqp=CAU" group-title="TV PERUANA", ATV+
 https://d2b3qmftt7nn1c.cloudfront.net:443/atv/smil:atv-mas.smil/chunklist_b1024000.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkEZ36-Mkeu5mUlm6vIjo7Dm1qsOnI0LC1Ug&usqp=CAU" group-title="TV PERUANA", ATV+
+#EXTINF:0 tvg-id="ATVPlus.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkEZ36-Mkeu5mUlm6vIjo7Dm1qsOnI0LC1Ug&usqp=CAU" group-title="TV PERUANA", ATV+
 https://d2b3qmftt7nn1c.cloudfront.net:443/atv/smil:atv-mas.smil/chunklist_b850000.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNodEC5o4GRK0MaFR_r8zSsrNxYuJjeDdUzA&usqp=CAU" group-title="TV PERUANA", PANAMERICANA TV
+#EXTINF:0 tvg-id="PanamericanaTV.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNodEC5o4GRK0MaFR_r8zSsrNxYuJjeDdUzA&usqp=CAU" group-title="TV PERUANA", PANAMERICANA TV
 http://181.176.148.142:8000/play/a02v
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNodEC5o4GRK0MaFR_r8zSsrNxYuJjeDdUzA&usqp=CAU" group-title="TV PERUANA", PANAMERICANA TV
+#EXTINF:0 tvg-id="PanamericanaTV.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNodEC5o4GRK0MaFR_r8zSsrNxYuJjeDdUzA&usqp=CAU" group-title="TV PERUANA", PANAMERICANA TV
 http://45.225.95.171:8000/play/a0ec/index.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNodEC5o4GRK0MaFR_r8zSsrNxYuJjeDdUzA&usqp=CAU" group-title="TV PERUANA", PANAMERICANA TV
+#EXTINF:0 tvg-id="PanamericanaTV.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNodEC5o4GRK0MaFR_r8zSsrNxYuJjeDdUzA&usqp=CAU" group-title="TV PERUANA", PANAMERICANA TV
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/PanamericanaPTV
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmDXwq_JVNoby065mDeURMs9zHCd4FU9GnvQ&usqp=CAU" group-title="TV PERUANA", GLOBAL PE
+#EXTINF:0 tvg-id="PanamericanaTV.pe" tvg-logo="https://yt3.ggpht.com/Lql5U9xcawSmCM2sVc0KVjZwdNkBMc7laQaah2u5NAG_ByqsYB0nwVz7QME2K3CnLFmdkxLBVQ=s900-c-k-c0x00ffffff-no-rj" group-title="TV PERUANA", 24 Horas PE
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/24horasperu
+
+#EXTINF:0 tvg-id="NexTV.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmDXwq_JVNoby065mDeURMs9zHCd4FU9GnvQ&usqp=CAU" group-title="TV PERUANA", GLOBAL PE
 http://190.108.83.142:8000/play/a00x/index.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmDXwq_JVNoby065mDeURMs9zHCd4FU9GnvQ&usqp=CAU" group-title="TV PERUANA", GLOBAL PE
+#EXTINF:0 tvg-id="NexTV.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmDXwq_JVNoby065mDeURMs9zHCd4FU9GnvQ&usqp=CAU" group-title="TV PERUANA", GLOBAL PE
 http://45.225.95.171:8000/play/a0eh/index.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmDXwq_JVNoby065mDeURMs9zHCd4FU9GnvQ&usqp=CAU" group-title="TV PERUANA", GLOBAL PE
+#EXTINF:0 tvg-id="NexTV.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmDXwq_JVNoby065mDeURMs9zHCd4FU9GnvQ&usqp=CAU" group-title="TV PERUANA", GLOBAL PE
 http://181.176.148.142:8000/play/a02k
 
 #EXTINF:0 tvg-id="AmericaTelevision.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnj4six21x50vnaiL29u8xyeoD9Aas4BGSIQ&usqp=CAU" group-title="TV PERUANA", AmericaTV
@@ -169,7 +169,7 @@ https://tv.inka.net.pe/cajamarcatv/cajamarcatv/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv9Nu3vIv5vMTwTxR-8n2FJXifXYS--auHbA&usqp=CAU" group-title="TV PERUANA", XTV JAEN
 https://tv.oyotunstream.com:1936/xtv/xtv/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOwVd_YybMNGThemXEIqu3KkP0f9b6rGkvuA&usqp=CAU" group-title="TV PERUANA", BHTV Villa Salvador PE
+#EXTINF:0 tvg-id="Bethel.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOwVd_YybMNGThemXEIqu3KkP0f9b6rGkvuA&usqp=CAU" group-title="TV PERUANA", BHTV Villa Salvador PE
 https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://comunicaciones.congreso.gob.pe/wpuploads/2021/02/logo-web-4.png" group-title="TV PERUANA", Congreso Peru TV
@@ -421,13 +421,13 @@ http://181.176.148.142:8000/play/a024
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT06Za6sS8deTJjPQdNI5mdDwAoXKvEcbdJcQ&usqp=CAU" group-title="Series | Peliculas", Cine Premium
 http://181.176.148.142:8000/play/a025
 
-#EXTINF:0 tvg-shift="-5" tvg-id="AXN.ar" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTkXsvfPIsko4y3HPTetW2DMmgD-EBLGAgVw&usqp=CAU" group-title="Series | Peliculas", AXN
+#EXTINF:0 tvg-id="AXN.ar" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTkXsvfPIsko4y3HPTetW2DMmgD-EBLGAgVw&usqp=CAU" group-title="Series | Peliculas", AXN
 http://181.64.11.83:8000/play/a01r
 
-#EXTINF:0 tvg-shift="-5" tvg-id="AXN.ar" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTkXsvfPIsko4y3HPTetW2DMmgD-EBLGAgVw&usqp=CAU" group-title="Series | Peliculas", AXN
+#EXTINF:0 tvg-id="AXN.ar" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTkXsvfPIsko4y3HPTetW2DMmgD-EBLGAgVw&usqp=CAU" group-title="Series | Peliculas", AXN
 http://181.65.199.218:8000/play/a038/index.m3u8
 
-#EXTINF:0 tvg-id="-4" tvg-id="UniversalChannel.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXbZEYrTK8hmFglHkS6fOp-FZOxoMfUjE3SA&usqp=CAU" group-title="Series | Peliculas", UNIVERSAL
+#EXTINF:0 tvg-id="UniversalChannel.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXbZEYrTK8hmFglHkS6fOp-FZOxoMfUjE3SA&usqp=CAU" group-title="Series | Peliculas", UNIVERSAL
 http://181.65.199.218:8000/play/a00g/index.m3u8
 
 #EXTINF:0 tvg-id="UniversalChannel.ar" tvg-shift="-5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXbZEYrTK8hmFglHkS6fOp-FZOxoMfUjE3SA&usqp=CAU" group-title="Series | Peliculas", UNIVERSAL
@@ -460,7 +460,7 @@ http://181.65.199.218:8000/play/a043/index.m3u8
 #EXTINF:0 tvg-id="ParamountChannel.mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP8pBXGLHFsD0WRf1cGc2IiuO_zQrIDeLSbA&usqp=CAU" group-title="Series | Peliculas", PARAMOUNT
 http://181.65.199.218:8000/play/a092/index.m3u8
 
-#EXTINF:0 tvg-shift="-2" tvg-id="Warner.ar" tvg-logo="https://seeklogo.com/images/W/warner-channel-logo-7CD6F1795B-seeklogo.com.png" group-title="Series | Peliculas", WARNER CHANNEL
+#EXTINF:0 tvg-id="Warner.ar" tvg-logo="https://seeklogo.com/images/W/warner-channel-logo-7CD6F1795B-seeklogo.com.png" group-title="Series | Peliculas", WARNER CHANNEL
 http://8.242.187.236:5007/play/a038/index.m3u8
 
 #EXTINF:0 tvg-id="Warner.ar" tvg-logo="https://seeklogo.com/images/W/warner-channel-logo-7CD6F1795B-seeklogo.com.png" group-title="Series | Peliculas", WARNER
@@ -478,16 +478,16 @@ http://181.65.199.218:8000/play/a07x/index.m3u8
 #EXTINF:0 tvg-id="AMC.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd8Tk9e4vDK3HhLpPEbFjcySwK25C6SSxFyw&usqp=CAU" group-title="Series | Peliculas", AMC HD
 http://181.143.231.99:9000/play/a03q
 
-#EXTINF:0 tvg-shift="-5" tvg-id="TNT.mx" audio-track="spa" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/8/8f/TNT_Logo_2016.svg.png/revision/latest?cb=20161130200545&path-prefix=es" group-title="Series | Peliculas", TNT
+#EXTINF:0 tvg-id="TNT.mx" audio-track="spa" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/8/8f/TNT_Logo_2016.svg.png/revision/latest?cb=20161130200545&path-prefix=es" group-title="Series | Peliculas", TNT
 http://181.65.199.218:8000/play/a00q/index.m3u8
 
-#EXTINF:0 tvg-shift="-5" tvg-id="TNT.mx" audio-track="spa" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/8/8f/TNT_Logo_2016.svg.png/revision/latest?cb=20161130200545&path-prefix=es" group-title="Series | Peliculas", TNT
+#EXTINF:0 tvg-id="TNT.mx" audio-track="spa" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/8/8f/TNT_Logo_2016.svg.png/revision/latest?cb=20161130200545&path-prefix=es" group-title="Series | Peliculas", TNT
 http://8.242.187.236:5007/play/a05n/index.m3u8
 
-#EXTINF:0 tvg-shift="-5" tvg-id="TNT.mx" audio-track="spa" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/8/8f/TNT_Logo_2016.svg.png/revision/latest?cb=20161130200545&path-prefix=es" group-title="Series | Peliculas", TNT HD
+#EXTINF:0 tvg-id="TNT.mx" audio-track="spa" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/8/8f/TNT_Logo_2016.svg.png/revision/latest?cb=20161130200545&path-prefix=es" group-title="Series | Peliculas", TNT HD
 http://181.64.11.83:8000/play/a00d
 
-#EXTINF:0 tvg-shift="-5" tvg-id="TNT.mx" audio-track="spa" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/8/8f/TNT_Logo_2016.svg.png/revision/latest?cb=20161130200545&path-prefix=es" group-title="Series | Peliculas", TNT HD
+#EXTINF:0 tvg-id="TNT.mx" audio-track="spa" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/8/8f/TNT_Logo_2016.svg.png/revision/latest?cb=20161130200545&path-prefix=es" group-title="Series | Peliculas", TNT HD
 http://181.143.231.99:9000/play/a011
 
 #EXTINF:0 tvg-id="TNTSeries.mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmxLjLoWX7LfHckMq-sgbxYFBhpCE4yyBhwg&usqp=CAU" group-title="Series | Peliculas", TNT Series
