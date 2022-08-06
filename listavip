@@ -508,10 +508,10 @@ http://200.24.132.99:8000/play/a02o
 #EXTINF:0 tvg-id="SonyEntertainmentTV.mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsMAZLSYszYGCUCY_5Wd77FJMscnxntVQLFg&usqp=CAU" group-title="Series | Peliculas", SONY
 http://45.225.95.170:8005/play/a02i
 
-#EXTINF:0 tvg-shift="-5" tvg-id="HBOLatinAmerica.pa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoUGEERa9XF4J3AwfDYWwTNGl4RWSo2KMrvQ&usqp=CAU" group-title="Series | Peliculas", HBO HD
+#EXTINF:0 tvg-shift="-2" tvg-id="HBOLatinAmerica.pa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoUGEERa9XF4J3AwfDYWwTNGl4RWSo2KMrvQ&usqp=CAU" group-title="Series | Peliculas", HBO HD
 http://45.225.95.170:8005/play/a00w
 
-#EXTINF:0 tvg-shoft="-5" tvg-id="HBOLatinAmerica.pa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoUGEERa9XF4J3AwfDYWwTNGl4RWSo2KMrvQ&usqp=CAU" group-title="Series | Peliculas", HBO
+#EXTINF:0 tvg-shoft="-4" tvg-id="HBOLatinAmerica.pa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoUGEERa9XF4J3AwfDYWwTNGl4RWSo2KMrvQ&usqp=CAU" group-title="Series | Peliculas", HBO
 http://45.225.95.171:8000/play/a0ex/index.m3u8
 
 #EXTINF:0 tvg-shift="-5" tvg-id="HBOLatinAmerica.pa" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoUGEERa9XF4J3AwfDYWwTNGl4RWSo2KMrvQ&usqp=CAU" group-title="Series | Peliculas", HBO
