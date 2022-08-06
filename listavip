@@ -433,20 +433,20 @@ http://8.242.179.184:58002/play/a041/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXbZEYrTK8hmFglHkS6fOp-FZOxoMfUjE3SA&usqp=CAU" group-title="Series | Peliculas", UNIVERSAL
 http://181.78.6.57:8000/play/a005/index.m3u8
 
-#EXTINF:0 tvg-name="SPACE REGIONAL DTH LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxm3WcA7_HkSg7ELbQw0E97yrlywVkVCiFfw&usqp=CAU" group-title="Series | Peliculas", SPACE
-http://45.71.185.142:8500/play/a02z
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxm3WcA7_HkSg7ELbQw0E97yrlywVkVCiFfw&usqp=CAU" group-title="Series | Peliculas", SPACE
+http://181.65.199.218:8000/play/a039/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxm3WcA7_HkSg7ELbQw0E97yrlywVkVCiFfw&usqp=CAU" group-title="Series | Peliculas", SPACE
-http://181.78.10.235:58002/play/a0bu/index.m3u8
+http://181.64.11.83:8000/play/a01s
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxm3WcA7_HkSg7ELbQw0E97yrlywVkVCiFfw&usqp=CAU" group-title="Series | Peliculas", SPACE
-http://200.48.64.110:8080/udp/239.2.2.138:1002
+http://181.143.231.99:9000/play/a02r
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP8pBXGLHFsD0WRf1cGc2IiuO_zQrIDeLSbA&usqp=CAU" group-title="Series | Peliculas", PARAMOUNT
-http://200.119.218.90:58001/play/a01i/index.m3u8
+http://181.65.199.218:8000/play/a043/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP8pBXGLHFsD0WRf1cGc2IiuO_zQrIDeLSbA&usqp=CAU" group-title="Series | Peliculas", PARAMOUNT
-http://181.65.169.36:8000/play/a017/index.m3u8
+http://181.65.199.218:8000/play/a092/index.m3u8
 
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/W/warner-channel-logo-7CD6F1795B-seeklogo.com.png" group-title="Series | Peliculas", WARNER CHANNEL
 http://8.242.187.236:5007/play/a038/index.m3u8
@@ -458,13 +458,13 @@ http://45.225.95.170:8005/play/a02j
 http://8.242.187.236:5007/play/a05l/index.m3u8
 
 #EXTINF:0 audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4JVT6DNpVvlJ0vdYPTqcd1dMuLZXZ18sO4Q&usqp=CAU" group-title="Series | Peliculas", TCM
-http://45.225.95.171:8000/play/a0h2/index.m3u8
+http://181.65.199.218:8000/play/a00n/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd8Tk9e4vDK3HhLpPEbFjcySwK25C6SSxFyw&usqp=CAU" group-title="Series | Peliculas", AMC HD
-http://45.225.95.170:8005/play/a03n
+http://181.65.199.218:8000/play/a07x/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd8Tk9e4vDK3HhLpPEbFjcySwK25C6SSxFyw&usqp=CAU" group-title="Series | Peliculas", AMC HD
-http://190.108.87.149:8000/play/a028/index.m3u8
+http://181.143.231.99:9000/play/a03q
 
 #EXTINF:0 audio-track="spa" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/8/8f/TNT_Logo_2016.svg.png/revision/latest?cb=20161130200545&path-prefix=es" group-title="Series | Peliculas", TNT
 http://45.225.95.171:8000/play/a0jd/index.m3u8
