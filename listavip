@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:0 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
+#EXTINF:0 tvg-id="willax.pe" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
 http://181.65.199.218:8000/play/a029/index.m3u8
 
 #EXTINF:0 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
@@ -439,7 +439,7 @@ http://170.83.242.9:5350/play/a0kp
 #EXTINF:0 audio-track="spa" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.1606587218_UniversalComedy-Oscuro.png.edc0710afb67e742c9e68589f4006992.png" group-title="Series | Peliculas", UNIVERSAL COMEDY
 http://170.83.242.9:5350/play/a0kq
 
-#EXTINF:0 tvg-logo="https://www.universalplus.com/files/channels/398064723.png" group-title="Series | Peliculas", UNIVERSAL PREMIER
+#EXTINF:0 tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/571.png" group-title="Series | Peliculas", UNIVERSAL PREMIER
 http://181.65.199.218:8000/play/a0bc/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ4O7MlTo8vbUyOexSGCaMzukInuWcOnSM7Q&usqp=CAU" group-title="Series | Peliculas", ESTUDIO UNIVERSAL
