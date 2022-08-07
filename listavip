@@ -556,7 +556,7 @@ http://170.83.242.9:5350/play/a037
 #EXTINF:0 tvg-id="Golden.mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5yZkqbvct3fly86Sx7CZegyAQZ7wKI-_wTg&usqp=CAU" group-title="Series | Peliculas", GOLDEN
 http://168.232.168.242:8089/play/a039/index.m3u8
 
-#EXTINF:0 tvg-id="Cinemax.mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_yx6U7B6vE_SFMsswrHNBhWva9J2EgGG06w&usqp=CAU" group-title="Series | Peliculas", CINEMAX
+#EXTINF:0 tvg-id="Cinemax.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_yx6U7B6vE_SFMsswrHNBhWva9J2EgGG06w&usqp=CAU" group-title="Series | Peliculas", CINEMAX
 http://181.65.199.218:8000/play/a036/index.m3u8
 
 #EXTINF:0 tvg-id="Cinemax.hu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_yx6U7B6vE_SFMsswrHNBhWva9J2EgGG06w&usqp=CAU" group-title="Series | Peliculas", CINEMAX
@@ -565,7 +565,7 @@ http://181.65.199.218:8000/play/a036/index.m3u8
 #EXTINF:0 tvg-id="Cinecanal.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJNbLoIDKavwggQYbadSsepqCXc1r6X1ib3w&usqp=CAU" group-title="Series | Peliculas", CINECANAL
 http://181.65.199.218:8000/play/a00f/index.m3u8
 
-#EXTINF:0 tvg-id="Cinecanal.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJNbLoIDKavwggQYbadSsepqCXc1r6X1ib3w&usqp=CAU" group-title="Series | Peliculas", CINECANAL
+#EXTINF:0 tvg-id="Cinecanal.mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJNbLoIDKavwggQYbadSsepqCXc1r6X1ib3w&usqp=CAU" group-title="Series | Peliculas", CINECANAL
 http://181.65.199.218:8000/play/a00f/index.m3u8
 
 #EXTINF:0 tvg-id="FX.ar"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaefm-GHOeqHBxSKtgsUmQWWGospj0FC3Xhg&usqp=CAU" group-title="Series | Peliculas", FX
