@@ -650,13 +650,13 @@ http://204.199.119.14:1979/play/a017/index.m3u8
 #EXTINF:0 tvg-id="ESPNplus.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ellfQo2qVP_bHllprPmDcKY2FcFVHjEn4w&usqp=CAU" group-title="Deportes", ESPN EXTRA
 http://190.61.102.67:3000/play/a027
 
-#EXTINF:0 tvg-id="ESPN2.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0RI-sb5dpMfb04dic4PrKzJhkwov9INt6yw&usqp=CAU" group-title="Deportes", ESPN 2
+#EXTINF:0 tvg-shift="-7" tvg-id="ESPN2.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0RI-sb5dpMfb04dic4PrKzJhkwov9INt6yw&usqp=CAU" group-title="Deportes", ESPN 2
 http://191.97.15.116:8000/play/a019/index.m3u8
 
 #EXTINF:0 tvg-id="ESPN2.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0RI-sb5dpMfb04dic4PrKzJhkwov9INt6yw&usqp=CAU" group-title="Deportes", ESPN 2
 http://181.176.148.142:8000/play/a02e
 
-#EXTINF:0 tvg-id="ESPN2.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0RI-sb5dpMfb04dic4PrKzJhkwov9INt6yw&usqp=CAU" group-title="Deportes", ESPN 2 HD
+#EXTINF:0 tvg-id="ESPN2.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0RI-sb5dpMfb04dic4PrKzJhkwov9INt6yw&usqp=CAU" group-title="Deportes", ESPN 2 HD
 http://200.6.189.26:9000/play/a01h
 
 #EXTINF:0 tvg-id="ESPN2.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0RI-sb5dpMfb04dic4PrKzJhkwov9INt6yw&usqp=CAU" group-title="Deportes", ESPN 2
