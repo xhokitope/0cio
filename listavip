@@ -464,9 +464,9 @@ http://181.65.199.218:8000/play/a043/index.m3u8
 http://181.65.199.218:8000/play/a092/index.m3u8
 
 #EXTINF:0 tvg-id="WarnerChannel.mx" tvg-logo="https://seeklogo.com/images/W/warner-channel-logo-7CD6F1795B-seeklogo.com.png" group-title="Series | Peliculas", WARNER CHANNEL
-http://8.242.187.236:5007/play/a038/index.m3u8
+http://200.6.189.26:9000/play/a01o
 
-#EXTINF:0 tvg-id="Warner.pe" tvg-logo="https://seeklogo.com/images/W/warner-channel-logo-7CD6F1795B-seeklogo.com.png" group-title="Series | Peliculas", WARNER
+#EXTINF:0 tvg-id="Warner.ar" tvg-logo="https://seeklogo.com/images/W/warner-channel-logo-7CD6F1795B-seeklogo.com.png" group-title="Series | Peliculas", WARNER
 http://45.225.95.170:8005/play/a02j
 
 #EXTINF:0 tvg-id="TCM.ar" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4JVT6DNpVvlJ0vdYPTqcd1dMuLZXZ18sO4Q&usqp=CAU" group-title="Series | Peliculas", TCM
