@@ -526,7 +526,7 @@ http://181.65.199.218:8000/play/a0dx/index.m3u8
 #EXTINF:0 tvg-id="HBO2LatinAmerica.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYdWe0yKsRRdJpxYhe34kd6DBX7F1xOAy5eg&usqp=CAU" group-title="Series | Peliculas", HBO2 HD
 http://45.225.95.170:8005/play/a013
 
-#EXTINF:0 tvg-id="HBO2.hu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYdWe0yKsRRdJpxYhe34kd6DBX7F1xOAy5eg&usqp=CAU" group-title="Series | Peliculas", HBO 2
+#EXTINF:0 tvg-id="HBO2LatinAmerica.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYdWe0yKsRRdJpxYhe34kd6DBX7F1xOAy5eg&usqp=CAU" group-title="Series | Peliculas", HBO 2
 http://181.65.199.218:8000/play/a016/index.m3u8
 
 #EXTINF:0 tvg-id="Hboplus.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfSGhLOTn3UGyuP9fqX7Ct3Vu5sKdORYWgMA&usqp=CAU" group-title="Series | Peliculas", HBO PLUS
