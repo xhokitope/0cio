@@ -2,16 +2,16 @@
 
 
 #EXTINF:0 tvg-id="willax.pe" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
-http://181.65.199.218:8000/play/a029/index.m3u8
+http://190.61.44.134:6082/play/a0w6
 
 #EXTINF:0 tvg-id="willax.pe" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
 http://181.176.148.142:8000/play/a01v
 
 #EXTINF:0 tvg-id="willax.pe" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
-http://181.64.11.83:8000/play/a01f
+http://190.187.247.206:8000/play/a01j/index.m3u8
 
 #EXTINF:0 tvg-id="willax.pe" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
-http://181.143.231.99:9000/play/a027
+http://168.194.171.33:8000/play/a01s/index.m3u8
 
 #EXTINF:0 tvg-id="willax.pe" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/WillaxTV
@@ -449,13 +449,13 @@ http://181.65.199.218:8000/play/a0bc/index.m3u8
 http://181.65.199.218:8000/play/a0ce/index.m3u8
 
 #EXTINF:0 tvg-id="Space.mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfNGxoxLjOwpqKe9DGdE4f735BPr8fqostZw&usqp=CAU" group-title="Series | Peliculas", SPACE
-http://181.65.199.218:8000/play/a039/index.m3u8
+http://191.97.15.116:8000/play/a02y/index.m3u8
 
 #EXTINF:0 tvg-id="Space.mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfNGxoxLjOwpqKe9DGdE4f735BPr8fqostZw&usqp=CAU" group-title="Series | Peliculas", SPACE
-http://181.64.11.83:8000/play/a01s
+http://200.6.189.26:9000/play/a02r
 
 #EXTINF:0 tvg-id="Space.mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfNGxoxLjOwpqKe9DGdE4f735BPr8fqostZw&usqp=CAU" group-title="Series | Peliculas", SPACE
-http://181.143.231.99:9000/play/a02r
+http://200.24.159.179:8500/play/a02z
 
 #EXTINF:0 tvg-id="ParamountChannel.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP8pBXGLHFsD0WRf1cGc2IiuO_zQrIDeLSbA&usqp=CAU" group-title="Series | Peliculas", PARAMOUNT
 http://181.65.199.218:8000/play/a043/index.m3u8
