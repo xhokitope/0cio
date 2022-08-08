@@ -503,7 +503,7 @@ http://45.225.95.171:8000/play/a0je/index.m3u8
 http://45.171.66.198:8082/play/a00x
 
 #EXTINF:0 tvg-id="SonyChannelHDSouth.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsMAZLSYszYGCUCY_5Wd77FJMscnxntVQLFg&usqp=CAU" group-title="Series | Peliculas", SONY
-http://209.45.81.8:8000/play/a032/index.m3u8
+http://200.6.189.26:9000/play/a02p
 
 #EXTINF:0 tvg-id="SonyChannelHDSouth.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsMAZLSYszYGCUCY_5Wd77FJMscnxntVQLFg&usqp=CAU" group-title="Series | Peliculas", SONY
 http://200.24.132.99:8000/play/a02o
