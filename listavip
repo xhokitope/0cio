@@ -734,13 +734,13 @@ http://181.64.11.83:8000/play/a012
 #EXTINF:0 tvg-id="TYCSports.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8bvldEAciCevtvsrv5aPlA6g6_X1aWbGOhA&usqp=CAU" group-title="Deportes", TyC Sports
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/aw_tt49
 
-#EXTINF:0 tvg-id="TNTSports2.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJn34JqQ3sS1SIXt8Do8LqtUjoRb5yB79z9w&usqp=CAU" group-title="Deportes", TNT Sports 2
+#EXTINF:0 tvg-id="TNTSports2Chile.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJn34JqQ3sS1SIXt8Do8LqtUjoRb5yB79z9w&usqp=CAU" group-title="Deportes", TNT Sports 2
 http://170.79.235.29:8000/play/234
 
-#EXTINF:0 tvg-id="TNTSports2.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJn34JqQ3sS1SIXt8Do8LqtUjoRb5yB79z9w&usqp=CAU" group-title="Deportes", TNT Sports 2
+#EXTINF:0 tvg-id="TNTSports2Chile.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJn34JqQ3sS1SIXt8Do8LqtUjoRb5yB79z9w&usqp=CAU" group-title="Deportes", TNT Sports 2
 http://170.79.235.29:8000/play/234
 
-#EXTINF:0 tvg-id="TNTSports3.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_LXDPoZq66I-aRzisZzV6O45LFVTfasNH7w&usqp=CAU" group-title="Deportes", TNT Sports 3
+#EXTINF:0 tvg-id="TNTSports3Chile.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_LXDPoZq66I-aRzisZzV6O45LFVTfasNH7w&usqp=CAU" group-title="Deportes", TNT Sports 3
 http://168.194.171.33:8000/play/a01d/index.m3u8
 
 #EXTINF:0 tvg-id="FoxSportsArgentina.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="Deportes", FOX SPORTS
