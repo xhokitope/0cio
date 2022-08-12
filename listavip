@@ -726,10 +726,10 @@ http://l3d.us:25461/daleplayD/PN2WghCVNvMk/219210
 http://181.65.169.36:8000/play/a02r/index.m3u8
 
 #EXTINF:0 tvg-id="TYCSports.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8bvldEAciCevtvsrv5aPlA6g6_X1aWbGOhA&usqp=CAU" group-title="Deportes", TyC Sports
-http://181.65.199.218:8000/play/a01q/index.m3u8
+http://200.6.189.26:9000/play/a01u
 
 #EXTINF:0 tvg-id="TYCSports.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8bvldEAciCevtvsrv5aPlA6g6_X1aWbGOhA&usqp=CAU" group-title="Deportes", TyC Sports
-http://181.64.11.83:8000/play/a012
+http://190.187.247.206:8000/play/a019/index.m3u8
 
 #EXTINF:0 tvg-id="TYCSports.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8bvldEAciCevtvsrv5aPlA6g6_X1aWbGOhA&usqp=CAU" group-title="Deportes", TyC Sports
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/aw_tt49
