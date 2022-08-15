@@ -1,5 +1,20 @@
 #EXTM3U
 
+#EXTINF:0 tvg-id="PlayboyTV.ero" , PLAYBOY
+http://190.187.247.206:8000/play/a05u/index.m3u8
+
+#EXTINF:0 tvg-id="PlayboyTV.ero" , PLAYBOY
+http://200.24.149.59:8000/play/a02f/index.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png", VENUS HD
+http://190.61.41.182:8000/play/a35z/index.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png", VENUS
+http://45.171.66.198:8082/play/a02l
+
+#EXTINF:0 , SEXTREME
+http://191.212.166.203:4000/play/a0ed
+
 #EXTINF:0 , Brazzers TV Europe
 *http://178.132.2.27:6600/BRAZZERS_TV/index.m3u8,http://live.redtraffic.xyz/latina.m3u8"
 
@@ -17,9 +32,6 @@ http://178.132.2.27:6600/PRIVATE_HD/index.m3u8
 
 #EXTINF:0 tvg-id="PrivateTV.ero" , Private TV
 http://85.11.144.9:7766/Private?token=test
-
-#EXTINF:0 , SEXTREME
-http://191.212.166.203:4000/play/a0ed
 
 #EXTINF:0 , PASION XXX
 http://212.200.127.247:8000/play/a042/index.m3u8
@@ -53,24 +65,6 @@ http://178.132.2.27:6600/XXL/index.m3u8
 
 #EXTINF:0 tvg-id="RedlightHD.ero" , REDLIGHT
 http://178.132.2.27:6600/REDLIGHT_HD/index.m3u8
-
-#EXTINF:0 tvg-id="PlayboyTV.ero" , PLAYBOY
-http://8.242.179.183:58001/play/a00x/index.m3u8
-
-#EXTINF:0 tvg-id="PlayboyTV.ero" , PLAYBOY
-http://200.24.149.59:8000/play/a02f/index.m3u8
-
-#EXTINF:0 tvg-id="PlayboyTV.ero" , PLAYBOY
-http://168.232.168.242:8089/play/a015/index.m3u8
-
-#EXTINF:0 tvg-id="PlayboyTV.ero" , PLAYBOY
-http://181.224.161.88:58003/play/a00x/index.m3u8
-
-#EXTINF:0 , VENUS HD
-http://168.232.168.242:8089/play/a0ex/index.m3u8
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png", VENUS
-http://45.171.66.198:8082/play/a02l
 
 #EXTINF:0 tvg-id="RealityKings.ero" , RK HD
 http://85.11.144.9:7766/RealityKings?token=test
