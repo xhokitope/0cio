@@ -439,7 +439,7 @@ http://181.65.199.218:8000/play/a038/index.m3u8
 #EXTINF:0 tvg-id="StudioUniversalPanregional.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXbZEYrTK8hmFglHkS6fOp-FZOxoMfUjE3SA&usqp=CAU" group-title="Series | Peliculas", UNIVERSAL
 http://181.65.199.218:8000/play/a00g/index.m3u8
 
-#EXTINF:0 tvg-id="StudioUniversalPanregional.us" tvg-shift="-5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXbZEYrTK8hmFglHkS6fOp-FZOxoMfUjE3SA&usqp=CAU" group-title="Series | Peliculas", UNIVERSAL
+#EXTINF:0 tvg-id="StudioUniversalPanregional.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXbZEYrTK8hmFglHkS6fOp-FZOxoMfUjE3SA&usqp=CAU" group-title="Series | Peliculas", UNIVERSAL
 http://181.64.11.83:8000/play/a005
 
 #EXTINF:0 tvg-id="UniversalCinema.us" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.945333694_UniversalCinema-Oscuro.png.0c63ffe5cc2ea7868f7d08da0de7c7d4.png" group-title="Series | Peliculas", UNIVERSAL CINEMA
