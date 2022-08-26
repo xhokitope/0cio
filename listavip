@@ -489,10 +489,10 @@ http://45.238.21.106:6688/play/a01s/index.m3u8
 http://8.242.187.236:5007/play/a05l/index.m3u8
 
 #EXTINF:0 tvg-id="AMCHDSouth.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd8Tk9e4vDK3HhLpPEbFjcySwK25C6SSxFyw&usqp=CAU" group-title="Series | Peliculas", AMC HD
-http://204.199.119.14:1979/play/a016/index.m3u8
+http://181.39.202.98:8843/play/a0z5/index.m3u8
 
 #EXTINF:0 tvg-id="AMCHDSouth.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd8Tk9e4vDK3HhLpPEbFjcySwK25C6SSxFyw&usqp=CAU" group-title="Series | Peliculas", AMC HD
-http://181.65.199.218:8000/play/a07x/index.m3u8
+http://204.199.119.14:1979/play/a016/index.m3u8
 
 #EXTINF:0 tvg-id="TNTPacific.us" audio-track="spa" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/8/8f/TNT_Logo_2016.svg.png/revision/latest?cb=20161130200545&path-prefix=es" group-title="Series | Peliculas", TNT
 http://200.6.189.26:9000/play/a011
@@ -570,16 +570,22 @@ http://170.83.242.9:5350/play/a037
 http://168.232.168.242:8089/play/a039/index.m3u8
 
 #EXTINF:0 tvg-id="CinemaxPanregional.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_yx6U7B6vE_SFMsswrHNBhWva9J2EgGG06w&usqp=CAU" group-title="Series | Peliculas", CINEMAX
-http://191.97.15.116:8000/play/a02v/index.m3u8
+http://181.39.202.98:8843/play/a0yf/index.m3u8
+
+#EXTINF:0 tvg-id="CinemaxPanregional.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_yx6U7B6vE_SFMsswrHNBhWva9J2EgGG06w&usqp=CAU" group-title="Series | Peliculas", CINEMAX
+http://181.204.104.246:9500/play/a02b
 
 #EXTINF:0 tvg-id="CinemaxPanregional.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_yx6U7B6vE_SFMsswrHNBhWva9J2EgGG06w&usqp=CAU" group-title="Series | Peliculas", CINEMAX
 http://200.6.189.26:9000/play/a02o
 
 #EXTINF:0 tvg-id="CinecanalWest.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJNbLoIDKavwggQYbadSsepqCXc1r6X1ib3w&usqp=CAU" group-title="Series | Peliculas", CINECANAL
-http://200.6.189.26:9000/play/a00t
+http://181.39.202.98:8843/play/a0z4/index.m3u8
 
 #EXTINF:0 tvg-id="CinecanalWest.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJNbLoIDKavwggQYbadSsepqCXc1r6X1ib3w&usqp=CAU" group-title="Series | Peliculas", CINECANAL
-http://191.97.15.116:8000/play/a005/index.m3u8
+http://181.204.104.246:9500/play/a00c
+
+#EXTINF:0 tvg-id="CinecanalWest.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJNbLoIDKavwggQYbadSsepqCXc1r6X1ib3w&usqp=CAU" group-title="Series | Peliculas", CINECANAL
+http://200.6.189.26:9000/play/a00t
 
 #EXTINF:0 tvg-id="FXSouth.us"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaefm-GHOeqHBxSKtgsUmQWWGospj0FC3Xhg&usqp=CAU" group-title="Series | Peliculas", FX
 http://181.65.199.218:8000/play/a03a/index.m3u8
@@ -643,37 +649,31 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b177600077652
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:0 tvg-id="ESPNHDArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-GAIlp4pYbtLgMUcbGQ&usqp=CAU" group-title="Deportes", ESPN
-http://45.5.149.104:8000/play/a196/index.m3u88
+http://181.204.104.246:9500/play/a019
 
 #EXTINF:0 tvg-id="ESPNHDArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-GAIlp4pYbtLgMUcbGQ&usqp=CAU" group-title="Deportes", ESPN HD
-http://181.176.148.142:8000/play/a02d
+http://45.5.149.104:8000/play/a196/index.m3u8
 
 #EXTINF:0 tvg-id="ESPNHDArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-GAIlp4pYbtLgMUcbGQ&usqp=CAU" group-title="Deportes", ESPN
-http://200.6.189.26:9000/play/a01s
+http://181.176.148.142:8000/play/a02d
 
 #EXTINF:0 tvg-id="ESPNHDArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH5GklkaKxYtvuEIl_t8V19hoLfRoNWV3cAg&usqp=CAU" group-title="Deportes", ESPN HD
+http://200.6.189.26:9000/play/a01s
+
+#EXTINF:0 tvg-id="ESPNHDArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-GAIlp4pYbtLgMUcbGQ&usqp=CAU" group-title="Deportes", ESPN
 http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
 
 #EXTINF:0 tvg-id="ESPNHDArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-GAIlp4pYbtLgMUcbGQ&usqp=CAU" group-title="Deportes", ESPN
 http://200.24.159.179:8500/play/a01e
 
-#EXTINF:0 tvg-id="ESPNExtraHDSouth.us"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ellfQo2qVP_bHllprPmDcKY2FcFVHjEn4w&usqp=CAU" group-title="Deportes", ESPN EXTRA
-http://200.24.159.179:8500/play/a06j
-
-#EXTINF:0 tvg-id="ESPNExtraHDSouth.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ellfQo2qVP_bHllprPmDcKY2FcFVHjEn4w&usqp=CAU" group-title="Deportes", ESPN EXTRA
-http://204.199.119.14:1979/play/a017/index.m3u8
-
-#EXTINF:0 tvg-id="ESPNExtraHDSouth.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ellfQo2qVP_bHllprPmDcKY2FcFVHjEn4w&usqp=CAU" group-title="Deportes", ESPN EXTRA
-http://190.61.102.67:3000/play/a027
-
 #EXTINF:0 tvg-id="ESPN2HDArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0RI-sb5dpMfb04dic4PrKzJhkwov9INt6yw&usqp=CAU" group-title="Deportes", ESPN 2
-http://191.97.15.116:8000/play/a019/index.m3u8
+http://181.204.104.246:9500/play/a00y
 
 #EXTINF:0 tvg-id="ESPN2HDArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0RI-sb5dpMfb04dic4PrKzJhkwov9INt6yw&usqp=CAU" group-title="Deportes", ESPN 2
 http://181.176.148.142:8000/play/a02e
 
 #EXTINF:0 tvg-id="ESPN2HDArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0RI-sb5dpMfb04dic4PrKzJhkwov9INt6yw&usqp=CAU" group-title="Deportes", ESPN 2 HD
-http://200.6.189.26:9000/play/a01h
+http://181.39.202.98:8843/play/a11s/index.m3u8
 
 #EXTINF:0 tvg-id="ESPN2HDArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0RI-sb5dpMfb04dic4PrKzJhkwov9INt6yw&usqp=CAU" group-title="Deportes", ESPN 2
 http://200.6.189.26:9000/play/a01r
@@ -710,6 +710,15 @@ http://191.97.15.115:8000/play/a025/index.m3u8
 
 #EXTINF:0 tvg-id="ESPN4.nl" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/61a4c896fc740bb1476f0225_LOGO_ESPN4%5B2%5D.png" group-title="Deportes", ESPN 4
 http://190.61.41.182:8000/play/a36t/index.m3u8
+
+#EXTINF:0 tvg-id="ESPNExtraHDSouth.us"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ellfQo2qVP_bHllprPmDcKY2FcFVHjEn4w&usqp=CAU" group-title="Deportes", ESPN EXTRA
+http://200.24.159.179:8500/play/a06j
+
+#EXTINF:0 tvg-id="ESPNExtraHDSouth.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ellfQo2qVP_bHllprPmDcKY2FcFVHjEn4w&usqp=CAU" group-title="Deportes", ESPN EXTRA
+http://204.199.119.14:1979/play/a017/index.m3u8
+
+#EXTINF:0 tvg-id="ESPNExtraHDSouth.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ellfQo2qVP_bHllprPmDcKY2FcFVHjEn4w&usqp=CAU" group-title="Deportes", ESPN EXTRA
+http://190.61.102.67:3000/play/a027
 
 #EXTINF:0 tvg-id="GolPeru.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpICYrXPIfyB0U_0vTNOpTchr7-RxQYkcv5g&usqp=CAU" group-title="Deportes", GOLPERU HD
 http://209.45.81.8:8000/play/a00h/index.m3u8
