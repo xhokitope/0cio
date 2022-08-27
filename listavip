@@ -597,7 +597,10 @@ http://8.242.187.236:5007/play/a05k/index.m3u8
 http://190.61.102.67:3000/play/a03y
 
 #EXTINF:0 tvg-id="GoldenPanregional.mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5yZkqbvct3fly86Sx7CZegyAQZ7wKI-_wTg&usqp=CAU" group-title="Series | Peliculas", GOLDEN
-http://168.232.168.242:8089/play/a039/index.m3u8
+http://181.189.254.33:8080/play/a0f0/index.m3u8
+
+#EXTINF:0 tvg-id="GoldenEdgePanregional.mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiN-Lwlp95wyjCpqBXNJIFeRFpJXHUsco7UA&usqp=CAU" group-title="Series | Peliculas", GOLDEN EDGE
+http://181.39.202.98:8843/play/a134/index.m3u8
 
 #EXTINF:0 tvg-id="CinemaxPanregional.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_yx6U7B6vE_SFMsswrHNBhWva9J2EgGG06w&usqp=CAU" group-title="Series | Peliculas", CINEMAX
 http://181.39.202.98:8843/play/a0yf/index.m3u8
@@ -625,7 +628,7 @@ http://181.65.199.218:8000/play/a03a/index.m3u8
 
 
 #EXTINF:0 tvg-id="ComedyCentralNorth.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsVitIRNOf3awFp6qPT9CwRqv67pI1Bq5G5A&usqp=CAU" group-title="Series | Peliculas", COMEDY CENTRAL HD
-http://181.65.199.218:8000/play/a08j/index.m3u8
+http://138.186.76.100:8000/play/a04c/index.m3u8
 
 #EXTINF:0 tvg-id="LifetimePanregional.us" tvg-logo="https://unity-img.tbxapis.com/v0/images/9bb19fc2ad40d0932596594264f6710c/section/5e57e9146ac3bf34c6dd3c66/4f12b95f92b0ef310be380695e0cf02f/img.png" group-title="Series | Peliculas", Lifetime
 http://181.189.254.33:8080/play/a0dl/index.m3u8
@@ -642,8 +645,11 @@ http://45.238.21.106:6688/play/a026/index.m3u8
 #EXTINF:0 tvg-id="TBSPanregional.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLZ2z0QO5FF8XePaqcTzUGOQYlAyoQ_CpZyA&usqp=CAU" group-title="Series | Peliculas", TBS
 http://8.242.187.236:5007/play/a03m/index.m3u8
 
+#EXTINF:0 tvg-id="CanalClaro.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlSRYC7v_-ddtSUV3dVQpbHScDEJ_zhGbDHQ&usqp=CAU" group-title="Series | Peliculas", CANAL CLARO
+http://138.186.76.100:8000/play/a014/index.m3u8
+
 #EXTINF:0 tvg-id="ClaroCinema.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn0RjzIqOgMoEfZu0I7PfgO3Q-WXfIOUYV0w&usqp=CAU" group-title="Series | Peliculas", CLARO CINEMA
-http://8.242.179.184:58002/play/a03j/index.m3u8
+http://131.196.194.2:8000/play/a09z/index.m3u8
 
 #EXTINF:0 tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="Series | Peliculas", Cine Acción
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -778,6 +784,9 @@ http://138.186.76.100:8000/play/a01t/index.m3u8
 #EXTINF:0 tvg-id="MovistarDeportes.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWqoQOMrVxiQQOvQc3nvAeRHhXmfTG3vtgRQ&usqp=CAU" group-title="Deportes", Movistar Deportes
 http://45.225.95.171:8000/play/a0ea/index.m3u8
 
+#EXTINF:0 tvg-id="Goltv.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQncF25OuGhuO0-qo0-IqYO5pXPxed_NRx5UQ&usqp=CAU" group-title="Deportes", GOL TV
+http://138.186.76.100:8000/play/a00u/index.m3u8
+
 #EXTINF:0 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp06MjF6mDiTCRVUxglZoxi6DdHF_4JgwMlA&usqp=CAU" group-title="Deportes", DirecTV Sports
 http://l3d.us:25461/daleplayD/PN2WghCVNvMk/186933
 
@@ -791,7 +800,7 @@ http://l3d.us:25461/daleplayD/PN2WghCVNvMk/219210
 http://181.65.169.36:8000/play/a02r/index.m3u8
 
 #EXTINF:0 tvg-id="TYCSports.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8bvldEAciCevtvsrv5aPlA6g6_X1aWbGOhA&usqp=CAU" group-title="Deportes", TyC Sports
-http://200.6.189.26:9000/play/a01u
+http://138.186.76.100:8000/play/a00v/index.m3u8
 
 #EXTINF:0 tvg-id="TYCSports.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8bvldEAciCevtvsrv5aPlA6g6_X1aWbGOhA&usqp=CAU" group-title="Deportes", TyC Sports
 http://190.187.247.206:8000/play/a019/index.m3u8
