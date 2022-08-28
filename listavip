@@ -346,6 +346,24 @@ https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRECsUmVb57w3vlP5b38xY0DVnzHi8o_LvFQg&usqp=CAU" group-title="TV INTERNACIONAL", PURUWA TV EC
 https://mediacp.us:8081/8054/index.m3u8
 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC4olq6dLsn6vVfoxV1gpx7UtAwicI3Ivpxg&usqp=CAU" group-title="Niños | Juniors", Disney Channel
+http://181.189.254.33:8080/play/a0gg/index.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC4olq6dLsn6vVfoxV1gpx7UtAwicI3Ivpxg&usqp=CAU" group-title="Niños | Juniors", Disney Channel
+http://190.115.15.177:58003/play/a01r/index.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC4olq6dLsn6vVfoxV1gpx7UtAwicI3Ivpxg&usqp=CAU" group-title="Niños | Juniors", Disney Channel
+http://45.232.210.1:8062/play/a08n/index.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Xejrks8DoZj5Y_Vlw24QYR1hCHwBIe0YLA&usqp=CAU" group-title="Niños | Juniors", Disney Junior
+http://190.115.15.177:58003/play/a02k/index.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Xejrks8DoZj5Y_Vlw24QYR1hCHwBIe0YLA&usqp=CAU" group-title="Niños | Juniors", Disney Junior
+http://186.189.222.205:8001/play/a005/index.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Xejrks8DoZj5Y_Vlw24QYR1hCHwBIe0YLA&usqp=CAU" group-title="Niños | Juniors", Disney Junior
+http://45.232.210.1:8062/play/a08j/index.m3u8
+
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Locomotion_2005.svg/revision/latest/scale-to-width-down/300?cb=20200125124642&path-prefix=es" group-title="Niños | Juniors", Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
 
@@ -575,6 +593,9 @@ http://45.225.95.171:8000/play/a0ji/index.m3u8
 #EXTINF:0 tvg-id="HBOFamilyHDLatinAmerica.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDZV9xlhYXOI4mHXGrt2K5_0v4XT2ERosv2Q&usqp=CAU" group-title="Series | Peliculas", HBO FAMILY HD
 http://138.186.76.100:8000/play/a01r/index.m3u8
 
+#EXTINF:0 tvg-id="HBOFamilyHDLatinAmerica.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDZV9xlhYXOI4mHXGrt2K5_0v4XT2ERosv2Q&usqp=CAU" group-title="Series | Peliculas", HBO FAMILY HD
+http://186.189.222.205:8001/play/a01m/index.m3u8
+
 #EXTINF:0 tvg-id="HBOXtremeLatinAmerica.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHDlHew8Uj-cjTvqDaEDyK0K9i4yZ_9M3nyA&usqp=CAU" group-title="Series | Peliculas", HBO XTREME
 http://138.186.76.100:8000/play/a01q/index.m3u8
 
@@ -598,6 +619,9 @@ http://190.61.102.67:3000/play/a03y
 
 #EXTINF:0 tvg-id="GoldenPanregional.mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5yZkqbvct3fly86Sx7CZegyAQZ7wKI-_wTg&usqp=CAU" group-title="Series | Peliculas", GOLDEN
 http://181.189.254.33:8080/play/a0f0/index.m3u8
+
+#EXTINF:0 tvg-id="GoldenPanregional.mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5yZkqbvct3fly86Sx7CZegyAQZ7wKI-_wTg&usqp=CAU" group-title="Series | Peliculas", GOLDEN
+http://186.189.222.205:8001/play/a00x/index.m3u8
 
 #EXTINF:0 tvg-id="GoldenEdgePanregional.mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiN-Lwlp95wyjCpqBXNJIFeRFpJXHUsco7UA&usqp=CAU" group-title="Series | Peliculas", GOLDEN EDGE
 http://181.39.202.98:8843/play/a134/index.m3u8
@@ -692,7 +716,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b177600077652
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:0 tvg-id="ESPNHDArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-GAIlp4pYbtLgMUcbGQ&usqp=CAU" group-title="Deportes", ESPN
-http://181.204.104.246:9500/play/a019
+http://181.189.254.33:8080/play/a0fx/index.m3u8
 
 #EXTINF:0 tvg-id="ESPNHDArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-GAIlp4pYbtLgMUcbGQ&usqp=CAU" group-title="Deportes", ESPN HD
 http://45.5.149.104:8000/play/a196/index.m3u8
@@ -755,7 +779,7 @@ http://131.196.194.2:8000/play/a0by/index.m3u8
 http://190.61.41.182:8000/play/a36t/index.m3u8
 
 #EXTINF:0 tvg-id="ESPNExtraHDSouth.us"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ellfQo2qVP_bHllprPmDcKY2FcFVHjEn4w&usqp=CAU" group-title="Deportes", ESPN EXTRA
-https://router.cdn.rcs.net.ar/mnp/espn_extra/output.mpd
+http://190.115.15.177:58003/play/a041/index.m3u8
 
 #EXTINF:0 tvg-id="ESPNExtraHDSouth.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ellfQo2qVP_bHllprPmDcKY2FcFVHjEn4w&usqp=CAU" group-title="Deportes", ESPN EXTRA
 http://200.24.159.179:8500/play/a06j
@@ -857,7 +881,7 @@ https://austchannel-live.akamaized.net:443/hls/live/2002736/austchannel-sport/ma
 http://siloh.pluto.tv/lilo/production/bein/1/master_2.m3u8
 
 #EXTINF:0 tvg-id="ClaroSports.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_ikg6XkXgJo3t1KMI9IQEeOvtHUaQe9KDfw&usqp=CAU" group-title="Deportes", Claro Sports
-http://181.65.199.218:8000/play/a0fe/index.m3u8
+http://131.196.194.2:8000/play/a0e1/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLXT7z9CSPaJZU_Ee3pxCiIl80W8FUNzDueA&usqp=CAU" group-title="Deportes", Chiringuito Inside YT
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/ChiringuitoTvInside
