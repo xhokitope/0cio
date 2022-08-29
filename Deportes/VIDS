@@ -1,16 +1,22 @@
 #EXTM3U
 
 #EXTINF:0 tvg-id="PlayboyTV.ero" , PLAYBOY
-http://190.187.247.206:8000/play/a05u/index.m3u8
+http://190.149.66.90:8000/play/a0ed/index.m3u8
 
 #EXTINF:0 tvg-id="PlayboyTV.ero" , PLAYBOY
-http://200.24.149.59:8000/play/a02f/index.m3u8
+http://190.149.66.90:8000/play/a0ed/index.m3u8
+
+#EXTINF:0 tvg-id="PlayboyTV.ero" , PLAYBOY
+http://45.175.61.242:4000/play/a07y/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png", VENUS HD
-http://190.61.41.182:8000/play/a35z/index.m3u8
+http://190.149.66.90:8000/play/a0gu/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png", VENUS
-http://45.171.66.198:8082/play/a02l
+http://45.232.210.1:8062/play/a0ca/index.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png", VENUS
+http://190.61.41.182:8000/play/a35z/index.m3u8
 
 #EXTINF:0 , SEXTREME
 http://191.212.166.203:4000/play/a0ed
