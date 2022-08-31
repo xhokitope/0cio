@@ -650,7 +650,6 @@ http://138.186.76.100:8000/play/a01j/index.m3u8
 #EXTINF:0 tvg-id="FXSouth.us"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaefm-GHOeqHBxSKtgsUmQWWGospj0FC3Xhg&usqp=CAU" group-title="Series | Peliculas", FX
 http://181.65.199.218:8000/play/a03a/index.m3u8
 
-
 #EXTINF:0 tvg-id="ComedyCentralNorth.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsVitIRNOf3awFp6qPT9CwRqv67pI1Bq5G5A&usqp=CAU" group-title="Series | Peliculas", COMEDY CENTRAL HD
 http://138.186.76.100:8000/play/a04c/index.m3u8
 
@@ -668,6 +667,9 @@ http://45.238.21.106:6688/play/a026/index.m3u8
 
 #EXTINF:0 tvg-id="TBSPanregional.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLZ2z0QO5FF8XePaqcTzUGOQYlAyoQ_CpZyA&usqp=CAU" group-title="Series | Peliculas", TBS
 http://8.242.187.236:5007/play/a03m/index.m3u8
+
+#EXTINF:0 tvg-id="SyFy.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREUNn8BiFaiUIfwtwZF_VOn9LFxDk82DiPeg&usqp=CAU" group-title="Series | Peliculas", SyFy
+http://190.149.66.90:8000/play/a0hs/index.m3u8
 
 #EXTINF:0 tvg-id="CanalClaro.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlSRYC7v_-ddtSUV3dVQpbHScDEJ_zhGbDHQ&usqp=CAU" group-title="Series | Peliculas", CANAL CLARO
 http://138.186.76.100:8000/play/a014/index.m3u8
@@ -1046,6 +1048,8 @@ http://45.225.95.171:8000/play/a0hg/index.m3u8
 #EXTINF:0 tvg-id="History2Panregional.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYJ8U1zE4HmML93N6w3TRYhWdAg3oSGQgfQw&usqp=CAU" group-title="Ciencia | Cultura", HISTORY 2
 http://204.199.119.14:1979/play/a01u/index.m3u8
 
+#EXTINF:0 tvg-id="TLC.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm5AXEpZ0V38fmkyHbvIUCCfGzRc3hocuUbQ&usqp=CAU" group-title="Ciencia | Cultura", TLC
+http://200.52.154.247:8080/play/a04t
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-js981enMtykVVTizk6YAE4YGdcsMdFqRsg&usqp=CAU" group-title="Ciencia | Cultura", Cultura24TV PE
 https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
