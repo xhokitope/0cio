@@ -671,6 +671,15 @@ http://8.242.187.236:5007/play/a03m/index.m3u8
 #EXTINF:0 tvg-id="SyFy.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREUNn8BiFaiUIfwtwZF_VOn9LFxDk82DiPeg&usqp=CAU" group-title="Series | Peliculas", SyFy
 http://190.149.66.90:8000/play/a0hs/index.m3u8
 
+#EXTINF:0 tvg-id="SyFy.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREUNn8BiFaiUIfwtwZF_VOn9LFxDk82DiPeg&usqp=CAU" group-title="Series | Peliculas", SyFy
+http://200.122.237.28:8000/play/a02r/index.m3u8
+
+#EXTINF:0 tvg-id="SyFy.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREUNn8BiFaiUIfwtwZF_VOn9LFxDk82DiPeg&usqp=CAU" group-title="Series | Peliculas", SyFy
+http://45.5.149.104:8000/play/a191/index.m3u8
+
+#EXTINF:0 tvg-id="SyFy.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREUNn8BiFaiUIfwtwZF_VOn9LFxDk82DiPeg&usqp=CAU" group-title="Series | Peliculas", SyFy HD
+http://190.115.15.177:58003/play/a045/index.m3u8
+
 #EXTINF:0 tvg-id="CanalClaro.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlSRYC7v_-ddtSUV3dVQpbHScDEJ_zhGbDHQ&usqp=CAU" group-title="Series | Peliculas", CANAL CLARO
 http://138.186.76.100:8000/play/a014/index.m3u8
 
@@ -1050,6 +1059,12 @@ http://204.199.119.14:1979/play/a01u/index.m3u8
 
 #EXTINF:0 tvg-id="TLC.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm5AXEpZ0V38fmkyHbvIUCCfGzRc3hocuUbQ&usqp=CAU" group-title="Ciencia | Cultura", TLC
 http://200.52.154.247:8080/play/a04t
+
+#EXTINF:0 tvg-id="TLC.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm5AXEpZ0V38fmkyHbvIUCCfGzRc3hocuUbQ&usqp=CAU" group-title="Ciencia | Cultura", TLC
+http://190.115.15.177:58003/play/a06c/index.m3u8
+
+#EXTINF:0 tvg-id="TLC.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm5AXEpZ0V38fmkyHbvIUCCfGzRc3hocuUbQ&usqp=CAU" group-title="Ciencia | Cultura", TLC
+http://186.189.222.205:8001/play/a018/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-js981enMtykVVTizk6YAE4YGdcsMdFqRsg&usqp=CAU" group-title="Ciencia | Cultura", Cultura24TV PE
 https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
