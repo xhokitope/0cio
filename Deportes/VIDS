@@ -31,13 +31,19 @@ http://176.210.110.122:8000/play/a0kr/index.m3u8
 http://178.132.2.27:6600/HUSTLER_HD/index.m3u8
 
 #EXTINF:0 tvg-id="HustlerHD.ero" , Hustler
-http://85.11.144.9:7766/HustlerHD?token=test
+http://92.240.225.4:9999/play/65-15-eng es
+
+#EXTINF:0 tvg-id="HustlerHD.ero" , Hustler
+http://92.240.225.4:9999/play/65-15-fra
 
 #EXTINF:0 tvg-id="PrivateTV.ero" , Private HD
 http://178.132.2.27:6600/PRIVATE_HD/index.m3u8
 
 #EXTINF:0 tvg-id="PrivateTV.ero" , Private TV
 http://85.11.144.9:7766/Private?token=test
+
+#EXTINF:0 tvg-id="BabesTV.ero" , Babes TV
+http://92.240.225.4:9999/play/68-13-eng
 
 #EXTINF:0 , PASION XXX
 http://212.200.127.247:8000/play/a042/index.m3u8
@@ -60,9 +66,6 @@ http://191.212.166.203:4000/play/a0fw
 #EXTINF:0 , ADULTOS
 http://191.212.166.203:4000/play/a0fx
 
-#EXTINF:0 tvg-id="PassionXXX2.ero" , Dorcel
-http://178.132.2.27:6600/DORCEL_TV/index.m3u8
-
 #EXTINF:0 tvg-id="VividRed.ero" , VIVID RED HD
 http://178.132.2.27:6600/VIVID_RED_HD/index.m3u8
 
@@ -79,7 +82,7 @@ http://85.11.144.9:7766/RealityKings?token=test
 http://85.11.144.9:7766/EroxHD?token=test
 
 #EXTINF:0 tvg-id="Erox.ero" , EROX TV
-http://176.210.110.122:8000/play/a0id/index.m3u8
+http://92.240.225.4:9999/play/66-16-org
 
 #EXTINF:0 , HOT TV
 http://85.11.144.9:7766/SuperOneHD?token=test
@@ -87,17 +90,23 @@ http://85.11.144.9:7766/SuperOneHD?token=test
 #EXTINF:0 , Evil Angel
 http://87.212.248.23:8080/play/z06r
 
-#EXTINF:0 , PassieXXX
+#EXTINF:0 tvg-id="PassionXXX2.ero", PassieXXX
 http://87.212.248.23:8080/play/z06u
 
-#EXTINF:0 , Erotic 3
-http://185.244.240.33:8000/play/a00w
+#EXTINF:0 , Dorcel
+http://92.240.225.4:9999/play/75-117-POL
 
-#EXTINF:0 , Erotic 4
-http://185.244.240.33:8000/play/a00x
+#EXTINF:0 , Dorcel TV
+http://92.240.225.4:9999/play/75-117-eng
 
-#EXTINF:0 , Erotic 5
-http://185.244.240.33:8000/play/a00y
+#EXTINF:0 , Dorcel HD
+http://92.240.225.4:9999/play/75-15-eng
+
+#EXTINF:0 , Dorcel TV
+http://92.240.225.4:9999/play/75-117-fra
+
+#EXTINF:0 , Dorcel
+http://92.240.225.4:9999/play/75-117-spa
 
 #EXTINF:-1,MILF
 http://live.redtraffic.xyz/milf.m3u8

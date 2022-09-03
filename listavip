@@ -777,7 +777,7 @@ http://200.24.132.99:8000/play/a02w
 http://190.131.228.59:8000/play/a00c/index.m3u8
 
 #EXTINF:0 tvg-id="ESPN4.ar" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/61a4c896fc740bb1476f0225_LOGO_ESPN4%5B2%5D.png" group-title="Deportes", ESPN 4
-http://138.186.76.100:8000/play/a00r/index.m3u8
+http://190.149.66.90:8000/play/a0iz/index.m3u8
 
 #EXTINF:0 tvg-id="ESPN4.ar" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/61a4c896fc740bb1476f0225_LOGO_ESPN4%5B2%5D.png" group-title="Deportes", ESPN 4
 http://131.196.194.2:8000/play/a0cd/index.m3u8
