@@ -38,7 +38,7 @@ https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
 http://181.176.148.142:8000/play/a026
 
 #EXTINF:0 tvg-id="FrecuenciaLatina.pe"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCNrKIpMpnWw1V3psfj-dpZMGqFWoIUsuaw&usqp=CAU" group-title="TV PERUANA", Latina
-http://190.108.94.229:8000/play/a07n/index.m3u8
+http://190.187.247.206:8000/play/a03f/index.m3u8
 
 #EXTINF:0 tvg-id="FrecuenciaLatina.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCNrKIpMpnWw1V3psfj-dpZMGqFWoIUsuaw&usqp=CAU" group-title="TV PERUANA", Latina
 http://190.187.247.206:8000/play/a03f/index.m3u8
@@ -47,16 +47,16 @@ http://190.187.247.206:8000/play/a03f/index.m3u8
 http://181.176.148.142:8000/play/a02p
 
 EXTINF:0 tvg-id="FrecuenciaLatina.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCNrKIpMpnWw1V3psfj-dpZMGqFWoIUsuaw&usqp=CAU" group-title="TV PERUANA", Latina
-http://181.65.169.36:8000/play/60187/index.m3u8
+http://181.176.148.142:8000/play/a02p
 
 #EXTINF:0 tvg-id="Latina.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR55Vl1pFtDL3_qdAVEbpfaI8AIa-uvhzuQWQ&usqp=CAU" group-title="TV PERUANA", Latina Noticias YT
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/LatinaNoticias
 
 #EXTINF:0 tvg-id="ATV.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/ATV_2005.svg/revision/latest/scale-to-width-down/200?cb=20210508210119&path-prefix=es" group-title="TV PERUANA", ATV.PE
-http://190.108.94.229:8000/play/a07q/index.m3u8
+http://190.187.247.206:8000/play/a03c/index.m3u8
 
 #EXTINF:0 tvg-id="ATV.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/ATV_2005.svg/revision/latest/scale-to-width-down/200?cb=20210508210119&path-prefix=es" group-title="TV PERUANA", ATV PE
-http://168.194.171.33:8000/play/a01x/index.m3u8
+http://190.187.247.206:8000/play/a03c/index.m3u8
 
 #EXTINF:0 tvg-id="ATV.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/ATV_2005.svg/revision/latest/scale-to-width-down/200?cb=20210508210119&path-prefix=es" group-title="TV PERUANA", ATV.PE
 http://190.187.247.206:8000/play/a03c/index.m3u8
@@ -68,10 +68,13 @@ https://dysmuyxh5vstv.cloudfront.net:443/hls/live_720p30.m3u8
 https://dysmuyxh5vstv.cloudfront.net:443/hls/live_480p30.m3u8
 
 #EXTINF:0 tvg-id="ATVPlus.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkEZ36-Mkeu5mUlm6vIjo7Dm1qsOnI0LC1Ug&usqp=CAU" group-title="TV PERUANA", ATV+
-https://d2b3qmftt7nn1c.cloudfront.net:443/atv/smil:atv-mas.smil/chunklist_b1024000.m3u8
+https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
 
 #EXTINF:0 tvg-id="ATVPlus.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkEZ36-Mkeu5mUlm6vIjo7Dm1qsOnI0LC1Ug&usqp=CAU" group-title="TV PERUANA", ATV+
-https://d2b3qmftt7nn1c.cloudfront.net:443/atv/smil:atv-mas.smil/chunklist_b850000.m3u8
+https://dysmuyxh5vstv.cloudfront.net:443/hls/atv2_480.m3u8
+
+#EXTINF:0 tvg-id="ATVPlus.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkEZ36-Mkeu5mUlm6vIjo7Dm1qsOnI0LC1Ug&usqp=CAU" group-title="TV PERUANA", ATV+
+https://dysmuyxh5vstv.cloudfront.net:443/hls/atv2_360.m3u8
 
 #EXTINF:0 tvg-id="ATVSur.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxDJOUpIaxSDq6snKcNJiAEnfriqJMJHwxKw&usqp=CAU" group-title="TV PERUANA", ATV Sur
 http://190.187.247.206:8000/play/a03n/index.m3u8
