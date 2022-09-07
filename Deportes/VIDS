@@ -45,11 +45,11 @@ http://85.11.144.9:7766/Private?token=test
 #EXTINF:0 tvg-id="BabesTV.ero" , Babes TV
 http://92.240.225.4:9999/play/68-13-eng
 
-#EXTINF:0 , PASION XXX
+#EXTINF:0 , PASSION XXX 3 Some Time
 http://212.18.115.191:3169/play/a009/index.m3u8
 
-#EXTINF:0 , SEXMEX
-http://190.187.247.206:8000/play/a05r/index.m3u8
+#EXTINF:0 , PASSION XXX Bondage Fetish
+http://212.18.115.191:3169/play/a00c/index.m3u8
 
 #EXTINF:0 , SEXY HOT
 http://191.212.166.203:4000/play/a0ef
@@ -60,10 +60,13 @@ http://191.212.166.203:4000/play/a0fu
 #EXTINF:0 tvg-id="Brazzers.ero" , BRAZZERS
 http://191.212.166.203:4000/play/a0g5
 
-#EXTINF:0 , ADULTOS
+#EXTINF:0 , Pink O Club
+http://212.18.115.191:3169/play/a00b/index.m3u8
+
+#EXTINF:0 , ADULTOS +18
 http://191.212.166.203:4000/play/a0fw
 
-#EXTINF:0 , ADULTOS
+#EXTINF:0 , ADULTOS +18
 http://191.212.166.203:4000/play/a0fx
 
 #EXTINF:0 tvg-id="VividRed.ero" , VIVID RED HD
