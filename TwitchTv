@@ -22,6 +22,9 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/karc
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE3A5wPr8VUF6KVfrEVK27X4DAas0kvuOk_w&usqp=CAU" group-title="Streamers En Directo", VioletaG
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/violetag
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk5IpNwQGXfqyFLUbTq30LE1kM68z-Ncm4zg&usqp=CAU" group-title="Streamers En Directo", Aroyitt
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/aroyitt
+
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b563146b-3b41-4f0e-937f-031357516c23-profile_image-300x300.png" group-title="Streamers En Directo", AriGameplays
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/arigameplays
 
