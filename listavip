@@ -1003,6 +1003,9 @@ http://8.242.179.183:58001/play/a02s/index.m3u8
 #EXTINF:0 tvg-id="MTVHits.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYt_kWsuM9nPn9Iz_A4DxHr-k6cutEpFnaiQ&usqp=CAU" group-title="Musica En Vivo", MTV Hits
 http://8.242.179.182:58001/play/a02s/index.m3u8
 
+#EXTINF:0 tvg-id="KPOP.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ49WURwKDmW2F2ppir8kgv-WObM10V3hP5g&usqp=CAU" group-title="Musica En Vivo", KPOP
+http://45.4.168.35:25806/play/a07k/index.m3u8
+
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvIfKQ_Ta1wQHJJlfefL0TODQ_bqVwEsHQNQ&usqp=CAU" group-title="Musica En Vivo", Vorteix Rock
 https://prepublish.f.qaotic.net/a08/ngrp:vorterix_video1-20057_all/Playlist.m3u8
 
