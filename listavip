@@ -787,7 +787,7 @@ http://200.6.189.26:9000/play/a01r
 http://200.24.159.179:8500/play/a015
 
 #EXTINF:0 tvg-id="ESPN2HDArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHqZht9geM_oNkQLIHeqYTxZhplJUPB-iBJg&usqp=CAU" group-title="Deportes", ESPN 2
-http://181.39.202.98:8843/play/a11s/index.m3u8
+http://8.243.97.218:2040/play/a0cs/index.m3u8
 
 #EXTINF:0 tvg-id="ESPN3South.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUBbLekeJrUFh26V7KZ2dkRKnARy5rqj9a3w&usqp=CAU" group-title="Deportes", ESPN 3
 http://190.131.228.59:8000/play/a04v/index.m3u8
