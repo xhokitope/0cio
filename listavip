@@ -1211,6 +1211,9 @@ https://streamingv2.shoutcast.com/pbo-radiofm?1644124234781
 #EXTINF:0 tvg-id="Exitosa.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREhRKq4cEPB0Me2eJuYvc5nkCA97S96Q8Eng&usqp=CAU" group-title="Radio en Vivo", RadioExitosa
 http://7.innovatestream.pe:2020/stream/exitosaoficial/stream
 
+#EXTINF:0 tvg-id="Exitosa.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREhRKq4cEPB0Me2eJuYvc5nkCA97S96Q8Eng&usqp=CAU" group-title="Radio en Vivo", RadioExitosa
+https://stream.zenolive.com/z20rhkmgzeruv.aac
+
 #EXTINF:0 tvg-id="Exitosa.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="Radio en Vivo", RPP
 https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/icecast.audio
 
