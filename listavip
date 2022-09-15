@@ -1094,6 +1094,15 @@ http://45.225.95.171:8000/play/a0hg/index.m3u8
 #EXTINF:0 tvg-id="History2Panregional.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYJ8U1zE4HmML93N6w3TRYhWdAg3oSGQgfQw&usqp=CAU" group-title="Ciencia | Cultura", HISTORY 2
 http://204.199.119.14:1979/play/a01u/index.m3u8
 
+#EXTINF:0 tvg-id="AnimalPanregional.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyvsnJWPhC0phHnRIRqjzvM3hVOiazARc6dA&usqp=CAU" group-title="Ciencia | Cultura", Animal Planet
+http://201.234.194.58:6020/play/a0c9/index.m3u8
+
+#EXTINF:0 tvg-id="AnimalPanregional.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyvsnJWPhC0phHnRIRqjzvM3hVOiazARc6dA&usqp=CAU" group-title="Ciencia | Cultura", Animal Planet
+http://190.43.232.193:8000/play/a01s/index.m3u8
+
+#EXTINF:0 tvg-id="AnimalPanregional.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyvsnJWPhC0phHnRIRqjzvM3hVOiazARc6dA&usqp=CAU" group-title="Ciencia | Cultura", Animal Planet HD
+http://187.102.208.252:8000/play/a03a
+
 #EXTINF:0 tvg-id="TLC.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm5AXEpZ0V38fmkyHbvIUCCfGzRc3hocuUbQ&usqp=CAU" group-title="Ciencia | Cultura", TLC
 http://200.52.154.247:8080/play/a04t
 
