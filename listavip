@@ -460,6 +460,9 @@ http://181.176.148.142:8000/play/a025
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs1F1PNH25vbskZXC_TlHAtw8CPwgZrEoDyQ&usqp=CAU" group-title="Series | Peliculas", A&E
 http://179.1.64.210:8090/play/a002/index.m3u8
 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs1F1PNH25vbskZXC_TlHAtw8CPwgZrEoDyQ&usqp=CAU" group-title="Series | Peliculas", A&E
+http://181.39.202.98:9955/play/a10i/index.m3u8
+
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs1F1PNH25vbskZXC_TlHAtw8CPwgZrEoDyQ&usqp=CAU" group-title="Series | Peliculas", A&E HD
 http://190.131.228.59:8000/play/a05x/index.m3u8
 
@@ -599,7 +602,7 @@ http://190.61.102.67:3000/play/a02x
 http://131.196.194.2:8000/play/a09p/index.m3u8
 
 #EXTINF:0 tvg-id="HBOLatinAmerica.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoUGEERa9XF4J3AwfDYWwTNGl4RWSo2KMrvQ&usqp=CAU" group-title="Series | Peliculas", HBO HD
-http://45.160.15.130:8111/play/017
+http://181.39.202.98:9955/play/a12y/index.m3u8
 
 #EXTINF:0 tvg-id="HBOLatinAmerica.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoUGEERa9XF4J3AwfDYWwTNGl4RWSo2KMrvQ&usqp=CAU" group-title="Series | Peliculas", HBO
 http://131.196.194.2:8000/play/a09m/index.m3u8
@@ -611,7 +614,7 @@ http://45.225.95.171:8000/play/a0ex/index.m3u8
 http://181.65.199.218:8000/play/a0dx/index.m3u8
 
 #EXTINF:0 tvg-id="HBO2HDLatinAmerica.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYdWe0yKsRRdJpxYhe34kd6DBX7F1xOAy5eg&usqp=CAU" group-title="Series | Peliculas", HBO2 HD
-http://45.160.15.130:8111/play/021
+http://181.39.202.98:9955/play/a12z/index.m3u8
 
 #EXTINF:0 tvg-id="HBO2HDLatinAmerica.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYdWe0yKsRRdJpxYhe34kd6DBX7F1xOAy5eg&usqp=CAU" group-title="Series | Peliculas", HBO2 HD
 http://181.65.199.218:8000/play/a016/index.m3u8
@@ -621,7 +624,7 @@ http://8.243.97.218:2040/play/a0dx/index.m3u8
 http://45.160.15.1:8111/play/a0ox
 
 #EXTINF:0 tvg-id="HBOPlusHDLatinAmerica.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfSGhLOTn3UGyuP9fqX7Ct3Vu5sKdORYWgMA&usqp=CAU" group-title="Series | Peliculas", HBO PLUS
-http://45.160.15.130:8111/play/019
+http://181.39.202.98:9955/play/a130/index.m3u8
 
 #EXTINF:0 tvg-id="HBOPlusHDLatinAmerica.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfSGhLOTn3UGyuP9fqX7Ct3Vu5sKdORYWgMA&usqp=CAU" group-title="Series | Peliculas", HBO PLUS
 http://45.160.15.1:8111/play/a0ov
@@ -648,7 +651,7 @@ http://45.160.15.1:8111/play/a0ow
 http://45.225.95.171:8000/play/a0jj/index.m3u8
 
 #EXTINF:0 tvg-id="HBOPopLatinAmerica.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq3UZM1AbM1TQmNg23DrkwdjyPRVlSB9Ys-A&usqp=CAU" group-title="Series | Peliculas", HBO POP
-http://8.243.97.218:2040/play/a06t/index.m3u8
+http://181.39.202.98:9955/play/a10p/index.m3u8
 
 #EXTINF:0 tvg-id="StarChannelSouth.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuy06bmT3Yu_WeK7X68zmYjWp4PzUCxf_X6g&usqp=CAU" group-title="Series | Peliculas", FOX CHANNEL
 http://45.160.15.130:8111/play/083
@@ -670,7 +673,7 @@ http://181.189.254.33:8080/play/a0f0/index.m3u8
 http://186.189.222.205:8001/play/a00x/index.m3u8
 
 #EXTINF:0 tvg-id="GoldenEdgePanregional.mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiN-Lwlp95wyjCpqBXNJIFeRFpJXHUsco7UA&usqp=CAU" group-title="Series | Peliculas", GOLDEN EDGE
-http://181.39.202.98:8843/play/a134/index.m3u8
+http://181.39.202.98:9955/play/a134/index.m3u8
 
 #EXTINF:0 tvg-id="CinemaxPanregional.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_yx6U7B6vE_SFMsswrHNBhWva9J2EgGG06w&usqp=CAU" group-title="Series | Peliculas", CINEMAX
 http://45.160.15.130:8111/play/112
@@ -862,13 +865,13 @@ http://190.61.102.67:3000/play/a027
 http://190.149.66.90:8000/play/a0fc/index.m3u8
 
 #EXTINF:0 tvg-id="GolPeru.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpICYrXPIfyB0U_0vTNOpTchr7-RxQYkcv5g&usqp=CAU" group-title="Deportes", GOLPERU HD
-http://8.243.104.70:8083/play/a01w/index.m3u8
+http://190.108.93.148:8000/play/a0d6/index.m3u8
 
 #EXTINF:0 tvg-id="GolPeru.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpICYrXPIfyB0U_0vTNOpTchr7-RxQYkcv5g&usqp=CAU" group-title="Deportes", GOLPERU
-http://45.225.95.171:8000/play/a0ir/index.m3u8
+http://8.243.104.70:8083/play/a01w/index.m3u8
 
 #EXTINF:0 tvg-id="GolPeru.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpICYrXPIfyB0U_0vTNOpTchr7-RxQYkcv5g&usqp=CAU" group-title="Deportes", GOL PERU
-http://190.187.247.206:8000/play/a02l/index.m3u8
+http://45.225.95.171:8000/play/a0ir/index.m3u8
 
 #EXTINF:0 tvg-id="GolPeru.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpICYrXPIfyB0U_0vTNOpTchr7-RxQYkcv5g&usqp=CAU" group-title="Deportes", GOL PERU
 http://45.225.95.171:8000/play/a0ir/index.m3u8
@@ -880,10 +883,10 @@ http://8.243.104.70:8083/play/a01t/index.m3u8
 http://45.225.95.171:8000/play/a0ea/index.m3u8
 
 #EXTINF:0 tvg-id="Goltv.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQncF25OuGhuO0-qo0-IqYO5pXPxed_NRx5UQ&usqp=CAU" group-title="Deportes", GOL TV
-http://190.131.228.59:8000/play/a05u/index.m3u8
+http://190.20.242.244:8000/play/a051/index.m3u8
 
 #EXTINF:0 tvg-id="Goltv.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQncF25OuGhuO0-qo0-IqYO5pXPxed_NRx5UQ&usqp=CAU" group-title="Deportes", GOL TV
-http://138.186.76.100:8000/play/a00u/index.m3u8
+http://190.131.228.59:8000/play/a05u/index.m3u8
 
 #EXTINF:0 tvg-id="Goltv.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQncF25OuGhuO0-qo0-IqYO5pXPxed_NRx5UQ&usqp=CAU" group-title="Deportes", GOL TV
 http://138.186.76.100:8000/play/a02a/index.m3u8
@@ -1119,10 +1122,10 @@ http://8.242.187.236:5007/play/a05d/index.m3u8
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/vc_59tt
 
 #EXTINF:0 tvg-id="History2Panregional.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYJ8U1zE4HmML93N6w3TRYhWdAg3oSGQgfQw&usqp=CAU" group-title="Ciencia | Cultura", HISTORY 2
-http://8.243.104.70:8083/play/a021/index.m3u8
+http://181.39.202.98:9955/play/a109/index.m3u8
 
 #EXTINF:0 tvg-id="History2Panregional.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYJ8U1zE4HmML93N6w3TRYhWdAg3oSGQgfQw&usqp=CAU" group-title="Ciencia | Cultura", HISTORY 2
-http://45.225.95.171:8000/play/a0hg/index.m3u8
+http://8.243.104.70:8083/play/a021/index.m3u8
 
 #EXTINF:0 tvg-id="History2Panregional.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYJ8U1zE4HmML93N6w3TRYhWdAg3oSGQgfQw&usqp=CAU" group-title="Ciencia | Cultura", HISTORY 2
 http://45.225.95.171:8000/play/a0hg/index.m3u8
@@ -1131,7 +1134,7 @@ http://45.225.95.171:8000/play/a0hg/index.m3u8
 http://204.199.119.14:1979/play/a01u/index.m3u8
 
 #EXTINF:0 tvg-id="AnimalPanregional.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyvsnJWPhC0phHnRIRqjzvM3hVOiazARc6dA&usqp=CAU" group-title="Ciencia | Cultura", Animal Planet
-http://201.234.194.58:6020/play/a0c9/index.m3u8
+http://181.39.202.98:9955/play/a0zf/index.m3u8
 
 #EXTINF:0 tvg-id="AnimalPanregional.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyvsnJWPhC0phHnRIRqjzvM3hVOiazARc6dA&usqp=CAU" group-title="Ciencia | Cultura", Animal Planet
 http://190.43.232.193:8000/play/a01s/index.m3u8
