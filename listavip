@@ -485,7 +485,7 @@ http://181.65.199.218:8000/play/a038/index.m3u8
 http://179.1.64.210:8090/play/a00y/index.m3u8
 
 #EXTINF:0 tvg-id="StudioUniversalPanregional.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXbZEYrTK8hmFglHkS6fOp-FZOxoMfUjE3SA&usqp=CAU" group-title="Series | Peliculas", UNIVERSAL
-http://181.189.254.33:8080/play/a0gp/index.m3u8
+http://45.160.15.130:8111/play/088
 
 #EXTINF:0 tvg-id="UniversalCinema.us" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.945333694_UniversalCinema-Oscuro.png.0c63ffe5cc2ea7868f7d08da0de7c7d4.png" group-title="Series | Peliculas", UNIVERSAL CINEMA
 http://131.196.194.2:8000/play/a0d6/index.m3u8
@@ -578,10 +578,10 @@ http://45.225.95.171:8000/play/a0je/index.m3u8
 http://45.171.66.198:8082/play/a00x
 
 #EXTINF:0 tvg-id="SonyChannelSouth.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsMAZLSYszYGCUCY_5Wd77FJMscnxntVQLFg&usqp=CAU" group-title="Series | Peliculas", SONY
-http://179.1.64.210:8090/play/a003/index.m3u8
+http://45.160.15.130:8111/play/093
 
 #EXTINF:0 tvg-id="SonyChannelSouth.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsMAZLSYszYGCUCY_5Wd77FJMscnxntVQLFg&usqp=CAU" group-title="Series | Peliculas", SONY
-http://200.6.189.26:9000/play/a02p
+http://179.1.64.210:8090/play/a003/index.m3u8
 
 #EXTINF:0 tvg-id="SonyChannelSouth.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsMAZLSYszYGCUCY_5Wd77FJMscnxntVQLFg&usqp=CAU" group-title="Series | Peliculas", SONY
 http://200.6.189.26:9000/play/a02p
@@ -683,6 +683,9 @@ http://181.39.202.98:8843/play/a0z4/index.m3u8
 http://200.6.189.26:9000/play/a00t
 
 #EXTINF:0 tvg-id="FXSouth.us"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaefm-GHOeqHBxSKtgsUmQWWGospj0FC3Xhg&usqp=CAU" group-title="Series | Peliculas", FX
+http://45.160.15.130:8111/play/093
+
+#EXTINF:0 tvg-id="FXSouth.us"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaefm-GHOeqHBxSKtgsUmQWWGospj0FC3Xhg&usqp=CAU" group-title="Series | Peliculas", FX
 http://190.43.232.193:8000/play/a027/index.m3u8
 
 #EXTINF:0 tvg-id="FXSouth.us"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaefm-GHOeqHBxSKtgsUmQWWGospj0FC3Xhg&usqp=CAU" group-title="Series | Peliculas", FX
@@ -695,7 +698,7 @@ http://190.43.232.193:8000/play/a00v/index.
 http://187.102.208.252:8000/play/a02h
 
 #EXTINF:0 tvg-id="LifetimePanregional.us" tvg-logo="https://unity-img.tbxapis.com/v0/images/9bb19fc2ad40d0932596594264f6710c/section/5e57e9146ac3bf34c6dd3c66/4f12b95f92b0ef310be380695e0cf02f/img.png" group-title="Series | Peliculas", Lifetime
-http://181.189.254.33:8080/play/a0dl/index.m3u8
+http://45.160.15.130:8111/play/100
 
 #EXTINF:0 tvg-id="LifetimePanregional.us" tvg-logo="https://unity-img.tbxapis.com/v0/images/9bb19fc2ad40d0932596594264f6710c/section/5e57e9146ac3bf34c6dd3c66/4f12b95f92b0ef310be380695e0cf02f/img.png" group-title="Series | Peliculas", Lifetime
 http://8.242.187.236:5007/play/a05u/index.m3u8
