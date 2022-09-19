@@ -910,7 +910,7 @@ http://190.131.228.59:8000/play/a05u/index.m3u8
 http://138.186.76.100:8000/play/a02a/index.m3u8
 
 #EXTINF:0 tvg-id="TYCSports.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8bvldEAciCevtvsrv5aPlA6g6_X1aWbGOhA&usqp=CAU" group-title="Deportes", TyC Sports
-http://138.186.76.100:8000/play/a00v/index.m3u8
+http://45.238.21.106:7778/play/a04q/index.m3u8
 
 #EXTINF:0 tvg-id="TYCSports.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8bvldEAciCevtvsrv5aPlA6g6_X1aWbGOhA&usqp=CAU" group-title="Deportes", TyC Sports
 http://190.187.247.206:8000/play/a019/index.m3u8
@@ -1178,7 +1178,7 @@ http://190.115.15.177:58003/play/a06c/index.m3u8
 http://186.189.222.205:8001/play/a018/index.m3u8
 
 #EXTINF:0 tvg-id="E!.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVJfVPJsr_ZFKaALSke73drljoGFseLqJvsA&usqp=CAU" group-title="Ciencia | Cultura", E! Entertainment
-http://190.43.232.193:8000/play/a01t/index.m3u8
+http://186.46.29.115:8000/play/a05u/index.m3u8
 
 #EXTINF:0 tvg-id="E!.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVJfVPJsr_ZFKaALSke73drljoGFseLqJvsA&usqp=CAU" group-title="Ciencia | Cultura", E! Entertainment
 http://190.4.0.202:8000/play/a02x/index.m3u8
