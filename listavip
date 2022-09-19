@@ -1169,13 +1169,13 @@ http://181.39.202.98:9955/play/a0zf/index.m3u8
 http://190.43.232.193:8000/play/a01s/index.m3u8
 
 #EXTINF:0 tvg-id="TLC.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm5AXEpZ0V38fmkyHbvIUCCfGzRc3hocuUbQ&usqp=CAU" group-title="Ciencia | Cultura", TLC
-http://45.160.15.130:8111/play/172
+http://45.160.12.253:8000/play/172
 
 #EXTINF:0 tvg-id="TLC.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm5AXEpZ0V38fmkyHbvIUCCfGzRc3hocuUbQ&usqp=CAU" group-title="Ciencia | Cultura", TLC
-http://190.115.15.177:58003/play/a06c/index.m3u8
+http://200.48.212.114:8000/play/a020/index.m3u8
 
 #EXTINF:0 tvg-id="TLC.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm5AXEpZ0V38fmkyHbvIUCCfGzRc3hocuUbQ&usqp=CAU" group-title="Ciencia | Cultura", TLC
-http://186.189.222.205:8001/play/a018/index.m3u8
+http://190.108.93.148:8000/play/a07a/index.m3u8
 
 #EXTINF:0 tvg-id="E!.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVJfVPJsr_ZFKaALSke73drljoGFseLqJvsA&usqp=CAU" group-title="Ciencia | Cultura", E! Entertainment
 http://186.46.29.115:8000/play/a05u/index.m3u8
