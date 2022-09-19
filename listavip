@@ -1184,7 +1184,7 @@ http://186.46.29.115:8000/play/a05u/index.m3u8
 http://190.4.0.202:8000/play/a02x/index.m3u8
 
 #EXTINF:0 tvg-id="E!.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVJfVPJsr_ZFKaALSke73drljoGFseLqJvsA&usqp=CAU" group-title="Ciencia | Cultura", E! Entertainment
-http://190.20.242.244:8000/play/a04x/index.m3u8
+http://45.238.21.106:7778/play/a00g/index.m3u8
 
 #EXTINF:0 tvg-id="E!.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVJfVPJsr_ZFKaALSke73drljoGFseLqJvsA&usqp=CAU" group-title="Ciencia | Cultura", E! Entertainment
 http://45.160.12.253:8000/play/174
