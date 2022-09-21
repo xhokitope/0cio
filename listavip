@@ -696,26 +696,29 @@ http://45.225.95.171:8000/play/a0jj/index.m3u8
 http://181.39.202.98:9955/play/a10p/index.m3u8
 
 #EXTINF:0 tvg-id="StarChannelSouth.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuy06bmT3Yu_WeK7X68zmYjWp4PzUCxf_X6g&usqp=CAU" group-title="Series | Peliculas", FOX CHANNEL
-http://45.160.12.253:8000/play/083
+http://190.4.0.202:8000/play/a03e/index.m3u8
+
 
 #EXTINF:0 tvg-id="StarChannelSouth.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuy06bmT3Yu_WeK7X68zmYjWp4PzUCxf_X6g&usqp=CAU" group-title="Series | Peliculas", FOX CHANNEL
 http://200.6.189.26:9000/play/a00y
 
 #EXTINF:0 tvg-id="StarChannelSouth.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuy06bmT3Yu_WeK7X68zmYjWp4PzUCxf_X6g&usqp=CAU" group-title="Series | Peliculas", FOX CHANNEL
-http://190.61.102.67:3000/play/a03y
-
+http://190.27.172.225:25000/play/a00t
 
 #EXTINF:0 tvg-id="StarChannelSouth.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuy06bmT3Yu_WeK7X68zmYjWp4PzUCxf_X6g&usqp=CAU" group-title="Series | Peliculas", FOX CHANNEL
-http://190.61.102.67:3000/play/a03y
+http://190.27.172.228:25000/play/a00t
 
-#EXTINF:0 tvg-id="GoldenPanregional.mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5yZkqbvct3fly86Sx7CZegyAQZ7wKI-_wTg&usqp=CAU" group-title="Series | Peliculas", GOLDEN
-http://181.189.254.33:8080/play/a0f0/index.m3u8
+#EXTINF:0 tvg-id="StarChannelSouth.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuy06bmT3Yu_WeK7X68zmYjWp4PzUCxf_X6g&usqp=CAU" group-title="Series | Peliculas", FOX CHANNEL
+http://45.160.12.253:8000/play/083
 
 #EXTINF:0 tvg-id="GoldenPanregional.mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5yZkqbvct3fly86Sx7CZegyAQZ7wKI-_wTg&usqp=CAU" group-title="Series | Peliculas", GOLDEN
 http://186.189.222.205:8001/play/a00x/index.m3u8
 
-#EXTINF:0 tvg-id="GoldenEdgePanregional.mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiN-Lwlp95wyjCpqBXNJIFeRFpJXHUsco7UA&usqp=CAU" group-title="Series | Peliculas", GOLDEN EDGE
-http://181.39.202.98:9955/play/a134/index.m3u8
+#EXTINF:0 tvg-id="GoldenPanregional.mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5yZkqbvct3fly86Sx7CZegyAQZ7wKI-_wTg&usqp=CAU" group-title="Series | Peliculas", GOLDEN
+http://190.4.0.202:8000/play/a02g/index.m3u8
+
+#EXTINF:0 tvg-id="GoldenEdgePanregional.mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiN-Lwlp95wyjCpqBXNJIFeRFpJXHUsco7UA&usqp=CAU" group-title="Series | Peliculas", GOLDEN
+http://179.63.4.128:8000/play/a003/index.m3u8
 
 #EXTINF:0 tvg-id="CinemaxPanregional.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_yx6U7B6vE_SFMsswrHNBhWva9J2EgGG06w&usqp=CAU" group-title="Series | Peliculas", CINEMAX
 http://45.160.12.253:8000/play/112
@@ -746,7 +749,7 @@ http://190.43.232.193:8000/play/a027/index.m3u8
 http://181.65.199.218:8000/play/a03a/index.m3u8
 
 #EXTINF:0 tvg-id="ComedyCentralNorth.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsVitIRNOf3awFp6qPT9CwRqv67pI1Bq5G5A&usqp=CAU" group-title="Series | Peliculas", COMEDY CENTRAL HD
-http://190.43.232.193:8000/play/a00v/index.
+http://179.63.4.128:8000/play/a01j/index.m3u8
 
 #EXTINF:0 tvg-id="ComedyCentralNorth.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsVitIRNOf3awFp6qPT9CwRqv67pI1Bq5G5A&usqp=CAU" group-title="Series | Peliculas", COMEDY CENTRAL
 http://187.102.208.252:8000/play/a02h
@@ -755,21 +758,25 @@ http://187.102.208.252:8000/play/a02h
 http://45.160.12.253:8000/play/100
 
 #EXTINF:0 tvg-id="LifetimePanregional.us" tvg-logo="https://unity-img.tbxapis.com/v0/images/9bb19fc2ad40d0932596594264f6710c/section/5e57e9146ac3bf34c6dd3c66/4f12b95f92b0ef310be380695e0cf02f/img.png" group-title="Series | Peliculas", Lifetime
-http://8.242.187.236:5007/play/a05u/index.m3u8
+http://190.27.172.228:25000/play/a09c
 
-#EXTINF:0 tvg-id="TBSPanregional.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLZ2z0QO5FF8XePaqcTzUGOQYlAyoQ_CpZyA&usqp=CAU" group-title="Series | Peliculas", TBS
-http://181.189.254.33:8080/play/a0dj/index.m3u8
+#EXTINF:0 tvg-id="LifetimePanregional.us" tvg-logo="https://unity-img.tbxapis.com/v0/images/9bb19fc2ad40d0932596594264f6710c/section/5e57e9146ac3bf34c6dd3c66/4f12b95f92b0ef310be380695e0cf02f/img.png" group-title="Series | Peliculas", Lifetime
+http://190.27.172.226:25000/play/a09c
 
 #EXTINF:0 tvg-id="TBSPanregional.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLZ2z0QO5FF8XePaqcTzUGOQYlAyoQ_CpZyA&usqp=CAU" group-title="Series | Peliculas", TBS
 http://45.238.21.106:6688/play/a026/index.m3u8
 
 #EXTINF:0 tvg-id="TBSPanregional.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLZ2z0QO5FF8XePaqcTzUGOQYlAyoQ_CpZyA&usqp=CAU" group-title="Series | Peliculas", TBS
-http://8.242.187.236:5007/play/a03m/index.m3u8
+http://190.27.172.228:25000/play/a02l
+
+#EXTINF:0 tvg-id="TBSPanregional.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLZ2z0QO5FF8XePaqcTzUGOQYlAyoQ_CpZyA&usqp=CAU" group-title="Series | Peliculas", TBS
+http://190.27.172.226:25000/play/a02l
 
 #EXTINF:0 tvg-id="SyFy.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREUNn8BiFaiUIfwtwZF_VOn9LFxDk82DiPeg&usqp=CAU" group-title="Series | Peliculas", SyFy
 http://45.160.12.253:8000/play/101
 
-#EXTINF:0 tvg-id="SyFy.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREUNn8BiFaiUIfwtwZF_VOn9LFxDk82DiPeg&usqp=CAU" group-title="Series | Peliculas", SyFyhttp://45.5.149.104:8000/play/a191/index.m3u8
+#EXTINF:0 tvg-id="SyFy.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREUNn8BiFaiUIfwtwZF_VOn9LFxDk82DiPeg&usqp=CAU" group-title="Series | Peliculas", SyFy
+http://45.5.149.104:8000/play/a191/index.m3u8
 
 #EXTINF:0 tvg-id="SyFy.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREUNn8BiFaiUIfwtwZF_VOn9LFxDk82DiPeg&usqp=CAU" group-title="Series | Peliculas", SyFy
 http://200.122.237.28:8000/play/a02r/index.m3u8
