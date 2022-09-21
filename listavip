@@ -912,7 +912,7 @@ http://179.1.64.210:8090/play/a011/index.m3u8
 http://190.61.102.67:3000/play/a027
 
 #EXTINF:0 tvg-id="GolPeru.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpICYrXPIfyB0U_0vTNOpTchr7-RxQYkcv5g&usqp=CAU" group-title="Deportes", GOLPERU HD
-http://8.243.104.155:8083/play/a01w/index.m3u8
+http://8.243.104.154:8083/play/a01w/index.m3u8
 
 #EXTINF:0 tvg-id="GolPeru.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpICYrXPIfyB0U_0vTNOpTchr7-RxQYkcv5g&usqp=CAU" group-title="Deportes", GOLPERU
 http://190.108.93.148:8000/play/a0d6/index.m3u8
@@ -921,7 +921,7 @@ http://190.108.93.148:8000/play/a0d6/index.m3u8
 http://8.243.104.70:8083/play/a01w/index.m3u8
 
 #EXTINF:0 tvg-id="GolPeru.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpICYrXPIfyB0U_0vTNOpTchr7-RxQYkcv5g&usqp=CAU" group-title="Deportes", GOL PERU
-http://45.225.95.171:8000/play/a0ir/index.m3u8
+http://8.243.104.153:8083/play/a01w/index.m3u8
 
 #EXTINF:0 tvg-id="MovistarDeportes.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWqoQOMrVxiQQOvQc3nvAeRHhXmfTG3vtgRQ&usqp=CAU" group-title="Deportes", M Deportes
 http://190.108.93.148:8000/play/a0cr/index.m3u8
