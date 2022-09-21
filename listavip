@@ -363,10 +363,10 @@ http://200.48.212.114:8000/play/a00g/index.m3u8
 http://190.108.93.148:8000/play/a0dl/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5XKklig8MfJE-RzMM1qxk95AhdwJjRX0_Cg&usqp=CAU" group-title="Niños | Juniors", Nickelodeon
-http://45.238.21.106:7778/play/a01g/index.m3u8
+http://45.160.12.253:8000/play/014
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5XKklig8MfJE-RzMM1qxk95AhdwJjRX0_Cg&usqp=CAU" group-title="Niños | Juniors", Nickelodeon
-http://45.160.12.253:8000/play/014
+http://200.48.212.114:8000/play/a005/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAt2r2u5nrEGl5cMEq7NtYfBUxV_MIvSOcLQ&usqp=CAU" group-title="Niños | Juniors", Nick Jr
 http://45.160.12.253:8000/play/015
