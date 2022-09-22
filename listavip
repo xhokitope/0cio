@@ -242,27 +242,6 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channe
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge9DG9sWvvAV0OPppAPdZQIF96FxwgWIGTw&usqp=CAU" group-title="TV INTERNACIONAL", Galicia TV America ES
 http://america-crtvg.flumotion.com/playlist.m3u8
 
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjSOrmdx2zoWoHQzijCs-b_2YPtDXaPLXEkw&usqp=CAU" group-title="TV INTERNACIONAL", Canal Once MX
-https://vivo.canaloncelive.tv:443/alivepkgr3/ngrp:cepro_all/chunklist_b1411072.m3u8
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLYR_TI2Bd6hH4dsuJmbCLmLDOWlaRvvxpfg&usqp=CAU" group-title="TV INTERNACIONAL", RTPA TV ES
-https://cdnlive.codev8.net/rtpalive/smil:directo.smil/fmt_token/0Jo2_dDvuSo1yz-paO-swJNnPPsMWKQ-koN9qzXuK28/eyJleHBpcmUiOjE2NTQ3MjM4MDEsInVybF9hbGxvdyI6WyIvcnRwYWxpdmUiLCIvb25kZW1hbmQvYTRjZGRlYTYtZGVkMy00MGRkLTlkMTQtZmQ2MTAyYmRkNzM2Il19/playlist.m3u8?DVR
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Xet5zEDv-seJIbytvF3NQmSc5ZPbmejOww&usqp=CAU" group-title="TV INTERNACIONAL", México Travel Channel
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/mexicotravelchannel
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6VPzZKJNr2rpuTaBXwfjRsh2ejIfw6PkSAA&usqp=CAU" group-title="TV INTERNACIONAL", ImagenTV MX
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/Imagen_TV
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhUILi1E9Ob1oYiSmxeV45nILwKh5ngnMrPw&usqp=CAU" group-title="TV INTERNACIONAL", TeleMar Campeche MX
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/telemarcampeche
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-e-3UbHllgiM-a2jFX7pjpNCnQ77ybA_wVw&usqp=CAU" group-title="TV INTERNACIONAL", Televisa Tijuana MX
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/user/televisatijuanaof
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_vq9ggrEbJBnKCHySlc-DOx8hWxAxSEdCHA&usqp=CAU" group-title="TV INTERNACIONAL", SINTESIS TV MX
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/sintesistv
-
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbhPdpf7KJUuHbwIQmiCG3lT311A39yAdK6g&usqp=CAU" group-title="TV INTERNACIONAL", WOW TV EL SALVADOR
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w636648678_b700000_slen.m3u8
 
@@ -319,6 +298,27 @@ https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRECsUmVb57w3vlP5b38xY0DVnzHi8o_LvFQg&usqp=CAU" group-title="TV INTERNACIONAL", PURUWA TV EC
 https://mediacp.us:8081/8054/index.m3u8
+
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjSOrmdx2zoWoHQzijCs-b_2YPtDXaPLXEkw&usqp=CAU" group-title="TV INTERNACIONAL", Canal Once MX
+https://vivo.canaloncelive.tv:443/alivepkgr3/ngrp:cepro_all/chunklist_b1411072.m3u8
+
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLYR_TI2Bd6hH4dsuJmbCLmLDOWlaRvvxpfg&usqp=CAU" group-title="TV INTERNACIONAL", RTPA TV ES
+https://cdnlive.codev8.net/rtpalive/smil:directo.smil/fmt_token/0Jo2_dDvuSo1yz-paO-swJNnPPsMWKQ-koN9qzXuK28/eyJleHBpcmUiOjE2NTQ3MjM4MDEsInVybF9hbGxvdyI6WyIvcnRwYWxpdmUiLCIvb25kZW1hbmQvYTRjZGRlYTYtZGVkMy00MGRkLTlkMTQtZmQ2MTAyYmRkNzM2Il19/playlist.m3u8?DVR
+
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Xet5zEDv-seJIbytvF3NQmSc5ZPbmejOww&usqp=CAU" group-title="TV INTERNACIONAL", México Travel Channel
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/mexicotravelchannel
+
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6VPzZKJNr2rpuTaBXwfjRsh2ejIfw6PkSAA&usqp=CAU" group-title="TV INTERNACIONAL", ImagenTV MX
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/Imagen_TV
+
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhUILi1E9Ob1oYiSmxeV45nILwKh5ngnMrPw&usqp=CAU" group-title="TV INTERNACIONAL", TeleMar Campeche MX
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/telemarcampeche
+
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-e-3UbHllgiM-a2jFX7pjpNCnQ77ybA_wVw&usqp=CAU" group-title="TV INTERNACIONAL", Televisa Tijuana MX
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/user/televisatijuanaof
+
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_vq9ggrEbJBnKCHySlc-DOx8hWxAxSEdCHA&usqp=CAU" group-title="TV INTERNACIONAL", SINTESIS TV MX
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/sintesistv
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV0E1LRMSR1Bn5Xluxbi7CF2o-A5GloOtBLg&usqp=CAU" group-title="Niños | Juniors", Discovery Kids
 http://181.176.148.142:8000/play/a012
@@ -382,6 +382,8 @@ http://azxtv.com/hls/stream.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPGQT-zYfvO5pjH8RKO-v0OhnRBusVjVmeVQ&usqp=CAU" group-title="Niños | Juniors", IPe
 https://cdnh75.iblups.com/hls/OVJNKV4pSr.m3u8
+
+#Separacion#
 
 EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAJ7y_koapV8_Y119f_6OMLabrk7PQTi9tTw&usqp=CAU" group-title="Niños | Juniors", TaTeTi CL
 https://player.vimeo.com/external/525696991.m3u8?s=52bfc0cf9cec79027e89aef30cc6b3c81d1f218c
@@ -1205,6 +1207,8 @@ http://45.181.122.100:8000/play/a04j/index.m3u8
 
 #EXTINF:0 tvg-id="HistoryPanregional.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxqAVi_JxGZOCO3SdsICCV78r5T3S7Aj84iQ&usqp=CAU" group-title="Ciencia | Cultura", HISTORY
 http://8.242.187.236:5007/play/a05d/index.m3u8
+
+#Separacion#
 
 EXTINF:0 tvg-id="HistoryPanregional.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxqAVi_JxGZOCO3SdsICCV78r5T3S7Aj84iQ&usqp=CAU" group-title="Ciencia | Cultura", HISTORY
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/vc_59tt
