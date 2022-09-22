@@ -2,30 +2,24 @@
 
 
 #EXTINF:0 tvg-id="willax.pe" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
-http://200.48.212.114:8000/play/a02c/index.m3u8
+http://190.108.93.148:8000/play/a07l/index.m3u8
 
 #EXTINF:0 tvg-id="willax.pe" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
 http://190.187.247.206:8000/play/a01j/index.m3u8
 
 #EXTINF:0 tvg-id="willax.pe" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
-http://168.194.171.33:8000/play/a01s/index.m3u8
-
-#EXTINF:0 tvg-id="willax.pe" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
-http://190.187.247.206:8000/play/a01j/index.m3u8
-
-EXTINF:0 tvg-id="willax.pe" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
 http://168.194.171.33:8000/play/a01s/index.m3u8
 
 #EXTINF:0 tvg-id="willax.pe" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/WillaxTV
 
-#EXTINF:0 tvg-id="WillaxTV.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBJPpzvZ3ZeFcbatXoR4Hszd6CK73VrroUA&usqp=CAU" group-title="TV PERUANA", Willax YT
+EXTINF:0 tvg-id="WillaxTV.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBJPpzvZ3ZeFcbatXoR4Hszd6CK73VrroUA&usqp=CAU" group-title="TV PERUANA", Willax YT
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/willaxtv
 
-#EXTINF:0 tvg-id="WillaxTV.pe" tvg-logo="https://yt3.ggpht.com/A-kqMDPRH-JRLmkx_U6PRnEu35wqVgTZ62GoUO1J_zTQBLqft67tR_Wk0MBabjdhj8d8jqA9tg=s176-c-k-c0x00ffffff-no-rj-mo" group-title="TV PERUANA", WF DIGITAL YT
+EXTINF:0 tvg-id="WillaxTV.pe" tvg-logo="https://yt3.ggpht.com/A-kqMDPRH-JRLmkx_U6PRnEu35wqVgTZ62GoUO1J_zTQBLqft67tR_Wk0MBabjdhj8d8jqA9tg=s176-c-k-c0x00ffffff-no-rj-mo" group-title="TV PERUANA", WF DIGITAL YT
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/WFDIGITAL20
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLWPBxepmaofG9R_BH_DyGmkiplS09rEiTRw&usqp=CAU" group-title="TV PERUANA", PBO En Vivo YT
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLWPBxepmaofG9R_BH_DyGmkiplS09rEiTRw&usqp=CAU" group-title="TV PERUANA", PBO En Vivo YT
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/PBODigital
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5z9NwZ-1ngD9OF16quK1nBf_-V_Qjpg9WWQ&usqp=CAU" group-title="TV PERUANA", Retro HD
@@ -38,27 +32,24 @@ https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
 http://181.176.148.142:8000/play/a026
 
 #EXTINF:0 tvg-id="FrecuenciaLatina.pe"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCNrKIpMpnWw1V3psfj-dpZMGqFWoIUsuaw&usqp=CAU" group-title="TV PERUANA", Latina
-http://190.187.247.206:8000/play/a03f/index.m3u8
+http://8.243.104.155:8083/play/a01v/index.m3u8
 
 #EXTINF:0 tvg-id="FrecuenciaLatina.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCNrKIpMpnWw1V3psfj-dpZMGqFWoIUsuaw&usqp=CAU" group-title="TV PERUANA", Latina
 http://190.187.247.206:8000/play/a03f/index.m3u8
 
 #EXTINF:0 tvg-id="FrecuenciaLatina.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCNrKIpMpnWw1V3psfj-dpZMGqFWoIUsuaw&usqp=CAU" group-title="TV PERUANA", Latina
-http://181.176.148.142:8000/play/a02p
+http://8.243.104.154:8083/play/a01v/index.m3u8
 
 EXTINF:0 tvg-id="FrecuenciaLatina.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCNrKIpMpnWw1V3psfj-dpZMGqFWoIUsuaw&usqp=CAU" group-title="TV PERUANA", Latina
 http://181.176.148.142:8000/play/a02p
 
-#EXTINF:0 tvg-id="Latina.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR55Vl1pFtDL3_qdAVEbpfaI8AIa-uvhzuQWQ&usqp=CAU" group-title="TV PERUANA", Latina Noticias YT
+EXTINF:0 tvg-id="Latina.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR55Vl1pFtDL3_qdAVEbpfaI8AIa-uvhzuQWQ&usqp=CAU" group-title="TV PERUANA", Latina Noticias YT
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/LatinaNoticias
 
 #EXTINF:0 tvg-id="ATV.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/ATV_2005.svg/revision/latest/scale-to-width-down/200?cb=20210508210119&path-prefix=es" group-title="TV PERUANA", ATV.PE
-http://190.187.247.206:8000/play/a03c/index.m3u8
+http://190.108.93.148:8000/play/a07q/index.m3u8
 
 #EXTINF:0 tvg-id="ATV.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/ATV_2005.svg/revision/latest/scale-to-width-down/200?cb=20210508210119&path-prefix=es" group-title="TV PERUANA", ATV PE
-http://190.187.247.206:8000/play/a03c/index.m3u8
-
-#EXTINF:0 tvg-id="ATV.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/ATV_2005.svg/revision/latest/scale-to-width-down/200?cb=20210508210119&path-prefix=es" group-title="TV PERUANA", ATV.PE
 http://190.187.247.206:8000/play/a03c/index.m3u8
 
 #EXTINF:0 tvg-id="ATV.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/ATV_2005.svg/revision/latest/scale-to-width-down/200?cb=20210508210119&path-prefix=es" group-title="TV PERUANA", ATV.PE
@@ -89,7 +80,7 @@ http://200.48.212.114:8000/play/a02g/index.m3u8
 http://190.108.93.148:8000/play/a07p/index.m3u8
 #https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/PanamericanaPTV#
 
-#EXTINF:0 tvg-id="PanamericanaTV.pe" tvg-logo="https://yt3.ggpht.com/Lql5U9xcawSmCM2sVc0KVjZwdNkBMc7laQaah2u5NAG_ByqsYB0nwVz7QME2K3CnLFmdkxLBVQ=s900-c-k-c0x00ffffff-no-rj" group-title="TV PERUANA", 24 Horas PE
+EXTINF:0 tvg-id="PanamericanaTV.pe" tvg-logo="https://yt3.ggpht.com/Lql5U9xcawSmCM2sVc0KVjZwdNkBMc7laQaah2u5NAG_ByqsYB0nwVz7QME2K3CnLFmdkxLBVQ=s900-c-k-c0x00ffffff-no-rj" group-title="TV PERUANA", 24 Horas PE
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/24horasperu
 
 #EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmDXwq_JVNoby065mDeURMs9zHCd4FU9GnvQ&usqp=CAU" group-title="TV PERUANA", GLOBAL PE
