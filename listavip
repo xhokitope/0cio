@@ -140,7 +140,7 @@ https://live.obslivestream.com/crtvmux/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4uFe6pOhbCkQGnZWJS1RZbX8d8GWNxaivRA&usqp=CAU" group-title="TV PERUANA", Contacto Deportivo Moyobamba PE
 https://live.obslivestream.com/cdeportivo/index.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsYiK20B13qIGrFEvkoL7YxyfwJXr0jN5hLg&usqp=CAU" group-title="TV PERUANA", CTC TV CUSCO
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsYiK20B13qIGrFEvkoL7YxyfwJXr0jN5hLg&usqp=CAU" group-title="TV PERUANA", CTC TV CUSCO
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/ctcpecanal
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwhBlAg-kzdSDSvlJM2sctkmxdN3QoBeqDcQ&usqp=CAU" group-title="TV PERUANA", RADIO OVACION TV PE
@@ -149,10 +149,10 @@ https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m
 #EXTINF:0 tvg-id="TvPeru.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNdDs_SQGQ74fhoHSN1luvc2x03yaFzrcaig&usqp=CAU" group-title="TV PERUANA", TV PERU
 https://cdnh71.iblups.com/hls/R9WtilpKKB.m3u8
 
-#EXTINF:0 tvg-id="TvPeru.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgLVFOPR3S7hV2mmfwz2EaTiVyKYnGLBpLpg&usqp=CAU" group-title="TV PERUANA", TV PERU NOTICIAS YT
+EXTINF:0 tvg-id="TvPeru.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgLVFOPR3S7hV2mmfwz2EaTiVyKYnGLBpLpg&usqp=CAU" group-title="TV PERUANA", TV PERU NOTICIAS YT
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/tvperunoticiasonline
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6rL6OwSCecttQnTrr1k_W2xLqJTSWKjBtrA&usqp=CAU" group-title="TV PERUANA", TV Norte HD
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6rL6OwSCecttQnTrr1k_W2xLqJTSWKjBtrA&usqp=CAU" group-title="TV PERUANA", TV Norte HD
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/TVNORTEHD
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbAvWDrOBX4a8EAZmrAsbH9TzZACayrIRX0g&usqp=CAU" group-title="TV PERUANA", Televisión Tarapoto
@@ -173,7 +173,7 @@ https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT466p8JV9MmfBXMP8SyX7AuaZ7wxd8F_RqMw&usqp=CAU" group-title="TV PERUANA", Central TV
 https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZADgGdXQztOk7T4C8vQubyHgHAmp0n96HHQ&usqp=CAU" group-title="TV PERUANA", Planeta Radio TV
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZADgGdXQztOk7T4C8vQubyHgHAmp0n96HHQ&usqp=CAU" group-title="TV PERUANA", Planeta Radio TV
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/planeta-radio-t-v
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRey5HoMCCAuwPr3bh3uOqfdh-Ayk8DKMqwLg&usqp=CAU" group-title="TV PERUANA", CajamarcaTV
@@ -185,10 +185,10 @@ https://tv.oyotunstream.com:1936/xtv/xtv/playlist.m3u8
 #EXTINF:0 tvg-id="Bethel.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOwVd_YybMNGThemXEIqu3KkP0f9b6rGkvuA&usqp=CAU" group-title="TV PERUANA", BHTV Villa Salvador PE
 https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://comunicaciones.congreso.gob.pe/wpuploads/2021/02/logo-web-4.png" group-title="TV PERUANA", Congreso Peru TV
+EXTINF:0 tvg-logo="https://comunicaciones.congreso.gob.pe/wpuploads/2021/02/logo-web-4.png" group-title="TV PERUANA", Congreso Peru TV
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/CongresodelaRep%C3%BAblicadelPer%C3%BATVenvivo
 
-#EXTINF:0 tvg-logo="https://justiciatv.pj.gob.pe/wp-content/uploads/2016/05/logo.png" group-title="TV PERUANA", JUSTICIA TV PERU
+EXTINF:0 tvg-logo="https://justiciatv.pj.gob.pe/wp-content/uploads/2016/05/logo.png" group-title="TV PERUANA", JUSTICIA TV PERU
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCwsURxTXqGqijgu98ndod3A
 
 #EXTINF:0 tvg-id="StarTVE.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRws7JwZU2xfLudtdjqRhDsx1SLO_59jk2eWA&usqp=CAU" group-title="TV INTERNACIONAL", STAR TVE
@@ -212,13 +212,13 @@ https://d268yhgc98lzal.cloudfront.net/sdredtv/sdredtv.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnNygwBUBPEh1bWv4STpIseUuB1Y5DgLyIpQ&usqp=CAU" group-title="TV INTERNACIONAL", LaRed CL
 https://d2ab26kihxq8p0.cloudfront.net/hls/live.m3u8
 
-#EXTINF:0 tvg-logo="https://arica.tv/wp-content/uploads/2020/02/aricatv-color_Mesa-de-trabajo00.png" group-title="TV INTERNACIONAL", Arica TV CL
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPIcrWR5QfDwvVwhpWSjoRcIbNNiO_6qOTJQ&usqp=CAU" group-title="TV INTERNACIONAL", Arica TV CL
 https://5eaccbab48461.streamlock.net:1936/8002/8002/playlist.m3u8
 
 EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhkD44m7xqTbJtIZuzRSPI63E-FuiddaqOtjTT_mXywMF77xvUei-bXjLymwGWmmrjoTsZFrcilairQXmat0h4JsTSYVW7hbWbe9pNvTJ08H2dwENnxH_H3SofxtQn8-Q2xa5WCDMO099Yk13D3C_-SjGvGtHvn44KwtLPDpwQY7xj_I6YhNO9NuTVpCw=s600" group-title="TV INTERNACIONAL", Play Medios TV GUATEMALA
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/zeno-play-medios-tv
 
-#EXTINF:0 tvg-logo="https://www.guatevision.com/wp-content/uploads/sites/2/2019/09/cropped-gtvicon0.png?quality=82" group-title="TV INTERNACIONAL", GUATEVISION GUATEMALA
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTItcRqMJ0Sw4Ta5pYJt1L4bNbRBiXjsgfuRA&usqp=CAU" group-title="TV INTERNACIONAL", GUATEVISION GUATEMALA
 https://prensalibre-live.cdn.vustreams.com/live/cd8f5328-7a1c-49d9-b318-9190858d1826/live.isml/cd8f5328-7a1c-49d9-b318-9190858d1826.m3u8
 
 EXTINF:0 tvg-logo="https://colorvision.com.do/wp-content/uploads/2018/10/LOGO-ColorVision-HD-full.png" group-title="TV INTERNACIONAL", Color Vision 9 REP DOMINICANA
@@ -242,7 +242,7 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channe
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge9DG9sWvvAV0OPppAPdZQIF96FxwgWIGTw&usqp=CAU" group-title="TV INTERNACIONAL", Galicia TV America ES
 http://america-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjSOrmdx2zoWoHQzijCs-b_2YPtDXaPLXEkw&usqp=CAU" group-title="TV INTERNACIONAL", Canal Once MX
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjSOrmdx2zoWoHQzijCs-b_2YPtDXaPLXEkw&usqp=CAU" group-title="TV INTERNACIONAL", Canal Once MX
 https://vivo.canaloncelive.tv:443/alivepkgr3/ngrp:cepro_all/chunklist_b1411072.m3u8
 
 EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLYR_TI2Bd6hH4dsuJmbCLmLDOWlaRvvxpfg&usqp=CAU" group-title="TV INTERNACIONAL", RTPA TV ES
@@ -382,9 +382,6 @@ http://azxtv.com/hls/stream.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPGQT-zYfvO5pjH8RKO-v0OhnRBusVjVmeVQ&usqp=CAU" group-title="Niños | Juniors", IPe
 https://cdnh75.iblups.com/hls/OVJNKV4pSr.m3u8
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5z9NwZ-1ngD9OF16quK1nBf_-V_Qjpg9WWQ&usqp=CAU" group-title="Niños | Juniors", Retro HD
-http://181.176.148.142:8000/play/a02x
 
 EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAJ7y_koapV8_Y119f_6OMLabrk7PQTi9tTw&usqp=CAU" group-title="Niños | Juniors", TaTeTi CL
 https://player.vimeo.com/external/525696991.m3u8?s=52bfc0cf9cec79027e89aef30cc6b3c81d1f218c
@@ -840,7 +837,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6de52b9914200091f047a/colorLogoPNG.png" group-title="Pluto TV", Pluto TV Teen
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6de52b9914200091f047a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png" group-title="PlutoTV", Pluto TV Animales
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png" group-title="Pluto TV", Pluto TV Animales
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png" group-title="Pluto TV", Pluto TV Naturaleza
@@ -1140,9 +1137,6 @@ https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
 #EXTINF:0 tvg-id="4funTV.pl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSVpDjZrhZOagCAjGX8yU_HSHr2URuHXD_4g&usqp=CAU" group-title="Musica En Vivo", 4FUN.TV
 https://stream.4fun.tv:8888/hls/4f.m3u8
 
-#EXTINF:0 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Visi%C3%B3n-TV-M%C3%BAsica-en-vivo-Online.png" group-title="Musica En Vivo", Visi0n Music TV
-https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
-
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ49As8F5dI-MTdZnOFzsl9KDL9wGGLE0nHuw&usqp=CAU" group-title="Musica En Vivo", CM Music TV AR
 http://g2.vxral-hor.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica000044_all/Playlist.m3u8?sense=true
 
@@ -1161,14 +1155,8 @@ https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH9hc77m3zNJdA7J7Ba_8n8FzE7EomL_Re0A&usqp=CAU" group-title="Musica En Vivo", BEST CABLE MUSIC
 https://tv.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="Musica En Vivo", TOP LATINO
-https://5cefcbf58ba2e.streamlock.net:443/tltvweb/tvweb.stream/chunklist_w1363849901.m3u8
-
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGlo-48YjEMk4tEjjkd3Xn2Pg3lmd-fgsxgQ&usqp=CAU" group-title="Musica En Vivo", TeleRitmo
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-
-#EXTINF:0 tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/logo-canal-karavana-urbano-cuadrado.png" group-title="Musica En Vivo", Karavana Urbano
-http://177.53.152.186:8000/play/a010/index.m3u8
 
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Karibe%C3%B1aTV2018.png/revision/latest/scale-to-width-down/2000?cb=20200217131332&path-prefix=es" group-title="Musica En Vivo", La Karibeña
 https://cu.onliv3.com/livevd/user1.m3u8
