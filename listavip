@@ -11,10 +11,10 @@ http://190.187.247.206:8000/play/a01j/index.m3u8
 http://168.194.171.33:8000/play/a01s/index.m3u8
 
 #EXTINF:0 tvg-id="willax.pe" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/WillaxTV
+https://www.dailymotion.com/WillaxTV
 
-EXTINF:0 tvg-id="WillaxTV.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBJPpzvZ3ZeFcbatXoR4Hszd6CK73VrroUA&usqp=CAU" group-title="TV PERUANA", Willax YT
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/willaxtv
+#EXTINF:0 tvg-id="WillaxTV.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBJPpzvZ3ZeFcbatXoR4Hszd6CK73VrroUA&usqp=CAU" group-title="TV PERUANA", Willax YT
+https://youtube.com/c/willaxtv
 
 EXTINF:0 tvg-id="WillaxTV.pe" tvg-logo="https://yt3.ggpht.com/A-kqMDPRH-JRLmkx_U6PRnEu35wqVgTZ62GoUO1J_zTQBLqft67tR_Wk0MBabjdhj8d8jqA9tg=s176-c-k-c0x00ffffff-no-rj-mo" group-title="TV PERUANA", WF DIGITAL YT
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/WFDIGITAL20
@@ -413,67 +413,67 @@ http://181.176.148.142:8000/play/a02x
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAJ7y_koapV8_Y119f_6OMLabrk7PQTi9tTw&usqp=CAU" group-title="Niños | Juniors", TaTeTi CL
 https://player.vimeo.com/external/525696991.m3u8?s=52bfc0cf9cec79027e89aef30cc6b3c81d1f218c
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkFU1yFpUuczG09jLeZ63Do4TsvDfOiBnA8w&usqp=CAU" group-title="Niños | Juniors", Pajaro Loco
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkFU1yFpUuczG09jLeZ63Do4TsvDfOiBnA8w&usqp=CAU" group-title="Niños | Juniors", Pajaro Loco
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCHtZ2_7hd1zy9aCqrrcaqcQ
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3NCZTRn0peoz4cEoDh5kQtkbWQ3HyN_TIaw&usqp=CAU" group-title="Niños | Juniors", Granja de Zenon TV
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3NCZTRn0peoz4cEoDh5kQtkbWQ3HyN_TIaw&usqp=CAU" group-title="Niños | Juniors", Granja de Zenon TV
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/elreinoinfantil
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAin3y1QI2piNW9JgqOkC00axtwrq0tmGhXQ&usqp=CAU" group-title="Niños | Juniors", Tatty y Misifu
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAin3y1QI2piNW9JgqOkC00axtwrq0tmGhXQ&usqp=CAU" group-title="Niños | Juniors", Tatty y Misifu
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/LaBrujitaTatty
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRalyHZsrHit5MNqLp8nmWMZ5CiGktlwsYKkQ&usqp=CAU" group-title="Niños | Juniors", PJ Masks
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRalyHZsrHit5MNqLp8nmWMZ5CiGktlwsYKkQ&usqp=CAU" group-title="Niños | Juniors", PJ Masks
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/PJMasksLAS
 
-#EXTINF:0 tvg-logo="https://i0.wp.com/imagenesparapeques.com/wp-content/uploads/2014/07/pocoyo-en-Italiapng.png?ssl=1" group-title="Niños | Juniors", POCOYO HD
+EXTINF:0 tvg-logo="https://i0.wp.com/imagenesparapeques.com/wp-content/uploads/2014/07/pocoyo-en-Italiapng.png?ssl=1" group-title="Niños | Juniors", POCOYO HD
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/pocoyo
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGUgB6uU5Sl-Tu17nLz2Zgwp37QXFde5zIsA&usqp=CAU" group-title="Niños | Juniors", ANTIKS HD
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGUgB6uU5Sl-Tu17nLz2Zgwp37QXFde5zIsA&usqp=CAU" group-title="Niños | Juniors", ANTIKS HD
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/OddbodsEspa%C3%B1ol
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGs1EQ-FsdTBO9WMj6-JrGi21CLMgMB862TA&usqp=CAU" group-title="Niños | Juniors", PEPA PIG HD
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGs1EQ-FsdTBO9WMj6-JrGi21CLMgMB862TA&usqp=CAU" group-title="Niños | Juniors", PEPA PIG HD
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/PeppaPigOficial
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs6I086E6tC6fyGLMCI1WZQy2uQ-Pzade-2A&usqp=CAU" group-title="Niños | Juniors", BabyBus TV
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs6I086E6tC6fyGLMCI1WZQy2uQ-Pzade-2A&usqp=CAU" group-title="Niños | Juniors", BabyBus TV
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/BabyBusCancionesInfantilesCuentos
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJa79IKOg0I-VarhB1bqusmLx9ywuBjw7JdQ&usqp=CAU" group-title="Niños | Juniors", Baby Shark TV
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJa79IKOg0I-VarhB1bqusmLx9ywuBjw7JdQ&usqp=CAU" group-title="Niños | Juniors", Baby Shark TV
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/BabySharkES
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR03S42m_AGzT5ui1w8dxE7Ed22FXnJkjjsNg&usqp=CAU" group-title="Niños | Juniors", Pinguino Pororo TV
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR03S42m_AGzT5ui1w8dxE7Ed22FXnJkjjsNg&usqp=CAU" group-title="Niños | Juniors", Pinguino Pororo TV
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/PororoSpanish
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0tCqG4gsOXJgH6BTp0PnFb1x422IhVB6cBw&usqp=CAU" group-title="Niños | Juniors", Dragon Ball
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0tCqG4gsOXJgH6BTp0PnFb1x422IhVB6cBw&usqp=CAU" group-title="Niños | Juniors", Dragon Ball
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/dragonballenvivoz
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlExxvOh5bbFXskdUsbU0K5ASYeX_zj8mhAg&usqp=CAU" group-title="Niños | Juniors", Goku TV
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlExxvOh5bbFXskdUsbU0K5ASYeX_zj8mhAg&usqp=CAU" group-title="Niños | Juniors", Goku TV
 http://138.36.253.14:8010/play/a02f/index.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt8B8o5UPLnGsaBFfER3OrleXRkoUroRwsag&usqp=CAU" group-title="Niños | Juniors", Dragon Ball +
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/drakeplaydz
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt8B8o5UPLnGsaBFfER3OrleXRkoUroRwsag&usqp=CAU" group-title="Niños | Juniors", Dragon Ball +
+https://www.twitch.tv/drakeplaydz
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0TjME7MYIoSrC64jpdDsKgKmYvBt8Jm-ZKQ&usqp=CAU" group-title="Niños | Juniors", Dragon ball Z
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0TjME7MYIoSrC64jpdDsKgKmYvBt8Jm-ZKQ&usqp=CAU" group-title="Niños | Juniors", Dragon ball Z
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/dragon_ball_superz
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsUDoAmdVGCaiSgjqa16aNMZWG3gq4PSJ_8Q&usqp=CAU" group-title="Niños | Juniors", Dragon ball Super
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsUDoAmdVGCaiSgjqa16aNMZWG3gq4PSJ_8Q&usqp=CAU" group-title="Niños | Juniors", Dragon ball Super
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/dragonballentwitch
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiI-5aAtYdD4yDanonpy3HywaFpXZoS8g3cA&usqp=CAU" group-title="Niños | Juniors", Saint Seiya
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiI-5aAtYdD4yDanonpy3HywaFpXZoS8g3cA&usqp=CAU" group-title="Niños | Juniors", Saint Seiya
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/francisco_sensei
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkA0QOWSs0BYu-Rqh7FXCWTH4NOHikFuvTew&usqp=CAU" group-title="Niños | Juniors", El Chavo Del 8
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkA0QOWSs0BYu-Rqh7FXCWTH4NOHikFuvTew&usqp=CAU" group-title="Niños | Juniors", El Chavo Del 8
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/chavo_mania
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnFay6RNwnKV4PiSGJqQagIWPXvxWejLOPCg&usqp=CAU" group-title="Niños | Juniors", El Chavo Del 8 +
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnFay6RNwnKV4PiSGJqQagIWPXvxWejLOPCg&usqp=CAU" group-title="Niños | Juniors", El Chavo Del 8 +
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/chavodel8ocho
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQodPlkF0dzQM9TyP6ruFWV0pMYCABJr20C9g&usqp=CAU" group-title="Niños | Juniors", El Chapulin Colorado
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQodPlkF0dzQM9TyP6ruFWV0pMYCABJr20C9g&usqp=CAU" group-title="Niños | Juniors", El Chapulin Colorado
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/chapulin_colorado_directo
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFpq0NXYU7290syMIka2qL-jOGTqTHz1VD3g&usqp=CAU" group-title="Niños | Juniors", Los Simpsons
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFpq0NXYU7290syMIka2qL-jOGTqTHz1VD3g&usqp=CAU" group-title="Niños | Juniors", Los Simpsons
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/simpsonmania24_7
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_N9eD6PrD1q4-Iu7bQb2Q9Z4CK12S1cvKrg&usqp=CAU" group-title="Niños | Juniors", Los Simpsons +
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_N9eD6PrD1q4-Iu7bQb2Q9Z4CK12S1cvKrg&usqp=CAU" group-title="Niños | Juniors", Los Simpsons +
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/simpsonmania28
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5z9NwZ-1ngD9OF16quK1nBf_-V_Qjpg9WWQ&usqp=CAU" group-title="Series | Peliculas", Retro HD
@@ -964,7 +964,7 @@ http://45.238.21.106:7778/play/a04q/index.m3u8
 #EXTINF:0 tvg-id="TYCSports.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8bvldEAciCevtvsrv5aPlA6g6_X1aWbGOhA&usqp=CAU" group-title="Deportes", TyC Sports
 http://190.187.247.206:8000/play/a019/index.m3u8
 
-#EXTINF:0 tvg-id="TYCSports.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8bvldEAciCevtvsrv5aPlA6g6_X1aWbGOhA&usqp=CAU" group-title="Deportes", TyC Sports
+EXTINF:0 tvg-id="TYCSports.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8bvldEAciCevtvsrv5aPlA6g6_X1aWbGOhA&usqp=CAU" group-title="Deportes", TyC Sports
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/aw_tt49
 
 #EXTINF:0 tvg-id="TNTSportsChile.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyThGgslO5ZZVkHhKFbUXS8eB5JhJXW-H8g&usqp=CAU" group-title="Deportes", TNT Sports
@@ -1042,37 +1042,37 @@ http://siloh.pluto.tv/lilo/production/bein/1/master_2.m3u8
 #EXTINF:0 tvg-id="ClaroSports.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_ikg6XkXgJo3t1KMI9IQEeOvtHUaQe9KDfw&usqp=CAU" group-title="Deportes", Claro Sports
 http://131.196.194.2:8000/play/a0e1/index.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLXT7z9CSPaJZU_Ee3pxCiIl80W8FUNzDueA&usqp=CAU" group-title="Deportes", Chiringuito Inside YT
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLXT7z9CSPaJZU_Ee3pxCiIl80W8FUNzDueA&usqp=CAU" group-title="Deportes", Chiringuito Inside YT
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/ChiringuitoTvInside
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiAsYe7TJv3JN-6todgGlqxIrp37StgMTavA&usqp=CAU" group-title="Deportes", Chiringuito PLUS YT
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiAsYe7TJv3JN-6todgGlqxIrp37StgMTavA&usqp=CAU" group-title="Deportes", Chiringuito PLUS YT
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UC_TvBokD9623ZkGctx0GqXg
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJp9wHXHbxj4zw_9UvsDdTw6YjP0INHPJBSA&usqp=CAU" group-title="Deportes", Chiringuito SHOW YT
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJp9wHXHbxj4zw_9UvsDdTw6YjP0INHPJBSA&usqp=CAU" group-title="Deportes", Chiringuito SHOW YT
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCI_v54UK0Sh8djJuvYeDW0Q
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMkU0H8wU1zseho83CY-ARAIepIt8Bu1Zd5g&usqp=CAU" group-title="Deportes", Chiringuito HD YT
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMkU0H8wU1zseho83CY-ARAIepIt8Bu1Zd5g&usqp=CAU" group-title="Deportes", Chiringuito HD YT
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCaxnIfZhqzUMrclbDDZS1mQ
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKesWmfZouoQ8jz7_9mqnH680XsnxuCOKGeA&usqp=CAU" group-title="Deportes", Chiringuito De Jugones YT
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKesWmfZouoQ8jz7_9mqnH680XsnxuCOKGeA&usqp=CAU" group-title="Deportes", Chiringuito De Jugones YT
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UC7R9ds4a3ADKRh9VLgG0DFg
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw7LRzlg70PLRjUYynwrRRp_Gh-gFnxVbcfg&usqp=CAU" group-title="Deportes", Mr Peet A PRESION
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw7LRzlg70PLRjUYynwrRRp_Gh-gFnxVbcfg&usqp=CAU" group-title="Deportes", Mr Peet A PRESION
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/APRESI%C3%93N
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc6IKPhVp81Meord7DpgLEhHXlhmaFXaco6Q&usqp=CAU" group-title="Deportes", ERICK Y GONZALO
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc6IKPhVp81Meord7DpgLEhHXlhmaFXaco6Q&usqp=CAU" group-title="Deportes", ERICK Y GONZALO
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCcRSITGrzZce21uHdQ6GjZA
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_7MzeW7lccOAvnkj4FmLmwargYouhBu9KeA&usqp=CAU" group-title="Deportes", FUTBOL BRUTAL PE
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_7MzeW7lccOAvnkj4FmLmwargYouhBu9KeA&usqp=CAU" group-title="Deportes", FUTBOL BRUTAL PE
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCxWhPYT4QSU3jDFNfCTt4kg
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSebrNGshTDxT87D5rXTHy80JOzZ-uxs_QGYg&usqp=CAU" group-title="Deportes", BEST CABLE SPORTS
 https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRGddKrL26aY3Yf7enSL107-oL1XdMhAdFaA&usqp=CAU" group-title="Deportes", Futbol En America l Dom 10 pm
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRGddKrL26aY3Yf7enSL107-oL1XdMhAdFaA&usqp=CAU" group-title="Deportes", Futbol En America l Dom 10 pm
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCxzM16KsVlgCjMW14sJCHDg
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFKueaSZ_4733wkNutT-IFyykzzJAiGW2tAA&usqp=CAU" group-title="Deportes", Diario Depor PE
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFKueaSZ_4733wkNutT-IFyykzzJAiGW2tAA&usqp=CAU" group-title="Deportes", Diario Depor PE
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/DiarioDeporoficial
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4uFe6pOhbCkQGnZWJS1RZbX8d8GWNxaivRA&usqp=CAU" group-title="Deportes", Contacto Deportivo Moyobamba PE
@@ -1099,19 +1099,19 @@ http://8.242.187.236:5007/play/a05h/index.m3u8
 #EXTINF:0 tvg-id="MTVSouth.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRepA3Q9Clc5PAT4xJ48HcJSedHhNv9LO0YCQ&usqp=CAU" group-title="Musica En Vivo", MTV
 http://181.65.199.218:8000/play/a00i/index.m3u8
 
-##EXTINF:0 tvg-id="MTV80s.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkh5BRLcHUkTuMU-XuZ2PEbqKDG6oXQ25icQ&usqp=CAU" group-title="Musica En Vivo", MTV 80s
-http://190.4.0.202:8000/play/a01r/index.m3u8#
+EXTINF:0 tvg-id="MTV80s.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkh5BRLcHUkTuMU-XuZ2PEbqKDG6oXQ25icQ&usqp=CAU" group-title="Musica En Vivo", MTV 80s
+http://190.4.0.202:8000/play/a01r/index.m3u8
 
-##EXTINF:0 tvg-id="MTV80s.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkh5BRLcHUkTuMU-XuZ2PEbqKDG6oXQ25icQ&usqp=CAU" group-title="Musica En Vivo", MTV 80s
-http://8.242.179.182:58001/play/a02t/index.m3u8#
+EXTINF:0 tvg-id="MTV80s.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkh5BRLcHUkTuMU-XuZ2PEbqKDG6oXQ25icQ&usqp=CAU" group-title="Musica En Vivo", MTV 80s
+http://8.242.179.182:58001/play/a02t/index.m3u8
 
-##EXTINF:0 tvg-id="MTVHits.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYt_kWsuM9nPn9Iz_A4DxHr-k6cutEpFnaiQ&usqp=CAU" group-title="Musica En Vivo", MTV Hits
-http://8.242.179.183:58001/play/a02s/index.m3u8#
+EXTINF:0 tvg-id="MTVHits.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYt_kWsuM9nPn9Iz_A4DxHr-k6cutEpFnaiQ&usqp=CAU" group-title="Musica En Vivo", MTV Hits
+http://8.242.179.183:58001/play/a02s/index.m3u8
 
 ##EXTINF:0 tvg-id="MTVHits.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYt_kWsuM9nPn9Iz_A4DxHr-k6cutEpFnaiQ&usqp=CAU" group-title="Musica En Vivo", MTV Hits
 http://8.242.179.182:58001/play/a02s/index.m3u8#
 
-##EXTINF:0 tvg-id="KPOP.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ49WURwKDmW2F2ppir8kgv-WObM10V3hP5g&usqp=CAU" group-title="Musica En Vivo", KPOP
+EXTINF:0 tvg-id="KPOP.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ49WURwKDmW2F2ppir8kgv-WObM10V3hP5g&usqp=CAU" group-title="Musica En Vivo", KPOP
 http://45.4.168.35:25806/play/a07k/index.m3u8#
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvIfKQ_Ta1wQHJJlfefL0TODQ_bqVwEsHQNQ&usqp=CAU" group-title="Musica En Vivo", Vorteix Rock
@@ -1159,32 +1159,32 @@ https://cu.onliv3.com/livevd/user1.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8qIz7ZSjKp2qqymIFZgGwRPyRAValHqot1g&usqp=CAU" group-title="Musica En Vivo", DMJ TV
 https://v4.tustreaming.cl:443/s1tv/tracks-v1a1/mono.m3u8
 
-##EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8_aOue4hLHObfFcugoyDws9TwLcw3j-egqg&usqp=CAU" group-title="Musica En Vivo", Urbano TV
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8_aOue4hLHObfFcugoyDws9TwLcw3j-egqg&usqp=CAU" group-title="Musica En Vivo", Urbano TV
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/urbano106#
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR29VF6M8BFTZoG1uqCdj1UzasKZxVLUn_Ong&usqp=CAU" group-title="Musica En Vivo", ECUA ESTEREO TV EC
 https://video.misistemareseller.com/ecuastereotv/ecuastereotv/playlist.m3u8
 
-##EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ49WURwKDmW2F2ppir8kgv-WObM10V3hP5g&usqp=CAU" group-title="Musica En Vivo", KPOP
-http://177.53.152.186:8000/play/a00j/index.m3u8#
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ49WURwKDmW2F2ppir8kgv-WObM10V3hP5g&usqp=CAU" group-title="Musica En Vivo", KPOP
+http://177.53.152.186:8000/play/a00j/index.m3u8
 
-##EXTINF:0 tvg-logo="https://www.nicepng.com/png/full/81-813415_the-good-life-good-life-word-art.png" group-title="Musica En Vivo", The Good Life YT
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/TheGoodLiferadio#
+EXTINF:0 tvg-logo="https://www.nicepng.com/png/full/81-813415_the-good-life-good-life-word-art.png" group-title="Musica En Vivo", The Good Life YT
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/TheGoodLiferadio
 
-##EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPspvG3p3jhWWUMK47SqJE1KxF0NnbYDo4g&usqp=CAU" group-title="Musica En Vivo", Miracle Music YT
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCTJ9Qg0vBu2pP_YrWUfGnQ#
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPspvG3p3jhWWUMK47SqJE1KxF0NnbYDo4g&usqp=CAU" group-title="Musica En Vivo", Miracle Music YT
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCTJ9Qg0vBu2pP_YrWUfGnQ
 
-##EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm8H9C8obPJ00_fw79sjgivrxKWQFss4P6Zw&usqp=CAU" group-title="Musica En Vivo", Deep House Mix YT
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/Nora__THR#
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm8H9C8obPJ00_fw79sjgivrxKWQFss4P6Zw&usqp=CAU" group-title="Musica En Vivo", Deep House Mix YT
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/Nora__THR
 
-##EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSX3EcCjhEbH7s22uDN1it-dOTTbPCDHLaSExZd=s100-c-k-c0x00ffffff-no-rj" group-title="Musica En Vivo", Wonder Deep YT
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/user/redthekiller23#
+EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSX3EcCjhEbH7s22uDN1it-dOTTbPCDHLaSExZd=s100-c-k-c0x00ffffff-no-rj" group-title="Musica En Vivo", Wonder Deep YT
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/user/redthekiller23
 
-##EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQS7NPBDROJavknyiaNnl_ZgmnHtR381OC3Q&usqp=CAU" group-title="Musica En Vivo", Rock 80s 90s
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCv7YyZqMZOHlguozyLp4wdg#
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQS7NPBDROJavknyiaNnl_ZgmnHtR381OC3Q&usqp=CAU" group-title="Musica En Vivo", Rock 80s 90s
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCv7YyZqMZOHlguozyLp4wdg
 
-##EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_T10dqJzMKRH_OL9rVhOFZN6EnAUvG4_UFg&usqp=CAU" group-title="Musica En Vivo", Baladas Ingles 80s 90s
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCQkNZghkromJkI72Oz7SGww#
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_T10dqJzMKRH_OL9rVhOFZN6EnAUvG4_UFg&usqp=CAU" group-title="Musica En Vivo", Baladas Ingles 80s 90s
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCQkNZghkromJkI72Oz7SGww
 
 #EXTINF:0 tvg-id="HistoryPanregional.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxqAVi_JxGZOCO3SdsICCV78r5T3S7Aj84iQ&usqp=CAU" group-title="Ciencia | Cultura", HISTORY
 http://179.1.64.210:8090/play/a001/index.m3u8
@@ -1200,6 +1200,8 @@ http://45.181.122.100:8000/play/a04j/index.m3u8
 
 #EXTINF:0 tvg-id="HistoryPanregional.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxqAVi_JxGZOCO3SdsICCV78r5T3S7Aj84iQ&usqp=CAU" group-title="Ciencia | Cultura", HISTORY
 http://8.242.187.236:5007/play/a05d/index.m3u8
+
+EXTINF:0 tvg-id="HistoryPanregional.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxqAVi_JxGZOCO3SdsICCV78r5T3S7Aj84iQ&usqp=CAU" group-title="Ciencia | Cultura", HISTORY
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/vc_59tt
 
 #EXTINF:0 tvg-id="History2Panregional.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYJ8U1zE4HmML93N6w3TRYhWdAg3oSGQgfQw&usqp=CAU" group-title="Ciencia | Cultura", HISTORY 2
