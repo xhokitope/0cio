@@ -191,6 +191,18 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/Cong
 #EXTINF:0 tvg-logo="https://justiciatv.pj.gob.pe/wp-content/uploads/2016/05/logo.png" group-title="TV PERUANA", JUSTICIA TV PERU
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCwsURxTXqGqijgu98ndod3A
 
+#EXTINF:0 tvg-id="StarTVE.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRws7JwZU2xfLudtdjqRhDsx1SLO_59jk2eWA&usqp=CAU" group-title="TV INTERNACIONAL", STAR TVE
+http://179.63.4.128:8000/play/a01z/index.m3u8
+
+#EXTINF:0 tvg-id="TVE.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyqYn9xXLffUOGh3-9pLeRLTHvqvFEGWVrOQ&usqp=CAU" group-title="TV INTERNACIONAL", TVE
+http://190.27.172.228:25000/play/a012
+
+#EXTINF:0 tvg-id="TVE.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyqYn9xXLffUOGh3-9pLeRLTHvqvFEGWVrOQ&usqp=CAU" group-title="TV INTERNACIONAL", TVE
+http://45.160.12.253:8000/play/153
+
+#EXTINF:0 tvg-id="TVE.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyqYn9xXLffUOGh3-9pLeRLTHvqvFEGWVrOQ&usqp=CAU" group-title="TV INTERNACIONAL", TVE
+http://209.45.81.8:8000/play/a03f/index.m3u8
+
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWbDkR07oq9X2tt_HQWJE31Y-2HdCuIZVyxw&usqp=CAU" group-title="TV INTERNACIONAL", AmericaTeve MIAMI US
 https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
 
@@ -212,37 +224,16 @@ https://prensalibre-live.cdn.vustreams.com/live/cd8f5328-7a1c-49d9-b318-9190858d
 EXTINF:0 tvg-logo="https://colorvision.com.do/wp-content/uploads/2018/10/LOGO-ColorVision-HD-full.png" group-title="TV INTERNACIONAL", Color Vision 9 REP DOMINICANA
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/colorvision9
 
-#EXTINF:0 tvg-id="StarTVE.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRws7JwZU2xfLudtdjqRhDsx1SLO_59jk2eWA&usqp=CAU" group-title="TV INTERNACIONAL", STAR TVE
-http://8.242.179.182:58001/play/a00i/index.m3u8
-
-#EXTINF:0 tvg-id="StarTVE.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRws7JwZU2xfLudtdjqRhDsx1SLO_59jk2eWA&usqp=CAU" group-title="TV INTERNACIONAL", STAR TVE
-http://8.242.179.181:58001/play/a00i/index.m3u8
-
-#EXTINF:0 tvg-id="StarTVE.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRws7JwZU2xfLudtdjqRhDsx1SLO_59jk2eWA&usqp=CAU" group-title="TV INTERNACIONAL", STAR TVE
-http://8.242.179.180:58001/play/a00i/index.m3u8
-
-#EXTINF:0 tvg-id="TVE.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyqYn9xXLffUOGh3-9pLeRLTHvqvFEGWVrOQ&usqp=CAU" group-title="TV INTERNACIONAL", TVE
-http://209.45.81.8:8000/play/a03f/index.m3u8
-
-#EXTINF:0 tvg-id="TVE.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyqYn9xXLffUOGh3-9pLeRLTHvqvFEGWVrOQ&usqp=CAU" group-title="TV INTERNACIONAL", TVE
-http://201.219.223.101:15000/play/a00k
-
-#EXTINF:0 tvg-id="TVE.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyqYn9xXLffUOGh3-9pLeRLTHvqvFEGWVrOQ&usqp=CAU" group-title="TV INTERNACIONAL", TVE
-http://138.36.253.14:8010/play/a01l/index.m3u8
-
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3WZwZrxF7d_UEIfcGiis8Z6McURZzwxFfuA&usqp=CAU" group-title="TV INTERNACIONAL", Lancelot TV ES
 https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CMMedia.svg/1177px-CMMedia.svg.png" group-title="TV INTERNACIONAL", CMM ES
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJEA-54WBURDBHi4Du3lACsbs7YV4CISUtPg&usqp=CAU" group-title="TV INTERNACIONAL", CMM ES
 https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/0_xs45iy5i/format/applehttp/protocol/https/uiConfId/39582391/a.m3u8
 
 EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyBofU7joQco1T9jbtu6yHAM2TbD7U0j6uDA&usqp=CAU" group-title="TV INTERNACIONAL", Euronews ES
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/euronewses
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/1200px-ETB2_2022_logo.svg.png" group-title="TV INTERNACIONAL", ETB2 ES
-https://multimedia.eitb.eus:443/live-content/etb2hd-hls/bitrate_3.m3u8?start=1653100963
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/1200px-CEXMA_new.png" group-title="TV INTERNACIONAL", Canal Extremadura ES
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTBYp9arjxA1ZkV_8WB1DmMLDV7xNlFRQNGQ&usqp=CAU" group-title="TV INTERNACIONAL", Canal Extremadura ES
 https://cdnlive.codev8.net/canalextremaduralive/smil:channel1.smil/playlist.m3u8
 
 EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbKleHHCPQ2-kC2P-Sx5MjE-hrlHi8O01OAA&usqp=CAU" group-title="TV INTERNACIONAL", Canal Andalucia HD
@@ -251,14 +242,11 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channe
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge9DG9sWvvAV0OPppAPdZQIF96FxwgWIGTw&usqp=CAU" group-title="TV INTERNACIONAL", Galicia TV America ES
 http://america-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge9DG9sWvvAV0OPppAPdZQIF96FxwgWIGTw&usqp=CAU" group-title="TV INTERNACIONAL", Galicia TV Europa Es
-http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjSOrmdx2zoWoHQzijCs-b_2YPtDXaPLXEkw&usqp=CAU" group-title="TV INTERNACIONAL", Canal Once MX
+https://vivo.canaloncelive.tv:443/alivepkgr3/ngrp:cepro_all/chunklist_b1411072.m3u8
 
 EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLYR_TI2Bd6hH4dsuJmbCLmLDOWlaRvvxpfg&usqp=CAU" group-title="TV INTERNACIONAL", RTPA TV ES
 https://cdnlive.codev8.net/rtpalive/smil:directo.smil/fmt_token/0Jo2_dDvuSo1yz-paO-swJNnPPsMWKQ-koN9qzXuK28/eyJleHBpcmUiOjE2NTQ3MjM4MDEsInVybF9hbGxvdyI6WyIvcnRwYWxpdmUiLCIvb25kZW1hbmQvYTRjZGRlYTYtZGVkMy00MGRkLTlkMTQtZmQ2MTAyYmRkNzM2Il19/playlist.m3u8?DVR
-
-#EXTINF:0 tvg-id="RealMadridTV.es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3M82Y8YcqtSXtuHDW4Pf2k4KnhvBscSW3BQ&usqp=CAU" group-title="TV INTERNACIONAL", Real Madrid TV ES
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=1653452799~acl=/*~hmac=6fa983776826e1224ab4c19996ce92f00a1ad234617b07fd8a398160d72c19e0
 
 EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Xet5zEDv-seJIbytvF3NQmSc5ZPbmejOww&usqp=CAU" group-title="TV INTERNACIONAL", México Travel Channel
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/mexicotravelchannel
@@ -269,20 +257,14 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.co
 EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhUILi1E9Ob1oYiSmxeV45nILwKh5ngnMrPw&usqp=CAU" group-title="TV INTERNACIONAL", TeleMar Campeche MX
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/telemarcampeche
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjSOrmdx2zoWoHQzijCs-b_2YPtDXaPLXEkw&usqp=CAU" group-title="TV INTERNACIONAL", Canal Once MX
-https://vivo.canaloncelive.tv:443/alivepkgr3/ngrp:cepro_all/chunklist_b1411072.m3u8
-
 EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-e-3UbHllgiM-a2jFX7pjpNCnQ77ybA_wVw&usqp=CAU" group-title="TV INTERNACIONAL", Televisa Tijuana MX
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/user/televisatijuanaof
 
 EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_vq9ggrEbJBnKCHySlc-DOx8hWxAxSEdCHA&usqp=CAU" group-title="TV INTERNACIONAL", SINTESIS TV MX
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/sintesistv
 
-#EXTINF:0 tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="TV INTERNACIONAL", WOW TV EL SALVADOR
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbhPdpf7KJUuHbwIQmiCG3lT311A39yAdK6g&usqp=CAU" group-title="TV INTERNACIONAL", WOW TV EL SALVADOR
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w636648678_b700000_slen.m3u8
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaQs4zIK-7jaZt5cLUi3XYO9EAoFYU_m97lg&usqp=CAU" group-title="TV INTERNACIONAL", CANAL 12 EL SALVADOR
-https://sv-canal12-canal12-live.ned.media/canal12/smil:canal12.smil/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO3emx-pOFyxb0QBp0543C5d7QnfKRBfb34w&usqp=CAU" group-title="TV INTERNACIONAL", TV SUR COSTA RICA
 https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
@@ -293,7 +275,7 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.co
 EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyt_V-m1TkufBoPYrCKgniaA_9jeHzTrUkaw&usqp=CAU" group-title="TV INTERNACIONAL", VIVA NICARAGUA
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/vivanicaragua13
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" group-title="TV INTERNACIONAL", Net TV AR
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-JP2bbjnVNUeA0Tdy35w73R19QWaemtX3YA&usqp=CAU" group-title="TV INTERNACIONAL", Net TV AR
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
 EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSXNqfDBJY9QzPIrWItft4ypJUxetC8Vceqw&usqp=CAU" group-title="TV INTERNACIONAL", Canal 10 MDP AR
@@ -320,7 +302,7 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/user/T
 EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC7-lvUuLgP8DahdfS49alySwSDw-qToZMtg&usqp=CAU" group-title="TV INTERNACIONAL", Noticias Caracol CO
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/noticiascaracol
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" group-title="TV INTERNACIONAL", TelePacifico CO
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzLDaKiFtksphY4rOakosIEHnxIWQ0SVZEAw&usqp=CAU" group-title="TV INTERNACIONAL", TelePacifico CO
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI3L3vFDJ3_ACK1xJdNXoUS0QCC62CPv7FVg&usqp=CAU" group-title="TV INTERNACIONAL", TeleTrece CO
@@ -331,12 +313,6 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/Mega
 
 EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0RZVhNcsWYkqPgKxg8WEbKTiQkc7VIYN5Vw&usqp=CAU" group-title="TV INTERNACIONAL", T13 En Vivo CL
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/tele13
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYYleCyYAyENvTEWWUjPMHsM3x5QkZqi2JFA&usqp=CAU" group-title="TV INTERNACIONAL", ECUADOR TV
-https://player-api.new.livestream.com/accounts/27228685/events/9764041/broadcasts/231563085.secure.m3u8
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm6zP9jYOWCqX8ijLsu4cSa0-GvrO1UlVTUA&usqp=CAU" group-title="TV INTERNACIONAL", TELE AMAZONAS EC
-https://player-api.new.livestream.com/accounts/1359588/events/9942377/broadcasts/231564477.secure.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgrRkqAFN17lrx1cFoh80m-qhC2vIoxeHDUA&usqp=CAU" group-title="TV INTERNACIONAL", ECOTEL TV EC
 https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
@@ -410,7 +386,7 @@ https://cdnh75.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5z9NwZ-1ngD9OF16quK1nBf_-V_Qjpg9WWQ&usqp=CAU" group-title="Niños | Juniors", Retro HD
 http://181.176.148.142:8000/play/a02x
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAJ7y_koapV8_Y119f_6OMLabrk7PQTi9tTw&usqp=CAU" group-title="Niños | Juniors", TaTeTi CL
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAJ7y_koapV8_Y119f_6OMLabrk7PQTi9tTw&usqp=CAU" group-title="Niños | Juniors", TaTeTi CL
 https://player.vimeo.com/external/525696991.m3u8?s=52bfc0cf9cec79027e89aef30cc6b3c81d1f218c
 
 EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkFU1yFpUuczG09jLeZ63Do4TsvDfOiBnA8w&usqp=CAU" group-title="Niños | Juniors", Pajaro Loco
@@ -496,6 +472,9 @@ http://181.176.148.142:8000/play/a027
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwzysfoFT_kIxdNRm5xHIFRY-gMOVyUY7QEg&usqp=CAU" group-title="Series | Peliculas", ITV
 http://181.176.148.142:8000/play/a02n
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjC-D9Y1Db_bEIJYLOptOU77Bz8RkZn4n3Kg&usqp=CAU" group-title="Series | Peliculas", City TV
+http://190.27.172.224:25000/play/a08c
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs1F1PNH25vbskZXC_TlHAtw8CPwgZrEoDyQ&usqp=CAU" group-title="Series | Peliculas", A&E
 http://179.1.64.210:8090/play/a002/index.m3u8
@@ -804,44 +783,44 @@ http://138.186.76.100:8000/play/a014/index.m3u8
 #EXTINF:0 tvg-id="ClaroCinema.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn0RjzIqOgMoEfZu0I7PfgO3Q-WXfIOUYV0w&usqp=CAU" group-title="Series | Peliculas", CLARO CINEMA
 http://131.196.194.2:8000/play/a09z/index.m3u8
 
-#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="Series | Peliculas", Cine Acción
+#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="Pluto TV", Cine Acción
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG.png" group-title="Series | Peliculas", Cine Comedia
+#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG.png" group-title="Pluto TV", Cine Comedia
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png" group-title="Series | Peliculas", Cine Terror
+#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png" group-title="Pluto TV", Cine Terror
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/colorLogoPNG.png" group-title="Series | Peliculas", Cine Drama
+#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/colorLogoPNG.png" group-title="Pluto TV", Cine Drama
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title="Series | Peliculas", Cine Estelar
+#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title="Pluto TV", Cine Estelar
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG.png" group-title="Series | Peliculas", Cine Familia
+#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG.png" group-title="Pluto TV", Cine Familia
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/colorLogoPNG.png" group-title="Series | Peliculas", Cine Romance
+#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/colorLogoPNG.png" group-title="Pluto TV", Cine Romance
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/colorLogoPNG.png" group-title="Series | Peliculas", Cine Suspenso
+#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/colorLogoPNG.png" group-title="Pluto TV", Cine Suspenso
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png" group-title="Series | Peliculas", Nuestro Cine
+#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png" group-title="Pluto TV", Nuestro Cine
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png" group-title="Series | Peliculas", Estrellas de Acción
+#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png" group-title="Pluto TV", Estrellas de Acción
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e972a21ad709d00074195ba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/5f2817d3d7573a00080f9175/colorLogoPNG.png" group-title="Series | Peliculas", Cine Sci-Fi
+#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/5f2817d3d7573a00080f9175/colorLogoPNG.png" group-title="Pluto TV", Cine Sci-Fi
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/600728952b1776000776526d/colorLogoPNG.png" group-title="Series | Peliculas", Paramount+ Presenta
+#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/600728952b1776000776526d/colorLogoPNG.png" group-title="Pluto TV", Paramount+ Presenta
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png" group-title="Series | Peliculas", Cine Clásico
+#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png" group-title="Pluto TV", Cine Clásico
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:0 tvg-id="ESPNHDArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-GAIlp4pYbtLgMUcbGQ&usqp=CAU" group-title="Deportes", ESPN
@@ -961,11 +940,8 @@ http://138.186.76.100:8000/play/a02a/index.m3u8
 #EXTINF:0 tvg-id="TYCSports.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8bvldEAciCevtvsrv5aPlA6g6_X1aWbGOhA&usqp=CAU" group-title="Deportes", TyC Sports
 http://45.238.21.106:7778/play/a04q/index.m3u8
 
-#EXTINF:0 tvg-id="TYCSports.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8bvldEAciCevtvsrv5aPlA6g6_X1aWbGOhA&usqp=CAU" group-title="Deportes", TyC Sports
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8bvldEAciCevtvsrv5aPlA6g6_X1aWbGOhA&usqp=CAU" group-title="Deportes", TyC Sports
 http://190.187.247.206:8000/play/a019/index.m3u8
-
-EXTINF:0 tvg-id="TYCSports.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8bvldEAciCevtvsrv5aPlA6g6_X1aWbGOhA&usqp=CAU" group-title="Deportes", TyC Sports
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/aw_tt49
 
 #EXTINF:0 tvg-id="TNTSportsChile.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyThGgslO5ZZVkHhKFbUXS8eB5JhJXW-H8g&usqp=CAU" group-title="Deportes", TNT Sports
 http://45.160.15.1:8111/play/233
