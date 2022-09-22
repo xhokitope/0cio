@@ -203,13 +203,13 @@ https://d2ab26kihxq8p0.cloudfront.net/hls/live.m3u8
 #EXTINF:0 tvg-logo="https://arica.tv/wp-content/uploads/2020/02/aricatv-color_Mesa-de-trabajo00.png" group-title="TV INTERNACIONAL", Arica TV CL
 https://5eaccbab48461.streamlock.net:1936/8002/8002/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhkD44m7xqTbJtIZuzRSPI63E-FuiddaqOtjTT_mXywMF77xvUei-bXjLymwGWmmrjoTsZFrcilairQXmat0h4JsTSYVW7hbWbe9pNvTJ08H2dwENnxH_H3SofxtQn8-Q2xa5WCDMO099Yk13D3C_-SjGvGtHvn44KwtLPDpwQY7xj_I6YhNO9NuTVpCw=s600" group-title="TV INTERNACIONAL", Play Medios TV GUATEMALA
+EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhkD44m7xqTbJtIZuzRSPI63E-FuiddaqOtjTT_mXywMF77xvUei-bXjLymwGWmmrjoTsZFrcilairQXmat0h4JsTSYVW7hbWbe9pNvTJ08H2dwENnxH_H3SofxtQn8-Q2xa5WCDMO099Yk13D3C_-SjGvGtHvn44KwtLPDpwQY7xj_I6YhNO9NuTVpCw=s600" group-title="TV INTERNACIONAL", Play Medios TV GUATEMALA
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/zeno-play-medios-tv
 
 #EXTINF:0 tvg-logo="https://www.guatevision.com/wp-content/uploads/sites/2/2019/09/cropped-gtvicon0.png?quality=82" group-title="TV INTERNACIONAL", GUATEVISION GUATEMALA
 https://prensalibre-live.cdn.vustreams.com/live/cd8f5328-7a1c-49d9-b318-9190858d1826/live.isml/cd8f5328-7a1c-49d9-b318-9190858d1826.m3u8
 
-#EXTINF:0 tvg-logo="https://colorvision.com.do/wp-content/uploads/2018/10/LOGO-ColorVision-HD-full.png" group-title="TV INTERNACIONAL", Color Vision 9 REP DOMINICANA
+EXTINF:0 tvg-logo="https://colorvision.com.do/wp-content/uploads/2018/10/LOGO-ColorVision-HD-full.png" group-title="TV INTERNACIONAL", Color Vision 9 REP DOMINICANA
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/colorvision9
 
 #EXTINF:0 tvg-id="StarTVE.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRws7JwZU2xfLudtdjqRhDsx1SLO_59jk2eWA&usqp=CAU" group-title="TV INTERNACIONAL", STAR TVE
@@ -236,7 +236,7 @@ https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CMMedia.svg/1177px-CMMedia.svg.png" group-title="TV INTERNACIONAL", CMM ES
 https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/0_xs45iy5i/format/applehttp/protocol/https/uiConfId/39582391/a.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyBofU7joQco1T9jbtu6yHAM2TbD7U0j6uDA&usqp=CAU" group-title="TV INTERNACIONAL", Euronews ES
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyBofU7joQco1T9jbtu6yHAM2TbD7U0j6uDA&usqp=CAU" group-title="TV INTERNACIONAL", Euronews ES
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/euronewses
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/1200px-ETB2_2022_logo.svg.png" group-title="TV INTERNACIONAL", ETB2 ES
@@ -245,7 +245,7 @@ https://multimedia.eitb.eus:443/live-content/etb2hd-hls/bitrate_3.m3u8?start=165
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/1200px-CEXMA_new.png" group-title="TV INTERNACIONAL", Canal Extremadura ES
 https://cdnlive.codev8.net/canalextremaduralive/smil:channel1.smil/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbKleHHCPQ2-kC2P-Sx5MjE-hrlHi8O01OAA&usqp=CAU" group-title="TV INTERNACIONAL", Canal Andalucia HD
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbKleHHCPQ2-kC2P-Sx5MjE-hrlHi8O01OAA&usqp=CAU" group-title="TV INTERNACIONAL", Canal Andalucia HD
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCqwjtgaJflHga2aPWphG5PQ
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge9DG9sWvvAV0OPppAPdZQIF96FxwgWIGTw&usqp=CAU" group-title="TV INTERNACIONAL", Galicia TV America ES
@@ -254,28 +254,28 @@ http://america-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge9DG9sWvvAV0OPppAPdZQIF96FxwgWIGTw&usqp=CAU" group-title="TV INTERNACIONAL", Galicia TV Europa Es
 http://europa-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLYR_TI2Bd6hH4dsuJmbCLmLDOWlaRvvxpfg&usqp=CAU" group-title="TV INTERNACIONAL", RTPA TV ES
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLYR_TI2Bd6hH4dsuJmbCLmLDOWlaRvvxpfg&usqp=CAU" group-title="TV INTERNACIONAL", RTPA TV ES
 https://cdnlive.codev8.net/rtpalive/smil:directo.smil/fmt_token/0Jo2_dDvuSo1yz-paO-swJNnPPsMWKQ-koN9qzXuK28/eyJleHBpcmUiOjE2NTQ3MjM4MDEsInVybF9hbGxvdyI6WyIvcnRwYWxpdmUiLCIvb25kZW1hbmQvYTRjZGRlYTYtZGVkMy00MGRkLTlkMTQtZmQ2MTAyYmRkNzM2Il19/playlist.m3u8?DVR
 
 #EXTINF:0 tvg-id="RealMadridTV.es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3M82Y8YcqtSXtuHDW4Pf2k4KnhvBscSW3BQ&usqp=CAU" group-title="TV INTERNACIONAL", Real Madrid TV ES
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=1653452799~acl=/*~hmac=6fa983776826e1224ab4c19996ce92f00a1ad234617b07fd8a398160d72c19e0
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Xet5zEDv-seJIbytvF3NQmSc5ZPbmejOww&usqp=CAU" group-title="TV INTERNACIONAL", México Travel Channel
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Xet5zEDv-seJIbytvF3NQmSc5ZPbmejOww&usqp=CAU" group-title="TV INTERNACIONAL", México Travel Channel
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/mexicotravelchannel
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6VPzZKJNr2rpuTaBXwfjRsh2ejIfw6PkSAA&usqp=CAU" group-title="TV INTERNACIONAL", ImagenTV MX
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6VPzZKJNr2rpuTaBXwfjRsh2ejIfw6PkSAA&usqp=CAU" group-title="TV INTERNACIONAL", ImagenTV MX
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/Imagen_TV
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhUILi1E9Ob1oYiSmxeV45nILwKh5ngnMrPw&usqp=CAU" group-title="TV INTERNACIONAL", TeleMar Campeche MX
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhUILi1E9Ob1oYiSmxeV45nILwKh5ngnMrPw&usqp=CAU" group-title="TV INTERNACIONAL", TeleMar Campeche MX
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/telemarcampeche
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjSOrmdx2zoWoHQzijCs-b_2YPtDXaPLXEkw&usqp=CAU" group-title="TV INTERNACIONAL", Canal Once MX
 https://vivo.canaloncelive.tv:443/alivepkgr3/ngrp:cepro_all/chunklist_b1411072.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-e-3UbHllgiM-a2jFX7pjpNCnQ77ybA_wVw&usqp=CAU" group-title="TV INTERNACIONAL", Televisa Tijuana MX
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-e-3UbHllgiM-a2jFX7pjpNCnQ77ybA_wVw&usqp=CAU" group-title="TV INTERNACIONAL", Televisa Tijuana MX
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/user/televisatijuanaof
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_vq9ggrEbJBnKCHySlc-DOx8hWxAxSEdCHA&usqp=CAU" group-title="TV INTERNACIONAL", SINTESIS TV MX
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_vq9ggrEbJBnKCHySlc-DOx8hWxAxSEdCHA&usqp=CAU" group-title="TV INTERNACIONAL", SINTESIS TV MX
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/sintesistv
 
 #EXTINF:0 tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="TV INTERNACIONAL", WOW TV EL SALVADOR
@@ -287,37 +287,37 @@ https://sv-canal12-canal12-live.ned.media/canal12/smil:canal12.smil/playlist.m3u
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO3emx-pOFyxb0QBp0543C5d7QnfKRBfb34w&usqp=CAU" group-title="TV INTERNACIONAL", TV SUR COSTA RICA
 https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQcDTYzBgdcxx2jVjZ6VXf6fmGKlnaKtUZZA&usqp=CAU" group-title="TV INTERNACIONAL", Canal 6 NICARAGUA
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQcDTYzBgdcxx2jVjZ6VXf6fmGKlnaKtUZZA&usqp=CAU" group-title="TV INTERNACIONAL", Canal 6 NICARAGUA
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/canal6nicaraguaoficial
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyt_V-m1TkufBoPYrCKgniaA_9jeHzTrUkaw&usqp=CAU" group-title="TV INTERNACIONAL", VIVA NICARAGUA
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyt_V-m1TkufBoPYrCKgniaA_9jeHzTrUkaw&usqp=CAU" group-title="TV INTERNACIONAL", VIVA NICARAGUA
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/vivanicaragua13
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" group-title="TV INTERNACIONAL", Net TV AR
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSXNqfDBJY9QzPIrWItft4ypJUxetC8Vceqw&usqp=CAU" group-title="TV INTERNACIONAL", Canal 10 MDP AR
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSXNqfDBJY9QzPIrWItft4ypJUxetC8Vceqw&usqp=CAU" group-title="TV INTERNACIONAL", Canal 10 MDP AR
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/canaldiezmardelplata
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="TV INTERNACIONAL", America TV AR
+EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="TV INTERNACIONAL", America TV AR
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/americaenvivo
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRupA6YUAGd-toHu9Fayy3b-o-R0zt7x37O8Q&usqp=CAU" group-title="TV INTERNACIONAL", Todo Noticias AR
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRupA6YUAGd-toHu9Fayy3b-o-R0zt7x37O8Q&usqp=CAU" group-title="TV INTERNACIONAL", Todo Noticias AR
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/todonoticias
 
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-RjXsOFCUJa0/WbWZpQWlwZI/AAAAAAAABnA/vAeBWck6LNw4HpNBxdg5unnmIbpYXo1GgCLcBGAs/s1600/cronica-hd.png" group-title="TV INTERNACIONAL", CRONICA HD AR
+EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-RjXsOFCUJa0/WbWZpQWlwZI/AAAAAAAABnA/vAeBWck6LNw4HpNBxdg5unnmIbpYXo1GgCLcBGAs/s1600/cronica-hd.png" group-title="TV INTERNACIONAL", CRONICA HD AR
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/cronicatv
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuI2dsyMXwIdSS3hLylszxb5EwM2ZNsSDaJw&usqp=CAU" group-title="TV INTERNACIONAL", La Nacion AR
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuI2dsyMXwIdSS3hLylszxb5EwM2ZNsSDaJw&usqp=CAU" group-title="TV INTERNACIONAL", La Nacion AR
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/LaNacionMas
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmSN8j-26MxxcOaTXmpBIg7U5EdpERVfQOvA&usqp=CAU" group-title="TV INTERNACIONAL", El 7 Mendoza AR
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmSN8j-26MxxcOaTXmpBIg7U5EdpERVfQOvA&usqp=CAU" group-title="TV INTERNACIONAL", El 7 Mendoza AR
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/CanalSieteMendoza1
 
-#EXTINF:0 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.tvp_2021_solo.png.94443cd20174a9375ec25bca58e326ac.png" group-title="TV INTERNACIONAL", TVP AR
+EXTINF:0 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.tvp_2021_solo.png.94443cd20174a9375ec25bca58e326ac.png" group-title="TV INTERNACIONAL", TVP AR
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/user/TVPublicaArgentina
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC7-lvUuLgP8DahdfS49alySwSDw-qToZMtg&usqp=CAU" group-title="TV INTERNACIONAL", Noticias Caracol CO
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC7-lvUuLgP8DahdfS49alySwSDw-qToZMtg&usqp=CAU" group-title="TV INTERNACIONAL", Noticias Caracol CO
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/noticiascaracol
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" group-title="TV INTERNACIONAL", TelePacifico CO
@@ -326,10 +326,10 @@ https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI3L3vFDJ3_ACK1xJdNXoUS0QCC62CPv7FVg&usqp=CAU" group-title="TV INTERNACIONAL", TeleTrece CO
 https://canaltrece-live.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeZyUOQl7B44_cqoow5Wl_FTFL_naNNzScVg&usqp=CAU" group-title="TV INTERNACIONAL", Mega Noticias CL
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeZyUOQl7B44_cqoow5Wl_FTFL_naNNzScVg&usqp=CAU" group-title="TV INTERNACIONAL", Mega Noticias CL
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/Meganoticiasoficial
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0RZVhNcsWYkqPgKxg8WEbKTiQkc7VIYN5Vw&usqp=CAU" group-title="TV INTERNACIONAL", T13 En Vivo CL
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0RZVhNcsWYkqPgKxg8WEbKTiQkc7VIYN5Vw&usqp=CAU" group-title="TV INTERNACIONAL", T13 En Vivo CL
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/tele13
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYYleCyYAyENvTEWWUjPMHsM3x5QkZqi2JFA&usqp=CAU" group-title="TV INTERNACIONAL", ECUADOR TV
