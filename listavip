@@ -10,11 +10,11 @@ http://190.187.247.206:8000/play/a01j/index.m3u8
 #EXTINF:0 tvg-id="willax.pe" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
 http://168.194.171.33:8000/play/a01s/index.m3u8
 
-#EXTINF:0 tvg-id="willax.pe" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
-https://www.dailymotion.com/WillaxTV
+EXTINF:0 tvg-id="willax.pe" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
+https://www.dailymotion.com/cdn/live/video/x7x4dgx.m3u8
 
-#EXTINF:0 tvg-id="WillaxTV.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBJPpzvZ3ZeFcbatXoR4Hszd6CK73VrroUA&usqp=CAU" group-title="TV PERUANA", Willax YT
-https://youtube.com/c/willaxtv
+EXTINF:0 tvg-id="WillaxTV.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBJPpzvZ3ZeFcbatXoR4Hszd6CK73VrroUA&usqp=CAU" group-title="TV PERUANA", Willax YT
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/willaxtv
 
 EXTINF:0 tvg-id="WillaxTV.pe" tvg-logo="https://yt3.ggpht.com/A-kqMDPRH-JRLmkx_U6PRnEu35wqVgTZ62GoUO1J_zTQBLqft67tR_Wk0MBabjdhj8d8jqA9tg=s176-c-k-c0x00ffffff-no-rj-mo" group-title="TV PERUANA", WF DIGITAL YT
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/WFDIGITAL20
@@ -449,7 +449,7 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/drag
 EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlExxvOh5bbFXskdUsbU0K5ASYeX_zj8mhAg&usqp=CAU" group-title="Niños | Juniors", Goku TV
 http://138.36.253.14:8010/play/a02f/index.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt8B8o5UPLnGsaBFfER3OrleXRkoUroRwsag&usqp=CAU" group-title="Niños | Juniors", Dragon Ball +
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt8B8o5UPLnGsaBFfER3OrleXRkoUroRwsag&usqp=CAU" group-title="Niños | Juniors", Dragon Ball +
 https://www.twitch.tv/drakeplaydz
 
 EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0TjME7MYIoSrC64jpdDsKgKmYvBt8Jm-ZKQ&usqp=CAU" group-title="Niños | Juniors", Dragon ball Z
