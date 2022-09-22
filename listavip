@@ -730,8 +730,7 @@ http://200.6.189.26:9000/play/a02o
 http://200.6.189.26:9000/play/a02o
 
 #EXTINF:0 tvg-id="CinecanalWest.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJNbLoIDKavwggQYbadSsepqCXc1r6X1ib3w&usqp=CAU" group-title="Series | Peliculas", CINECANAL
-http://45.160.12.253:8000/play/107
-http://45.160.15.130:8111/play/107
+http://8.243.104.155:8083/play/a01z/index.m3u8
 
 #EXTINF:0 tvg-id="CinecanalWest.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJNbLoIDKavwggQYbadSsepqCXc1r6X1ib3w&usqp=CAU" group-title="Series | Peliculas", CINECANAL
 http://8.243.104.70:8083/play/a01z/index.m3u8
@@ -740,10 +739,10 @@ http://8.243.104.70:8083/play/a01z/index.m3u8
 http://200.6.189.26:9000/play/a00t
 
 #EXTINF:0 tvg-id="FXSouth.us"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaefm-GHOeqHBxSKtgsUmQWWGospj0FC3Xhg&usqp=CAU" group-title="Series | Peliculas", FX
-http://45.160.12.253:8000/play/093
+http://190.43.232.193:8000/play/a027/index.m3u8
 
 #EXTINF:0 tvg-id="FXSouth.us"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaefm-GHOeqHBxSKtgsUmQWWGospj0FC3Xhg&usqp=CAU" group-title="Series | Peliculas", FX
-http://190.43.232.193:8000/play/a027/index.m3u8
+http://45.238.21.106:7778/play/a03g/index.m3u8
 
 #EXTINF:0 tvg-id="FXSouth.us"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaefm-GHOeqHBxSKtgsUmQWWGospj0FC3Xhg&usqp=CAU" group-title="Series | Peliculas", FX
 http://181.65.199.218:8000/play/a03a/index.m3u8
