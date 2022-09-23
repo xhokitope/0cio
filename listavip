@@ -323,7 +323,10 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/user/t
 EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_vq9ggrEbJBnKCHySlc-DOx8hWxAxSEdCHA&usqp=CAU" group-title="TV INTERNACIONAL", SINTESIS TV MX
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/sintesistv
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV0E1LRMSR1Bn5Xluxbi7CF2o-A5GloOtBLg&usqp=CAU" group-title="Niños | Juniors", Discovery Kids
+#EXTINF:0 audio-track="eng,spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV0E1LRMSR1Bn5Xluxbi7CF2o-A5GloOtBLg&usqp=CAU" group-title="Niños | Juniors", Discovery Kids
+http://201.108.244.159:4000/play/a00q
+
+#EXTINF:0 audio-track="eng,spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV0E1LRMSR1Bn5Xluxbi7CF2o-A5GloOtBLg&usqp=CAU" group-title="Niños | Juniors", Discovery Kids
 http://181.176.148.142:8000/play/a012
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU-J7c7BDlV0hUnQRZKvSnorvHFBwRybQQPw&usqp=CAU" group-title="Niños | Juniors", CANAL INFANTIL
@@ -332,29 +335,29 @@ http://181.176.148.142:8000/play/a020
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWEiG-3po3QcZvizdSbUCUJ-hPJDmwme9vkA&usqp=CAU" group-title="Niños | Juniors", Cartoons
 http://181.176.148.142:8000/play/a021
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjRlN-Ezo3o0QjFheHMpCsHpS5dNs--Xv5oQ&usqp=CAU" group-title="Niños | Juniors", Cartoon Network
+#EXTINF:0 audio-track="eng,spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjRlN-Ezo3o0QjFheHMpCsHpS5dNs--Xv5oQ&usqp=CAU" group-title="Niños | Juniors", Cartoon Network
 http://45.160.12.253:8000/play/009
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjRlN-Ezo3o0QjFheHMpCsHpS5dNs--Xv5oQ&usqp=CAU" group-title="Niños | Juniors", Cartoon Network
-http://200.48.212.114:8000/play/a00g/index.m3u8
+#EXTINF:0 audio-track="eng,spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjRlN-Ezo3o0QjFheHMpCsHpS5dNs--Xv5oQ&usqp=CAU" group-title="Niños | Juniors", Cartoon Network
+http://201.108.244.159:4000/play/a08f
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjRlN-Ezo3o0QjFheHMpCsHpS5dNs--Xv5oQ&usqp=CAU" group-title="Niños | Juniors", Cartoon Network
+#EXTINF:0 audio-track="eng,spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjRlN-Ezo3o0QjFheHMpCsHpS5dNs--Xv5oQ&usqp=CAU" group-title="Niños | Juniors", Cartoon Network
 http://190.108.93.148:8000/play/a0dl/index.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5XKklig8MfJE-RzMM1qxk95AhdwJjRX0_Cg&usqp=CAU" group-title="Niños | Juniors", Nickelodeon
+#EXTINF:0 audio-track="eng,spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5XKklig8MfJE-RzMM1qxk95AhdwJjRX0_Cg&usqp=CAU" group-title="Niños | Juniors", Nickelodeon
 http://181.176.148.142:8000/play/a02t
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5XKklig8MfJE-RzMM1qxk95AhdwJjRX0_Cg&usqp=CAU" group-title="Niños | Juniors", Nickelodeon
+#EXTINF:0 audio-track="eng,spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5XKklig8MfJE-RzMM1qxk95AhdwJjRX0_Cg&usqp=CAU" group-title="Niños | Juniors", Nickelodeon
 http://45.160.12.253:8000/play/014
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5XKklig8MfJE-RzMM1qxk95AhdwJjRX0_Cg&usqp=CAU" group-title="Niños | Juniors", Nickelodeon
-http://200.48.212.114:8000/play/a005/index.m3u8
+#EXTINF:0 audio-track="eng,spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5XKklig8MfJE-RzMM1qxk95AhdwJjRX0_Cg&usqp=CAU" group-title="Niños | Juniors", Nickelodeon
+http://201.108.244.159:4000/play/a01t
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAt2r2u5nrEGl5cMEq7NtYfBUxV_MIvSOcLQ&usqp=CAU" group-title="Niños | Juniors", Nick Jr
+#EXTINF:0 audio-track="eng,spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAt2r2u5nrEGl5cMEq7NtYfBUxV_MIvSOcLQ&usqp=CAU" group-title="Niños | Juniors", Nick Jr
 http://45.160.12.253:8000/play/015
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAt2r2u5nrEGl5cMEq7NtYfBUxV_MIvSOcLQ&usqp=CAU" group-title="Niños | Juniors", Nick Jr
-http://200.48.212.114:8000/play/a040/index.m3u8
+#EXTINF:0 audio-track="eng,spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAt2r2u5nrEGl5cMEq7NtYfBUxV_MIvSOcLQ&usqp=CAU" group-title="Niños | Juniors", Nick Jr
+http://201.108.244.159:4000/play/a075
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC4olq6dLsn6vVfoxV1gpx7UtAwicI3Ivpxg&usqp=CAU" group-title="Niños | Juniors", Disney Channel
 http://181.176.148.142:8000/play/a02b
@@ -365,26 +368,23 @@ http://179.1.64.210:8090/play/a006/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC4olq6dLsn6vVfoxV1gpx7UtAwicI3Ivpxg&usqp=CAU" group-title="Niños | Juniors", Disney Channel
 http://45.232.210.1:8062/play/a08n/index.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Xejrks8DoZj5Y_Vlw24QYR1hCHwBIe0YLA&usqp=CAU" group-title="Niños | Juniors", Disney Junior
+#EXTINF:0 audio-track="eng,spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Xejrks8DoZj5Y_Vlw24QYR1hCHwBIe0YLA&usqp=CAU" group-title="Niños | Juniors", Disney Junior
 http://181.176.148.142:8000/play/a02c
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Xejrks8DoZj5Y_Vlw24QYR1hCHwBIe0YLA&usqp=CAU" group-title="Niños | Juniors", Disney Junior
+#EXTINF:0 audio-track="eng,spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Xejrks8DoZj5Y_Vlw24QYR1hCHwBIe0YLA&usqp=CAU" group-title="Niños | Juniors", Disney Junior
 http://179.1.64.210:8090/play/a02o/index.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Xejrks8DoZj5Y_Vlw24QYR1hCHwBIe0YLA&usqp=CAU" group-title="Niños | Juniors", Disney Junior
-http://45.160.15.1:8111/play/a0om
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Xejrks8DoZj5Y_Vlw24QYR1hCHwBIe0YLA&usqp=CAU" group-title="Niños | Juniors", Disney Junior
+#EXTINF:0 audio-track="eng,spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Xejrks8DoZj5Y_Vlw24QYR1hCHwBIe0YLA&usqp=CAU" group-title="Niños | Juniors", Disney Junior
 http://45.232.210.1:8062/play/a08j/index.m3u8
-
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Locomotion_2005.svg/revision/latest/scale-to-width-down/300?cb=20200125124642&path-prefix=es" group-title="Niños | Juniors", Locomotion
-http://51.222.85.85:81/hls/loco/index.m3u8
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOyy965FWCF_bcBOJ5Dl-Ijm7YX_hnpReoHg&usqp=CAU" group-title="Niños | Juniors", Zona Anime TV
-http://azxtv.com/hls/stream.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPGQT-zYfvO5pjH8RKO-v0OhnRBusVjVmeVQ&usqp=CAU" group-title="Niños | Juniors", IPe
 https://cdnh75.iblups.com/hls/OVJNKV4pSr.m3u8
+
+EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Locomotion_2005.svg/revision/latest/scale-to-width-down/300?cb=20200125124642&path-prefix=es" group-title="Niños | Juniors", Locomotion
+http://51.222.85.85:81/hls/loco/index.m3u8
+
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOyy965FWCF_bcBOJ5Dl-Ijm7YX_hnpReoHg&usqp=CAU" group-title="Niños | Juniors", Zona Anime TV
+http://azxtv.com/hls/stream.m3u8
 
 #Separacion#
 
