@@ -524,16 +524,34 @@ http://179.1.64.210:8090/play/a00y/index.m3u8
 http://45.160.12.253:8000/play/088
 
 #EXTINF:0 tvg-id="UniversalCinema.us" audio-track="esp,eng" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.945333694_UniversalCinema-Oscuro.png.0c63ffe5cc2ea7868f7d08da0de7c7d4.png" group-title="Series | Peliculas", UNIVERSAL CINEMA
+http://201.108.244.159:4000/play/a01e
+
+#EXTINF:0 tvg-id="UniversalCinema.us" audio-track="esp,eng" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.945333694_UniversalCinema-Oscuro.png.0c63ffe5cc2ea7868f7d08da0de7c7d4.png" group-title="Series | Peliculas", UNIVERSAL CINEMA
 http://170.83.242.9:5350/play/a0kp
+
+EXTINF:0 tvg-id="UniversalComedy.us" audio-track="spa,eng" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.1606587218_UniversalComedy-Oscuro.png.edc0710afb67e742c9e68589f4006992.png" group-title="Series | Peliculas", UNIVERSAL COMEDY
+http://201.108.244.159:4000/play/a03d
 
 #EXTINF:0 tvg-id="UniversalComedy.us" audio-track="spa,eng" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.1606587218_UniversalComedy-Oscuro.png.edc0710afb67e742c9e68589f4006992.png" group-title="Series | Peliculas", UNIVERSAL COMEDY
 http://170.83.242.9:5350/play/a0kq
 
 #EXTINF:0 tvg-id="UniversalPremiereEast.us" audio-track="esp,eng" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe5VxnxX7Nxoip3D4yTyNL_RRdMSy6mVdlng&usqp=CAU" group-title="Series | Peliculas", UNIVERSAL PREMIERE
-http://131.196.194.2:8000/play/a0d5/index.m3u8
+http://190.97.183.204:8000/play/a0rg/index.m3u8
 
-#EXTINF:0 tvg-id="UniversalPremiereEast.us" audio-track="esp,eng" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe5VxnxX7Nxoip3D4yTyNL_RRdMSy6mVdlng&usqp=CAU" group-title="Series | Peliculas", UNIVERSAL CRIME
+#EXTINF:0 tvg-id="UniversalPremiereEast.us" audio-track="esp,eng" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe5VxnxX7Nxoip3D4yTyNL_RRdMSy6mVdlng&usqp=CAU" group-title="Series | Peliculas", UNIVERSAL PREMIERE
+http://201.108.244.159:4000/play/a02f
+
+#EXTINF:0 tvg-id="UniversalPremiereEast.us" audio-track="esp,eng" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe5VxnxX7Nxoip3D4yTyNL_RRdMSy6mVdlng&usqp=CAU" group-title="Series | Peliculas", UNIVERSAL PREMIERE O
+http://190.97.183.204:8000/play/a0rh/index.m3u8
+
+#EXTINF:0 tvg-id="UniversalPremiereEast.us" audio-track="esp,eng" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe5VxnxX7Nxoip3D4yTyNL_RRdMSy6mVdlng&usqp=CAU" group-title="Series | Peliculas", UNIVERSAL PREMIERE O
+http://201.108.244.159:4000/play/a02g
+
+#EXTINF:0 tvg-id="UniversalPremiereEast.us" audio-track="esp,eng" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3zC2tEyh76YwKRHpPtLUqJa4anXV-6bFih9ANHPW8IvqeuzT8YzLchA8aNAxWOqviTKL8xqM5RUczP5nkcMNG_E_Uw2Udd7nl_ZOQVICnASGNI-K8N0Zguwit28qWVwmGnYMs91BlseeBkKafTDQYSTc-s4pdbUqQeTDCJshQ4uZ9SzbFljboQws7Og/w1200-h630-p-k-no-nu/universal-crime.png" group-title="Series | Peliculas", UNIVERSAL CRIME
 http://190.97.183.204:8000/play/a0py/index.m3u8
+
+#EXTINF:0 tvg-id="UniversalPremiereEast.us" audio-track="esp,eng" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3zC2tEyh76YwKRHpPtLUqJa4anXV-6bFih9ANHPW8IvqeuzT8YzLchA8aNAxWOqviTKL8xqM5RUczP5nkcMNG_E_Uw2Udd7nl_ZOQVICnASGNI-K8N0Zguwit28qWVwmGnYMs91BlseeBkKafTDQYSTc-s4pdbUqQeTDCJshQ4uZ9SzbFljboQws7Og/w1200-h630-p-k-no-nu/universal-crime.png" group-title="Series | Peliculas", UNIVERSAL CRIME
+http://201.108.244.159:4000/play/a03c
 
 #EXTINF:0 tvg-id="StudioUniversalSouth.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ4O7MlTo8vbUyOexSGCaMzukInuWcOnSM7Q&usqp=CAU" group-title="Series | Peliculas", STUDIO UNIVERSAL
 http://45.160.12.253:8000/play/098
