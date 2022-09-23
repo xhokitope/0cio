@@ -6,6 +6,9 @@
 http://191.212.166.203:4000/play/a0ee
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png", VENUS
+http://201.108.244.159:4000/play/a0ah
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png", VENUS
 http://186.46.29.115:8000/play/a017/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png", VENUS
