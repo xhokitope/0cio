@@ -493,10 +493,10 @@ http://190.131.228.59:8000/play/a05x/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs1F1PNH25vbskZXC_TlHAtw8CPwgZrEoDyQ&usqp=CAU" group-title="Series | Peliculas", A&E
 http://45.232.210.1:8062/play/a08y/index.m3u8
 
-#EXTINF:0 tvg-id="AXNPacific.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTkXsvfPIsko4y3HPTetW2DMmgD-EBLGAgVw&usqp=CAU" group-title="Series | Peliculas", AXN
+#EXTINF:0 tvg-id="AXNPacific.us" audio-track="spa,eng" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTkXsvfPIsko4y3HPTetW2DMmgD-EBLGAgVw&usqp=CAU" group-title="Series | Peliculas", AXN HD
 http://45.160.12.253:8000/play/087
 
-#EXTINF:0 tvg-id="AXNPacific.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTkXsvfPIsko4y3HPTetW2DMmgD-EBLGAgVw&usqp=CAU" group-title="Series | Peliculas", AXN
+#EXTINF:0 tvg-id="AXNPacific.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTkXsvfPIsko4y3HPTetW2DMmgD-EBLGAgVw&usqp=CAU" group-title="Series | Peliculas", AXN HD
 http://45.181.122.100:8000/play/a055/index.m3u8
 
 #EXTINF:0 tvg-id="AXNPacific.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTkXsvfPIsko4y3HPTetW2DMmgD-EBLGAgVw&usqp=CAU" group-title="Series | Peliculas", AXN
@@ -522,7 +522,7 @@ http://170.83.242.9:5350/play/a0kq
 
 EXTINF:0 tvg-id="UniversalPremiereEast.us" tvg-logo="https://i.ibb.co/4Nn61vC/unipremiere.png" group-title="Series | Peliculas", UNIVERSAL PREMIERE
 
-#EXTINF:0 tvg-id="UniversalPremiereEast.us" tvg-logo="https://i.ibb.co/4Nn61vC/unipremiere.png" group-title="Series | Peliculas", UNIVERSAL PREMIERE
+#EXTINF:0 tvg-id="UniversalPremiereEast.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe5VxnxX7Nxoip3D4yTyNL_RRdMSy6mVdlng&usqp=CAU" group-title="Series | Peliculas", UNIVERSAL PREMIERE
 http://131.196.194.2:8000/play/a0d5/index.m3u8
 
 #EXTINF:0 tvg-id="StudioUniversalSouth.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ4O7MlTo8vbUyOexSGCaMzukInuWcOnSM7Q&usqp=CAU" group-title="Series | Peliculas", STUDIO UNIVERSAL
