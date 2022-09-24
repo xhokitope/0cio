@@ -569,13 +569,13 @@ http://8.243.104.70:8083/play/a024/index.m3u8
 http://181.65.199.218:8000/play/a0ce/index.m3u8
 
 #EXTINF:0 tvg-id="SpacePanregional.us" audio-track="esp,eng" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfNGxoxLjOwpqKe9DGdE4f735BPr8fqostZw&usqp=CAU" group-title="Series | Peliculas", SPACE
-http://45.160.15.1:8111/play/a0pu
+http://45.236.28.72:8000/play/a0gw/index.m3u8
 
 #EXTINF:0 tvg-id="SpacePanregional.us" audio-track="esp,eng" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfNGxoxLjOwpqKe9DGdE4f735BPr8fqostZw&usqp=CAU" group-title="Series | Peliculas", SPACE
 http://131.196.194.2:8000/play/a09r/index.m3u8
 
 #EXTINF:0 tvg-id="SpacePanregional.us" audio-track="esp,eng" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfNGxoxLjOwpqKe9DGdE4f735BPr8fqostZw&usqp=CAU" group-title="Series | Peliculas", SPACE
-http://200.6.189.26:9000/play/a02r
+http://45.233.169.1:8000/play/a00y
 
 #EXTINF:0 tvg-id="SpacePanregional.us" audio-track="esp,eng" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfNGxoxLjOwpqKe9DGdE4f735BPr8fqostZw&usqp=CAU" group-title="Series | Peliculas", SPACE
 http://200.24.159.179:8500/play/a02z
