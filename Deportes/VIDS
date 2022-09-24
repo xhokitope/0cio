@@ -5,7 +5,7 @@
 #EXTINF:0 , PLAYBOY
 http://191.212.166.203:4000/play/a0ee
 
-#EXTINF:0 , audio-track="eng,spa" PLAYBOY
+#EXTINF:0 audio-track="eng,spa" , PLAYBOY
 http://45.236.28.72:8000/play/a0c9/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png", VENUS
