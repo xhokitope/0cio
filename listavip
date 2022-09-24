@@ -1320,7 +1320,7 @@ https://streaming.gometri.com/stream/8021/stream/1/
 https://rautemusik-de-hz-fal-stream18.radiohost.de/charthits
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEyMXXbSUrJIaHkKGGOkZDShJ687XCt20qOw&usqp=CAU" group-title="Radio en Vivo", SuperStereo
-http://node-24.zeno.fm/g6nexaf92d0uv?rj-ttl=5&rj-tok=AAABfn3h-LAAyW0n6uryUf12Fg
+https://cento02.mipanelradio.com/proxy/joselucerva?mp=%2Fstream
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_kPMpxop8JDugExuTzsadrYDp1T27GkJnwQ&usqp=CAU" group-title="Radio en Vivo", Universal Stereo MX
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEUNO_AM_SC
@@ -1332,7 +1332,7 @@ https://7.innovatestream.pe:2020/stream/karibenaoficial/stream/1/
 https://serverssl.innovatestream.pe:8080/167.114.118.120:7166/stream/1/
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxTM49WV_9ab3TZ34hy9zZChhWvlNLQSCSUg&usqp=CAU" group-title="Radio en Vivo", PBO Radio
-https://streamingv2.shoutcast.com/pbo-radiofm?1644124234781
+https://s5.voscast.com:10345/pbo-radiofm?1664052582973
 
 #EXTINF:0 tvg-id="Exitosa.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREhRKq4cEPB0Me2eJuYvc5nkCA97S96Q8Eng&usqp=CAU" group-title="Radio en Vivo", RadioExitosa
 http://7.innovatestream.pe:2020/stream/exitosaoficial/stream
@@ -1342,6 +1342,3 @@ https://stream.zenolive.com/z20rhkmgzeruv.aac
 
 #EXTINF:0 tvg-id="Exitosa.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="Radio en Vivo", RPP
 https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/icecast.audio
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Radio_La_Red_AM_910.png" group-title="Radio en Vivo", 910 AM Radio La Red
-https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC_SC
