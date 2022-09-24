@@ -1293,7 +1293,7 @@ http://148.72.144.29:9610/stream/1/
 https://radiosonline.one/radio/8100/radio.mp3?_=1
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMNyVfWsbgZehJm7f1F9zGMQr1PVw0Eb1upQ&usqp=CAU" group-title="Radio en Vivo", Radio Disney Perú
-https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_PER_LM_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_PER_LM.mp3
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI4SSXH0OJkBXXumnDpCB3nYK_HYd1NMCazA&usqp=CAU" group-title="Radio en Vivo", La Mega
 https://mdstrm.com/audio/5fada56fe4e09508207a7951/live.m3u8
