@@ -5,6 +5,9 @@
 #EXTINF:0 , PLAYBOY
 http://191.212.166.203:4000/play/a0ee
 
+#EXTINF:0 , audio-track="eng,spa" PLAYBOY
+http://45.236.28.72:8000/play/a0c9/index.m3u8
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png", VENUS
 http://201.108.244.159:4000/play/a0ah
 
@@ -16,6 +19,9 @@ http://45.232.210.1:8062/play/a0ca/index.m3u8
 
 #EXTINF:0 , SEXTREME
 http://191.212.166.203:4000/play/a0ed
+
+#EXTINF:0 , SEXTREME
+http://187.120.222.12:8000/play/Sextreme/index.m3u8
 
 #EXTINF:0 , SEXPRIVÉ
 http://191.212.166.203:4000/play/a0fu
