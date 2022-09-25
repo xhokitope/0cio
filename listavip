@@ -10,18 +10,6 @@ http://190.187.247.206:8000/play/a01j/index.m3u8
 #EXTINF:0 tvg-id="willax.pe" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
 http://168.194.171.33:8000/play/a01s/index.m3u8
 
-EXTINF:0 tvg-id="willax.pe" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
-https://www.dailymotion.com/cdn/live/video/x7x4dgx.m3u8
-
-EXTINF:0 tvg-id="WillaxTV.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBJPpzvZ3ZeFcbatXoR4Hszd6CK73VrroUA&usqp=CAU" group-title="TV PERUANA", Willax YT
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/willaxtv
-
-EXTINF:0 tvg-id="WillaxTV.pe" tvg-logo="https://yt3.ggpht.com/A-kqMDPRH-JRLmkx_U6PRnEu35wqVgTZ62GoUO1J_zTQBLqft67tR_Wk0MBabjdhj8d8jqA9tg=s176-c-k-c0x00ffffff-no-rj-mo" group-title="TV PERUANA", WF DIGITAL YT
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/WFDIGITAL20
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLWPBxepmaofG9R_BH_DyGmkiplS09rEiTRw&usqp=CAU" group-title="TV PERUANA", PBO En Vivo YT
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/PBODigital
-
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5z9NwZ-1ngD9OF16quK1nBf_-V_Qjpg9WWQ&usqp=CAU" group-title="TV PERUANA", Retro HD
 http://181.176.148.142:8000/play/a02x
 
@@ -42,9 +30,6 @@ http://190.187.247.206:8000/play/a03f/index.m3u8
 
 #EXTINF:0 tvg-id="FrecuenciaLatina.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCNrKIpMpnWw1V3psfj-dpZMGqFWoIUsuaw&usqp=CAU" group-title="TV PERUANA", Latina
 http://190.108.93.148:8000/play/a0d4/index.m3u8
-
-EXTINF:0 tvg-id="Latina.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR55Vl1pFtDL3_qdAVEbpfaI8AIa-uvhzuQWQ&usqp=CAU" group-title="TV PERUANA", Latina Noticias YT
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/LatinaNoticias
 
 #EXTINF:0 tvg-id="ATV.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/ATV_2005.svg/revision/latest/scale-to-width-down/200?cb=20210508210119&path-prefix=es" group-title="TV PERUANA", ATV.PE
 http://190.108.93.148:8000/play/a07q/index.m3u8
@@ -78,10 +63,6 @@ http://200.48.212.114:8000/play/a02g/index.m3u8
 
 #EXTINF:0 tvg-id="PanamericanaTV.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNodEC5o4GRK0MaFR_r8zSsrNxYuJjeDdUzA&usqp=CAU" group-title="TV PERUANA", PANAMERICANA TV
 http://190.108.93.148:8000/play/a07p/index.m3u8
-#https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/PanamericanaPTV#
-
-EXTINF:0 tvg-id="PanamericanaTV.pe" tvg-logo="https://yt3.ggpht.com/Lql5U9xcawSmCM2sVc0KVjZwdNkBMc7laQaah2u5NAG_ByqsYB0nwVz7QME2K3CnLFmdkxLBVQ=s900-c-k-c0x00ffffff-no-rj" group-title="TV PERUANA", 24 Horas PE
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/24horasperu
 
 #EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmDXwq_JVNoby065mDeURMs9zHCd4FU9GnvQ&usqp=CAU" group-title="TV PERUANA", GLOBAL PE
 http://190.108.83.142:8000/play/a00x/index.m3u8
@@ -95,95 +76,20 @@ http://45.225.95.171:8000/play/a0eh/index.m3u8
 #EXTINF:0 tvg-id="AmericaTelevision.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnj4six21x50vnaiL29u8xyeoD9Aas4BGSIQ&usqp=CAU" group-title="TV PERUANA", AmericaTV
 http://190.187.247.206:8000/play/a03j/index.m3u8
 
-#EXTINF:0 tvg-id="CanalN.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjFu1v4nogWUR6-t48F7HH8GASg290M1uc6w&usqp=CAU" group-title="TV PERUANA", Canal N
+EXTINF:0 tvg-id="CanalN.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjFu1v4nogWUR6-t48F7HH8GASg290M1uc6w&usqp=CAU" group-title="TV PERUANA", Canal N
 http://138.186.76.100:8000/play/a01v/index.m3u8
 
-#EXTINF:0 tvg-id="CanalN.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjFu1v4nogWUR6-t48F7HH8GASg290M1uc6w&usqp=CAU" group-title="TV PERUANA", CanalN
-http://45.225.95.171:8000/play/a0ef/index.m3u8
-
-#EXTINF:0 tvg-id="CanalN.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjFu1v4nogWUR6-t48F7HH8GASg290M1uc6w&usqp=CAU" group-title="TV PERUANA", CaNal N
-http://45.225.95.171:8000/play/a0f4/index.m3u8
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeaoWrQf8v3dwNLosMTEqyMloYIhzAdE9w0Q&usqp=CAU" group-title="TV PERUANA", ONDA DIGITAL TV
-https://v4.tustreaming.cl/ondadigitaltv/index.m3u8
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS2yyHLN5N8vDFFV_vYA63J_FMCHwApAsncg&usqp=CAU" group-title="TV PERUANA", BEST CABLE TV
-https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
-
-#EXTINF:0 tvg-id="Exitosa.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREhRKq4cEPB0Me2eJuYvc5nkCA97S96Q8Eng&usqp=CAU" group-title="TV PERUANA", Exitosa Noticias
-http://191.97.60.193:10000/play/a02k/index.m3u8
-
-#EXTINF:0 tvg-id="Exitosa.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREhRKq4cEPB0Me2eJuYvc5nkCA97S96Q8Eng&usqp=CAU" group-title="TV PERUANA", Exitosa TV
+EXTINF:0 tvg-id="Exitosa.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREhRKq4cEPB0Me2eJuYvc5nkCA97S96Q8Eng&usqp=CAU" group-title="TV PERUANA", Exitosa TV
 https://cu.onliv3.com/livevd1/user2.m3u8
 
-#EXTINF:0 tvg-id="Exitosa.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREhRKq4cEPB0Me2eJuYvc5nkCA97S96Q8Eng&usqp=CAU" group-title="TV PERUANA", Exitosa PERU
-https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKSMfslaD8NtNeI1iCUvpdB3iUz-9tDEZvNQ&usqp=CAU" group-title="TV PERUANA", RPP
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKSMfslaD8NtNeI1iCUvpdB3iUz-9tDEZvNQ&usqp=CAU" group-title="TV PERUANA", RPP
 http://138.186.76.100:8000/play/a021/index.m3u8
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKSMfslaD8NtNeI1iCUvpdB3iUz-9tDEZvNQ&usqp=CAU" group-title="TV PERUANA", RPP
-http://45.225.95.171:8000/play/a0f5/index.m3u8
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb2lW7EL5eXnTvmK-PWWDnkbfkZT3EQRWqlw&usqp=CAU" group-title="TV PERUANA", AutenticaTV Moyobamba
-https://live.obslivestream.com/autenticatvmux/index.m3u8
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBJiCYqvq02_KuuMvLq_-y7Z_2sL-ROT3OhQ&usqp=CAU" group-title="TV PERUANA", CRTV Moyobamba
-https://live.obslivestream.com/crtvmux/index.m3u8
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4uFe6pOhbCkQGnZWJS1RZbX8d8GWNxaivRA&usqp=CAU" group-title="TV PERUANA", Contacto Deportivo Moyobamba PE
-https://live.obslivestream.com/cdeportivo/index.m3u8
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsYiK20B13qIGrFEvkoL7YxyfwJXr0jN5hLg&usqp=CAU" group-title="TV PERUANA", CTC TV CUSCO
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/ctcpecanal
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwhBlAg-kzdSDSvlJM2sctkmxdN3QoBeqDcQ&usqp=CAU" group-title="TV PERUANA", RADIO OVACION TV PE
 https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
 
-#EXTINF:0 tvg-id="TvPeru.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNdDs_SQGQ74fhoHSN1luvc2x03yaFzrcaig&usqp=CAU" group-title="TV PERUANA", TV PERU
-https://cdnh71.iblups.com/hls/R9WtilpKKB.m3u8
-
-EXTINF:0 tvg-id="TvPeru.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgLVFOPR3S7hV2mmfwz2EaTiVyKYnGLBpLpg&usqp=CAU" group-title="TV PERUANA", TV PERU NOTICIAS YT
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/tvperunoticiasonline
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6rL6OwSCecttQnTrr1k_W2xLqJTSWKjBtrA&usqp=CAU" group-title="TV PERUANA", TV Norte HD
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/TVNORTEHD
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbAvWDrOBX4a8EAZmrAsbH9TzZACayrIRX0g&usqp=CAU" group-title="TV PERUANA", Televisión Tarapoto
-https://videoserver.tmcreativos.com:19360/televisiontpp/televisiontpp.m3u8
-
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZYQ56H-tSxNoFA17VxW0hLBc29ABVMojuIQ&usqp=CAU" group-title="TV PERUANA", AntaresTV Tarapoto
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://viatelevision.pe/wp-content/uploads/2021/11/logo-retina.png" group-title="TV PERUANA", VIA TV
-https://multimedia.tmcreativos.com:1936/viatelevision/viatelevision/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK0zBZdQPtnoJWWA_VXF6WJuNZX7Y1iOeJzw&usqp=CAU" group-title="TV PERUANA", GENIOS TV
-https://live.obslivestream.com/geniostvmux/index.m3u8
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi35vERHsIqDHQVuU8sYNKbikNBOCV3_Bjwg&usqp=CAU" group-title="TV PERUANA", RTV TOTAL Yurimaguas
-https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT466p8JV9MmfBXMP8SyX7AuaZ7wxd8F_RqMw&usqp=CAU" group-title="TV PERUANA", Central TV
-https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZADgGdXQztOk7T4C8vQubyHgHAmp0n96HHQ&usqp=CAU" group-title="TV PERUANA", Planeta Radio TV
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/planeta-radio-t-v
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRey5HoMCCAuwPr3bh3uOqfdh-Ayk8DKMqwLg&usqp=CAU" group-title="TV PERUANA", CajamarcaTV
-https://tv.inka.net.pe/cajamarcatv/cajamarcatv/index.m3u8
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv9Nu3vIv5vMTwTxR-8n2FJXifXYS--auHbA&usqp=CAU" group-title="TV PERUANA", XTV JAEN
-https://tv.oyotunstream.com:1936/xtv/xtv/playlist.m3u8
-
-#EXTINF:0 tvg-id="Bethel.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOwVd_YybMNGThemXEIqu3KkP0f9b6rGkvuA&usqp=CAU" group-title="TV PERUANA", BHTV Villa Salvador PE
-https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/playlist.m3u8
-
-EXTINF:0 tvg-logo="https://comunicaciones.congreso.gob.pe/wpuploads/2021/02/logo-web-4.png" group-title="TV PERUANA", Congreso Peru TV
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/CongresodelaRep%C3%BAblicadelPer%C3%BATVenvivo
-
-EXTINF:0 tvg-logo="https://justiciatv.pj.gob.pe/wp-content/uploads/2016/05/logo.png" group-title="TV PERUANA", JUSTICIA TV PERU
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCwsURxTXqGqijgu98ndod3A
 
 #EXTINF:0 tvg-id="StarTVE.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRws7JwZU2xfLudtdjqRhDsx1SLO_59jk2eWA&usqp=CAU" group-title="TV INTERNACIONAL", STAR TVE
 http://201.108.244.159:4000/play/a06o
@@ -212,110 +118,11 @@ https://d2ab26kihxq8p0.cloudfront.net/hls/live.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPIcrWR5QfDwvVwhpWSjoRcIbNNiO_6qOTJQ&usqp=CAU" group-title="TV INTERNACIONAL", Arica TV CL
 https://5eaccbab48461.streamlock.net:1936/8002/8002/playlist.m3u8
 
-EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhkD44m7xqTbJtIZuzRSPI63E-FuiddaqOtjTT_mXywMF77xvUei-bXjLymwGWmmrjoTsZFrcilairQXmat0h4JsTSYVW7hbWbe9pNvTJ08H2dwENnxH_H3SofxtQn8-Q2xa5WCDMO099Yk13D3C_-SjGvGtHvn44KwtLPDpwQY7xj_I6YhNO9NuTVpCw=s600" group-title="TV INTERNACIONAL", Play Medios TV GUATEMALA
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/zeno-play-medios-tv
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTItcRqMJ0Sw4Ta5pYJt1L4bNbRBiXjsgfuRA&usqp=CAU" group-title="TV INTERNACIONAL", GUATEVISION GUATEMALA
-https://prensalibre-live.cdn.vustreams.com/live/cd8f5328-7a1c-49d9-b318-9190858d1826/live.isml/cd8f5328-7a1c-49d9-b318-9190858d1826.m3u8
-
-EXTINF:0 tvg-logo="https://colorvision.com.do/wp-content/uploads/2018/10/LOGO-ColorVision-HD-full.png" group-title="TV INTERNACIONAL", Color Vision 9 REP DOMINICANA
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/colorvision9
-
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3WZwZrxF7d_UEIfcGiis8Z6McURZzwxFfuA&usqp=CAU" group-title="TV INTERNACIONAL", Lancelot TV ES
 https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJEA-54WBURDBHi4Du3lACsbs7YV4CISUtPg&usqp=CAU" group-title="TV INTERNACIONAL", CMM ES
-https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/0_xs45iy5i/format/applehttp/protocol/https/uiConfId/39582391/a.m3u8
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyBofU7joQco1T9jbtu6yHAM2TbD7U0j6uDA&usqp=CAU" group-title="TV INTERNACIONAL", Euronews ES
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/euronewses
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTBYp9arjxA1ZkV_8WB1DmMLDV7xNlFRQNGQ&usqp=CAU" group-title="TV INTERNACIONAL", Canal Extremadura ES
-https://cdnlive.codev8.net/canalextremaduralive/smil:channel1.smil/playlist.m3u8
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbKleHHCPQ2-kC2P-Sx5MjE-hrlHi8O01OAA&usqp=CAU" group-title="TV INTERNACIONAL", Canal Andalucia HD
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCqwjtgaJflHga2aPWphG5PQ
-
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge9DG9sWvvAV0OPppAPdZQIF96FxwgWIGTw&usqp=CAU" group-title="TV INTERNACIONAL", Galicia TV America ES
 http://america-crtvg.flumotion.com/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbhPdpf7KJUuHbwIQmiCG3lT311A39yAdK6g&usqp=CAU" group-title="TV INTERNACIONAL", WOW TV EL SALVADOR
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w636648678_b700000_slen.m3u8
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO3emx-pOFyxb0QBp0543C5d7QnfKRBfb34w&usqp=CAU" group-title="TV INTERNACIONAL", TV SUR COSTA RICA
-https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQcDTYzBgdcxx2jVjZ6VXf6fmGKlnaKtUZZA&usqp=CAU" group-title="TV INTERNACIONAL", Canal 6 NICARAGUA
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/canal6nicaraguaoficial
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyt_V-m1TkufBoPYrCKgniaA_9jeHzTrUkaw&usqp=CAU" group-title="TV INTERNACIONAL", VIVA NICARAGUA
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/vivanicaragua13
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-JP2bbjnVNUeA0Tdy35w73R19QWaemtX3YA&usqp=CAU" group-title="TV INTERNACIONAL", Net TV AR
-https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSXNqfDBJY9QzPIrWItft4ypJUxetC8Vceqw&usqp=CAU" group-title="TV INTERNACIONAL", Canal 10 MDP AR
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/canaldiezmardelplata
-
-EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="TV INTERNACIONAL", America TV AR
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/americaenvivo
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRupA6YUAGd-toHu9Fayy3b-o-R0zt7x37O8Q&usqp=CAU" group-title="TV INTERNACIONAL", Todo Noticias AR
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/todonoticias
-
-EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-RjXsOFCUJa0/WbWZpQWlwZI/AAAAAAAABnA/vAeBWck6LNw4HpNBxdg5unnmIbpYXo1GgCLcBGAs/s1600/cronica-hd.png" group-title="TV INTERNACIONAL", CRONICA HD AR
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/cronicatv
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuI2dsyMXwIdSS3hLylszxb5EwM2ZNsSDaJw&usqp=CAU" group-title="TV INTERNACIONAL", La Nacion AR
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/LaNacionMas
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmSN8j-26MxxcOaTXmpBIg7U5EdpERVfQOvA&usqp=CAU" group-title="TV INTERNACIONAL", El 7 Mendoza AR
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/CanalSieteMendoza1
-
-EXTINF:0 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.tvp_2021_solo.png.94443cd20174a9375ec25bca58e326ac.png" group-title="TV INTERNACIONAL", TVP AR
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/user/TVPublicaArgentina
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC7-lvUuLgP8DahdfS49alySwSDw-qToZMtg&usqp=CAU" group-title="TV INTERNACIONAL", Noticias Caracol CO
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/noticiascaracol
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzLDaKiFtksphY4rOakosIEHnxIWQ0SVZEAw&usqp=CAU" group-title="TV INTERNACIONAL", TelePacifico CO
-https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI3L3vFDJ3_ACK1xJdNXoUS0QCC62CPv7FVg&usqp=CAU" group-title="TV INTERNACIONAL", TeleTrece CO
-https://canaltrece-live.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeZyUOQl7B44_cqoow5Wl_FTFL_naNNzScVg&usqp=CAU" group-title="TV INTERNACIONAL", Mega Noticias CL
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/Meganoticiasoficial
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0RZVhNcsWYkqPgKxg8WEbKTiQkc7VIYN5Vw&usqp=CAU" group-title="TV INTERNACIONAL", T13 En Vivo CL
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/tele13
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgrRkqAFN17lrx1cFoh80m-qhC2vIoxeHDUA&usqp=CAU" group-title="TV INTERNACIONAL", ECOTEL TV EC
-https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRECsUmVb57w3vlP5b38xY0DVnzHi8o_LvFQg&usqp=CAU" group-title="TV INTERNACIONAL", PURUWA TV EC
-https://mediacp.us:8081/8054/index.m3u8
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjSOrmdx2zoWoHQzijCs-b_2YPtDXaPLXEkw&usqp=CAU" group-title="TV INTERNACIONAL", Canal Once MX
-https://vivo.canaloncelive.tv:443/alivepkgr3/ngrp:cepro_all/chunklist_b1411072.m3u8
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLYR_TI2Bd6hH4dsuJmbCLmLDOWlaRvvxpfg&usqp=CAU" group-title="TV INTERNACIONAL", RTPA TV ES
-https://cdnlive.codev8.net/rtpalive/smil:directo.smil/fmt_token/0Jo2_dDvuSo1yz-paO-swJNnPPsMWKQ-koN9qzXuK28/eyJleHBpcmUiOjE2NTQ3MjM4MDEsInVybF9hbGxvdyI6WyIvcnRwYWxpdmUiLCIvb25kZW1hbmQvYTRjZGRlYTYtZGVkMy00MGRkLTlkMTQtZmQ2MTAyYmRkNzM2Il19/playlist.m3u8?DVR
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Xet5zEDv-seJIbytvF3NQmSc5ZPbmejOww&usqp=CAU" group-title="TV INTERNACIONAL", México Travel Channel
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/mexicotravelchannel
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6VPzZKJNr2rpuTaBXwfjRsh2ejIfw6PkSAA&usqp=CAU" group-title="TV INTERNACIONAL", ImagenTV MX
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/Imagen_TV
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhUILi1E9Ob1oYiSmxeV45nILwKh5ngnMrPw&usqp=CAU" group-title="TV INTERNACIONAL", TeleMar Campeche MX
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/telemarcampeche
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-e-3UbHllgiM-a2jFX7pjpNCnQ77ybA_wVw&usqp=CAU" group-title="TV INTERNACIONAL", Televisa Tijuana MX
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/user/televisatijuanaof
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_vq9ggrEbJBnKCHySlc-DOx8hWxAxSEdCHA&usqp=CAU" group-title="TV INTERNACIONAL", SINTESIS TV MX
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/sintesistv
 
 #EXTINF:0 audio-track="eng,spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV0E1LRMSR1Bn5Xluxbi7CF2o-A5GloOtBLg&usqp=CAU" group-title="Niños | Juniors", Discovery Kids
 http://201.108.244.159:4000/play/a00q
@@ -380,73 +187,8 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOyy965FWCF_bcBOJ5Dl-Ijm7YX_hnpReoHg&usqp=CAU" group-title="Niños | Juniors", Zona Anime TV
 http://azxtv.com/hls/stream.m3u8
 
-#Separacion#
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAJ7y_koapV8_Y119f_6OMLabrk7PQTi9tTw&usqp=CAU" group-title="Niños | Juniors", TaTeTi CL
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAJ7y_koapV8_Y119f_6OMLabrk7PQTi9tTw&usqp=CAU" group-title="Niños | Juniors", TaTeTi CL
 https://player.vimeo.com/external/525696991.m3u8?s=52bfc0cf9cec79027e89aef30cc6b3c81d1f218c
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkFU1yFpUuczG09jLeZ63Do4TsvDfOiBnA8w&usqp=CAU" group-title="Niños | Juniors", Pajaro Loco
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCHtZ2_7hd1zy9aCqrrcaqcQ
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3NCZTRn0peoz4cEoDh5kQtkbWQ3HyN_TIaw&usqp=CAU" group-title="Niños | Juniors", Granja de Zenon TV
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/elreinoinfantil
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAin3y1QI2piNW9JgqOkC00axtwrq0tmGhXQ&usqp=CAU" group-title="Niños | Juniors", Tatty y Misifu
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/LaBrujitaTatty
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRalyHZsrHit5MNqLp8nmWMZ5CiGktlwsYKkQ&usqp=CAU" group-title="Niños | Juniors", PJ Masks
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/PJMasksLAS
-
-EXTINF:0 tvg-logo="https://i0.wp.com/imagenesparapeques.com/wp-content/uploads/2014/07/pocoyo-en-Italiapng.png?ssl=1" group-title="Niños | Juniors", POCOYO HD
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/pocoyo
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGUgB6uU5Sl-Tu17nLz2Zgwp37QXFde5zIsA&usqp=CAU" group-title="Niños | Juniors", ANTIKS HD
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/OddbodsEspa%C3%B1ol
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGs1EQ-FsdTBO9WMj6-JrGi21CLMgMB862TA&usqp=CAU" group-title="Niños | Juniors", PEPA PIG HD
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/PeppaPigOficial
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs6I086E6tC6fyGLMCI1WZQy2uQ-Pzade-2A&usqp=CAU" group-title="Niños | Juniors", BabyBus TV
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/BabyBusCancionesInfantilesCuentos
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJa79IKOg0I-VarhB1bqusmLx9ywuBjw7JdQ&usqp=CAU" group-title="Niños | Juniors", Baby Shark TV
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/BabySharkES
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR03S42m_AGzT5ui1w8dxE7Ed22FXnJkjjsNg&usqp=CAU" group-title="Niños | Juniors", Pinguino Pororo TV
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/PororoSpanish
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0tCqG4gsOXJgH6BTp0PnFb1x422IhVB6cBw&usqp=CAU" group-title="Niños | Juniors", Dragon Ball
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/dragonballenvivoz
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlExxvOh5bbFXskdUsbU0K5ASYeX_zj8mhAg&usqp=CAU" group-title="Niños | Juniors", Goku TV
-http://138.36.253.14:8010/play/a02f/index.m3u8
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt8B8o5UPLnGsaBFfER3OrleXRkoUroRwsag&usqp=CAU" group-title="Niños | Juniors", Dragon Ball +
-https://www.twitch.tv/drakeplaydz
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0TjME7MYIoSrC64jpdDsKgKmYvBt8Jm-ZKQ&usqp=CAU" group-title="Niños | Juniors", Dragon ball Z
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/dragon_ball_superz
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsUDoAmdVGCaiSgjqa16aNMZWG3gq4PSJ_8Q&usqp=CAU" group-title="Niños | Juniors", Dragon ball Super
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/dragonballentwitch
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiI-5aAtYdD4yDanonpy3HywaFpXZoS8g3cA&usqp=CAU" group-title="Niños | Juniors", Saint Seiya
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/francisco_sensei
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkA0QOWSs0BYu-Rqh7FXCWTH4NOHikFuvTew&usqp=CAU" group-title="Niños | Juniors", El Chavo Del 8
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/chavo_mania
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnFay6RNwnKV4PiSGJqQagIWPXvxWejLOPCg&usqp=CAU" group-title="Niños | Juniors", El Chavo Del 8 +
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/chavodel8ocho
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQodPlkF0dzQM9TyP6ruFWV0pMYCABJr20C9g&usqp=CAU" group-title="Niños | Juniors", El Chapulin Colorado
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/chapulin_colorado_directo
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFpq0NXYU7290syMIka2qL-jOGTqTHz1VD3g&usqp=CAU" group-title="Niños | Juniors", Los Simpsons
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/simpsonmania24_7
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_N9eD6PrD1q4-Iu7bQb2Q9Z4CK12S1cvKrg&usqp=CAU" group-title="Niños | Juniors", Los Simpsons +
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/simpsonmania28
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5z9NwZ-1ngD9OF16quK1nBf_-V_Qjpg9WWQ&usqp=CAU" group-title="Series | Peliculas", Retro HD
 http://181.176.148.142:8000/play/a02x
@@ -773,6 +515,15 @@ http://200.122.237.28:8000/play/a02r/index.m3u8
 #EXTINF:0 tvg-id="SyFy.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREUNn8BiFaiUIfwtwZF_VOn9LFxDk82DiPeg&usqp=CAU" group-title="Series | Peliculas", SyFy
 http://190.115.15.177:58003/play/a045/index.m3u8
 
+#EXTINF:0 audio-track="eng,spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAjNJMdezviuzZaRc0nmompq1L0FLESPrTUw&usqp=CAU" group-title="Series | Peliculas", Eurochannel
+http://181.176.148.142:8000/play/a01j
+
+#EXTINF:0 audio-track="eng,spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAjNJMdezviuzZaRc0nmompq1L0FLESPrTUw&usqp=CAU" group-title="Series | Peliculas", Eurochannel
+http://45.236.28.72:8000/play/a0er/index.m3u8
+
+#EXTINF:0 audio-track="eng,spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAjNJMdezviuzZaRc0nmompq1L0FLESPrTUw&usqp=CAU" group-title="Series | Peliculas", Eurochannel
+http://190.97.183.204:8000/play/a0pk/index.m3u8
+
 #EXTINF:0 tvg-id="ClaroCinema.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn0RjzIqOgMoEfZu0I7PfgO3Q-WXfIOUYV0w&usqp=CAU" group-title="Series | Peliculas", CLARO CINEMA
 http://131.196.194.2:8000/play/a09z/index.m3u8
 
@@ -1028,50 +779,11 @@ http://190.131.228.59:8000/play/a066/index.m3u8
 #EXTINF:0 tvg-id="FoxSports3Panregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Deportes", FOX SPORTS 3
 http://190.60.37.69:8015/play/a02a/index.m3u8
 
-#EXTINF:0 tvg-id="FOXSports.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxDOdYaebLusnpTDTMfe-iTsUFz1RoXk9IEw&usqp=CAU" group-title="Deportes", FOX SPORTS NEWS
-https://austchannel-live.akamaized.net:443/hls/live/2002736/austchannel-sport/master960x540_v3.m3u8
-
 #EXTINF:0 tvg-id="beINSportsXtra.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvBvf6qepd2387CGhdtSb4Rd0ZD6zDRXelgQ&usqp=CAU" group-title="Deportes", Bein Sport XTRA EN
 http://siloh.pluto.tv/lilo/production/bein/1/master_2.m3u8
 
 #EXTINF:0 tvg-id="ClaroSports.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_ikg6XkXgJo3t1KMI9IQEeOvtHUaQe9KDfw&usqp=CAU" group-title="Deportes", Claro Sports
 http://131.196.194.2:8000/play/a0e1/index.m3u8
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLXT7z9CSPaJZU_Ee3pxCiIl80W8FUNzDueA&usqp=CAU" group-title="Deportes", Chiringuito Inside YT
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/ChiringuitoTvInside
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiAsYe7TJv3JN-6todgGlqxIrp37StgMTavA&usqp=CAU" group-title="Deportes", Chiringuito PLUS YT
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UC_TvBokD9623ZkGctx0GqXg
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJp9wHXHbxj4zw_9UvsDdTw6YjP0INHPJBSA&usqp=CAU" group-title="Deportes", Chiringuito SHOW YT
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCI_v54UK0Sh8djJuvYeDW0Q
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMkU0H8wU1zseho83CY-ARAIepIt8Bu1Zd5g&usqp=CAU" group-title="Deportes", Chiringuito HD YT
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCaxnIfZhqzUMrclbDDZS1mQ
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKesWmfZouoQ8jz7_9mqnH680XsnxuCOKGeA&usqp=CAU" group-title="Deportes", Chiringuito De Jugones YT
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UC7R9ds4a3ADKRh9VLgG0DFg
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw7LRzlg70PLRjUYynwrRRp_Gh-gFnxVbcfg&usqp=CAU" group-title="Deportes", Mr Peet A PRESION
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/APRESI%C3%93N
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc6IKPhVp81Meord7DpgLEhHXlhmaFXaco6Q&usqp=CAU" group-title="Deportes", ERICK Y GONZALO
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCcRSITGrzZce21uHdQ6GjZA
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_7MzeW7lccOAvnkj4FmLmwargYouhBu9KeA&usqp=CAU" group-title="Deportes", FUTBOL BRUTAL PE
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCxWhPYT4QSU3jDFNfCTt4kg
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSebrNGshTDxT87D5rXTHy80JOzZ-uxs_QGYg&usqp=CAU" group-title="Deportes", BEST CABLE SPORTS
-https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRGddKrL26aY3Yf7enSL107-oL1XdMhAdFaA&usqp=CAU" group-title="Deportes", Futbol En America l Dom 10 pm
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCxzM16KsVlgCjMW14sJCHDg
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFKueaSZ_4733wkNutT-IFyykzzJAiGW2tAA&usqp=CAU" group-title="Deportes", Diario Depor PE
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/DiarioDeporoficial
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4uFe6pOhbCkQGnZWJS1RZbX8d8GWNxaivRA&usqp=CAU" group-title="Deportes", Contacto Deportivo Moyobamba PE
-https://live.obslivestream.com/cdeportivo/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwhBlAg-kzdSDSvlJM2sctkmxdN3QoBeqDcQ&usqp=CAU" group-title="Deportes", RADIO OVACION TV PE
 https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
@@ -1136,71 +848,11 @@ http://190.97.183.204:8000/play/a0sd/index.m3u8
 #EXTINF:0 tvg-id="MTVHits.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYt_kWsuM9nPn9Iz_A4DxHr-k6cutEpFnaiQ&usqp=CAU" group-title="Musica En Vivo", MTV Hits
 http://190.97.183.204:8000/play/a0sc/index.m3u8
 
-#EXTINF:0 tvg-id="KPOP.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ49WURwKDmW2F2ppir8kgv-WObM10V3hP5g&usqp=CAU" group-title="Musica En Vivo", KPOP
-https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvIfKQ_Ta1wQHJJlfefL0TODQ_bqVwEsHQNQ&usqp=CAU" group-title="Musica En Vivo", Vorteix Rock
-https://prepublish.f.qaotic.net/a08/ngrp:vorterix_video1-20057_all/Playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnwoAS3m-KRMYcaQhgC80258XKZ44ynqv_Zw&usqp=CAU" group-title="Musica En Vivo", Venus Media
-https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
-
-#EXTINF:0 tvg-id="4funTV.pl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSVpDjZrhZOagCAjGX8yU_HSHr2URuHXD_4g&usqp=CAU" group-title="Musica En Vivo", 4FUN.TV
-https://stream.4fun.tv:8888/hls/4f.m3u8
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ49As8F5dI-MTdZnOFzsl9KDL9wGGLE0nHuw&usqp=CAU" group-title="Musica En Vivo", CM Music TV AR
-http://g2.vxral-hor.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica000044_all/Playlist.m3u8?sense=true
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB60TndvDZyeYseBtiNHI_0qpaUOhuYvSn8w&usqp=CAU" group-title="Musica En Vivo", Music Top HD
-https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-
-#EXTINF:0 tvg-id="RetroMusic.cz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwyit1SBqhjJalHz4jM1kBEOXOUrgsIN6S2A&usqp=CAU" group-title="Musica En Vivo", RetroMusic.cz
-https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
-
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdp_wTw0MdW-pFc7Q-5IE-ytEZKapwa3F7KQ&usqp=CAU" group-title="Musica En Vivo", Carolina CL
 https://unlimited1-us.dps.live:443/carolinatv/carolinatv.smil/carolinatv/livestream1/chunks.m3u8
 
-#EXTINF:0 tvg-logo="https://cdn-radiotime-logos.tunein.com/s86045g.png" group-title="Musica En Vivo", Turbo Mix TV
-https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH9hc77m3zNJdA7J7Ba_8n8FzE7EomL_Re0A&usqp=CAU" group-title="Musica En Vivo", BEST CABLE MUSIC
-https://tv.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8
-
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGlo-48YjEMk4tEjjkd3Xn2Pg3lmd-fgsxgQ&usqp=CAU" group-title="Musica En Vivo", TeleRitmo
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Karibe%C3%B1aTV2018.png/revision/latest/scale-to-width-down/2000?cb=20200217131332&path-prefix=es" group-title="Musica En Vivo", La Karibeña
-https://cu.onliv3.com/livevd/user1.m3u8
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8qIz7ZSjKp2qqymIFZgGwRPyRAValHqot1g&usqp=CAU" group-title="Musica En Vivo", DMJ TV
-https://v4.tustreaming.cl:443/s1tv/tracks-v1a1/mono.m3u8
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8_aOue4hLHObfFcugoyDws9TwLcw3j-egqg&usqp=CAU" group-title="Musica En Vivo", Urbano TV
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/urbano106#
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR29VF6M8BFTZoG1uqCdj1UzasKZxVLUn_Ong&usqp=CAU" group-title="Musica En Vivo", ECUA ESTEREO TV EC
-https://video.misistemareseller.com/ecuastereotv/ecuastereotv/playlist.m3u8
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ49WURwKDmW2F2ppir8kgv-WObM10V3hP5g&usqp=CAU" group-title="Musica En Vivo", KPOP
-http://177.53.152.186:8000/play/a00j/index.m3u8
-
-EXTINF:0 tvg-logo="https://www.nicepng.com/png/full/81-813415_the-good-life-good-life-word-art.png" group-title="Musica En Vivo", The Good Life YT
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/TheGoodLiferadio
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPspvG3p3jhWWUMK47SqJE1KxF0NnbYDo4g&usqp=CAU" group-title="Musica En Vivo", Miracle Music YT
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCTJ9Qg0vBu2pP_YrWUfGnQ
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm8H9C8obPJ00_fw79sjgivrxKWQFss4P6Zw&usqp=CAU" group-title="Musica En Vivo", Deep House Mix YT
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/Nora__THR
-
-EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSX3EcCjhEbH7s22uDN1it-dOTTbPCDHLaSExZd=s100-c-k-c0x00ffffff-no-rj" group-title="Musica En Vivo", Wonder Deep YT
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/user/redthekiller23
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQS7NPBDROJavknyiaNnl_ZgmnHtR381OC3Q&usqp=CAU" group-title="Musica En Vivo", Rock 80s 90s
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCv7YyZqMZOHlguozyLp4wdg
-
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_T10dqJzMKRH_OL9rVhOFZN6EnAUvG4_UFg&usqp=CAU" group-title="Musica En Vivo", Baladas Ingles 80s 90s
-https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCQkNZghkromJkI72Oz7SGww
 
 #EXTINF:0 tvg-id="HistoryPanregional.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxqAVi_JxGZOCO3SdsICCV78r5T3S7Aj84iQ&usqp=CAU" group-title="Ciencia | Cultura", HISTORY
 http://179.1.64.210:8090/play/a001/index.m3u8
@@ -1247,29 +899,11 @@ http://45.233.169.1:8000/play/a00o
 #EXTINF:0 tvg-id="E!.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVJfVPJsr_ZFKaALSke73drljoGFseLqJvsA&usqp=CAU" group-title="Ciencia | Cultura", E! Entertainment
 http://190.60.37.69:8015/play/a01n/index.m3u8
 
-#EXTINF:0 audio-track="eng,spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAjNJMdezviuzZaRc0nmompq1L0FLESPrTUw&usqp=CAU" group-title="Ciencia | Cultura", Eurochannel
-http://181.176.148.142:8000/play/a01j
-
-#EXTINF:0 audio-track="eng,spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAjNJMdezviuzZaRc0nmompq1L0FLESPrTUw&usqp=CAU" group-title="Ciencia | Cultura", Eurochannel
-http://45.236.28.72:8000/play/a0er/index.m3u8
-
-#EXTINF:0 audio-track="eng,spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAjNJMdezviuzZaRc0nmompq1L0FLESPrTUw&usqp=CAU" group-title="Ciencia | Cultura", Eurochannel
-http://190.97.183.204:8000/play/a0pk/index.m3u8
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-js981enMtykVVTizk6YAE4YGdcsMdFqRsg&usqp=CAU" group-title="Ciencia | Cultura", Cultura24TV PE
-https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi35vERHsIqDHQVuU8sYNKbikNBOCV3_Bjwg&usqp=CAU" group-title="Ciencia | Cultura", RTV TOTAL Yurimaguas
-https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
-
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThVacVpvWoxA94ohz-aG6Mk_ido7NRgIndKg&usqp=CAU" group-title="Ciencia | Cultura", RTVE PLAY
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 
 #EXTINF:0 tvg-id="DWEspanol.de" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ547nGlPFGhqNpwqCgzHQWBXYFk0PdRqmdJw&usqp=CAU" group-title="Ciencia | Cultura", DW (DEUTSCH +)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUSgo0TsXOmLDi5uUYLaQ_OYlzKiPWTT1_Q&usqp=CAU" group-title="Ciencia | Cultura", HISPANTV
-https://live1.presstv.ir/live/hispan.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSonNZP3LVtPS2xbEzGP2-nBysDuq9-2dVrZQ&usqp=CAU" group-title="Radio en Vivo", Studio92
 https://mdstrm.com/audio/5fada553978fe1080e3ac5ea/icecast.audio
