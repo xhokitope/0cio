@@ -1211,10 +1211,16 @@ http://45.160.12.253:8000/play/032
 #EXTINF:0 tvg-id="HistoryPanregional.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxqAVi_JxGZOCO3SdsICCV78r5T3S7Aj84iQ&usqp=CAU" group-title="Ciencia | Cultura", HISTORY
 http://45.181.122.100:8000/play/a04j/index.m3u8
 
-#EXTINF:0 tvg-id="HistoryPanregional.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxqAVi_JxGZOCO3SdsICCV78r5T3S7Aj84iQ&usqp=CAU" group-title="Ciencia | Cultura", HISTORY HD
+#EXTINF:0 tvg-id="HistoryPanregional.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxqAVi_JxGZOCO3SdsICCV78r5T3S7Aj84iQ&usqp=CAU" group-title="Ciencia | Cultura", HISTORY
 http://8.242.187.236:5007/play/a05d/index.m3u8
 
-#EXTINF:0 tvg-id="History2Panregional.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYJ8U1zE4HmML93N6w3TRYhWdAg3oSGQgfQw&usqp=CAU" group-title="Ciencia | Cultura", HISTORY 2
+#EXTINF:0 tvg-id="History2Panregional.us" audio-track="eng,spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYJ8U1zE4HmML93N6w3TRYhWdAg3oSGQgfQw&usqp=CAU" group-title="Ciencia | Cultura", HISTORY 2
+http://160.20.164.171:8001/play/a03j
+
+#EXTINF:0 tvg-id="History2Panregional.us" audio-track="eng,spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYJ8U1zE4HmML93N6w3TRYhWdAg3oSGQgfQw&usqp=CAU" group-title="Ciencia | Cultura", HISTORY 2
+http://45.71.200.254:8000/play/a0jp/index.m3u8
+
+#EXTINF:0 tvg-id="History2Panregional.us" audio-track="eng,spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYJ8U1zE4HmML93N6w3TRYhWdAg3oSGQgfQw&usqp=CAU" group-title="Ciencia | Cultura", HISTORY 2
 http://45.160.12.253:8000/play/033
 
 #EXTINF:0 tvg-id="AnimalPanregional.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyvsnJWPhC0phHnRIRqjzvM3hVOiazARc6dA&usqp=CAU" group-title="Ciencia | Cultura", Animal Planet
