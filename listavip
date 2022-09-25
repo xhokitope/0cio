@@ -8,10 +8,10 @@ http://190.108.93.148:8000/play/a07l/index.m3u8
 http://190.187.247.206:8000/play/a01j/index.m3u8
 
 #EXTINF:0 tvg-id="willax.pe" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
-http://168.194.171.33:8000/play/a01s/index.m3u8
+http://190.239.220.73:8000/play/a02h/index.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5z9NwZ-1ngD9OF16quK1nBf_-V_Qjpg9WWQ&usqp=CAU" group-title="TV PERUANA", Retro HD
-http://181.176.148.142:8000/play/a02x
+#EXTINF:0 tvg-id="willax.pe" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
+http://168.194.171.33:8000/play/a01s/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZWktkEnMQtRSruF-OeRINESOszGYHLTlJ0w&usqp=CAU" group-title="TV PERUANA", TV COSMOS
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
@@ -76,6 +76,12 @@ http://45.225.95.171:8000/play/a0eh/index.m3u8
 #EXTINF:0 tvg-id="AmericaTelevision.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnj4six21x50vnaiL29u8xyeoD9Aas4BGSIQ&usqp=CAU" group-title="TV PERUANA", AmericaTV
 http://190.187.247.206:8000/play/a03j/index.m3u8
 
+#EXTINF:0 tvg-id="AmericaTelevision.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnj4six21x50vnaiL29u8xyeoD9Aas4BGSIQ&usqp=CAU" group-title="TV PERUANA", AmericaTV
+http://190.108.93.148:8000/play/a0d3/index.m3u8
+
+#EXTINF:0 tvg-id="AmericaTelevision.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnj4six21x50vnaiL29u8xyeoD9Aas4BGSIQ&usqp=CAU" group-title="TV PERUANA", AmericaTV
+http://190.239.220.73:8000/play/a02k/index.m3u8
+
 EXTINF:0 tvg-id="CanalN.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjFu1v4nogWUR6-t48F7HH8GASg290M1uc6w&usqp=CAU" group-title="TV PERUANA", Canal N
 http://138.186.76.100:8000/play/a01v/index.m3u8
 
@@ -110,7 +116,7 @@ http://209.45.81.8:8000/play/a03f/index.m3u8
 https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/La_Red_Uruguay_2018.png/revision/latest/scale-to-width-down/200?cb=20200825011821&path-prefix=es" group-title="TV INTERNACIONAL", La Red UY
-https://d268yhgc98lzal.cloudfront.net/sdredtv/sdredtv.m3u8
+https://stm1.rootuy.xyz:19360/sdredtv/sdredtv.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnNygwBUBPEh1bWv4STpIseUuB1Y5DgLyIpQ&usqp=CAU" group-title="TV INTERNACIONAL", LaRed CL
 https://d2ab26kihxq8p0.cloudfront.net/hls/live.m3u8
@@ -177,9 +183,6 @@ http://179.1.64.210:8090/play/a02o/index.m3u8
 
 #EXTINF:0 audio-track="eng,spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Xejrks8DoZj5Y_Vlw24QYR1hCHwBIe0YLA&usqp=CAU" group-title="Niños | Juniors", Disney Junior
 http://45.232.210.1:8062/play/a08j/index.m3u8
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPGQT-zYfvO5pjH8RKO-v0OhnRBusVjVmeVQ&usqp=CAU" group-title="Niños | Juniors", IPe
-https://cdnh75.iblups.com/hls/OVJNKV4pSr.m3u8
 
 EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Locomotion_2005.svg/revision/latest/scale-to-width-down/300?cb=20200125124642&path-prefix=es" group-title="Niños | Juniors", Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
@@ -850,6 +853,9 @@ http://190.97.183.204:8000/play/a0sc/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdp_wTw0MdW-pFc7Q-5IE-ytEZKapwa3F7KQ&usqp=CAU" group-title="Musica En Vivo", Carolina CL
 https://unlimited1-us.dps.live:443/carolinatv/carolinatv.smil/carolinatv/livestream1/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwjeKwUFeV1bNOSBSdrIH_g--6JcxpUZksvQ&usqp=CAU" group-title="Musica En Vivo", KPOP
+http://138.36.253.14:8012/play/a00r
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGlo-48YjEMk4tEjjkd3Xn2Pg3lmd-fgsxgQ&usqp=CAU" group-title="Musica En Vivo", TeleRitmo
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
