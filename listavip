@@ -359,13 +359,19 @@ http://190.60.37.69:8015/play/a01m/index.m3u8
 http://45.160.12.253:8000/play/110
 
 #EXTINF:0 tvg-id="TCMPanregional.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4JVT6DNpVvlJ0vdYPTqcd1dMuLZXZ18sO4Q&usqp=CAU" group-title="Series | Peliculas", TCM
-http://45.238.21.106:6688/play/a01s/index.m3u8
+http://160.20.164.171:8001/play/a02z
 
 #EXTINF:0 tvg-id="TCMPanregional.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4JVT6DNpVvlJ0vdYPTqcd1dMuLZXZ18sO4Q&usqp=CAU" group-title="Series | Peliculas", TCM
 http://8.242.187.236:5007/play/a05l/index.m3u8
 
-#EXTINF:0 tvg-id="AMCHDSouth.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd8Tk9e4vDK3HhLpPEbFjcySwK25C6SSxFyw&usqp=CAU" group-title="Series | Peliculas", AMC
-http://190.43.232.193:8000/play/a029/index.m3u8
+#EXTINF:0 tvg-id="AMCHDSouth.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd8Tk9e4vDK3HhLpPEbFjcySwK25C6SSxFyw&usqp=CAU" group-title="Series | Peliculas", AMC
+http://160.20.164.171:8001/play/a01u
+
+#EXTINF:0 tvg-id="AMCHDSouth.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd8Tk9e4vDK3HhLpPEbFjcySwK25C6SSxFyw&usqp=CAU" group-title="Series | Peliculas", AMC
+http://45.236.28.72:8000/play/a0dk/index.m3u8
+
+#EXTINF:0 tvg-id="AMCHDSouth.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd8Tk9e4vDK3HhLpPEbFjcySwK25C6SSxFyw&usqp=CAU" group-title="Series | Peliculas", AMC
+http://45.233.169.1:8000/play/a06c
 
 #EXTINF:0 tvg-id="TNTPacific.us" audio-track="spa" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/8/8f/TNT_Logo_2016.svg.png/revision/latest?cb=20161130200545&path-prefix=es" group-title="Series | Peliculas", TNT
 http://45.160.12.253:8000/play/109
@@ -379,34 +385,28 @@ http://200.6.189.26:9000/play/a011
 #EXTINF:0 tvg-id="TNTPacific.us" audio-track="spa" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/8/8f/TNT_Logo_2016.svg.png/revision/latest?cb=20161130200545&path-prefix=es" group-title="Series | Peliculas", TNT
 http://8.242.187.236:5007/play/a05n/index.m3u8
 
-#EXTINF:0 tvg-id="TNTSeriesSouth.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmxLjLoWX7LfHckMq-sgbxYFBhpCE4yyBhwg&usqp=CAU" group-title="Series | Peliculas", TNT Series
-http://179.1.64.210:8090/play/a00z/index.m3u8
+#EXTINF:0 tvg-id="TNTSeriesSouth.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmxLjLoWX7LfHckMq-sgbxYFBhpCE4yyBhwg&usqp=CAU" group-title="Series | Peliculas", TNT Series
+http://45.233.169.1:8000/play/a012
 
 #EXTINF:0 tvg-id="TNTSeriesSouth.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmxLjLoWX7LfHckMq-sgbxYFBhpCE4yyBhwg&usqp=CAU" group-title="Series | Peliculas", TNT SERIES
 http://45.160.12.253:8000/play/108
 
-#EXTINF:0 tvg-id="TNTSeriesSouth.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmxLjLoWX7LfHckMq-sgbxYFBhpCE4yyBhwg&usqp=CAU" group-title="Series | Peliculas", TNT SERIES
-http://45.225.95.171:8000/play/a0je/index.m3u8
+#EXTINF:0 tvg-id="TNTSeriesSouth.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmxLjLoWX7LfHckMq-sgbxYFBhpCE4yyBhwg&usqp=CAU" group-title="Series | Peliculas", TNT SERIES
+http://45.236.28.72:8000/play/a0db/index.m3u8
 
-#EXTINF:0 tvg-id="SonyChannelSouth.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsMAZLSYszYGCUCY_5Wd77FJMscnxntVQLFg&usqp=CAU" group-title="Series | Peliculas", SONY
+#EXTINF:0 tvg-id="SonyChannelSouth.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsMAZLSYszYGCUCY_5Wd77FJMscnxntVQLFg&usqp=CAU" group-title="Series | Peliculas", SONY
 http://45.160.12.253:8000/play/085
 
-#EXTINF:0 tvg-id="SonyChannelSouth.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsMAZLSYszYGCUCY_5Wd77FJMscnxntVQLFg&usqp=CAU" group-title="Series | Peliculas", SONY
-http://179.1.64.210:8090/play/a003/index.m3u8
-
-#EXTINF:0 tvg-id="SonyChannelSouth.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsMAZLSYszYGCUCY_5Wd77FJMscnxntVQLFg&usqp=CAU" group-title="Series | Peliculas", SONY
-http://200.6.189.26:9000/play/a02p
-
-#EXTINF:0 tvg-id="SonyChannelSouth.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsMAZLSYszYGCUCY_5Wd77FJMscnxntVQLFg&usqp=CAU" group-title="Series | Peliculas", SONY
+#EXTINF:0 tvg-id="SonyChannelSouth.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsMAZLSYszYGCUCY_5Wd77FJMscnxntVQLFg&usqp=CAU" group-title="Series | Peliculas", SONY
 http://200.24.132.99:8000/play/a02o
 
-#EXTINF:0 tvg-id="SonyChannelSouth.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsMAZLSYszYGCUCY_5Wd77FJMscnxntVQLFg&usqp=CAU" group-title="Series | Peliculas", SONY
+#EXTINF:0 tvg-id="SonyChannelSouth.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsMAZLSYszYGCUCY_5Wd77FJMscnxntVQLFg&usqp=CAU" group-title="Series | Peliculas", SONY
 http://131.196.194.2:8000/play/a09p/index.m3u8
 
-#EXTINF:0 tvg-id="SonyChannelSouth.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsMAZLSYszYGCUCY_5Wd77FJMscnxntVQLFg&usqp=CAU" group-title="Series | Peliculas", SONY
+#EXTINF:0 tvg-id="SonyChannelSouth.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsMAZLSYszYGCUCY_5Wd77FJMscnxntVQLFg&usqp=CAU" group-title="Series | Peliculas", SONY
 http://190.60.37.69:8015/play/a044/index.m3u8
 
-#EXTINF:0 tvg-id="HBOLatinAmerica.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoUGEERa9XF4J3AwfDYWwTNGl4RWSo2KMrvQ&usqp=CAU" group-title="Series | Peliculas", HBO
+#EXTINF:0 tvg-id="HBOLatinAmerica.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoUGEERa9XF4J3AwfDYWwTNGl4RWSo2KMrvQ&usqp=CAU" group-title="Series | Peliculas", HBO
 http://45.160.12.253:8000/play/017
 
 #EXTINF:0 tvg-id="HBOLatinAmerica.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoUGEERa9XF4J3AwfDYWwTNGl4RWSo2KMrvQ&usqp=CAU" group-title="Series | Peliculas", HBO
@@ -424,8 +424,8 @@ http://181.65.199.218:8000/play/a016/index.m3u8
 #EXTINF:0 tvg-id="HBO2HDLatinAmerica.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYdWe0yKsRRdJpxYhe34kd6DBX7F1xOAy5eg&usqp=CAU" group-title="Series | Peliculas", HBO 2
 http://45.160.15.1:8111/play/a0ox
 
-#EXTINF:0 tvg-id="HBOPlusHDLatinAmerica.us" audio-track="eng,spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfSGhLOTn3UGyuP9fqX7Ct3Vu5sKdORYWgMA&usqp=CAU" group-title="Series | Peliculas", HBO PLUS
-http://190.97.183.204:8000/play/a0rd/index.m3u8
+#EXTINF:0 tvg-id="HBOPlusHDLatinAmerica.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfSGhLOTn3UGyuP9fqX7Ct3Vu5sKdORYWgMA&usqp=CAU" group-title="Series | Peliculas", HBO PLUS
+http://160.20.164.171:8001/play/a071
 
 #EXTINF:0 tvg-id="HBOPlusHDLatinAmerica.us" audio-track="eng,spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfSGhLOTn3UGyuP9fqX7Ct3Vu5sKdORYWgMA&usqp=CAU" group-title="Series | Peliculas", HBO PLUS
 http://45.160.12.253:8000/play/019
@@ -433,8 +433,8 @@ http://45.160.12.253:8000/play/019
 #EXTINF:0 tvg-id="HBOPlusHDLatinAmerica.us" audio-track="eng,spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfSGhLOTn3UGyuP9fqX7Ct3Vu5sKdORYWgMA&usqp=CAU" group-title="Series | Peliculas", HBO PLUS
 http://201.108.244.159:4000/play/a02c
 
-#EXTINF:0 tvg-id="HBOFamilyHDLatinAmerica.us" audio-track="eng,spa"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDZV9xlhYXOI4mHXGrt2K5_0v4XT2ERosv2Q&usqp=CAU" group-title="Series | Peliculas", HBO FAMILY
-http://190.97.183.204:8000/play/a0re/index.m3u8
+#EXTINF:0 tvg-id="HBOFamilyHDLatinAmerica.us" audio-track="spa"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDZV9xlhYXOI4mHXGrt2K5_0v4XT2ERosv2Q&usqp=CAU" group-title="Series | Peliculas", HBO FAMILY
+http://160.20.164.171:8001/play/a072
 
 #EXTINF:0 tvg-id="HBOFamilyHDLatinAmerica.us" audio-track="eng,spa"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDZV9xlhYXOI4mHXGrt2K5_0v4XT2ERosv2Q&usqp=CAU" group-title="Series | Peliculas", HBO FAMILY
 http://45.160.12.253:8000/play/018
@@ -442,13 +442,13 @@ http://45.160.12.253:8000/play/018
 #EXTINF:0 tvg-id="HBOFamilyHDLatinAmerica.us" audio-track="eng,spa"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDZV9xlhYXOI4mHXGrt2K5_0v4XT2ERosv2Q&usqp=CAU" group-title="Series | Peliculas", HBO FAMILY
 http://45.160.15.1:8111/play/a0ou
 
-#EXTINF:0 tvg-id="HBOXtremeLatinAmerica.us" audio-track="spa,eng" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHDlHew8Uj-cjTvqDaEDyK0K9i4yZ_9M3nyA&usqp=CAU" group-title="Series | Peliculas", HBO XTREME
-http://190.97.183.204:8000/play/a0rf/index.m3u8
+#EXTINF:0 tvg-id="HBOXtremeLatinAmerica.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHDlHew8Uj-cjTvqDaEDyK0K9i4yZ_9M3nyA&usqp=CAU" group-title="Series | Peliculas", HBO XTREME
+http://160.20.164.171:8001/play/a073
 
-#EXTINF:0 tvg-id="HBOXtremeLatinAmerica.us" audio-track="eng,spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHDlHew8Uj-cjTvqDaEDyK0K9i4yZ_9M3nyA&usqp=CAU" group-title="Series | Peliculas", HBO XTREME
+#EXTINF:0 tvg-id="HBOXtremeLatinAmerica.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHDlHew8Uj-cjTvqDaEDyK0K9i4yZ_9M3nyA&usqp=CAU" group-title="Series | Peliculas", HBO XTREME
 http://190.92.82.2:8185/play/a014/index.m3u8
 
-#EXTINF:0 tvg-id="HBOXtremeLatinAmerica.us" audio-track="esp,eng" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHDlHew8Uj-cjTvqDaEDyK0K9i4yZ_9M3nyA&usqp=CAU" group-title="Series | Peliculas", HBO XTREME
+#EXTINF:0 tvg-id="HBOXtremeLatinAmerica.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHDlHew8Uj-cjTvqDaEDyK0K9i4yZ_9M3nyA&usqp=CAU" group-title="Series | Peliculas", HBO XTREME
 http://190.92.72.98:8185/play/a014/index.m3u8
 
 EXTINF:0 tvg-id="HBOSignatureHDLatinAmerica.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRoaGCspfvLhd3fGs0mQj4cHLSBO849cCGCQ&usqp=CAU" group-title="Series | Peliculas", HBO SIGNATURE
