@@ -476,23 +476,23 @@ http://45.71.200.254:8000/play/a0jv/index.m3u8
 #EXTINF:0 tvg-id="GoldenPanregional.mx" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5yZkqbvct3fly86Sx7CZegyAQZ7wKI-_wTg&usqp=CAU" group-title="Series | Peliculas", GOLDEN
 http://45.236.28.72:8000/play/a0ei/index.m3u8
 
-#EXTINF:0 tvg-id="CinemaxPanregional.us" audio-track="esp,eng" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_yx6U7B6vE_SFMsswrHNBhWva9J2EgGG06w&usqp=CAU" group-title="Series | Peliculas", CINEMAX
+#EXTINF:0 tvg-id="CinemaxPanregional.us" audio-track="esp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_yx6U7B6vE_SFMsswrHNBhWva9J2EgGG06w&usqp=CAU" group-title="Series | Peliculas", CINEMAX
+http://160.20.164.171:8001/play/a02b
+
+#EXTINF:0 tvg-id="CinemaxPanregional.us" audio-track="esp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_yx6U7B6vE_SFMsswrHNBhWva9J2EgGG06w&usqp=CAU" group-title="Series | Peliculas", CINEMAX
 http://45.160.12.253:8000/play/112
 
-#EXTINF:0 tvg-id="CinemaxPanregional.us" audio-track="esp,eng" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_yx6U7B6vE_SFMsswrHNBhWva9J2EgGG06w&usqp=CAU" group-title="Series | Peliculas", CINEMAX
-http://190.97.183.204:8000/play/a0r8/index.m3u8
+#EXTINF:0 tvg-id="CinemaxPanregional.us" audio-track="esp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_yx6U7B6vE_SFMsswrHNBhWva9J2EgGG06w&usqp=CAU" group-title="Series | Peliculas", CINEMAX
+http://200.41.79.165:8000/play/a04g
 
-#EXTINF:0 tvg-id="CinemaxPanregional.us" audio-track="esp,eng" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_yx6U7B6vE_SFMsswrHNBhWva9J2EgGG06w&usqp=CAU" group-title="Series | Peliculas", CINEMAX
-http://200.6.189.26:9000/play/a02o
+#EXTINF:0 tvg-id="CinecanalWest.us" audio-track="esp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJNbLoIDKavwggQYbadSsepqCXc1r6X1ib3w&usqp=CAU" group-title="Series | Peliculas", CINECANAL
+http://160.20.164.171:8001/play/a07b
 
-#EXTINF:0 tvg-id="CinecanalWest.us" audio-track="esp,eng" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJNbLoIDKavwggQYbadSsepqCXc1r6X1ib3w&usqp=CAU" group-title="Series | Peliculas", CINECANAL
+#EXTINF:0 tvg-id="CinecanalWest.us" audio-track="esp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJNbLoIDKavwggQYbadSsepqCXc1r6X1ib3w&usqp=CAU" group-title="Series | Peliculas", CINECANAL
 http://201.108.244.159:4000/play/a04f
 
-#EXTINF:0 tvg-id="CinecanalWest.us" audio-track="esp,eng" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJNbLoIDKavwggQYbadSsepqCXc1r6X1ib3w&usqp=CAU" group-title="Series | Peliculas", CINECANAL
-http://200.6.189.26:9000/play/a00t
-
-#EXTINF:0 tvg-id="CinecanalWest.us" audio-track="esp,eng" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJNbLoIDKavwggQYbadSsepqCXc1r6X1ib3w&usqp=CAU" group-title="Series | Peliculas", CINECANAL
-http://190.97.183.204:8000/play/a0ra/index.m3u8
+#EXTINF:0 tvg-id="CinecanalWest.us" audio-track="esp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJNbLoIDKavwggQYbadSsepqCXc1r6X1ib3w&usqp=CAU" group-title="Series | Peliculas", CINECANAL
+http://200.41.79.165:8000/play/a03z
 
 #EXTINF:0 tvg-id="FXSouth.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaefm-GHOeqHBxSKtgsUmQWWGospj0FC3Xhg&usqp=CAU" group-title="Series | Peliculas", FX
 http://45.236.28.72:8000/play/a0ep/index.m3u8
