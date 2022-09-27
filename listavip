@@ -103,6 +103,9 @@ http://45.236.28.72:8000/play/a0ho/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9QSnw92P7nGadt37p3xFQrCAvp8tQVplggQ&usqp=CAU" group-title="TV INTERNACIONAL", Antena 3
 http://160.20.164.171:8001/play/a037
 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9QSnw92P7nGadt37p3xFQrCAvp8tQVplggQ&usqp=CAU" group-title="TV INTERNACIONAL", Antena 3
+http://201.108.244.159:4000/play/a00a
+
 #EXTINF:0 tvg-id="StarTVE.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRws7JwZU2xfLudtdjqRhDsx1SLO_59jk2eWA&usqp=CAU" group-title="TV INTERNACIONAL", STAR TVE
 http://160.20.164.171:8001/play/a01z
 
