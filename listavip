@@ -116,7 +116,7 @@ http://201.108.244.159:4000/play/a06o
 http://179.63.4.128:8000/play/a01z/index.m3u8
 
 #EXTINF:0 tvg-id="TVE.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyqYn9xXLffUOGh3-9pLeRLTHvqvFEGWVrOQ&usqp=CAU" group-title="TV INTERNACIONAL", TVE
-http://190.27.172.228:25000/play/a012
+http://201.108.244.159:4000/play/a00l
 
 #EXTINF:0 tvg-id="TVE.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyqYn9xXLffUOGh3-9pLeRLTHvqvFEGWVrOQ&usqp=CAU" group-title="TV INTERNACIONAL", TVE
 http://45.160.12.253:8000/play/153
