@@ -913,7 +913,7 @@ http://45.160.12.253:8000/play/172
 http://190.108.93.148:8000/play/a07a/index.m3u8
 
 #EXTINF:0 tvg-id="E!.pe" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVJfVPJsr_ZFKaALSke73drljoGFseLqJvsA&usqp=CAU" group-title="Ciencia | Cultura", E! Entertainment
-http://45.236.28.72:8000/play/a0fg/index.m3u8
+http://160.20.164.171:8001/play/a01s
 
 #EXTINF:0 tvg-id="E!.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVJfVPJsr_ZFKaALSke73drljoGFseLqJvsA&usqp=CAU" group-title="Ciencia | Cultura", E! Entertainment
 http://45.160.12.253:8000/play/174
@@ -921,7 +921,7 @@ http://45.160.12.253:8000/play/174
 #EXTINF:0 tvg-id="E!.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVJfVPJsr_ZFKaALSke73drljoGFseLqJvsA&usqp=CAU" group-title="Ciencia | Cultura", E! Entertainment
 http://45.233.169.1:8000/play/a00o
 
-#EXTINF:0 tvg-id="E!.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVJfVPJsr_ZFKaALSke73drljoGFseLqJvsA&usqp=CAU" group-title="Ciencia | Cultura", E! Entertainment
+#EXTINF:0 tvg-id="E!.pe" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVJfVPJsr_ZFKaALSke73drljoGFseLqJvsA&usqp=CAU" group-title="Ciencia | Cultura", E! Entertainment
 http://190.60.37.69:8015/play/a01n/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThVacVpvWoxA94ohz-aG6Mk_ido7NRgIndKg&usqp=CAU" group-title="Ciencia | Cultura", RTVE PLAY
