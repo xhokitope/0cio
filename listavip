@@ -724,19 +724,25 @@ http://190.108.93.148:8000/play/a0cr/index.m3u8
 http://181.65.199.218:8000/play/a0br/index.m3u8
 
 #EXTINF:0 tvg-id="Goltv.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQncF25OuGhuO0-qo0-IqYO5pXPxed_NRx5UQ&usqp=CAU" group-title="Deportes", GOL TV
-http://190.20.242.244:8000/play/a051/index.m3u8
+http://160.20.164.171:8001/play/a03x
 
 #EXTINF:0 tvg-id="Goltv.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQncF25OuGhuO0-qo0-IqYO5pXPxed_NRx5UQ&usqp=CAU" group-title="Deportes", GOL TV
 http://190.131.228.59:8000/play/a05u/index.m3u8
 
 #EXTINF:0 tvg-id="Goltv.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQncF25OuGhuO0-qo0-IqYO5pXPxed_NRx5UQ&usqp=CAU" group-title="Deportes", GOL TV
-http://138.186.76.100:8000/play/a02a/index.m3u8
+http://200.41.79.165:8000/play/a05u
+
+#EXTINF:0 tvg-id="Goltv.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQncF25OuGhuO0-qo0-IqYO5pXPxed_NRx5UQ&usqp=CAU" group-title="Deportes", GOL TV
+http://181.65.199.218:8000/play/a0bv/index.m3u8
 
 #EXTINF:0 tvg-id="TYCSports.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8bvldEAciCevtvsrv5aPlA6g6_X1aWbGOhA&usqp=CAU" group-title="Deportes", TyC Sports
-http://45.238.21.106:7778/play/a04q/index.m3u8
+http://160.20.164.171:8001/play/a051
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8bvldEAciCevtvsrv5aPlA6g6_X1aWbGOhA&usqp=CAU" group-title="Deportes", TyC Sports
-http://190.187.247.206:8000/play/a019/index.m3u8
+http://200.41.79.165:8000/play/a05v
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8bvldEAciCevtvsrv5aPlA6g6_X1aWbGOhA&usqp=CAU" group-title="Deportes", TyC Sports
+http://181.65.199.218:8000/play/a01q/index.m3u8
 
 #EXTINF:0 tvg-id="TNTSportsChile.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyThGgslO5ZZVkHhKFbUXS8eB5JhJXW-H8g&usqp=CAU" group-title="Deportes", TNT Sports
 http://45.160.15.1:8111/play/233
