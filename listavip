@@ -824,6 +824,18 @@ http://190.131.228.59:8000/play/a066/index.m3u8
 #EXTINF:0 tvg-id="FoxSports3Panregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Deportes", FOX SPORTS 3
 http://190.60.37.69:8015/play/a02a/index.m3u8
 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0HS97I8EPy66GNAWM9cqZPXJ0lfTanR1CJQ&usqp=CAU" group-title="Deportes", DAZN La Liga
+http://154.54.220.247:51323/play/a030/index.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ7CDsh0j7ERHwsQ3HSjox2oE1yVHRTAWNTg&usqp=CAU" group-title="Deportes", M+ La Liga
+http://154.54.220.247:51323/play/a032/index.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp7lGza59YOFRB49zY0EkEdQlL-hYC5OzZYw&usqp=CAU" group-title="Deportes", La Liga SmartBank
+http://154.54.220.247:51323/play/a036/index.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEucQ50P4s3qq4dn3nuqsxwqx0F9Z6Mjekiw&usqp=CAU" group-title="Deportes", M+ Liga de Campeones
+http://154.54.220.247:51323/play/a03c/index.m3u8
+
 #EXTINF:0 tvg-id="beINSportsXtra.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvBvf6qepd2387CGhdtSb4Rd0ZD6zDRXelgQ&usqp=CAU" group-title="Deportes", Bein Sport XTRA EN
 http://siloh.pluto.tv/lilo/production/bein/1/master_2.m3u8
 
