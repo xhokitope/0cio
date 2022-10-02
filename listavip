@@ -79,6 +79,9 @@ http://190.108.93.148:8000/play/a0d3/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgzd8NIPocwYT7vb88v9wogR2_cXrVO5o4hA&usqp=CAU" group-title="TV PERUANA", Sol TV
 https://z-p3-video.flim3-3.fna.fbcdn.net/hvideo-ncg-vll/_nc_cat-103/_nc_sr_t-4/v/rsvsMDKhLrdu4r6V4HAI8/_nc_ohc-30GIzQNomogAX8XMORq/live-dash/dash-abr5/8513004315384139.mpd?ccb=2-4&ms=m_CTPAL&sc_t=1&oh=00_AT8YpEv0kNtpDCbV8k95o5UdYgF79OdnJgDkVH2fk9kcVA&oe=633B6719
 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW19jTjZzohXEyHdw55JZKyYTiO_FZ1IradA&usqp=CAU" group-title="TV PERUANA", Exitosa Norte
+https://youtu.be/embed/AzJmbU1GMvE
+
 #EXTINF:0 tvg-id="CanalN.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjFu1v4nogWUR6-t48F7HH8GASg290M1uc6w&usqp=CAU" group-title="TV PERUANA", Canal N
 http://45.225.95.170:8000/play/a0ef/index.m3u8
 
