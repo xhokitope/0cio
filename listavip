@@ -127,6 +127,15 @@ http://209.45.81.8:8000/play/a03f/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdka71okDcmZ7QxhYdS9yQMjyAtlbPcHm3OQ&usqp=CAU" group-title="TV INTERNACIONAL", GLOBO HD
 http://189.81.142.134:4000/play/a06c
 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjC-D9Y1Db_bEIJYLOptOU77Bz8RkZn4n3Kg&usqp=CAU" group-title="TV INTERNACIONAL", City TV
+http://45.233.169.1:8000/play/a01m
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjC-D9Y1Db_bEIJYLOptOU77Bz8RkZn4n3Kg&usqp=CAU" group-title="TV INTERNACIONAL", City TV
+http://190.60.37.69:8015/play/a03d/index.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjC-D9Y1Db_bEIJYLOptOU77Bz8RkZn4n3Kg&usqp=CAU" group-title="TV INTERNACIONAL", City TV
+http://200.41.79.165:8000/play/a00g
+
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWbDkR07oq9X2tt_HQWJE31Y-2HdCuIZVyxw&usqp=CAU" group-title="TV INTERNACIONAL", AmericaTeve MIAMI US
 https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
 
@@ -244,15 +253,6 @@ http://200.41.79.165:8000/play/a0iu
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj77-Z-595huaqa2e66W2EQICPWxadj9QIUg&usqp=CAU" group-title="Series | Peliculas", TBS
 http://190.60.37.69:8015/play/a062/index.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjC-D9Y1Db_bEIJYLOptOU77Bz8RkZn4n3Kg&usqp=CAU" group-title="Series | Peliculas", City TV
-http://45.233.169.1:8000/play/a01m
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjC-D9Y1Db_bEIJYLOptOU77Bz8RkZn4n3Kg&usqp=CAU" group-title="Series | Peliculas", City TV
-http://190.60.37.69:8015/play/a03d/index.m3u8
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjC-D9Y1Db_bEIJYLOptOU77Bz8RkZn4n3Kg&usqp=CAU" group-title="Series | Peliculas", City TV
-http://200.41.79.165:8000/play/a00g
-
 #EXTINF:0 audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs1F1PNH25vbskZXC_TlHAtw8CPwgZrEoDyQ&usqp=CAU" group-title="Series | Peliculas", A&E
 http://45.233.169.1:8000/play/a00b
 
@@ -287,13 +287,7 @@ http://45.160.12.253:8000/play/088
 http://45.236.28.72:8000/play/a0gf/index.m3u8
 
 #EXTINF:0 tvg-id="UniversalCinema.us" audio-track="esp,eng" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.945333694_UniversalCinema-Oscuro.png.0c63ffe5cc2ea7868f7d08da0de7c7d4.png" group-title="Series | Peliculas", UNIVERSAL CINEMA
-http://201.108.244.159:4000/play/a01e
-
-#EXTINF:0 tvg-id="UniversalCinema.us" audio-track="esp,eng" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.945333694_UniversalCinema-Oscuro.png.0c63ffe5cc2ea7868f7d08da0de7c7d4.png" group-title="Series | Peliculas", UNIVERSAL CINEMA
 http://170.83.242.9:5350/play/a0kp
-
-EXTINF:0 tvg-id="UniversalComedy.us" audio-track="spa,eng" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.1606587218_UniversalComedy-Oscuro.png.edc0710afb67e742c9e68589f4006992.png" group-title="Series | Peliculas", UNIVERSAL COMEDY
-http://201.108.244.159:4000/play/a03d
 
 #EXTINF:0 tvg-id="UniversalComedy.us" audio-track="spa,eng" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.1606587218_UniversalComedy-Oscuro.png.edc0710afb67e742c9e68589f4006992.png" group-title="Series | Peliculas", UNIVERSAL COMEDY
 http://170.83.242.9:5350/play/a0kq
@@ -344,7 +338,7 @@ http://181.176.148.142:8000/play/a033
 http://190.27.172.226:25000/play/a0b7
 
 #EXTINF:0 tvg-id="ParamountNetworkPanregional.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP8pBXGLHFsD0WRf1cGc2IiuO_zQrIDeLSbA&usqp=CAU" group-title="Series | Peliculas", PARAMOUNT NETWORK
-http://190.4.0.202:8000/play/a00x/index.m3u8
+http://45.228.232.204:16000/play/a07w/index.m3u8
 
 #EXTINF:0 tvg-id="WarnerChannelPanregional.us" audio-track="spa" tvg-logo="https://seeklogo.com/images/W/warner-channel-logo-7CD6F1795B-seeklogo.com.png" group-title="Series | Peliculas", WARNER
 http://190.61.41.182:8000/play/a35q/index.m3u8
