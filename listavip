@@ -76,12 +76,6 @@ http://190.187.247.206:8000/play/a03j/index.m3u8
 #EXTINF:0 tvg-id="AmericaTelevision.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnj4six21x50vnaiL29u8xyeoD9Aas4BGSIQ&usqp=CAU" group-title="TV PERUANA", AmericaTV
 http://190.108.93.148:8000/play/a0d3/index.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxL7_vZJG60VgQAg03V2RlsOS-0urjfUxcjg&usqp=CAU" group-title="TV PERUANA", Trujillo 60
-https://z-p3-video.flim3-3.fna.fbcdn.net/hvideo-rva-ncg/_nc_cat-109/_nc_sr_t-4/v/r4_BNKXZeqPPMTuD5BhId/_nc_ohc-GdPuggQp_SEAX8xC-11/live-dash/dash-abr5/1765903697112589.mpd?ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AT9Q-GzrM--8d6J9G1mumbbpFGpLtt1nhXcS_RA50ADMEA&oe=633B98C3
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW19jTjZzohXEyHdw55JZKyYTiO_FZ1IradA&usqp=CAU" group-title="TV PERUANA", Exitosa Norte
-https://youtu.be/embed/AzJmbU1GMvE
-
 #EXTINF:0 tvg-id="CanalN.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjFu1v4nogWUR6-t48F7HH8GASg290M1uc6w&usqp=CAU" group-title="TV PERUANA", Canal N
 http://45.225.95.170:8000/play/a0ef/index.m3u8
 
@@ -89,6 +83,8 @@ http://45.225.95.170:8000/play/a0ef/index.m3u8
 http://45.225.95.170:8000/play/a0f4/index.m3u8
 
 EXTINF:0 tvg-id="Exitosa.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREhRKq4cEPB0Me2eJuYvc5nkCA97S96Q8Eng&usqp=CAU" group-title="TV PERUANA", Exitosa TV
+https://youtu.be/embed/AzJmbU1GMvE
+
 https://cu.onliv3.com/livevd1/user2.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKSMfslaD8NtNeI1iCUvpdB3iUz-9tDEZvNQ&usqp=CAU" group-title="TV PERUANA", RPP
