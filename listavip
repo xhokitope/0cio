@@ -917,6 +917,9 @@ http://45.233.169.1:8000/play/a055
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjJkbqWLh-IQwp7tif7-Xm_7X6KvQqNIVPtA&usqp=CAU" group-title="Musica En Vivo", Zapping Music TV
 https://zmlive.zappingtv.com:443/zm-free/zm.smil/chunklist_live2_b1931600_sles.m3u8
 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIUrZ6Z3PNadSeGXTySbM4a_WsOW9oygX0sQ&usqp=CAU" group-title="Musica En Vivo", Retro Music TV
+http://89.185.253.55/retrotv/smil:retrotv2.smil/playlist.m3u8
+
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThsbd5mfaebQ5adZ0ZRv8P_VwF5jS8h6TAJQ&usqp=CAU" group-title="Musica En Vivo", Z Premium Rock & Pop
 http://181.176.148.142:8000/play/a01u
 
