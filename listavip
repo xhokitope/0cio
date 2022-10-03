@@ -85,7 +85,7 @@ http://45.225.95.170:8000/play/a0f4/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREhRKq4cEPB0Me2eJuYvc5nkCA97S96Q8Eng&usqp=CAU" group-title="TV PERUANA", Exitosa TV
 https://youtu.be/embed/AzJmbU1GMvE
 
-#EXTINF:0 tvg-id="Exitosa.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREhRKq4cEPB0Me2eJuYvc5nkCA97S96Q8Eng&usqp=CAU" group-title="TV PERUANA", Exitosa TV
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREhRKq4cEPB0Me2eJuYvc5nkCA97S96Q8Eng&usqp=CAU" group-title="TV PERUANA", Exitosa TV
 https://cu.onliv3.com/livevd1/user2.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKSMfslaD8NtNeI1iCUvpdB3iUz-9tDEZvNQ&usqp=CAU" group-title="TV PERUANA", RPP
