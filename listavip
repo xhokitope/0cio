@@ -260,7 +260,7 @@ http://181.176.148.142:8000/play/a027
 http://181.176.148.142:8000/play/a02n
 
 #EXTINF:0 audio-track="eng,spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj77-Z-595huaqa2e66W2EQICPWxadj9QIUg&usqp=CAU" group-title="Series | Peliculas", TBS
-http://45.71.200.254:8000/play/a0g9/index.m3u8
+http://170.83.242.9:5350/play/a01a
 
 #EXTINF:0 audio-track="eng,spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj77-Z-595huaqa2e66W2EQICPWxadj9QIUg&usqp=CAU" group-title="Series | Peliculas", TBS
 http://200.41.79.165:8000/play/a0iu
@@ -486,7 +486,7 @@ http://45.160.12.253:8000/play/083
 http://160.20.164.171:8001/play/a02y
 
 #EXTINF:0 tvg-id="GoldenPanregional.mx" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5yZkqbvct3fly86Sx7CZegyAQZ7wKI-_wTg&usqp=CAU" group-title="Series | Peliculas", GOLDEN
-http://45.71.200.254:8000/play/a0jv/index.m3u8
+http://177.234.254.38:8000/play/a018/index.m3u8
 
 #EXTINF:0 tvg-id="GoldenPanregional.mx" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5yZkqbvct3fly86Sx7CZegyAQZ7wKI-_wTg&usqp=CAU" group-title="Series | Peliculas", GOLDEN
 http://45.236.28.72:8000/play/a0ei/index.m3u8
@@ -522,13 +522,13 @@ http://181.65.199.218:8000/play/a03a/index.m3u8
 http://201.108.244.159:4000/play/a036
 
 #EXTINF:0 tvg-id="ComedyCentralNorth.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsVitIRNOf3awFp6qPT9CwRqv67pI1Bq5G5A&usqp=CAU" group-title="Series | Peliculas", COMEDY CENTRAL
-http://45.71.200.254:8000/play/a0hy/index.m3u8
+http://190.108.83.142:8000/play/a00j/index.m3u8
 
 #EXTINF:0 tvg-id="ComedyCentralNorth.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsVitIRNOf3awFp6qPT9CwRqv67pI1Bq5G5A&usqp=CAU" group-title="Series | Peliculas", COMEDY CENTRAL
 http://160.20.164.171:8001/play/a01i
 
 #EXTINF:0 tvg-id="LifetimePanregional.us" tvg-logo="https://unity-img.tbxapis.com/v0/images/9bb19fc2ad40d0932596594264f6710c/section/5e57e9146ac3bf34c6dd3c66/4f12b95f92b0ef310be380695e0cf02f/img.png" group-title="Series | Peliculas", Lifetime
-http://45.71.200.254:8000/play/a0gb/index.m3u8
+http://170.79.235.29:8000/play/100
 
 #EXTINF:0 tvg-id="LifetimePanregional.us" tvg-logo="https://unity-img.tbxapis.com/v0/images/9bb19fc2ad40d0932596594264f6710c/section/5e57e9146ac3bf34c6dd3c66/4f12b95f92b0ef310be380695e0cf02f/img.png" group-title="Series | Peliculas", Lifetime
 http://45.236.28.72:8000/play/a0de/index.m3u8
@@ -888,7 +888,7 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 http://160.20.164.171:8001/play/a017
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl9uaepsRU-4ARYs9l7tjM2DFtoh8QagXF9w&usqp=CAU" group-title="TV Novelas", Pasiones
-http://45.71.200.254:8000/play/a0kq/index.m3u8
+http://186.3.216.78:9955/play/a0y6/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpQHhqU5K17gjM98YJO1cKU1DitqFBHDXJZw&usqp=CAU" group-title="TV Novelas", RCN Novelas
 http://160.20.164.171:8001/play/a02t
@@ -966,7 +966,7 @@ http://8.242.187.236:5007/play/a05d/index.m3u8
 http://160.20.164.171:8001/play/a03j
 
 #EXTINF:0 tvg-id="History2Panregional.us" audio-track="eng,spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYJ8U1zE4HmML93N6w3TRYhWdAg3oSGQgfQw&usqp=CAU" group-title="Ciencia | Cultura", HISTORY 2
-http://45.71.200.254:8000/play/a0jp/index.m3u8
+http://181.65.199.218:8000/play/a0fr/index.m3u8
 
 #EXTINF:0 tvg-id="History2Panregional.us" audio-track="eng,spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYJ8U1zE4HmML93N6w3TRYhWdAg3oSGQgfQw&usqp=CAU" group-title="Ciencia | Cultura", HISTORY 2
 http://45.160.12.253:8000/play/033
