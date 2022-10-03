@@ -995,6 +995,9 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:0 tvg-id="DWEspanol.de" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ547nGlPFGhqNpwqCgzHQWBXYFk0PdRqmdJw&usqp=CAU" group-title="Ciencia | Cultura", DW (DEUTSCH +)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIHXl5Gv6-L5nN_-V9BEqNvF0uwRIj2RT5JA&usqp=CAU" group-title="Ciencia | Cultura", Euronews.
+https://youtu.be/embed/HYE67W-35KI
+
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSonNZP3LVtPS2xbEzGP2-nBysDuq9-2dVrZQ&usqp=CAU" group-title="Radio en Vivo", Studio92
 https://mdstrm.com/audio/5fada553978fe1080e3ac5ea/icecast.audio
 
