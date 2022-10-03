@@ -86,7 +86,7 @@ http://45.225.95.170:8000/play/a0ef/index.m3u8
 http://45.225.95.170:8000/play/a0f4/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREhRKq4cEPB0Me2eJuYvc5nkCA97S96Q8Eng&usqp=CAU" group-title="TV PERUANA", Exitosa TV
-https://youtu.be/embed/AzJmbU1GMvE
+https://youtu.be/embed/etlCPip2uQA
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREhRKq4cEPB0Me2eJuYvc5nkCA97S96Q8Eng&usqp=CAU" group-title="TV PERUANA", Exitosa TV
 https://cu.onliv3.com/livevd1/user2.m3u8
@@ -162,6 +162,12 @@ https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge9DG9sWvvAV0OPppAPdZQIF96FxwgWIGTw&usqp=CAU" group-title="TV INTERNACIONAL", Galicia TV America ES
 http://america-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw73XeExrllfJtaClLPk_Y4XxVOPue_G98hg&usqp=CAU" group-title="TV INTERNACIONAL", Todo Noticias
+https://youtu.be/embed/wHn1_QVoXGM
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSygxEdR_JExPEZFCNrDhgyDbOxAKbn0xELaw&usqp=CAU" group-title="TV INTERNACIONAL", Mega Noticias
+https://youtu.be/embed/f7_om6wwnps
 
 #EXTINF:0 audio-track="eng,spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV0E1LRMSR1Bn5Xluxbi7CF2o-A5GloOtBLg&usqp=CAU" group-title="Niños | Juniors", Discovery Kids
 http://45.160.12.253:8000/play/005
