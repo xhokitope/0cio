@@ -64,6 +64,9 @@ http://200.48.212.114:8000/play/a02g/index.m3u8
 #EXTINF:0 tvg-id="PanamericanaTV.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNodEC5o4GRK0MaFR_r8zSsrNxYuJjeDdUzA&usqp=CAU" group-title="TV PERUANA", PANAMERICANA TV
 http://190.108.93.148:8000/play/a07p/index.m3u8
 
+#EXTINF:0 tvg-id="PanamericanaTV.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNodEC5o4GRK0MaFR_r8zSsrNxYuJjeDdUzA&usqp=CAU" group-title="TV PERUANA", PANAMERICANA TV
+https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFgRSpVxvpiaaYweDKTHlwxDXZo_sUTOYlT2HJW_6bE_p)/dm/3/x774s7s/s/live-3.m3u8#cell=lnyc
+
 #EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmDXwq_JVNoby065mDeURMs9zHCd4FU9GnvQ&usqp=CAU" group-title="TV PERUANA", GLOBAL PE
 http://45.225.95.170:8000/play/a0eh/index.m3u8
 
@@ -138,6 +141,12 @@ http://200.41.79.165:8000/play/a00g
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWbDkR07oq9X2tt_HQWJE31Y-2HdCuIZVyxw&usqp=CAU" group-title="TV INTERNACIONAL", AmericaTeve MIAMI US
 https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGhP8e41D-Po5PFepIFPMcXhPlTNsUOiMEcg&usqp=CAU" group-title="TV INTERNACIONAL", Color Vision 9
+https://stream-01.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY7vUC6NAEKy5t55mxcM4-RJEGNsInJ9bwZ9rnVvz4pAO)/dm/3/x7gy059/d/live-3.m3u8#cell=lnyc
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQcDTYzBgdcxx2jVjZ6VXf6fmGKlnaKtUZZA&usqp=CAU" group-title="TV INTERNACIONAL", Canal 6 Nicaragua
+https://stream-01.nyc.dailymotion.com/sec(3LGBMbo2Zno2o8YrbIxOfgjyRv2T4I8jX1xEwt41jhZOcpkMYf8Inl--PFoNV2rT)/dm/3/x7nngbi/s/live-1.m3u8#cell=lnyc
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnNygwBUBPEh1bWv4STpIseUuB1Y5DgLyIpQ&usqp=CAU" group-title="TV INTERNACIONAL", LaRed CL
 https://d2ab26kihxq8p0.cloudfront.net/hls/live.m3u8
