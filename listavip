@@ -103,9 +103,6 @@ https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6rL6OwSCecttQnTrr1k_W2xLqJTSWKjBtrA&usqp=CAU" group-title="TV PERUANA", TV NORTE HD
 https://stream-03.nyc.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJqtT0k7W2b8_UVE71k52rMiAMg9cXiCyLzMWm9rojHxQA)/dm/3/x7uk62a/s/live-3.m3u8#cell=lnyc
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6rL6OwSCecttQnTrr1k_W2xLqJTSWKjBtrA&usqp=CAU" group-title="TV PERUANA", TV NORTE HD
-https://www.dailymotion.com/video/x7uk62a
-
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9QSnw92P7nGadt37p3xFQrCAvp8tQVplggQ&usqp=CAU" group-title="TV INTERNACIONAL", Antena 3
 http://45.236.28.72:8000/play/a0ho/index.m3u8
 
@@ -248,7 +245,7 @@ http://181.176.148.142:8000/play/a025
 http://181.176.148.142:8000/play/a02y
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwYHvMtvkmfArVOKf6QKjHPCoPzDAj8Xncqg&usqp=CAU" group-title="Series | Peliculas", DHE
-http://45.71.200.254:8000/play/a0gy/index.m3u8
+http://190.61.41.182:8000/play/a37c/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwYHvMtvkmfArVOKf6QKjHPCoPzDAj8Xncqg&usqp=CAU" group-title="Series | Peliculas", DHE
 http://160.20.164.171:8001/play/a01y
