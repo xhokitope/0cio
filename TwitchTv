@@ -31,6 +31,9 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/arig
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEbfEdfpsOcZ8oe2Y4kGtyeXinS2i6ZWE6wQ&usqp=CAU" group-title="Streamers En Directo", El Mariana
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/elmariana
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIR0rmXezB28Uf9RcrplIDalZz2fmsn5i83w&usqp=CAU" group-title="Streamers En Directo", Elisawaves
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/elisawaves
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJr_blC_N2IXMXt1GpwKYG9DnxMWjJYmt32A&usqp=CAU" group-title="Streamers En Directo", Rubius
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/rubius
 
