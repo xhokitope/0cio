@@ -157,7 +157,7 @@ https://5eaccbab48461.streamlock.net:1936/8002/8002/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3WZwZrxF7d_UEIfcGiis8Z6McURZzwxFfuA&usqp=CAU" group-title="TV INTERNACIONAL", Lancelot TV ES
 https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge9DG9sWvvAV0OPppAPdZQIF96FxwgWIGTw&usqp=CAU" group-title="TV INTERNACIONAL", Galicia TV America ES
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge9DG9sWvvAV0OPppAPdZQIF96FxwgWIGTw&usqp=CAU" group-title="TV INTERNACIONAL", Galicia TV
 http://america-crtvg.flumotion.com/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw73XeExrllfJtaClLPk_Y4XxVOPue_G98hg&usqp=CAU" group-title="TV INTERNACIONAL", Todo Noticias
@@ -845,13 +845,13 @@ http://190.60.37.69:8015/play/a02a/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0HS97I8EPy66GNAWM9cqZPXJ0lfTanR1CJQ&usqp=CAU" group-title="Deportes", DAZN LaLiga
 http://154.54.220.247:51323/play/a030/index.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ7CDsh0j7ERHwsQ3HSjox2oE1yVHRTAWNTg&usqp=CAU" group-title="Deportes", M+ LaLiga
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ7CDsh0j7ERHwsQ3HSjox2oE1yVHRTAWNTg&usqp=CAU" group-title="Deportes", Movistar LaLiga
 http://154.54.220.247:51323/play/a032/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp7lGza59YOFRB49zY0EkEdQlL-hYC5OzZYw&usqp=CAU" group-title="Deportes", LaLiga SmartBank
 http://154.54.220.247:51323/play/a036/index.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEucQ50P4s3qq4dn3nuqsxwqx0F9Z6Mjekiw&usqp=CAU" group-title="Deportes", M+ Liga de Campeones
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEucQ50P4s3qq4dn3nuqsxwqx0F9Z6Mjekiw&usqp=CAU" group-title="Deportes", Movistar Liga de Campeones
 http://154.54.220.247:51323/play/a03c/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXoRtRyb1bA1lnvf4MjvrNVYnSkUdkbXvVdw&usqp=CAU" group-title="Deportes", Bein Sports 1
@@ -866,7 +866,7 @@ http://131.196.194.2:8000/play/a0e1/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwhBlAg-kzdSDSvlJM2sctkmxdN3QoBeqDcQ&usqp=CAU" group-title="Deportes", RADIO OVACION TV PE
 https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
 
-#EXTINF:0 tvg-id="RealMadridTV.es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3M82Y8YcqtSXtuHDW4Pf2k4KnhvBscSW3BQ&usqp=CAU" group-title="Deportes", Real Madrid TV ES
+#EXTINF:0 tvg-id="RealMadridTV.es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3M82Y8YcqtSXtuHDW4Pf2k4KnhvBscSW3BQ&usqp=CAU" group-title="Deportes", Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl9uaepsRU-4ARYs9l7tjM2DFtoh8QagXF9w&usqp=CAU" group-title="TV Novelas", Pasiones
@@ -887,10 +887,10 @@ http://160.20.164.171:8001/play/a01v
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToTIzWjvfQ72Px-KVde0e91RSOaHbBHOFI0Q&usqp=CAU" group-title="TV Novelas", Telemundo Internacional
 http://200.41.79.165:8000/play/a067
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ZHXNTb54LNOnrMhAF16gGuoFW8yD2_gRuw&usqp=CAU" group-title="TV Novelas", Telenovelas
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ZHXNTb54LNOnrMhAF16gGuoFW8yD2_gRuw&usqp=CAU" group-title="TV Novelas", Tlnovelas
 http://160.20.164.171:8001/play/a00r
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ZHXNTb54LNOnrMhAF16gGuoFW8yD2_gRuw&usqp=CAU" group-title="TV Novelas", Telenovelas
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ZHXNTb54LNOnrMhAF16gGuoFW8yD2_gRuw&usqp=CAU" group-title="TV Novelas", Tlnovelas
 http://200.41.79.165:8000/play/a0ju
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Z4SKgSuJUFZNis8Tou7FQkjeNGArLRDz5g&usqp=CAU" group-title="TV Novelas", Canal De Las Estrellas
@@ -989,7 +989,7 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:0 tvg-id="DWEspanol.de" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ547nGlPFGhqNpwqCgzHQWBXYFk0PdRqmdJw&usqp=CAU" group-title="Ciencia | Cultura", DW (DEUTSCH +)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIHXl5Gv6-L5nN_-V9BEqNvF0uwRIj2RT5JA&usqp=CAU" group-title="Ciencia | Cultura", Euronews.
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIHXl5Gv6-L5nN_-V9BEqNvF0uwRIj2RT5JA&usqp=CAU" group-title="Ciencia | Cultura", Euronews
 https://youtu.be/embed/HYE67W-35KI
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSonNZP3LVtPS2xbEzGP2-nBysDuq9-2dVrZQ&usqp=CAU" group-title="Radio en Vivo", Studio92
