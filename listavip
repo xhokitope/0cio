@@ -449,13 +449,13 @@ http://170.83.242.9:5350/play/a02r
 http://160.20.164.171:8001/play/a072
 
 #EXTINF:0 tvg-id="HBOXtremeLatinAmerica.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHDlHew8Uj-cjTvqDaEDyK0K9i4yZ_9M3nyA&usqp=CAU" group-title="Series | Peliculas", HBO XTREME
-http://160.20.164.171:8001/play/a073
+http://181.65.199.218:8000/play/a018/index.m3u8
 
 #EXTINF:0 tvg-id="HBOXtremeLatinAmerica.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHDlHew8Uj-cjTvqDaEDyK0K9i4yZ_9M3nyA&usqp=CAU" group-title="Series | Peliculas", HBO XTREME
-http://190.92.82.2:8185/play/a014/index.m3u8
+http://170.79.235.29:8000/play/020
 
 #EXTINF:0 tvg-id="HBOXtremeLatinAmerica.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHDlHew8Uj-cjTvqDaEDyK0K9i4yZ_9M3nyA&usqp=CAU" group-title="Series | Peliculas", HBO XTREME
-http://190.92.72.98:8185/play/a014/index.m3u8
+http://170.83.242.9:5350/play/a02q
 
 EXTINF:0 tvg-id="HBOSignatureHDLatinAmerica.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRoaGCspfvLhd3fGs0mQj4cHLSBO849cCGCQ&usqp=CAU" group-title="Series | Peliculas", HBO SIGNATURE
 
