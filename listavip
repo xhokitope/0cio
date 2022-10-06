@@ -98,7 +98,7 @@ https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6rL6OwSCecttQnTrr1k_W2xLqJTSWKjBtrA&usqp=CAU" group-title="TV PERUANA", TV NORTE HD
-https://stream-03.nyc.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJqtT0k7W2b8_UVE71k52rMiAMg9cXiCyLzMWm9rojHxQA)/dm/3/x7uk62a/s/live-3.m3u8#cell=lnyc
+https://www.dailymotion.com/cdn/live/video/x7uk62a.m3u8?sec=nHiqatT3PgsMDN2wf_FzT7KEjlFkK3V_pUwY3zYSB_FIkX2_0ole3oy1gFoFw7Et3rBR6iZPC8Xz-vMcCq17kw
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9QSnw92P7nGadt37p3xFQrCAvp8tQVplggQ&usqp=CAU" group-title="TV INTERNACIONAL", Antena 3
 http://45.236.28.72:8000/play/a0ho/index.m3u8
@@ -143,10 +143,10 @@ http://200.41.79.165:8000/play/a00g
 https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGhP8e41D-Po5PFepIFPMcXhPlTNsUOiMEcg&usqp=CAU" group-title="TV INTERNACIONAL", Color Vision 9
-https://stream-01.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY7vUC6NAEKy5t55mxcM4-RJEGNsInJ9bwZ9rnVvz4pAO)/dm/3/x7gy059/d/live-3.m3u8#cell=lnyc
+https://www.dailymotion.com/cdn/live/video/x7gy059.m3u8?sec=akqmKB-jNrmMNz-LdK1PmaLvANp9W0QPH2Nwe-RIHGuDbS0q3uVyVvMiAQl0HxPS_VV8U7XPMMKJ5Y5cJbiVPw
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQcDTYzBgdcxx2jVjZ6VXf6fmGKlnaKtUZZA&usqp=CAU" group-title="TV INTERNACIONAL", Canal 6 Nicaragua
-https://stream-01.nyc.dailymotion.com/sec(3LGBMbo2Zno2o8YrbIxOfgjyRv2T4I8jX1xEwt41jhZOcpkMYf8Inl--PFoNV2rT)/dm/3/x7nngbi/s/live-1.m3u8#cell=lnyc
+https://www.dailymotion.com/cdn/live/video/x7nngbi.m3u8?sec=WVn4cNJlvHIjHOHh2t1zjZyfOAbwjhOA5bbVdlLOvkyAQ5UCYaYx4r_eBRqTjRKlWu32xQMq3xk5VB8lVzXb6Q
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnNygwBUBPEh1bWv4STpIseUuB1Y5DgLyIpQ&usqp=CAU" group-title="TV INTERNACIONAL", LaRed CL
 https://d2ab26kihxq8p0.cloudfront.net/hls/live.m3u8
