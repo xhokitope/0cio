@@ -65,7 +65,7 @@ http://200.48.212.114:8000/play/a02g/index.m3u8
 http://190.108.93.148:8000/play/a07p/index.m3u8
 
 #EXTINF:0 tvg-id="PanamericanaTV.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNodEC5o4GRK0MaFR_r8zSsrNxYuJjeDdUzA&usqp=CAU" group-title="TV PERUANA", PANAMERICANA TV
-https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFgRSpVxvpiaaYweDKTHlwxDXZo_sUTOYlT2HJW_6bE_p)/dm/3/x774s7s/s/live-3.m3u8#cell=lnyc
+https://www.dailymotion.com/cdn/live/video/x774s7s.m3u8?sec=eEd4sIYqNTEZ9Suy_hnpOBZ4TrTP3cw7RriV5Aa3LK9XmLW00Jg8OyxNKcVWva7yYJWsAyWd892IugQBerPAqw
 
 #EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmDXwq_JVNoby065mDeURMs9zHCd4FU9GnvQ&usqp=CAU" group-title="TV PERUANA", GLOBAL PE
 http://45.225.95.170:8000/play/a0eh/index.m3u8
