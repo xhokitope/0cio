@@ -561,7 +561,7 @@ http://181.176.148.142:8000/play/a01j
 http://45.236.28.72:8000/play/a0er/index.m3u8
 
 #EXTINF:0 audio-track="eng,spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAjNJMdezviuzZaRc0nmompq1L0FLESPrTUw&usqp=CAU" group-title="Series | Peliculas", Eurochannel
-http://190.97.183.204:8000/play/a0pk/index.m3u8
+http://45.228.232.204:16000/play/a05a/index.m3u8
 
 #EXTINF:0 tvg-id="ClaroCinema.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn0RjzIqOgMoEfZu0I7PfgO3Q-WXfIOUYV0w&usqp=CAU" group-title="Series | Peliculas", CLARO CINEMA
 http://131.196.194.2:8000/play/a09z/index.m3u8
@@ -958,11 +958,9 @@ http://45.228.232.204:16000/play/a05j/index.m3u8
 
 #EXTINF:0 tvg-id="MTV80s.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkh5BRLcHUkTuMU-XuZ2PEbqKDG6oXQ25icQ&usqp=CAU" group-title="Musica En Vivo", MTV 80s
 http://177.234.254.38:8000/play/a07d/index.m3u8
-http://190.97.183.204:8000/play/a0sd/index.m3u8
 
 #EXTINF:0 tvg-id="MTVHits.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYt_kWsuM9nPn9Iz_A4DxHr-k6cutEpFnaiQ&usqp=CAU" group-title="Musica En Vivo", MTV Hits
 http://45.228.232.204:16000/play/a02p/index.m3u8
-http://190.97.183.204:8000/play/a0sc/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdp_wTw0MdW-pFc7Q-5IE-ytEZKapwa3F7KQ&usqp=CAU" group-title="Musica En Vivo", Carolina CL
 https://unlimited1-us.dps.live:443/carolinatv/carolinatv.smil/carolinatv/livestream1/chunks.m3u8
