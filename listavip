@@ -73,13 +73,13 @@ http://190.108.83.142:8000/play/a00x/index.m3u8
 #EXTINF:0 tvg-id="GlobalTV.pe" tvg-name="Global TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmDXwq_JVNoby065mDeURMs9zHCd4FU9GnvQ&usqp=CAU" group-title="TV PERUANA", GLOBAL PE
 http://45.225.95.170:8000/play/a0eh/index.m3u8
 
-#EXTINF:0 tvg-id="AmericaTelevision.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnj4six21x50vnaiL29u8xyeoD9Aas4BGSIQ&usqp=CAU" group-title="TV PERUANA", AmericaTV
+#EXTINF:0 tvg-id="AmericaTelevision.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnj4six21x50vnaiL29u8xyeoD9Aas4BGSIQ&usqp=CAU" group-title="TV PERUANA", América TV (PE)
 http://181.65.199.218:8000/play/a0by/index.m3u8
 
-#EXTINF:0 tvg-id="AmericaTelevision.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnj4six21x50vnaiL29u8xyeoD9Aas4BGSIQ&usqp=CAU" group-title="TV PERUANA", AmericaTV
+#EXTINF:0 tvg-id="AmericaTelevision.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnj4six21x50vnaiL29u8xyeoD9Aas4BGSIQ&usqp=CAU" group-title="TV PERUANA", América TV (PE)
 http://190.187.247.206:8000/play/a03j/index.m3u8
 
-#EXTINF:0 tvg-id="AmericaTelevision.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnj4six21x50vnaiL29u8xyeoD9Aas4BGSIQ&usqp=CAU" group-title="TV PERUANA", AmericaTV
+#EXTINF:0 tvg-id="AmericaTelevision.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnj4six21x50vnaiL29u8xyeoD9Aas4BGSIQ&usqp=CAU" group-title="TV PERUANA", América TV (PE)
 http://190.108.93.148:8000/play/a0d3/index.m3u8
 
 #EXTINF:0 tvg-id="CanalN.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjFu1v4nogWUR6-t48F7HH8GASg290M1uc6w&usqp=CAU" group-title="TV PERUANA", Canal N
@@ -163,11 +163,14 @@ https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge9DG9sWvvAV0OPppAPdZQIF96FxwgWIGTw&usqp=CAU" group-title="TV INTERNACIONAL", Galicia TV
 http://america-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw73XeExrllfJtaClLPk_Y4XxVOPue_G98hg&usqp=CAU" group-title="TV INTERNACIONAL", Todo Noticias
+#EXTINF:0 tvg-id="AmericaTV.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmSahPLO8plrVff_93dlbE_WEHU9e_HHhw4Q&usqp=CAU" group-title="TV INTERNACIONAL", América TV
+https://youtu.be/embed/zcWXboTnous
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw73XeExrllfJtaClLPk_Y4XxVOPue_G98hg&usqp=CAU" group-title="TV INTERNACIONAL", TN Todo Noticias
 https://youtu.be/embed/wHn1_QVoXGM
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSygxEdR_JExPEZFCNrDhgyDbOxAKbn0xELaw&usqp=CAU" group-title="TV INTERNACIONAL", Mega Noticias
-https://youtu.be/embed/f7_om6w
+https://youtu.be/embed/R6GKVDoPBs0
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0RZVhNcsWYkqPgKxg8WEbKTiQkc7VIYN5Vw&usqp=CAU" group-title="TV INTERNACIONAL", T13 En Vivo
 https://youtu.be/embed/Ove87nZ_1D4
