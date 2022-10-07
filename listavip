@@ -265,10 +265,10 @@ http://181.176.148.142:8000/play/a02n
 #EXTINF:0 audio-track="eng,spa" tvg-name="TBS Very Funny" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj77-Z-595huaqa2e66W2EQICPWxadj9QIUg&usqp=CAU" group-title="Series | Peliculas", TBS
 http://170.83.242.9:5350/play/a01a
 
-#EXTINF:0 audio-track="eng,spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj77-Z-595huaqa2e66W2EQICPWxadj9QIUg&usqp=CAU" group-title="Series | Peliculas", TBS
+#EXTINF:0 audio-track="eng,spa" tvg-name="TBS Very Funny" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj77-Z-595huaqa2e66W2EQICPWxadj9QIUg&usqp=CAU" group-title="Series | Peliculas", TBS
 http://200.41.79.165:8000/play/a0iu
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj77-Z-595huaqa2e66W2EQICPWxadj9QIUg&usqp=CAU" group-title="Series | Peliculas", TBS
+#EXTINF:0 audio-track="eng,spa" tvg-name="TBS Very Funny" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj77-Z-595huaqa2e66W2EQICPWxadj9QIUg&usqp=CAU" group-title="Series | Peliculas", TBS
 http://190.60.37.69:8015/play/a062/index.m3u8
 
 #EXTINF:0 audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs1F1PNH25vbskZXC_TlHAtw8CPwgZrEoDyQ&usqp=CAU" group-title="Series | Peliculas", A&E
@@ -884,10 +884,10 @@ http://160.20.164.171:8001/play/a017
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl9uaepsRU-4ARYs9l7tjM2DFtoh8QagXF9w&usqp=CAU" group-title="TV Novelas", Pasiones
 http://186.3.216.78:9955/play/a0y6/index.m3u8
 
-#EXTINF:0 tvg-id="RCNNovelas.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpQHhqU5K17gjM98YJO1cKU1DitqFBHDXJZw&usqp=CAU" group-title="TV Novelas", RCN Novelas
+#EXTINF:0 tvg-name="RCN Novelas" tvg-id="RCNNovelas.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpQHhqU5K17gjM98YJO1cKU1DitqFBHDXJZw&usqp=CAU" group-title="TV Novelas", RCN Novelas
 http://160.20.164.171:8001/play/a02t
 
-#EXTINF:0 tvg-id="RCNNovelas.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpQHhqU5K17gjM98YJO1cKU1DitqFBHDXJZw&usqp=CAU" group-title="TV Novelas", RCN Novelas
+#EXTINF:0 tvg-name="RCN Novelas" tvg-id="RCNNovelas.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpQHhqU5K17gjM98YJO1cKU1DitqFBHDXJZw&usqp=CAU" group-title="TV Novelas", RCN Novelas
 http://200.41.79.165:8000/play/a0is
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToTIzWjvfQ72Px-KVde0e91RSOaHbBHOFI0Q&usqp=CAU" group-title="TV Novelas", Telemundo Internacional
