@@ -67,10 +67,10 @@ http://190.108.93.148:8000/play/a07p/index.m3u8
 #EXTINF:0 tvg-id="PanamericanaTV.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNodEC5o4GRK0MaFR_r8zSsrNxYuJjeDdUzA&usqp=CAU" group-title="TV PERUANA", PANAMERICANA TV
 https://www.dailymotion.com/cdn/live/video/x774s7s.m3u8?sec=eEd4sIYqNTEZ9Suy_hnpOBZ4TrTP3cw7RriV5Aa3LK9XmLW00Jg8OyxNKcVWva7yYJWsAyWd892IugQBerPAqw
 
-#EXTINF:0 tvg-id="GlobalTV.pe" tvg-name="Global TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmDXwq_JVNoby065mDeURMs9zHCd4FU9GnvQ&usqp=CAU" group-title="TV PERUANA", GLOBAL PE
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-name="Global TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmDXwq_JVNoby065mDeURMs9zHCd4FU9GnvQ&usqp=CAU" group-title="TV PERUANA", GLOBAL (PE)
 http://190.108.83.142:8000/play/a00x/index.m3u8
 
-#EXTINF:0 tvg-id="GlobalTV.pe" tvg-name="Global TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmDXwq_JVNoby065mDeURMs9zHCd4FU9GnvQ&usqp=CAU" group-title="TV PERUANA", GLOBAL PE
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-name="Global TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmDXwq_JVNoby065mDeURMs9zHCd4FU9GnvQ&usqp=CAU" group-title="TV PERUANA", GLOBAL (PE)
 http://45.225.95.170:8000/play/a0eh/index.m3u8
 
 #EXTINF:0 tvg-id="AmericaTelevision.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnj4six21x50vnaiL29u8xyeoD9Aas4BGSIQ&usqp=CAU" group-title="TV PERUANA", América TV (PE)
