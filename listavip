@@ -929,6 +929,9 @@ http://200.41.79.165:8000/play/a064
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Z4SKgSuJUFZNis8Tou7FQkjeNGArLRDz5g&usqp=CAU" group-title="TV Novelas", Canal De Las Estrellas
 http://45.233.169.1:8000/play/a055
 
+#EXTINF:0 tvg-id="HTV.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQobXdcQEiOqIn9EB3SzPJFQxKBxVwPu0IIRw&usqp=CAU" group-title="Musica En Vivo", HTV
+http://45.228.232.204:16000/play/a05k/index.m3u8
+
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjJkbqWLh-IQwp7tif7-Xm_7X6KvQqNIVPtA&usqp=CAU" group-title="Musica En Vivo", Zapping Music TV
 https://zmlive.zappingtv.com:443/zm-free/zm.smil/chunklist_live2_b1931600_sles.m3u8
 
@@ -951,19 +954,21 @@ http://181.65.199.218:8000/play/a00i/index.m3u8
 http://190.60.37.69:8015/play/a00j/index.m3u8
 
 #EXTINF:0 tvg-id="MTVSouth.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScuBlZjXFGx3oVBQgzxANNZrrQbM5SSkWkjw&usqp=CAU" group-title="Musica En Vivo", MTV 00s
-http://190.97.183.204:8000/play/a0pt/index.m3u8
+http://45.228.232.204:16000/play/a05j/index.m3u8
 
 #EXTINF:0 tvg-id="MTV80s.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkh5BRLcHUkTuMU-XuZ2PEbqKDG6oXQ25icQ&usqp=CAU" group-title="Musica En Vivo", MTV 80s
+http://177.234.254.38:8000/play/a07d/index.m3u8
 http://190.97.183.204:8000/play/a0sd/index.m3u8
 
 #EXTINF:0 tvg-id="MTVHits.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYt_kWsuM9nPn9Iz_A4DxHr-k6cutEpFnaiQ&usqp=CAU" group-title="Musica En Vivo", MTV Hits
+http://45.228.232.204:16000/play/a02p/index.m3u8
 http://190.97.183.204:8000/play/a0sc/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdp_wTw0MdW-pFc7Q-5IE-ytEZKapwa3F7KQ&usqp=CAU" group-title="Musica En Vivo", Carolina CL
 https://unlimited1-us.dps.live:443/carolinatv/carolinatv.smil/carolinatv/livestream1/chunks.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwjeKwUFeV1bNOSBSdrIH_g--6JcxpUZksvQ&usqp=CAU" group-title="Musica En Vivo", KPOP
-http://138.36.253.14:8012/play/a00r
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc6fIq2Y6mY5oIyYP-A98FO_qoH3gJ1zMb3A&usqp=CAU" group-title="Musica En Vivo", MTV Live HD
+http://190.186.159.19:58001/play/a00c/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGlo-48YjEMk4tEjjkd3Xn2Pg3lmd-fgsxgQ&usqp=CAU" group-title="Musica En Vivo", TeleRitmo
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
