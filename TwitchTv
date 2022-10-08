@@ -1,121 +1,121 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBqH_p8KNozANAcBjRUUPL80VlSzRIleFXLg&usqp=CAU" group-title="Streamers En Directo", AuronPlay
+#EXTINF:-1 type="stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBqH_p8KNozANAcBjRUUPL80VlSzRIleFXLg&usqp=CAU" group-title="Streamers En Directo", AuronPlay
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/auronplay
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNvKx7p-w6Tpr3twlznyVETN6Ryk9r1QSBLw&usqp=CAU" group-title="Streamers En Directo", Ampeterby7
+#EXTINF:-1 type="stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNvKx7p-w6Tpr3twlznyVETN6Ryk9r1QSBLw&usqp=CAU" group-title="Streamers En Directo", Ampeterby7
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/ampeterby7
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTckLDgRK_7TA_-WlzwkY8DGOHbpwxrrdOMzw&usqp=CAU" group-title="Streamers En Directo", ZormanWorld
+#EXTINF:-1 type="stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTckLDgRK_7TA_-WlzwkY8DGOHbpwxrrdOMzw&usqp=CAU" group-title="Streamers En Directo", ZormanWorld
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/zormanworld
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu6Lo1AnG9FMMUMucbHC01NyOkl7LNIXGqOg&usqp=CAU" group-title="Streamers En Directo", Staryuuki
+#EXTINF:-1 type="stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu6Lo1AnG9FMMUMucbHC01NyOkl7LNIXGqOg&usqp=CAU" group-title="Streamers En Directo", Staryuuki
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/staryuuki
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4CBuYeq_vcIb1u76dl_6eNaeRq7c5ZuskTQ&usqp=CAU" group-title="Streamers En Directo", Imantado
+#EXTINF:-1 type="stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4CBuYeq_vcIb1u76dl_6eNaeRq7c5ZuskTQ&usqp=CAU" group-title="Streamers En Directo", Imantado
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/imantado
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2bEg2Iz0_g6LrxS_-axvRjYwDH8I1T7AOgw&usqp=CAU" group-title="Streamers En Directo", Karchez
+#EXTINF:-1 type="stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2bEg2Iz0_g6LrxS_-axvRjYwDH8I1T7AOgw&usqp=CAU" group-title="Streamers En Directo", Karchez
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/karchez
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE3A5wPr8VUF6KVfrEVK27X4DAas0kvuOk_w&usqp=CAU" group-title="Streamers En Directo", VioletaG
+#EXTINF:-1 type="stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE3A5wPr8VUF6KVfrEVK27X4DAas0kvuOk_w&usqp=CAU" group-title="Streamers En Directo", VioletaG
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/violetag
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk5IpNwQGXfqyFLUbTq30LE1kM68z-Ncm4zg&usqp=CAU" group-title="Streamers En Directo", Aroyitt
+#EXTINF:-1 type="stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk5IpNwQGXfqyFLUbTq30LE1kM68z-Ncm4zg&usqp=CAU" group-title="Streamers En Directo", Aroyitt
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/aroyitt
 
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b563146b-3b41-4f0e-937f-031357516c23-profile_image-300x300.png" group-title="Streamers En Directo", AriGameplays
+#EXTINF:-1 type="stream" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b563146b-3b41-4f0e-937f-031357516c23-profile_image-300x300.png" group-title="Streamers En Directo", AriGameplays
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/arigameplays
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEbfEdfpsOcZ8oe2Y4kGtyeXinS2i6ZWE6wQ&usqp=CAU" group-title="Streamers En Directo", El Mariana
+#EXTINF:-1 type="stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEbfEdfpsOcZ8oe2Y4kGtyeXinS2i6ZWE6wQ&usqp=CAU" group-title="Streamers En Directo", El Mariana
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/elmariana
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIR0rmXezB28Uf9RcrplIDalZz2fmsn5i83w&usqp=CAU" group-title="Streamers En Directo", Elisawaves
+#EXTINF:-1 type="stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIR0rmXezB28Uf9RcrplIDalZz2fmsn5i83w&usqp=CAU" group-title="Streamers En Directo", Elisawaves
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/elisawaves
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJr_blC_N2IXMXt1GpwKYG9DnxMWjJYmt32A&usqp=CAU" group-title="Streamers En Directo", Rubius
+#EXTINF:-1 type="stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJr_blC_N2IXMXt1GpwKYG9DnxMWjJYmt32A&usqp=CAU" group-title="Streamers En Directo", Rubius
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/rubius
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjdfEUN--b7ZO1pL_sJxoiR7FyVH3wtdmeoQ&usqp=CAU" group-title="Streamers En Directo", Don Ibai
+#EXTINF:-1 type="stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjdfEUN--b7ZO1pL_sJxoiR7FyVH3wtdmeoQ&usqp=CAU" group-title="Streamers En Directo", Don Ibai
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/ibai
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHBwshcJSVlf_znNr2qs44aEiBJJenRmNjQw&usqp=CAU" group-title="Streamers En Directo", Tanizen
+#EXTINF:-1 type="stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHBwshcJSVlf_znNr2qs44aEiBJJenRmNjQw&usqp=CAU" group-title="Streamers En Directo", Tanizen
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/tanizen
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwNuzqDC9yth8j7w0rw9ZJvKZ-hyKjPVo6zQ&usqp=CAU" group-title="Streamers En Directo", TheGrefg
+#EXTINF:-1 type="stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwNuzqDC9yth8j7w0rw9ZJvKZ-hyKjPVo6zQ&usqp=CAU" group-title="Streamers En Directo", TheGrefg
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/thegrefg
 
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/9fe6686f-d1a0-41a5-9962-5c73997d3dca-profile_image-300x300.png" group-title="Streamers En Directo", IamCristinini
+#EXTINF:-1 type="stream" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/9fe6686f-d1a0-41a5-9962-5c73997d3dca-profile_image-300x300.png" group-title="Streamers En Directo", IamCristinini
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/iamcristinini
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1T5nv1UMtYBAeDEIIZmEF00Fu6a4yI-5qjA&usqp=CAU" group-title="Streamers En Directo", Biyin
+#EXTINF:-1 type="stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1T5nv1UMtYBAeDEIIZmEF00Fu6a4yI-5qjA&usqp=CAU" group-title="Streamers En Directo", Biyin
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/biyin_
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH5--Br8V-ia91efX5OBpggS0lyWbhrADpmw&usqp=CAU" group-title="Streamers En Directo", ElChiringuitoTV
+#EXTINF:-1 type="stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH5--Br8V-ia91efX5OBpggS0lyWbhrADpmw&usqp=CAU" group-title="Streamers En Directo", ElChiringuitoTV
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/elchiringuitotv
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9FumcW0W7hvPiykpU-ZkWllnFQI-UyKlBzQ&usqp=CAU" group-title="Streamers En Directo", Nissaxter
+#EXTINF:-1 type="stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9FumcW0W7hvPiykpU-ZkWllnFQI-UyKlBzQ&usqp=CAU" group-title="Streamers En Directo", Nissaxter
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/nissaxter
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRqMM98BeqA337rlwHlLdPuC17C9lwl60qaQ&usqp=CAU" group-title="Streamers En Directo",JuansGuarnizo
+#EXTINF:-1 type="stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRqMM98BeqA337rlwHlLdPuC17C9lwl60qaQ&usqp=CAU" group-title="Streamers En Directo",JuansGuarnizo
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/juansguarnizo
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWJNng00IM2EQuaM3jwfGVvlFWD7vqeLUMKg&usqp=CAU" group-title="Streamers En Directo", TioShur
+#EXTINF:-1 type="stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWJNng00IM2EQuaM3jwfGVvlFWD7vqeLUMKg&usqp=CAU" group-title="Streamers En Directo", TioShur
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/tioshur
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyFluT-dZywOx28Czh_hTTHqn9Qz0VHLEZUw&usqp=CAU" group-title="Streamers En Directo", aXoZer
+#EXTINF:-1 type="stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyFluT-dZywOx28Czh_hTTHqn9Qz0VHLEZUw&usqp=CAU" group-title="Streamers En Directo", aXoZer
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/axozer
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKXaM1FO-gfwK0yCQ1L140BYU4PC567sKfdA&usqp=CAU" group-title="Streamers En Directo", LOLITOFDZ
+#EXTINF:-1 type="stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKXaM1FO-gfwK0yCQ1L140BYU4PC567sKfdA&usqp=CAU" group-title="Streamers En Directo", LOLITOFDZ
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/lolitofdez
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUdbEqLVP2uCefe7Yymc5P0KgSbtKI5t0jWA&usqp=CAU" group-title="Streamers En Directo", Mayichi
+#EXTINF:-1 type="stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUdbEqLVP2uCefe7Yymc5P0KgSbtKI5t0jWA&usqp=CAU" group-title="Streamers En Directo", Mayichi
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/mayichi
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJS8YD8t9G1dl2x1hbM2M11RMD9MsqRQYg1Q&usqp=CAU" group-title="Streamers En Directo", LakshartNia
+#EXTINF:-1 type="stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJS8YD8t9G1dl2x1hbM2M11RMD9MsqRQYg1Q&usqp=CAU" group-title="Streamers En Directo", LakshartNia
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/lakshartnia
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeQK1a99PkfRe0qh6l_ZaMXf0y6uutnSvEog&usqp=CAU" group-title="Streamers En Directo", Polispol1
+#EXTINF:-1 type="stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeQK1a99PkfRe0qh6l_ZaMXf0y6uutnSvEog&usqp=CAU" group-title="Streamers En Directo", Polispol1
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/polispol1
 
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/791ac228-58c4-4700-beed-86e48132d554-profile_image-300x300.png" group-title="Streamers En Directo", Carola
+#EXTINF:-1 type="stream" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/791ac228-58c4-4700-beed-86e48132d554-profile_image-300x300.png" group-title="Streamers En Directo", Carola
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/carola
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToD-wdGm4HxY-eqMwYUG-4M0Yg4bxNb4KIQQ&usqp=CAU" group-title="Streamers En Directo", ElXokas
+#EXTINF:-1 type="stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToD-wdGm4HxY-eqMwYUG-4M0Yg4bxNb4KIQQ&usqp=CAU" group-title="Streamers En Directo", ElXokas
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/elxokas
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_vEPTvQuN29gNs3HwHgbkExjxFE2HapZ2vw&usqp=CAU" group-title="Streamers En Directo", Reborn_Live
+#EXTINF:-1 type="stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_vEPTvQuN29gNs3HwHgbkExjxFE2HapZ2vw&usqp=CAU" group-title="Streamers En Directo", Reborn_Live
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/reborn_live
 
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/6213a284-c133-41cf-ad99-ebef738eb550-profile_image-300x300.png" group-title="Streamers En Directo", Perxitaa
+#EXTINF:-1 type="stream" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/6213a284-c133-41cf-ad99-ebef738eb550-profile_image-300x300.png" group-title="Streamers En Directo", Perxitaa
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/perxitaa
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH5--Br8V-ia91efX5OBpggS0lyWbhrADpmw&usqp=CAU" group-title="Streamers En Directo", Chiringuito Show
+#EXTINF:-1 type="stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH5--Br8V-ia91efX5OBpggS0lyWbhrADpmw&usqp=CAU" group-title="Streamers En Directo", Chiringuito Show
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/elchiringuitodejugones1
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt2AEwen-Z2winO_AkZBhkbF8NVQQ2u23D4A&usqp=CAU" group-title="Streamers En Directo", Rivers GG
+#EXTINF:-1 type="stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt2AEwen-Z2winO_AkZBhkbF8NVQQ2u23D4A&usqp=CAU" group-title="Streamers En Directo", Rivers GG
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/rivers_gg
 
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/ea5096eb-a8bf-4fd9-80a0-8e1be81452c8-profile_image-300x300.png" group-title="Streamers En Directo", Amablitz
+#EXTINF:-1 type="stream" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/ea5096eb-a8bf-4fd9-80a0-8e1be81452c8-profile_image-300x300.png" group-title="Streamers En Directo", Amablitz
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/amablitz
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtprmyBSq3euPu9ltv6CFOyrWumQ2-D7vyAQ&usqp=CAU" group-title="Streamers En Directo", DJ Mariio
+#EXTINF:-1 type="stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtprmyBSq3euPu9ltv6CFOyrWumQ2-D7vyAQ&usqp=CAU" group-title="Streamers En Directo", DJ Mariio
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/user/DjMaRiiO
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw7LRzlg70PLRjUYynwrRRp_Gh-gFnxVbcfg&usqp=CAU" group-title="Streamers En Directo", Mr Peet A PRESION
+#EXTINF:-1 type="stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw7LRzlg70PLRjUYynwrRRp_Gh-gFnxVbcfg&usqp=CAU" group-title="Streamers En Directo", Mr Peet A PRESION
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/c/APRESI%C3%93N
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc6IKPhVp81Meord7DpgLEhHXlhmaFXaco6Q&usqp=CAU" group-title="Streamers En Directo", ERICK Y GONZALO
+#EXTINF:-1 type="stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc6IKPhVp81Meord7DpgLEhHXlhmaFXaco6Q&usqp=CAU" group-title="Streamers En Directo", ERICK Y GONZALO
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://youtube.com/channel/UCcRSITGrzZce21uHdQ6GjZA
 
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/21ca8a68-3036-4366-8e0f-4844359e0a53-profile_image-300x300.png" group-title="Streamers En Directo", Komanche
+#EXTINF:-1 type="stream" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/21ca8a68-3036-4366-8e0f-4844359e0a53-profile_image-300x300.png" group-title="Streamers En Directo", Komanche
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/komanche
 
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/6ef5787c-53d5-4626-b41f-620735a05384-profile_image-300x300.png" group-title="Streamers En Directo", Noe 9977
+#EXTINF:-1 type="stream" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/6ef5787c-53d5-4626-b41f-620735a05384-profile_image-300x300.png" group-title="Streamers En Directo", Noe 9977
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/noe9977
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTG8gqiMdUzDa7gYPuARqLtM6uO6L3-FDg-g&usqp=CAU" group-title="Streamers En Directo", El Xokas
+#EXTINF:-1 type="stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTG8gqiMdUzDa7gYPuARqLtM6uO6L3-FDg-g&usqp=CAU" group-title="Streamers En Directo", El Xokas
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/elxokas
 
 
