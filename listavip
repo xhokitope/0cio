@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml.gz"
 
-x-tvg-url="https://iptv-org.github.io/epg/guides/pe/gatotv.com.epg.xml.gz"
+x-tvg-url="https://iptv-org.github.io/epg/guides/pe/mi.tv.epg.xml.gz"
 
 x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz"
 
@@ -820,19 +820,19 @@ http://bgapp.live/play/5-937.php?c=9090&token=blackkghost&f=.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyThGgslO5ZZVkHhKFbUXS8eB5JhJXW-H8g&usqp=CAU" group-title="Deportes", TNT Sports
 http://201.182.251.146:37583/play/a05v/index.m3u8
 
-#EXTINF:0 tvg-id="TNTSports2Chile.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJn34JqQ3sS1SIXt8Do8LqtUjoRb5yB79z9w&usqp=CAU" group-title="Deportes", TNT Sports 2
+#EXTINF:0 tvg-id="TNTSportsArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJn34JqQ3sS1SIXt8Do8LqtUjoRb5yB79z9w&usqp=CAU" group-title="Deportes", TNT Sports 2
 http://200.41.79.165:8000/play/a059
 
-#EXTINF:0 tvg-id="TNTSports2Chile.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJn34JqQ3sS1SIXt8Do8LqtUjoRb5yB79z9w&usqp=CAU" group-title="Deportes", TNT Sports 2
+#EXTINF:0 tvg-id="TNTSportsArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJn34JqQ3sS1SIXt8Do8LqtUjoRb5yB79z9w&usqp=CAU" group-title="Deportes", TNT Sports 2
 http://170.79.235.29:8000/play/234
 
-#EXTINF:0 tvg-id="TNTSports2Chile.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJn34JqQ3sS1SIXt8Do8LqtUjoRb5yB79z9w&usqp=CAU" group-title="Deportes", TNT Sports 2
+#EXTINF:0 tvg-id="TNTSportsArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJn34JqQ3sS1SIXt8Do8LqtUjoRb5yB79z9w&usqp=CAU" group-title="Deportes", TNT Sports 2
 http://170.79.235.29:8000/play/234
 
-#EXTINF:0 tvg-id="TNTSports3Chile.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_LXDPoZq66I-aRzisZzV6O45LFVTfasNH7w&usqp=CAU" group-title="Deportes", TNT Sports 3
+#EXTINF:0 tvg-id="TNTSportsArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_LXDPoZq66I-aRzisZzV6O45LFVTfasNH7w&usqp=CAU" group-title="Deportes", TNT Sports 3
 http://45.224.23.209:8000/play/a054/index.m3u8
 
-#EXTINF:0 tvg-id="TNTSports3Chile.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_LXDPoZq66I-aRzisZzV6O45LFVTfasNH7w&usqp=CAU" group-title="Deportes", TNT Sports 3
+#EXTINF:0 tvg-id="TNTSportsArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_LXDPoZq66I-aRzisZzV6O45LFVTfasNH7w&usqp=CAU" group-title="Deportes", TNT Sports 3
 http://168.194.171.33:8000/play/a01d/index.m3u8
 
 #EXTINF:0 tvg-id="FoxSportsSouth.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="Deportes", FOX SPORTS
