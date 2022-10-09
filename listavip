@@ -1,4 +1,8 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml.gz" x-tvg-url="https://iptv-org.github.io/epg/guides/pe/mi.tv.epg.xml.gz" x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml.gz"
+
+x-tvg-url="https://iptv-org.github.io/epg/guides/pe/mi.tv.epg.xml.gz"
+
+x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz"
 
 
 #EXTINF:0 tvg-id="willax.pe" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
