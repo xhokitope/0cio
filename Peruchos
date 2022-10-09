@@ -1,0 +1,103 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/cl/mi.tv.epg.xml.gz"
+
+#EXTINF:0 type="stream" aspect-radio="16:9" tvg-country="PE" tvg-id="willax.pe" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
+http://190.108.93.148:8000/play/a07l/index.m3u8
+
+#EXTINF:0 type="stream" aspect-radio="16:9" tvg-country="PE" tvg-id="willax.pe" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
+http://190.187.247.206:8000/play/a01j/index.m3u8
+
+#EXTINF:0 type="stream" aspect-radio="16:9" tvg-country="PE" tvg-id="willax.pe" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
+http://190.239.220.73:8000/play/a02h/index.m3u8
+
+#EXTINF:0 type="stream" aspect-radio="16:9" tvg-country="PE" tvg-id="willax.pe" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
+http://168.194.171.33:8000/play/a01s/index.m3u8
+
+#EXTINF:0 type="stream" aspect-radio="16:9" tvg-country="PE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZWktkEnMQtRSruF-OeRINESOszGYHLTlJ0w&usqp=CAU" group-title="TV PERUANA", TV COSMOS
+https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
+
+#EXTINF:0 type="stream" aspect-radio="16:9" tvg-country="PE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZWktkEnMQtRSruF-OeRINESOszGYHLTlJ0w&usqp=CAU" group-title="TV PERUANA", TV COSMOS
+http://181.176.148.142:8000/play/a026
+
+#EXTINF:0 type="stream" aspect-radio="16:9" tvg-country="PE" tvg-id="FrecuenciaLatina.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCNrKIpMpnWw1V3psfj-dpZMGqFWoIUsuaw&usqp=CAU" group-title="TV PERUANA", Latina
+http://160.20.164.171:8001/play/a03y
+
+#EXTINF:0 type="stream" aspect-radio="16:9" tvg-country="PE" tvg-id="FrecuenciaLatina.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCNrKIpMpnWw1V3psfj-dpZMGqFWoIUsuaw&usqp=CAU" group-title="TV PERUANA", Latina
+http://181.176.148.142:8000/play/a02p
+
+#EXTINF:0 type="stream" aspect-radio="16:9" tvg-country="PE" tvg-id="FrecuenciaLatina.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCNrKIpMpnWw1V3psfj-dpZMGqFWoIUsuaw&usqp=CAU" group-title="TV PERUANA", Latina
+http://190.187.247.206:8000/play/a03f/index.m3u8
+
+#EXTINF:0 type="stream" aspect-radio="16:9" tvg-country="PE" tvg-id="FrecuenciaLatina.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCNrKIpMpnWw1V3psfj-dpZMGqFWoIUsuaw&usqp=CAU" group-title="TV PERUANA", Latina
+http://190.108.93.148:8000/play/a0d4/index.m3u8
+
+#EXTINF:0 type="stream" aspect-radio="16:9" tvg-country="PE" tvg-id="ATV.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/ATV_2005.svg/revision/latest/scale-to-width-down/200?cb=20210508210119&path-prefix=es" group-title="TV PERUANA", ATV.PE
+http://190.108.93.148:8000/play/a07q/index.m3u8
+
+#EXTINF:0 type="stream" aspect-radio="16:9" tvg-country="PE" tvg-id="ATV.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/ATV_2005.svg/revision/latest/scale-to-width-down/200?cb=20210508210119&path-prefix=es" group-title="TV PERUANA", ATV PE
+http://190.187.247.206:8000/play/a03c/index.m3u8
+
+#EXTINF:0 type="stream" aspect-radio="16:9" tvg-country="PE" tvg-id="ATV.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/ATV_2005.svg/revision/latest/scale-to-width-down/200?cb=20210508210119&path-prefix=es" group-title="TV PERUANA", ATV.PE
+https://dysmuyxh5vstv.cloudfront.net:443/hls/live_720p30.m3u8
+
+#EXTINF:0 type="stream" aspect-radio="16:9" tvg-country="PE" tvg-id="ATV.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/ATV_2005.svg/revision/latest/scale-to-width-down/200?cb=20210508210119&path-prefix=es" group-title="TV PERUANA", ATV.PE
+https://dysmuyxh5vstv.cloudfront.net:443/hls/live_480p30.m3u8
+
+#EXTINF:0 type="stream" aspect-radio="16:9" tvg-country="PE" tvg-id="ATVPlus.pe" tvg-name="ATV+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkEZ36-Mkeu5mUlm6vIjo7Dm1qsOnI0LC1Ug&usqp=CAU" group-title="TV PERUANA", ATV+
+https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
+
+#EXTINF:0 type="stream" aspect-radio="16:9" tvg-country="PE" tvg-id="ATVPlus.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkEZ36-Mkeu5mUlm6vIjo7Dm1qsOnI0LC1Ug&usqp=CAU" group-title="TV PERUANA", ATV+
+https://dysmuyxh5vstv.cloudfront.net:443/hls/atv2_480.m3u8
+
+#EXTINF:0 type="stream" aspect-radio="16:9" tvg-country="PE" tvg-id="ATVPlus.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkEZ36-Mkeu5mUlm6vIjo7Dm1qsOnI0LC1Ug&usqp=CAU" group-title="TV PERUANA", ATV+
+https://dysmuyxh5vstv.cloudfront.net:443/hls/atv2_360.m3u8
+
+#EXTINF:0 type="stream" aspect-radio="16:9" tvg-country="PE" tvg-id="ATVSur.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxDJOUpIaxSDq6snKcNJiAEnfriqJMJHwxKw&usqp=CAU" group-title="TV PERUANA", ATV Sur
+http://190.187.247.206:8000/play/a03n/index.m3u8
+
+#EXTINF:0 type="stream" aspect-radio="16:9" tvg-country="PE" tvg-id="PanamericanaTV.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNodEC5o4GRK0MaFR_r8zSsrNxYuJjeDdUzA&usqp=CAU" group-title="TV PERUANA", PANAMERICANA TV
+http://190.108.93.148:8000/play/a07p/index.m3u8
+
+#EXTINF:0 type="stream" aspect-radio="16:9" tvg-country="PE" tvg-id="PanamericanaTV.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNodEC5o4GRK0MaFR_r8zSsrNxYuJjeDdUzA&usqp=CAU" group-title="TV PERUANA", PANAMERICANA TV
+http://200.48.212.114:8000/play/a02g/index.m3u8
+
+#EXTINF:0 type="stream" aspect-radio="16:9" tvg-country="PE" tvg-id="PanamericanaTV.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNodEC5o4GRK0MaFR_r8zSsrNxYuJjeDdUzA&usqp=CAU" group-title="TV PERUANA", PANAMERICANA TV
+http://190.108.93.148:8000/play/a07p/index.m3u8
+
+#EXTINF:0 type="stream" aspect-radio="16:9" tvg-country="PE" tvg-id="PanamericanaTV.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNodEC5o4GRK0MaFR_r8zSsrNxYuJjeDdUzA&usqp=CAU" group-title="TV PERUANA", PANAMERICANA TV
+https://www.dailymotion.com/cdn/live/video/x774s7s.m3u8?sec=eEd4sIYqNTEZ9Suy_hnpOBZ4TrTP3cw7RriV5Aa3LK9XmLW00Jg8OyxNKcVWva7yYJWsAyWd892IugQBerPAqw
+
+#EXTINF:0 type="stream" aspect-radio="16:9" tvg-country="PE" tvg-id="GlobalTV.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmDXwq_JVNoby065mDeURMs9zHCd4FU9GnvQ&usqp=CAU" group-title="TV PERUANA", GLOBAL (PE)
+http://190.108.83.142:8000/play/a00x/index.m3u8
+
+#EXTINF:0 type="stream" aspect-radio="16:9" tvg-country="PE" tvg-id="GlobalTV.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmDXwq_JVNoby065mDeURMs9zHCd4FU9GnvQ&usqp=CAU" group-title="TV PERUANA", GLOBAL (PE)
+http://45.225.95.170:8000/play/a0eh/index.m3u8
+
+#EXTINF:0 type="stream" aspect-radio="16:9" tvg-country="PE" tvg-id="AmericaTelevision.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnj4six21x50vnaiL29u8xyeoD9Aas4BGSIQ&usqp=CAU" group-title="TV PERUANA", América TV (PE)
+http://181.65.199.218:8000/play/a0by/index.m3u8
+
+#EXTINF:0 type="stream" aspect-radio="16:9" tvg-country="PE" tvg-id="AmericaTelevision.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnj4six21x50vnaiL29u8xyeoD9Aas4BGSIQ&usqp=CAU" group-title="TV PERUANA", América TV (PE)
+http://190.187.247.206:8000/play/a03j/index.m3u8
+
+#EXTINF:0 type="stream" aspect-radio="16:9" tvg-country="PE" tvg-id="AmericaTelevision.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnj4six21x50vnaiL29u8xyeoD9Aas4BGSIQ&usqp=CAU" group-title="TV PERUANA", América TV (PE)
+http://190.108.93.148:8000/play/a0d3/index.m3u8
+
+#EXTINF:0 type="stream" aspect-radio="16:9" tvg-country="PE" tvg-id="CanalN.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjFu1v4nogWUR6-t48F7HH8GASg290M1uc6w&usqp=CAU" group-title="TV PERUANA", Canal N
+http://45.225.95.170:8000/play/a0ef/index.m3u8
+
+#EXTINF:0 type="stream" aspect-radio="16:9" tvg-country="PE" tvg-id="CanalN.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjFu1v4nogWUR6-t48F7HH8GASg290M1uc6w&usqp=CAU" group-title="TV PERUANA", Canal N
+http://45.225.95.170:8000/play/a0f4/index.m3u8
+
+#EXTINF:0 type="stream" aspect-radio="16:9" tvg-country="PE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREhRKq4cEPB0Me2eJuYvc5nkCA97S96Q8Eng&usqp=CAU" group-title="TV PERUANA", Exitosa TV
+http://51.222.154.150/livevd1/user2.m3u8
+
+#EXTINF:0 type="stream" aspect-radio="16:9" tvg-country="PE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKSMfslaD8NtNeI1iCUvpdB3iUz-9tDEZvNQ&usqp=CAU" group-title="TV PERUANA", RPP
+http://45.225.95.170:8000/play/a0f5/index.m3u8
+
+#EXTINF:0 type="stream" aspect-radio="16:9" tvg-country="PE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwhBlAg-kzdSDSvlJM2sctkmxdN3QoBeqDcQ&usqp=CAU" group-title="TV PERUANA", RADIO OVACION TV PE
+https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
+
+#EXTINF:0 type="stream" aspect-radio="16:9" tvg-country="PE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZYQ56H-tSxNoFA17VxW0hLBc29ABVMojuIQ&usqp=CAU" group-title="TV PERUANA", AntaresTV Tarapoto
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+
+#EXTINF:0 type="stream" aspect-radio="16:9" tvg-country="PE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6rL6OwSCecttQnTrr1k_W2xLqJTSWKjBtrA&usqp=CAU" group-title="TV PERUANA", TV NORTE HD
+https://www.dailymotion.com/cdn/live/video/x7uk62a.m3u8?sec=nHiqatT3PgsMDN2wf_FzT7KEjlFkK3V_pUwY3zYSB_FIkX2_0ole3oy1gFoFw7Et3rBR6iZPC8Xz-vMcCq17kw
