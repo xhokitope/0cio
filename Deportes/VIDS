@@ -1,27 +1,27 @@
 #EXTM3U
 
-#EXTINF:0 , PLAYBOY
+#EXTINF:0 tvg-id="PlayboyTVLatinAmerica.us", PLAYBOY
 http://45.224.23.209:8000/play/a078/index.m3u8
 
-#EXTINF:0 audio-track="eng,spa", PLAYBOY
+#EXTINF:0 tvg-id="PlayboyTVLatinAmerica.us" audio-track="eng,spa", PLAYBOY
 http://160.20.164.171:8001/play/a074
 
-#EXTINF:0 , PLAYBOY
+#EXTINF:0 tvg-id="PlayboyTVLatinAmerica.us", PLAYBOY
 http://191.212.166.203:4000/play/a0ee
 
-#EXTINF:0 audio-track="eng,spa", PLAYBOY
+#EXTINF:0 tvg-id="PlayboyTVLatinAmerica.us" audio-track="eng,spa", PLAYBOY
 http://45.236.28.72:8000/play/a0c9/index.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png", VENUS
+#EXTINF:0 tvg-id="Venus.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png", VENUS
 http://45.224.23.209:8000/play/a065/index.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png", VENUS
+#EXTINF:0 tvg-id="Venus.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png", VENUS
 http://201.108.244.159:4000/play/a0ah
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png", VENUS
+#EXTINF:0 tvg-id="Venus.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png", VENUS
 http://186.46.29.115:8000/play/a017/index.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png", VENUS
+#EXTINF:0 tvg-id="Venus.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png", VENUS
 http://45.232.210.1:8062/play/a0ca/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ22-imiS8G_GjZp562qYWpFBBiFJwtApX06A&usqp=CAU", SEXTREME
@@ -42,7 +42,7 @@ http://200.6.86.128:12000/play/a0pl
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAhPSPGn1Ui-5Wc26wrUt89-49ZQ2wKPZOyw&usqp=CAU", Brazzers TV Europe
 http://95.211.250.58/BRAZZERS/index.m3u8
 
-#EXTINF:0 , Penthouse Gold
+#EXTINF:0 tvg-id="PenthouseGold.us", Penthouse Gold
 http://46.149.191.219:9106/play/a009
 
 #EXTINF:0 , Penthouse TV
