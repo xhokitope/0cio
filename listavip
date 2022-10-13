@@ -122,6 +122,10 @@ http://209.45.81.8:8000/play/a03f/index.m3u8
 
 #EXTINF:0 tvg-id="TVGloboInternacionalAmericas.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdka71okDcmZ7QxhYdS9yQMjyAtlbPcHm3OQ&usqp=CAU" group-title="TV INTERNACIONAL", GLOBO HD
 http://189.81.142.134:4000/play/a06c
+http://45.184.160.146:8000/play/a02i
+
+#EXTINF:0 tvg-id="TVGloboInternacionalAmericas.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdka71okDcmZ7QxhYdS9yQMjyAtlbPcHm3OQ&usqp=CAU" group-title="TV INTERNACIONAL", GLOBO HD
+http://189.81.142.134:4000/play/a06c
 
 #EXTINF:0 tvg-id="CitytvBogota.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjC-D9Y1Db_bEIJYLOptOU77Bz8RkZn4n3Kg&usqp=CAU" group-title="TV INTERNACIONAL", City TV
 http://45.233.169.1:8000/play/a01m
