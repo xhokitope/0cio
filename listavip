@@ -950,6 +950,9 @@ http://177.234.254.38:8000/play/a07d/index.m3u8
 #EXTINF:0 tvg-id="MTVHits.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYt_kWsuM9nPn9Iz_A4DxHr-k6cutEpFnaiQ&usqp=CAU" group-title="Musica En Vivo", MTV Hits
 http://45.228.232.204:16000/play/a02p/index.m3u8
 
+#EXTINF:0 tvg-id="KPOP.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFI0J1PDerTJxA_DqdyzHzZHR7EK5IcGuasg&usqp=CAU" group-title="Musica En Vivo", K-POP
+https://youtu.be/embed/F4aby5WN1Rw
+
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdp_wTw0MdW-pFc7Q-5IE-ytEZKapwa3F7KQ&usqp=CAU" group-title="Musica En Vivo", Carolina CL
 https://unlimited1-us.dps.live:443/carolinatv/carolinatv.smil/carolinatv/livestream1/chunks.m3u8
 
