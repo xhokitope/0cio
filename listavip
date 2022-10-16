@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml.gz"
 
 #EXTINF:0 tvg-id="willax.pe" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
-http://190.108.93.148:8000/play/a07l/index.m3u8
+http://181.65.199.218:8000/play/a029/index.m3u8
 
 #EXTINF:0 tvg-id="willax.pe" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
 http://190.187.247.206:8000/play/a01j/index.m3u8
@@ -127,7 +127,7 @@ http://45.184.160.146:8000/play/a02i
 http://189.81.142.134:4000/play/a06c
 
 #EXTINF:0 tvg-id="CitytvBogota.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjC-D9Y1Db_bEIJYLOptOU77Bz8RkZn4n3Kg&usqp=CAU" group-title="TV INTERNACIONAL", City TV
-http://45.233.169.1:8000/play/a01m
+http://8.242.187.236:5007/play/a06e/index.m3u8
 
 #EXTINF:0 tvg-id="CitytvBogota.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjC-D9Y1Db_bEIJYLOptOU77Bz8RkZn4n3Kg&usqp=CAU" group-title="TV INTERNACIONAL", City TV
 http://190.60.37.69:8015/play/a03d/index.m3u8
@@ -295,7 +295,7 @@ http://200.24.132.99:8000/play/a02p
 http://181.65.199.218:8000/play/a038/index.m3u8
 
 #EXTINF:0 tvg-id="StudioUniversalPanregional.us" audio-track="esp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXbZEYrTK8hmFglHkS6fOp-FZOxoMfUjE3SA&usqp=CAU" group-title="Series | Peliculas", UNIVERSAL
-http://45.233.169.1:8000/play/a02t
+http://181.65.199.218:8000/play/a00g/index.m3u8
 
 #EXTINF:0 tvg-id="StudioUniversalPanregional.us" audio-track="esp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXbZEYrTK8hmFglHkS6fOp-FZOxoMfUjE3SA&usqp=CAU" group-title="Series | Peliculas", UNIVERSAL
 http://170.83.242.9:5350/play/a031
@@ -379,7 +379,7 @@ http://160.20.164.171:8001/play/a01u
 http://45.236.28.72:8000/play/a0dk/index.m3u8
 
 #EXTINF:0 tvg-id="AMCHDSouth.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd8Tk9e4vDK3HhLpPEbFjcySwK25C6SSxFyw&usqp=CAU" group-title="Series | Peliculas", AMC
-http://45.233.169.1:8000/play/a06c
+http://190.61.41.182:8000/play/a379/index.m3u8
 
 #EXTINF:0 tvg-id="TNTPacific.us" audio-track="spa" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/8/8f/TNT_Logo_2016.svg.png/revision/latest?cb=20161130200545&path-prefix=es" group-title="Series | Peliculas", TNT
 http://170.83.242.9:5350/play/a03b
@@ -394,7 +394,7 @@ http://200.6.189.26:9000/play/a011
 http://8.242.187.236:5007/play/a05n/index.m3u8
 
 #EXTINF:0 tvg-id="TNTSeriesSouth.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmxLjLoWX7LfHckMq-sgbxYFBhpCE4yyBhwg&usqp=CAU" group-title="Series | Peliculas", TNT Series
-http://45.233.169.1:8000/play/a012
+http://190.61.41.182:8000/play/a37l/index.m3u8
 
 #EXTINF:0 tvg-id="TNTSeriesSouth.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmxLjLoWX7LfHckMq-sgbxYFBhpCE4yyBhwg&usqp=CAU" group-title="Series | Peliculas", TNT SERIES
 http://200.24.159.179:8500/play/a067
@@ -531,7 +531,7 @@ http://170.79.235.29:8000/play/100
 http://45.236.28.72:8000/play/a0de/index.m3u8
 
 #EXTINF:0 tvg-id="LifetimePanregional.us" tvg-logo="https://unity-img.tbxapis.com/v0/images/9bb19fc2ad40d0932596594264f6710c/section/5e57e9146ac3bf34c6dd3c66/4f12b95f92b0ef310be380695e0cf02f/img.png" group-title="Series | Peliculas", Lifetime
-http://45.233.169.1:8000/play/a027
+http://190.61.41.182:8000/play/a2va/index.m3u8
 
 #EXTINF:0 tvg-id="SyFy.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREUNn8BiFaiUIfwtwZF_VOn9LFxDk82DiPeg&usqp=CAU" group-title="Series | Peliculas", SyFy
 http://170.79.235.29:8000/play/101
@@ -915,7 +915,7 @@ http://200.41.79.165:8000/play/a0ju
 http://200.41.79.165:8000/play/a064
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Z4SKgSuJUFZNis8Tou7FQkjeNGArLRDz5g&usqp=CAU" group-title="TV Novelas", Canal De Las Estrellas
-http://45.233.169.1:8000/play/a055
+http://190.61.41.182:8000/play/a362/index.m3u8
 
 #EXTINF:0 tvg-id="HTV.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQobXdcQEiOqIn9EB3SzPJFQxKBxVwPu0IIRw&usqp=CAU" group-title="Musica En Vivo", HTV
 http://45.228.232.204:16000/play/a05k/index.m3u8
@@ -1005,7 +1005,7 @@ http://160.20.164.171:8001/play/a01s
 http://170.83.242.9:5350/play/a00r
 
 #EXTINF:0 tvg-id="E!.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVJfVPJsr_ZFKaALSke73drljoGFseLqJvsA&usqp=CAU" group-title="Ciencia | Cultura", E! Entertainment
-http://45.233.169.1:8000/play/a00o
+http://190.61.41.182:8000/play/a35r/index.m3u8
 
 #EXTINF:0 tvg-id="E!.pe" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVJfVPJsr_ZFKaALSke73drljoGFseLqJvsA&usqp=CAU" group-title="Ciencia | Cultura", E! Entertainment
 http://190.60.37.69:8015/play/a01n/index.m3u8
