@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml.gz"
 
 #EXTINF:0 tvg-id="willax.pe" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
-http://181.65.199.218:8000/play/a029/index.m3u8
+http://181.177.255.250:8000/play/a021/index.m3u8
 
 #EXTINF:0 tvg-id="willax.pe" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
 http://190.187.247.206:8000/play/a01j/index.m3u8
@@ -67,7 +67,7 @@ http://190.108.83.142:8000/play/a00x/index.m3u8
 http://190.108.83.142:8000/play/a00x/index.m3u8
 
 #EXTINF:0 tvg-id="AmericaTelevision.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnj4six21x50vnaiL29u8xyeoD9Aas4BGSIQ&usqp=CAU" group-title="TV PERUANA", América TV (PE)
-http://181.65.199.218:8000/play/a0by/index.m3u8
+http://181.65.199.218:8000/play/a02c/index.m3u8
 
 #EXTINF:0 tvg-id="AmericaTelevision.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnj4six21x50vnaiL29u8xyeoD9Aas4BGSIQ&usqp=CAU" group-title="TV PERUANA", América TV (PE)
 http://190.187.247.206:8000/play/a03j/index.m3u8
@@ -370,16 +370,13 @@ http://160.20.164.171:8001/play/a02z
 http://8.242.187.236:5007/play/a05l/index.m3u8
 
 #EXTINF:0 tvg-id="AMCHDSouth.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd8Tk9e4vDK3HhLpPEbFjcySwK25C6SSxFyw&usqp=CAU" group-title="Series | Peliculas", AMC
-http://45.228.232.204:16000/play/a04d/index.m3u8
+http://209.45.95.18:8000/play/a04z
 
 #EXTINF:0 tvg-id="AMCHDSouth.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd8Tk9e4vDK3HhLpPEbFjcySwK25C6SSxFyw&usqp=CAU" group-title="Series | Peliculas", AMC
 http://160.20.164.171:8001/play/a01u
 
 #EXTINF:0 tvg-id="AMCHDSouth.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd8Tk9e4vDK3HhLpPEbFjcySwK25C6SSxFyw&usqp=CAU" group-title="Series | Peliculas", AMC
-http://45.236.28.72:8000/play/a0dk/index.m3u8
-
-#EXTINF:0 tvg-id="AMCHDSouth.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd8Tk9e4vDK3HhLpPEbFjcySwK25C6SSxFyw&usqp=CAU" group-title="Series | Peliculas", AMC
-http://190.61.41.182:8000/play/a379/index.m3u8
+http://200.24.159.179:8500/play/a04q
 
 #EXTINF:0 tvg-id="TNTPacific.us" audio-track="spa" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/8/8f/TNT_Logo_2016.svg.png/revision/latest?cb=20161130200545&path-prefix=es" group-title="Series | Peliculas", TNT
 http://170.83.242.9:5350/play/a03b
