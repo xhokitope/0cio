@@ -43,6 +43,9 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/ibai
 #EXTINF:0 type="stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHBwshcJSVlf_znNr2qs44aEiBJJenRmNjQw&usqp=CAU" group-title="Streamers En Directo", Tanizen
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/tanizen
 
+#EXTINF:0 type="stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxK_QeiW-V61loIM6Y7sdvf9bU38aXQb_LGA&usqp=CAU" group-title="Streamers En Directo", Noni
+https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/noni
+
 #EXTINF:0 type="stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwNuzqDC9yth8j7w0rw9ZJvKZ-hyKjPVo6zQ&usqp=CAU" group-title="Streamers En Directo", TheGrefg
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/thegrefg
 
