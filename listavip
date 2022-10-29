@@ -352,13 +352,16 @@ http://170.83.242.9:5350/play/a001
 http://200.24.159.179:8500/play/a02v
 
 #EXTINF:0 tvg-id="HBO2HDLatinAmerica.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYdWe0yKsRRdJpxYhe34kd6DBX7F1xOAy5eg&usqp=CAU" group-title="Series | Peliculas", HBO2
+http://190.43.232.244:8000/play/a07e/index.m3u8
+
+#EXTINF:0 tvg-id="HBO2HDLatinAmerica.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYdWe0yKsRRdJpxYhe34kd6DBX7F1xOAy5eg&usqp=CAU" group-title="Series | Peliculas", HBO2
 http://170.83.242.9:5350/play/a02o
 
 #EXTINF:0 tvg-id="HBO2HDLatinAmerica.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYdWe0yKsRRdJpxYhe34kd6DBX7F1xOAy5eg&usqp=CAU" group-title="Series | Peliculas", HBO 2
 http://181.65.199.218:8000/play/a016/index.m3u8
 
 #EXTINF:0 tvg-id="HBO2HDLatinAmerica.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYdWe0yKsRRdJpxYhe34kd6DBX7F1xOAy5eg&usqp=CAU" group-title="Series | Peliculas", HBO 2
-http://45.160.15.1:8111/play/a0ox
+http://190.108.85.116:8000/play/a08z/index.m3u8
 
 #EXTINF:0 tvg-id="HBOPlusHDLatinAmerica.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfSGhLOTn3UGyuP9fqX7Ct3Vu5sKdORYWgMA&usqp=CAU" group-title="Series | Peliculas", HBO PLUS
 http://160.20.164.171:8001/play/a071
@@ -476,7 +479,7 @@ http://8.242.187.236:5007/play/a05l/index.m3u8
 http://170.83.242.9:5350/play/a03b
 
 #EXTINF:0 tvg-id="TNTPacific.us" audio-track="spa" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/8/8f/TNT_Logo_2016.svg.png/revision/latest?cb=20161130200545&path-prefix=es" group-title="Series | Peliculas", TNT
-http://45.160.15.1:8111/play/a0pp
+http://181.65.199.218:8000/play/a00q/index.m3u8
 
 #EXTINF:0 tvg-id="TNTPacific.us" audio-track="spa" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/8/8f/TNT_Logo_2016.svg.png/revision/latest?cb=20161130200545&path-prefix=es" group-title="Series | Peliculas", TNT
 http://200.6.189.26:9000/play/a011
@@ -506,7 +509,7 @@ http://170.83.242.9:5350/play/a0kp
 http://170.83.242.9:5350/play/a0kq
 
 #EXTINF:0 tvg-id="UniversalPremiereEast.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe5VxnxX7Nxoip3D4yTyNL_RRdMSy6mVdlng&usqp=CAU" group-title="Series | Peliculas", UNIVERSAL PREMIERE
-http://45.236.28.72:8000/play/a0gr/index.m3u8
+http://181.78.27.187:5350/play/a0ko
 
 #EXTINF:0 tvg-id="UniversalPremiereEast.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe5VxnxX7Nxoip3D4yTyNL_RRdMSy6mVdlng&usqp=CAU" group-title="Series | Peliculas", UNIVERSAL PREMIERE O
 http://45.236.28.72:8000/play/a0gs/index.m3u8
