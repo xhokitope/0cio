@@ -4,7 +4,7 @@
 http://181.65.199.218:8000/play/a029/index.m3u8
 
 #EXTINF:0 tvg-id="willax.pe" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
-http://190.187.247.206:8000/play/a01j/index.m3u8
+http://190.43.232.244:8000/play/a07r/index.m3u8
 
 #EXTINF:0 tvg-id="willax.pe" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
 http://168.194.171.33:8000/play/a01s/index.m3u8
@@ -680,10 +680,13 @@ http://170.79.235.29:8000/play/214
 http://45.5.119.202:8000/play/a01b/index.m3u8
 
 #EXTINF:0 tvg-id="ESPN2Argentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHqZht9geM_oNkQLIHeqYTxZhplJUPB-iBJg&usqp=CAU" group-title="Deportes", ESPN 2
-http://190.187.247.206:8000/play/a00x/index.m3u8
+http://190.108.85.116:8000/play/a096/index.m3u8
 
 #EXTINF:0 tvg-id="ESPN2HDArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHqZht9geM_oNkQLIHeqYTxZhplJUPB-iBJg&usqp=CAU" group-title="Deportes", ESPN 2
 http://170.83.242.9:5350/play/a00t
+
+#EXTINF:0 tvg-id="ESPN2HDArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHqZht9geM_oNkQLIHeqYTxZhplJUPB-iBJg&usqp=CAU" group-title="Deportes", ESPN 2
+http://190.43.232.244:8000/play/a09h/index.m3u8
 
 #EXTINF:0 tvg-id="ESPN3South.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUBbLekeJrUFh26V7KZ2dkRKnARy5rqj9a3w&usqp=CAU" group-title="Deportes", ESPN 3
 http://181.176.148.142:8000/play/a02f
@@ -692,7 +695,7 @@ http://181.176.148.142:8000/play/a02f
 http://170.83.242.12:5350/play/a00h
 
 #EXTINF:0 tvg-id="ESPN3South.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUBbLekeJrUFh26V7KZ2dkRKnARy5rqj9a3w&usqp=CAU" group-title="Deportes", ESPN 3
-http://190.187.247.206:8000/play/a021/index.m3u8
+http://190.108.85.116:8000/play/a0au/index.m3u8
 
 #EXTINF:0 tvg-id="ESPN3South.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUBbLekeJrUFh26V7KZ2dkRKnARy5rqj9a3w&usqp=CAU" group-title="Deportes", ESPN 3
 http://200.24.132.99:8000/play/a02w
