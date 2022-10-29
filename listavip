@@ -352,6 +352,12 @@ http://170.83.242.9:5350/play/a001
 http://200.24.159.179:8500/play/a02v
 
 #EXTINF:0 tvg-id="HBO2HDLatinAmerica.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYdWe0yKsRRdJpxYhe34kd6DBX7F1xOAy5eg&usqp=CAU" group-title="Series | Peliculas", HBO2
+http://8.243.108.57:8000/play/a02e
+
+#EXTINF:0 tvg-id="HBO2HDLatinAmerica.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYdWe0yKsRRdJpxYhe34kd6DBX7F1xOAy5eg&usqp=CAU" group-title="Series | Peliculas", HBO2
+http://179.43.81.254:14001/play/a037/index.m3u8
+
+#EXTINF:0 tvg-id="HBO2HDLatinAmerica.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYdWe0yKsRRdJpxYhe34kd6DBX7F1xOAy5eg&usqp=CAU" group-title="Series | Peliculas", HBO2
 http://190.43.232.244:8000/play/a07e/index.m3u8
 
 #EXTINF:0 tvg-id="HBO2HDLatinAmerica.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYdWe0yKsRRdJpxYhe34kd6DBX7F1xOAy5eg&usqp=CAU" group-title="Series | Peliculas", HBO2
@@ -392,7 +398,14 @@ http://170.83.242.9:5350/play/a02q
 
 EXTINF:0 tvg-id="HBOSignatureHDLatinAmerica.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRoaGCspfvLhd3fGs0mQj4cHLSBO849cCGCQ&usqp=CAU" group-title="Series | Peliculas", HBO SIGNATURE
 
-EXTINF:0 tvg-id="HBOPopLatinAmerica.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq3UZM1AbM1TQmNg23DrkwdjyPRVlSB9Ys-A&usqp=CAU" group-title="Series | Peliculas", HBO POP
+#EXTINF:0 tvg-id="HBOMundiHDLatinAmerica.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEPKwmpcqJITl-unFVBYbDN4D5DzmOMqw2Ag&usqp=CAU" group-title="Series | Peliculas", HBO Mundi
+http://179.63.4.142:8000/play/a070/index.m3u8
+
+#EXTINF:0 tvg-id="HBOPopLatinAmerica.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq3UZM1AbM1TQmNg23DrkwdjyPRVlSB9Ys-A&usqp=CAU" group-title="Series | Peliculas", HBO POP
+http://179.63.4.141:8000/play/a013/index.m3u8
+
+#EXTINF:0 tvg-id="HBOPopLatinAmerica.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq3UZM1AbM1TQmNg23DrkwdjyPRVlSB9Ys-A&usqp=CAU" group-title="Series | Peliculas", HBO POP
+http://8.243.108.57:8000/play/a00d
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwzysfoFT_kIxdNRm5xHIFRY-gMOVyUY7QEg&usqp=CAU" group-title="Series | Peliculas", ITV
 http://181.176.148.142:8000/play/a02n
@@ -511,10 +524,13 @@ http://170.83.242.9:5350/play/a0kq
 #EXTINF:0 tvg-id="UniversalPremiereEast.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe5VxnxX7Nxoip3D4yTyNL_RRdMSy6mVdlng&usqp=CAU" group-title="Series | Peliculas", UNIVERSAL PREMIERE
 http://181.78.27.187:5350/play/a0ko
 
-#EXTINF:0 tvg-id="UniversalPremiereEast.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe5VxnxX7Nxoip3D4yTyNL_RRdMSy6mVdlng&usqp=CAU" group-title="Series | Peliculas", UNIVERSAL PREMIERE O
+#EXTINF:0 tvg-id="UniversalPremiereEast.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe5VxnxX7Nxoip3D4yTyNL_RRdMSy6mVdlng&usqp=CAU" group-title="Series | Peliculas", UNIVERSAL PREMIERE
+http://209.45.95.18:8000/play/a03z
+
+EXTINF:0 tvg-id="UniversalPremiereEast.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe5VxnxX7Nxoip3D4yTyNL_RRdMSy6mVdlng&usqp=CAU" group-title="Series | Peliculas", UNIVERSAL PREMIERE O
 http://45.236.28.72:8000/play/a0gs/index.m3u8
 
-#EXTINF:0 tvg-id="UniversalPremiereEast.us" audio-track="spa" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3zC2tEyh76YwKRHpPtLUqJa4anXV-6bFih9ANHPW8IvqeuzT8YzLchA8aNAxWOqviTKL8xqM5RUczP5nkcMNG_E_Uw2Udd7nl_ZOQVICnASGNI-K8N0Zguwit28qWVwmGnYMs91BlseeBkKafTDQYSTc-s4pdbUqQeTDCJshQ4uZ9SzbFljboQws7Og/w1200-h630-p-k-no-nu/universal-crime.png" group-title="Series | Peliculas", UNIVERSAL CRIME
+EXTINF:0 tvg-id="UniversalPremiereEast.us" audio-track="spa" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3zC2tEyh76YwKRHpPtLUqJa4anXV-6bFih9ANHPW8IvqeuzT8YzLchA8aNAxWOqviTKL8xqM5RUczP5nkcMNG_E_Uw2Udd7nl_ZOQVICnASGNI-K8N0Zguwit28qWVwmGnYMs91BlseeBkKafTDQYSTc-s4pdbUqQeTDCJshQ4uZ9SzbFljboQws7Og/w1200-h630-p-k-no-nu/universal-crime.png" group-title="Series | Peliculas", UNIVERSAL CRIME
 http://45.236.28.72:8000/play/a0el/index.m3u8
 
 #EXTINF:0 tvg-id="WarnerChannelPanregional.us" audio-track="spa" tvg-logo="https://seeklogo.com/images/W/warner-channel-logo-7CD6F1795B-seeklogo.com.png" group-title="Series | Peliculas", WARNER
