@@ -6,23 +6,11 @@ http://45.224.23.209:8000/play/a078/index.m3u8
 #EXTINF:0 tvg-id="PlayboyTVLatinAmerica.us" audio-track="eng,spa", PLAYBOY
 http://160.20.164.171:8001/play/a074
 
-#EXTINF:0 tvg-id="PlayboyTVLatinAmerica.us", PLAYBOY
-http://191.212.166.203:4000/play/a0ee
-
 #EXTINF:0 tvg-id="PlayboyTVLatinAmerica.us" audio-track="eng,spa", PLAYBOY
 http://45.236.28.72:8000/play/a0c9/index.m3u8
 
 #EXTINF:0 tvg-id="Venus.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png", VENUS
 http://45.224.23.209:8000/play/a065/index.m3u8
-
-#EXTINF:0 tvg-id="Venus.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png", VENUS
-http://201.108.244.159:4000/play/a0ah
-
-#EXTINF:0 tvg-id="Venus.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png", VENUS
-http://186.46.29.115:8000/play/a017/index.m3u8
-
-#EXTINF:0 tvg-id="Venus.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png", VENUS
-http://45.232.210.1:8062/play/a0ca/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ22-imiS8G_GjZp562qYWpFBBiFJwtApX06A&usqp=CAU", SEXTREME
 http://45.224.23.209:8000/play/a064/index.m3u8
@@ -30,16 +18,10 @@ http://45.224.23.209:8000/play/a064/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ22-imiS8G_GjZp562qYWpFBBiFJwtApX06A&usqp=CAU", SEXTREME
 http://160.20.164.171:8001/play/a028
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ22-imiS8G_GjZp562qYWpFBBiFJwtApX06A&usqp=CAU", SEXTREME
-http://191.212.166.203:4000/play/a0ed
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ22-imiS8G_GjZp562qYWpFBBiFJwtApX06A&usqp=CAU", SEXTREME
-http://187.120.222.12:8000/play/Sextreme/index.m3u8
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThNj9bsA-gHXwdqLzIdQdKKpCLVZ_izMQI1Q&usqp=CAU", SEXY HOT
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThNj9bsA-gHXwdqLzIdQdKKpCLVZ_izMQI1Q&usqp=CAU", SEXY HOT
 http://200.6.86.128:12000/play/a0pl
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAhPSPGn1Ui-5Wc26wrUt89-49ZQ2wKPZOyw&usqp=CAU", Brazzers TV Europe
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAhPSPGn1Ui-5Wc26wrUt89-49ZQ2wKPZOyw&usqp=CAU", Brazzers TV Europe
 http://95.211.250.58/BRAZZERS/index.m3u8
 
 #EXTINF:0 tvg-id="PenthouseGold.us", Penthouse Gold
@@ -48,25 +30,25 @@ http://46.149.191.219:9106/play/a009
 #EXTINF:0 , Penthouse TV
 http://46.149.191.219:9106/play/a00b
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9bEKdEM-TWPsxvq_rkgAjgHwH6MgFnKB8OQ&usqp=CAU", SEXPRIVÉ
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9bEKdEM-TWPsxvq_rkgAjgHwH6MgFnKB8OQ&usqp=CAU", SEXPRIVÉ
 http://191.212.166.203:4000/play/a0fu
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGtDgsWeesuWaJ_BI0bMhJWUePqmCv9IiaIQ&usqp=CAU", BRASILEIRINHAS
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGtDgsWeesuWaJ_BI0bMhJWUePqmCv9IiaIQ&usqp=CAU", BRASILEIRINHAS
 http://191.212.166.203:4000/play/a0fx
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjZrXTkHXjFyTGn1i1_8PLmIpoeBiC6wWL2A&usqp=CAU" , Teste De Fudelidad
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjZrXTkHXjFyTGn1i1_8PLmIpoeBiC6wWL2A&usqp=CAU" , Teste De Fudelidad
 http://191.212.166.203:4000/play/a0g5
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtLM0I51iBG7xCBSi1J_x9QQjQy7HZ5LAGAw&usqp=CAU", TeamSkeet
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtLM0I51iBG7xCBSi1J_x9QQjQy7HZ5LAGAw&usqp=CAU", TeamSkeet
 http://191.212.166.203:4000/play/a0fw
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbcwKENuwno-7ri2s0-r0lpnAG1hUOOI2MbQ&usqp=CAU", Garotas
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbcwKENuwno-7ri2s0-r0lpnAG1hUOOI2MbQ&usqp=CAU", Garotas
 http://191.212.166.203:4000/play/a0fx
 
-#EXTINF:0 tvg-id="XXL.ero" , XXL
+EXTINF:0 tvg-id="XXL.ero" , XXL
 http://178.132.2.27:6600/XXL/index.m3u8
 
-#EXTINF:0 tvg-id="Erox.ero" , Erox HD
+EXTINF:0 tvg-id="Erox.ero" , Erox HD
 http://92.240.225.4:9999/play/66-16-org
 
 #EXTINF:0 , Redlight
