@@ -7,7 +7,7 @@ http://45.224.23.209:8000/play/a078/index.m3u8
 http://160.20.164.171:8001/play/a074
 
 #EXTINF:0 tvg-id="PlayboyTVLatinAmerica.us" audio-track="eng,spa", PLAYBOY
-http://45.236.28.72:8000/play/a0c9/index.m3u8
+http://187.13.81.65:4000/play/a0ee
 
 #EXTINF:0 tvg-id="Venus.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png", VENUS
 http://45.224.23.209:8000/play/a065/index.m3u8
