@@ -887,10 +887,10 @@ https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m
 #EXTINF:0 tvg-id="RealMadridTV.es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3M82Y8YcqtSXtuHDW4Pf2k4KnhvBscSW3BQ&usqp=CAU" group-title="Deportes", Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
-#EXTINF:0 tvg-id="canal14.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2HieE1S9cteMzZ-ku3VQxcgrWb6JHihZkxw&usqp=CAU" group-title="Mundial Qatar", Canal 13
+#EXTINF:0 tvg-id="canal14.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2HieE1S9cteMzZ-ku3VQxcgrWb6JHihZkxw&usqp=CAU" group-title="Mundial Qatar", 13C
 http://170.247.204.18:8000/play/a07a/index.m3u8
 
-#EXTINF:0 tvg-id="canal14.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2HieE1S9cteMzZ-ku3VQxcgrWb6JHihZkxw&usqp=CAU" group-title="Mundial Qatar", Canal 13
+#EXTINF:0 tvg-id="canal14.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2HieE1S9cteMzZ-ku3VQxcgrWb6JHihZkxw&usqp=CAU" group-title="Mundial Qatar", 13C
 http://170.79.235.29:8000/play/067
 
 #EXTINF:0 tvg-id="caracol.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV3VeWVNCOcosR-ZIrZMd3Sp0WHCI86I0oKQ&usqp=CAU" group-title="Mundial Qatar", Caracol
