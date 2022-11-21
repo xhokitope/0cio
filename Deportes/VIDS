@@ -10,6 +10,9 @@ http://160.20.164.171:8001/play/a074
 http://187.13.81.65:4000/play/a0ee
 
 #EXTINF:0 tvg-id="Venus.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png", VENUS
+http://45.228.232.204:16000/play/a05r/index.m3u8
+
+#EXTINF:0 tvg-id="Venus.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png", VENUS
 http://45.224.23.209:8000/play/a065/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ22-imiS8G_GjZp562qYWpFBBiFJwtApX06A&usqp=CAU", SEXTREME
