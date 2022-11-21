@@ -752,6 +752,12 @@ http://179.63.4.142:8000/play/a01t/index.m3u8
 #EXTINF:0 tvg-id="ESPNExtraHDSouth.us" tvg-name="ESPN EXTRA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ellfQo2qVP_bHllprPmDcKY2FcFVHjEn4w&usqp=CAU" group-title="Deportes", ESPN EXTRA
 http://181.78.7.92:7500/play/a00n
 
+#EXTINF:0 tvg-id="tigosports.bo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtYbRXAzX48Nzbu54f_nGoUS7eppwz7lAj-A&usqp=CAU" group-title="Deportes", Tigo Sports
+http://45.5.117.239:8000/play/a062/index.m3u8
+
+#EXTINF:0 tvg-id="tigosports.bo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtYbRXAzX48Nzbu54f_nGoUS7eppwz7lAj-A&usqp=CAU" group-title="Deportes", Tigo Sports
+http://200.76.0.24:8000/play/a065/index.m3u8
+
 #EXTINF:0 tvg-id="GOLPERU.(GOLPERU).pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpICYrXPIfyB0U_0vTNOpTchr7-RxQYkcv5g&usqp=CAU" group-title="Deportes", GOLPERU
 http://190.43.232.244:8000/play/a06d/index.m3u8
 
@@ -807,10 +813,10 @@ http://bgapp.live/play/5-937.php?c=9090&token=blackkghost&f=.m3u8
 http://201.182.251.146:37583/play/a05v/index.m3u8
 
 #EXTINF:0 tvg-id="TNTSportsArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJn34JqQ3sS1SIXt8Do8LqtUjoRb5yB79z9w&usqp=CAU" group-title="Deportes", TNT Sports 2
-http://200.41.79.165:8000/play/a059
+http://45.189.117.32:7579/play/a0ro/index.m3u8
 
 #EXTINF:0 tvg-id="TNTSportsArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJn34JqQ3sS1SIXt8Do8LqtUjoRb5yB79z9w&usqp=CAU" group-title="Deportes", TNT Sports 2
-http://170.79.235.29:8000/play/234
+http://200.41.79.165:8000/play/a059
 
 #EXTINF:0 tvg-id="TNTSportsArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJn34JqQ3sS1SIXt8Do8LqtUjoRb5yB79z9w&usqp=CAU" group-title="Deportes", TNT Sports 2
 http://170.79.235.29:8000/play/234
