@@ -914,6 +914,9 @@ http://45.167.194.11:8000/play/a00x
 #EXTINF:0 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_tGxUPq3iru--dAOqUU6CHueA6u5G8irLkA&usqp=CAU" group-title="Mundial Qatar", DirecTV Sports
 http://200.52.154.125:8000/play/a06p/index.m3u8
 
+#EXTINF:0 tvg-id="DirecTVSports2.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI-BakSUUHF0BEEBy2fXy1r0zrefouuK9BNA&usqp=CAU" group-title="Mundial Qatar", DirecTV Sports 2
+http://200.52.154.125:8000/play/a06o/index.m3u8
+
 #EXTINF:0 tvg-id="FrecuenciaLatina.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCNrKIpMpnWw1V3psfj-dpZMGqFWoIUsuaw&usqp=CAU" group-title="Mundial Qatar", Latina
 http://190.43.92.52:8000/play/a0mf/index.m3u8
 
