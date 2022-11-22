@@ -1,10 +1,10 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml.gz"
 
 #EXTINF:0 tvg-id="willax.pe" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
-http://181.65.199.218:8000/play/a029/index.m3u8
+http://190.187.247.206:8000/play/a01j/index.m3u8
 
 #EXTINF:0 tvg-id="willax.pe" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
-http://190.43.232.244:8000/play/a07r/index.m3u8
+http://190.239.25.140:8000/play/a02c/index.m3u8
 
 #EXTINF:0 tvg-id="willax.pe" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png" group-title="TV PERUANA", Willax
 http://168.194.171.33:8000/play/a01s/index.m3u8
@@ -16,13 +16,13 @@ https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
 http://181.176.148.142:8000/play/a026
 
 #EXTINF:0 tvg-id="FrecuenciaLatina.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCNrKIpMpnWw1V3psfj-dpZMGqFWoIUsuaw&usqp=CAU" group-title="TV PERUANA", Latina
-http://190.43.92.52:8000/play/a0mf/index.m3u8
-
-#EXTINF:0 tvg-id="FrecuenciaLatina.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCNrKIpMpnWw1V3psfj-dpZMGqFWoIUsuaw&usqp=CAU" group-title="TV PERUANA", Latina
-http://190.43.92.52:8000/play/a0h7/index.m3u8
-
-#EXTINF:0 tvg-id="FrecuenciaLatina.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCNrKIpMpnWw1V3psfj-dpZMGqFWoIUsuaw&usqp=CAU" group-title="TV PERUANA", Latina
 http://181.176.148.142:8000/play/a02p
+
+#EXTINF:0 tvg-id="FrecuenciaLatina.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCNrKIpMpnWw1V3psfj-dpZMGqFWoIUsuaw&usqp=CAU" group-title="TV PERUANA", Latina
+http://190.187.247.206:8000/play/a03f/index.m3u8
+
+#EXTINF:0 tvg-id="FrecuenciaLatina.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCNrKIpMpnWw1V3psfj-dpZMGqFWoIUsuaw&usqp=CAU" group-title="TV PERUANA", Latina
+http://190.239.25.140:8000/play/a02e/index.m3u8
 
 #EXTINF:0 tvg-id="FrecuenciaLatina.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCNrKIpMpnWw1V3psfj-dpZMGqFWoIUsuaw&usqp=CAU" group-title="TV PERUANA", Latina
 http://190.187.247.206:8000/play/a03f/index.m3u8
@@ -912,13 +912,13 @@ http://200.52.154.125:8000/play/a06p/index.m3u8
 http://200.52.154.125:8000/play/a06o/index.m3u8
 
 #EXTINF:0 tvg-id="FrecuenciaLatina.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCNrKIpMpnWw1V3psfj-dpZMGqFWoIUsuaw&usqp=CAU" group-title="Mundial Qatar", Latina
-http://190.43.92.52:8000/play/a0mf/index.m3u8
-
-#EXTINF:0 tvg-id="FrecuenciaLatina.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCNrKIpMpnWw1V3psfj-dpZMGqFWoIUsuaw&usqp=CAU" group-title="Mundial Qatar", Latina
-http://190.43.92.52:8000/play/a0h7/index.m3u8
-
-#EXTINF:0 tvg-id="FrecuenciaLatina.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCNrKIpMpnWw1V3psfj-dpZMGqFWoIUsuaw&usqp=CAU" group-title="Mundial Qatar", Latina
 http://181.176.148.142:8000/play/a02p
+
+#EXTINF:0 tvg-id="FrecuenciaLatina.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCNrKIpMpnWw1V3psfj-dpZMGqFWoIUsuaw&usqp=CAU" group-title="Mundial Qatar", Latina
+http://190.187.247.206:8000/play/a03f/index.m3u8
+
+#EXTINF:0 tvg-id="FrecuenciaLatina.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCNrKIpMpnWw1V3psfj-dpZMGqFWoIUsuaw&usqp=CAU" group-title="Mundial Qatar", Latina
+http://190.239.25.140:8000/play/a02e/index.m3u8
 
 #EXTINF:0 tvg-id="FrecuenciaLatina.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCNrKIpMpnWw1V3psfj-dpZMGqFWoIUsuaw&usqp=CAU" group-title="Mundial Qatar", Latina
 http://190.187.247.206:8000/play/a03f/index.m3u8
