@@ -933,7 +933,7 @@ http://201.244.106.58:8990/play/a01b/index.m3u8
 http://201.219.223.101:46000/play/a037
 
 #EXTINF:0 tvg-id="rcn.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgcnvf4KZ7wIbpCx3tbpBI2xGzWxHYX3yQkA&usqp=CAU" group-title="Mundial Qatar", RCN
-http://181.78.18.23:8000/play/a002/index.m3u8
+http://45.233.169.25:8000/play/a021
 
 #EXTINF:0 tvg-id="tigosports.bo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtYbRXAzX48Nzbu54f_nGoUS7eppwz7lAj-A&usqp=CAU" group-title="Mundial Qatar", Tigo Sports
 http://45.5.117.239:8000/play/a062/index.m3u8
