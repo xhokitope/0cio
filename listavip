@@ -1044,25 +1044,19 @@ http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 http://179.1.64.210:8090/play/a001/index.m3u8
 
 #EXTINF:0 tvg-id="HistoryPanregional.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxqAVi_JxGZOCO3SdsICCV78r5T3S7Aj84iQ&usqp=CAU" group-title="Ciencia | Cultura", HISTORY
-http://181.65.199.218:8000/play/a00e/index.m3u8
+http://181.78.27.187:5350/play/a02z
 
 #EXTINF:0 tvg-id="HistoryPanregional.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxqAVi_JxGZOCO3SdsICCV78r5T3S7Aj84iQ&usqp=CAU" group-title="Ciencia | Cultura", HISTORY
-http://45.181.122.100:8000/play/a04j/index.m3u8
-
-#EXTINF:0 tvg-id="HistoryPanregional.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxqAVi_JxGZOCO3SdsICCV78r5T3S7Aj84iQ&usqp=CAU" group-title="Ciencia | Cultura", HISTORY
-http://8.242.187.236:5007/play/a05d/index.m3u8
+http://190.108.93.148:8000/play/a0dc/index.m3u8
 
 #EXTINF:0 tvg-id="History2Panregional.us" audio-track="eng,spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYJ8U1zE4HmML93N6w3TRYhWdAg3oSGQgfQw&usqp=CAU" group-title="Ciencia | Cultura", HISTORY 2
 http://160.20.164.171:8001/play/a03j
 
 #EXTINF:0 tvg-id="History2Panregional.us" audio-track="eng,spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYJ8U1zE4HmML93N6w3TRYhWdAg3oSGQgfQw&usqp=CAU" group-title="Ciencia | Cultura", HISTORY 2
-http://181.65.199.218:8000/play/a0fr/index.m3u8
+http://8.242.187.233:5800/play/a0at/index.m3u8
 
 #EXTINF:0 tvg-id="History2Panregional.us" audio-track="eng,spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYJ8U1zE4HmML93N6w3TRYhWdAg3oSGQgfQw&usqp=CAU" group-title="Ciencia | Cultura", HISTORY 2
-http://177.234.254.38:8000/play/a010/index.m3u8
-
-#EXTINF:0 tvg-id="AnimalPanregional.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyvsnJWPhC0phHnRIRqjzvM3hVOiazARc6dA&usqp=CAU" group-title="Ciencia | Cultura", Animal Planet
-http://181.78.7.92:7500/play/a00p
+http://190.61.102.67:444/play/a021
 
 #EXTINF:0 tvg-id="AnimalPanregional.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyvsnJWPhC0phHnRIRqjzvM3hVOiazARc6dA&usqp=CAU" group-title="Ciencia | Cultura", Animal Planet
 http://170.83.242.9:5350/play/a00p
@@ -1070,20 +1064,23 @@ http://170.83.242.9:5350/play/a00p
 #EXTINF:0 tvg-id="AnimalPanregional.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyvsnJWPhC0phHnRIRqjzvM3hVOiazARc6dA&usqp=CAU" group-title="Ciencia | Cultura", Animal Planet
 http://181.176.148.142:8000/play/a034
 
+#EXTINF:0 tvg-id="AnimalPanregional.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyvsnJWPhC0phHnRIRqjzvM3hVOiazARc6dA&usqp=CAU" group-title="Ciencia | Cultura", Animal Planet
+http://190.108.93.148:8000/play/a071/index.m3u8
+
 #EXTINF:0 tvg-id="TLC.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm5AXEpZ0V38fmkyHbvIUCCfGzRc3hocuUbQ&usqp=CAU" group-title="Ciencia | Cultura", TLC
 http://170.83.242.9:5350/play/a010
 
 #EXTINF:0 tvg-id="TLC.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm5AXEpZ0V38fmkyHbvIUCCfGzRc3hocuUbQ&usqp=CAU" group-title="Ciencia | Cultura", TLC
-http://190.43.232.244:8000/play/a09n/index.m3u8
+http://190.108.93.148:8000/play/a07a/index.m3u8
+
+#EXTINF:0 tvg-id="TLC.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm5AXEpZ0V38fmkyHbvIUCCfGzRc3hocuUbQ&usqp=CAU" group-title="Ciencia | Cultura", TLC
+http://181.78.27.187:5350/play/a010
 
 #EXTINF:0 tvg-id="E!.pe" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVJfVPJsr_ZFKaALSke73drljoGFseLqJvsA&usqp=CAU" group-title="Ciencia | Cultura", E! Entertainment
-http://160.20.164.171:8001/play/a01s
+http://190.108.93.148:8000/play/a073/index.m3u8
 
 #EXTINF:0 tvg-id="E!.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVJfVPJsr_ZFKaALSke73drljoGFseLqJvsA&usqp=CAU" group-title="Ciencia | Cultura", E! Entertainment
 http://170.83.242.9:5350/play/a00r
-
-#EXTINF:0 tvg-id="E!.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVJfVPJsr_ZFKaALSke73drljoGFseLqJvsA&usqp=CAU" group-title="Ciencia | Cultura", E! Entertainment
-http://190.61.41.182:8000/play/a35r/index.m3u8
 
 #EXTINF:0 tvg-id="E!.pe" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVJfVPJsr_ZFKaALSke73drljoGFseLqJvsA&usqp=CAU" group-title="Ciencia | Cultura", E! Entertainment
 http://190.60.37.69:8015/play/a01n/index.m3u8
