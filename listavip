@@ -114,13 +114,13 @@ http://170.83.242.9:5350/play/a0oy
 #EXTINF:0 tvg-id="TVE.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyqYn9xXLffUOGh3-9pLeRLTHvqvFEGWVrOQ&usqp=CAU" group-title="TV INTERNACIONAL", TVE
 http://181.78.27.187:5350/play/a0oy
 
-#EXTINF:0 tvg-id="TVGloboInternacionalAmericas.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdka71okDcmZ7QxhYdS9yQMjyAtlbPcHm3OQ&usqp=CAU" group-title="TV INTERNACIONAL", GLOBO HD
+EXTINF:0 tvg-id="TVGloboInternacionalAmericas.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdka71okDcmZ7QxhYdS9yQMjyAtlbPcHm3OQ&usqp=CAU" group-title="TV INTERNACIONAL", GLOBO HD
 http://45.184.160.146:8000/play/a02i
 
 EXTINF:0 tvg-id="TVGloboInternacionalAmericas.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdka71okDcmZ7QxhYdS9yQMjyAtlbPcHm3OQ&usqp=CAU" group-title="TV INTERNACIONAL", GLOBO HD
 http://189.81.142.134:4000/play/a06c
 
-EXTINF:0 tvg-id="CitytvBogota.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjC-D9Y1Db_bEIJYLOptOU77Bz8RkZn4n3Kg&usqp=CAU" group-title="TV INTERNACIONAL", City TV
+#EXTINF:0 tvg-id="CitytvBogota.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjC-D9Y1Db_bEIJYLOptOU77Bz8RkZn4n3Kg&usqp=CAU" group-title="TV INTERNACIONAL", City TV
 http://201.219.223.101:46000/play/a03l
 
 #EXTINF:0 tvg-id="CitytvBogota.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjC-D9Y1Db_bEIJYLOptOU77Bz8RkZn4n3Kg&usqp=CAU" group-title="TV INTERNACIONAL", City TV
