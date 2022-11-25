@@ -241,19 +241,19 @@ http://190.131.228.59:8000/play/a05x/index.m3u8
 http://45.232.210.1:8062/play/a08y/index.m3u8
 
 #EXTINF:0 tvg-id="AMCHDSouth.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd8Tk9e4vDK3HhLpPEbFjcySwK25C6SSxFyw&usqp=CAU" group-title="Series | Peliculas", AMC
-http://160.20.164.171:8001/play/a01u
+http://177.234.254.38:8000/play/a020/index.m3u8
 
 #EXTINF:0 tvg-id="AMCHDSouth.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd8Tk9e4vDK3HhLpPEbFjcySwK25C6SSxFyw&usqp=CAU" group-title="Series | Peliculas", AMC
-http://190.131.247.82:8000/play/a06c
+http://45.5.117.239:8000/play/a033/index.m3u8
 
 #EXTINF:0 tvg-id="AMCHDSouth.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd8Tk9e4vDK3HhLpPEbFjcySwK25C6SSxFyw&usqp=CAU" group-title="Series | Peliculas", AMC
-http://45.5.119.202:8000/play/a02w/index.m3u8
+http://45.233.169.25:8000/play/a002
 
 #EXTINF:0 tvg-id="AMCHDSouth.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd8Tk9e4vDK3HhLpPEbFjcySwK25C6SSxFyw&usqp=CAU" group-title="Series | Peliculas", AMC
-http://179.63.4.141:8000/play/a01s/index.m3u8
+http://181.78.12.166:9000/play/a048
 
 #EXTINF:0 tvg-id="AMCHDSouth.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd8Tk9e4vDK3HhLpPEbFjcySwK25C6SSxFyw&usqp=CAU" group-title="Series | Peliculas", AMC
-http://190.43.232.244:8000/play/a075/index.m3u8
+http://8.242.187.233:5800/play/a093/index.m3u8
 
 #EXTINF:0 tvg-id="AXNPacific.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTkXsvfPIsko4y3HPTetW2DMmgD-EBLGAgVw&usqp=CAU" group-title="Series | Peliculas", AXN
 http://170.83.242.9:5350/play/a004
