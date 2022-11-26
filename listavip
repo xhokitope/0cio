@@ -876,10 +876,25 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 http://170.247.204.18:8000/play/a07a/index.m3u8
 
 #EXTINF:0 tvg-id="canal14.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2HieE1S9cteMzZ-ku3VQxcgrWb6JHihZkxw&usqp=CAU" group-title="Mundial Qatar", 13C
+http://45.160.15.130:2909/play/067
+
+#EXTINF:0 tvg-id="canal14.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2HieE1S9cteMzZ-ku3VQxcgrWb6JHihZkxw&usqp=CAU" group-title="Mundial Qatar", 13C
+http://45.181.121.57:2909/play/067
+
+#EXTINF:0 tvg-id="canal14.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2HieE1S9cteMzZ-ku3VQxcgrWb6JHihZkxw&usqp=CAU" group-title="Mundial Qatar", 13C
 http://170.79.235.29:8000/play/067
 
 #EXTINF:0 tvg-id="caracol.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV3VeWVNCOcosR-ZIrZMd3Sp0WHCI86I0oKQ&usqp=CAU" group-title="Mundial Qatar", Caracol
 http://181.78.12.166:9000/play/a05v
+
+#EXTINF:0 tvg-id="caracol.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV3VeWVNCOcosR-ZIrZMd3Sp0WHCI86I0oKQ&usqp=CAU" group-title="Mundial Qatar", Caracol
+http://190.61.43.124:45000/play/a038
+
+#EXTINF:0 tvg-id="caracol.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV3VeWVNCOcosR-ZIrZMd3Sp0WHCI86I0oKQ&usqp=CAU" group-title="Mundial Qatar", Caracol
+http://190.61.40.186:45000/play/a038
+
+#EXTINF:0 tvg-id="caracol.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV3VeWVNCOcosR-ZIrZMd3Sp0WHCI86I0oKQ&usqp=CAU" group-title="Mundial Qatar", Caracol
+http://190.61.40.189:45000/play/a038
 
 #EXTINF:0 tvg-id="caracol.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV3VeWVNCOcosR-ZIrZMd3Sp0WHCI86I0oKQ&usqp=CAU" group-title="Mundial Qatar", Caracol
 http://8.242.187.233:5800/play/a0b1/index.m3u8
@@ -888,16 +903,37 @@ http://8.242.187.233:5800/play/a0b1/index.m3u8
 http://170.247.204.18:8000/play/a08n/index.m3u8
 
 #EXTINF:0 tvg-id="chilevision cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzucwECm0m0ebi_Iy5pQ6MbrelO0bjVikNlA&usqp=CAU" group-title="Mundial Qatar", Chilevision
+http://45.181.121.57:2909/play/066
+
+#EXTINF:0 tvg-id="chilevision cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzucwECm0m0ebi_Iy5pQ6MbrelO0bjVikNlA&usqp=CAU" group-title="Mundial Qatar", Chilevision
+http://8.243.108.57:8001/play/a01e/index.m3u8
+
+#EXTINF:0 tvg-id="chilevision cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzucwECm0m0ebi_Iy5pQ6MbrelO0bjVikNlA&usqp=CAU" group-title="Mundial Qatar", Chilevision
 http://45.167.194.11:8000/play/a00x
 
 #EXTINF:0 tvg-id="FrecuenciaLatina.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCNrKIpMpnWw1V3psfj-dpZMGqFWoIUsuaw&usqp=CAU" group-title="Mundial Qatar", Latina
 http://181.176.148.142:8000/play/a02p
 
 #EXTINF:0 tvg-id="FrecuenciaLatina.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCNrKIpMpnWw1V3psfj-dpZMGqFWoIUsuaw&usqp=CAU" group-title="Mundial Qatar", Latina
+http://190.43.92.211:8000/play/a0h7/index.m3u8
+
+#EXTINF:0 tvg-id="FrecuenciaLatina.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCNrKIpMpnWw1V3psfj-dpZMGqFWoIUsuaw&usqp=CAU" group-title="Mundial Qatar", Latina
+http://190.43.92.169:8000/play/a0h7/index.m3u8
+
+#EXTINF:0 tvg-id="FrecuenciaLatina.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCNrKIpMpnWw1V3psfj-dpZMGqFWoIUsuaw&usqp=CAU" group-title="Mundial Qatar", Latina
 http://190.239.25.140:8000/play/a02e/index.m3u8
 
 #EXTINF:0 tvg-id="rcn.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgcnvf4KZ7wIbpCx3tbpBI2xGzWxHYX3yQkA&usqp=CAU" group-title="Mundial Qatar", RCN
 http://186.5.31.251:8000/play/a0df/index.m3u8
+
+#EXTINF:0 tvg-id="rcn.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgcnvf4KZ7wIbpCx3tbpBI2xGzWxHYX3yQkA&usqp=CAU" group-title="Mundial Qatar", RCN
+http://179.0.98.34:8000/play/a03r/index.m3u8
+
+#EXTINF:0 tvg-id="rcn.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgcnvf4KZ7wIbpCx3tbpBI2xGzWxHYX3yQkA&usqp=CAU" group-title="Mundial Qatar", RCN
+http://8.243.108.57:8001/play/a00a/index.m3u8
+
+#EXTINF:0 tvg-id="rcn.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgcnvf4KZ7wIbpCx3tbpBI2xGzWxHYX3yQkA&usqp=CAU" group-title="Mundial Qatar", RCN
+http://190.61.40.186:45000/play/a039
 
 #EXTINF:0 tvg-id="rcn.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgcnvf4KZ7wIbpCx3tbpBI2xGzWxHYX3yQkA&usqp=CAU" group-title="Mundial Qatar", RCN
 http://201.244.106.58:8990/play/a01b/index.m3u8
@@ -915,10 +951,19 @@ http://177.234.254.38:8000/play/a03z/index.m3u8
 http://177.234.254.38:8000/play/a04k/index.m3u8
 
 #EXTINF:0 tvg-id="teleamazonas.ec" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWZSgLa3P8p9JOknUAJcVEQ9RAb1AgTYYWFw&usqp=CAU" group-title="Mundial Qatar", Teleamazonas
+http://45.179.140.242:8000/play/a0j4
+
+#EXTINF:0 tvg-id="teleamazonas.ec" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWZSgLa3P8p9JOknUAJcVEQ9RAb1AgTYYWFw&usqp=CAU" group-title="Mundial Qatar", Teleamazonas
 http://186.5.31.251:8000/play/a04g/index.m3u8
 
 #EXTINF:0 tvg-id="teleamazonas.ec" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWZSgLa3P8p9JOknUAJcVEQ9RAb1AgTYYWFw&usqp=CAU" group-title="Mundial Qatar", Teleamazonas
 http://200.24.132.99:8000/play/a00n
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGxzThJ6SVCc66gq5ws73UKKA6eOrvD_ca5A&usqp=CAU" group-title="Mundial Qatar", Telemundo Qatar
+http://200.48.19.141:10021/play/a02u
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWcoOFfnbFsA6isEF_4h-qrIjL9fMuIB69nA&usqp=CAU" group-title="Mundial Qatar", Teletica 7
+http://190.7.192.165:8000/play/s1
 
 #EXTINF:0 tvg-id="TUDN.mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXym3FEHZmfFxX1mrYXYC0NV9tAhzHRmcfOg&usqp=CAU" group-title="Mundial Qatar", TUDN
 http://190.61.102.67:444/play/a07e
