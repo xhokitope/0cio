@@ -1011,13 +1011,7 @@ http://89.185.253.55/retrotv/smil:retrotv2.smil/playlist.m3u8
 http://181.176.148.142:8000/play/a01u
 
 #EXTINF:0 tvg-id="MTVSouth.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRepA3Q9Clc5PAT4xJ48HcJSedHhNv9LO0YCQ&usqp=CAU" group-title="Musica En Vivo", MTV
-http://181.65.199.218:8000/play/a00i/index.m3u8
-
-#EXTINF:0 tvg-id="MTVSouth.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRepA3Q9Clc5PAT4xJ48HcJSedHhNv9LO0YCQ&usqp=CAU" group-title="Musica En Vivo", MTV
-http://8.242.187.236:5007/play/a05h/index.m3u8
-
-#EXTINF:0 tvg-id="MTVSouth.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRepA3Q9Clc5PAT4xJ48HcJSedHhNv9LO0YCQ&usqp=CAU" group-title="Musica En Vivo", MTV
-http://181.65.199.218:8000/play/a00i/index.m3u8
+http://200.52.154.125:8000/play/a040/index.m3u8
 
 #EXTINF:0 tvg-id="MTVSouth.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRepA3Q9Clc5PAT4xJ48HcJSedHhNv9LO0YCQ&usqp=CAU" group-title="Musica En Vivo", MTV
 http://190.60.37.69:8015/play/a00j/index.m3u8
@@ -1025,11 +1019,20 @@ http://190.60.37.69:8015/play/a00j/index.m3u8
 #EXTINF:0 tvg-id="MTVSouth.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScuBlZjXFGx3oVBQgzxANNZrrQbM5SSkWkjw&usqp=CAU" group-title="Musica En Vivo", MTV 00s
 http://45.228.232.204:16000/play/a05j/index.m3u8
 
+#EXTINF:0 tvg-id="MTVSouth.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScuBlZjXFGx3oVBQgzxANNZrrQbM5SSkWkjw&usqp=CAU" group-title="Musica En Vivo", MTV 00s
+http://200.52.154.125:8000/play/a05u/index.m3u8
+
 #EXTINF:0 tvg-id="MTV80s.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkh5BRLcHUkTuMU-XuZ2PEbqKDG6oXQ25icQ&usqp=CAU" group-title="Musica En Vivo", MTV 80s
 http://177.234.254.38:8000/play/a07d/index.m3u8
 
 #EXTINF:0 tvg-id="MTVHits.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYt_kWsuM9nPn9Iz_A4DxHr-k6cutEpFnaiQ&usqp=CAU" group-title="Musica En Vivo", MTV Hits
 http://45.228.232.204:16000/play/a02p/index.m3u8
+
+#EXTINF:0 tvg-id="MTVHits.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYt_kWsuM9nPn9Iz_A4DxHr-k6cutEpFnaiQ&usqp=CAU" group-title="Musica En Vivo", MTV Hits
+http://200.52.154.125:8000/play/a057/index.m3u8
+
+#EXTINF:0 tvg-id="MTVsim.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxg51nqdjskG6xY05uXReRKt6oHZIRzvYNcg&usqp=CAU" group-title="Musica En Vivo", MTV SIM
+http://200.52.154.125:8000/play/a05t/index.m3u8
 
 #EXTINF:0 type="stream" tvg-id="KPOP.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFI0J1PDerTJxA_DqdyzHzZHR7EK5IcGuasg&usqp=CAU" group-title="Musica En Vivo", K-POP
 https://youtu.be/embed/F4aby5WN1Rw
