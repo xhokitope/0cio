@@ -1031,7 +1031,10 @@ http://45.228.232.204:16000/play/a02p/index.m3u8
 #EXTINF:0 tvg-id="MTVHits.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYt_kWsuM9nPn9Iz_A4DxHr-k6cutEpFnaiQ&usqp=CAU" group-title="Musica En Vivo", MTV Hits
 http://200.52.154.125:8000/play/a057/index.m3u8
 
-#EXTINF:0 tvg-id="MTVsim.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxg51nqdjskG6xY05uXReRKt6oHZIRzvYNcg&usqp=CAU" group-title="Musica En Vivo", MTV SIM
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc6fIq2Y6mY5oIyYP-A98FO_qoH3gJ1zMb3A&usqp=CAU" group-title="Musica En Vivo", MTV Live HD
+http://190.186.159.19:58001/play/a00c/index.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc6fIq2Y6mY5oIyYP-A98FO_qoH3gJ1zMb3A&usqp=CAU" group-title="Musica En Vivo", MTV Live HD
 http://200.52.154.125:8000/play/a05t/index.m3u8
 
 #EXTINF:0 type="stream" tvg-id="KPOP.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFI0J1PDerTJxA_DqdyzHzZHR7EK5IcGuasg&usqp=CAU" group-title="Musica En Vivo", K-POP
@@ -1042,9 +1045,6 @@ https://youtu.be/embed/3g_P8_pe87w
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdp_wTw0MdW-pFc7Q-5IE-ytEZKapwa3F7KQ&usqp=CAU" group-title="Musica En Vivo", Carolina CL
 https://unlimited1-us.dps.live:443/carolinatv/carolinatv.smil/carolinatv/livestream1/chunks.m3u8
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc6fIq2Y6mY5oIyYP-A98FO_qoH3gJ1zMb3A&usqp=CAU" group-title="Musica En Vivo", MTV Live HD
-http://190.186.159.19:58001/play/a00c/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGlo-48YjEMk4tEjjkd3Xn2Pg3lmd-fgsxgQ&usqp=CAU" group-title="Musica En Vivo", TeleRitmo
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
