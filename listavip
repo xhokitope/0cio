@@ -1095,7 +1095,7 @@ http://170.83.242.9:5350/play/a00r
 http://190.60.37.69:8015/play/a01n/index.m3u8
 
 #EXTINF:0 tvg-id="ID.pe" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrsIfbBVEMyE75Ro-8wYGdp1ggEYIU2XLLsA&usqp=CAU" group-title="Ciencia | Cultura", ID
-http://200.48.19.140:10021/play/a01b
+http://201.182.251.146:37581/play/a01c/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThVacVpvWoxA94ohz-aG6Mk_ido7NRgIndKg&usqp=CAU" group-title="Ciencia | Cultura", RTVE PLAY
 https://ztnr.rtve.es/ztnr/1688877.m3u8
