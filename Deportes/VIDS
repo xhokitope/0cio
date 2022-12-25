@@ -25,12 +25,6 @@ http://200.12.33.210:8001/play/a02v/index.m3u8
 http://45.228.232.204:16000/play/a05r/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ22-imiS8G_GjZp562qYWpFBBiFJwtApX06A&usqp=CAU", SEXTREME
-http://200.48.19.140:10021/play/a036
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ22-imiS8G_GjZp562qYWpFBBiFJwtApX06A&usqp=CAU", SEXTREME
-http://200.48.19.139:10021/play/a036
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ22-imiS8G_GjZp562qYWpFBBiFJwtApX06A&usqp=CAU", SEXTREME
 http://160.20.164.171:8001/play/a028
 
 EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThNj9bsA-gHXwdqLzIdQdKKpCLVZ_izMQI1Q&usqp=CAU", SEXY HOT
@@ -39,7 +33,7 @@ http://200.6.86.128:12000/play/a0pl
 EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAhPSPGn1Ui-5Wc26wrUt89-49ZQ2wKPZOyw&usqp=CAU", Brazzers TV Europe
 http://95.211.250.58/BRAZZERS/index.m3u8
 
-#EXTINF:0 tvg-id="PenthouseGold.us", Penthouse Gold
+EXTINF:0 tvg-id="PenthouseGold.us", Penthouse Gold
 http://46.149.191.219:9106/play/a009
 
 #EXTINF:0 , Penthouse TV
@@ -66,7 +60,7 @@ http://178.132.2.27:6600/XXL/index.m3u8
 EXTINF:0 tvg-id="Erox.ero" , Erox HD
 http://92.240.225.4:9999/play/66-16-org
 
-#EXTINF:0 , Redlight
+EXTINF:0 , Redlight
 http://212.18.115.191:3169/play/a004/index.m3u8
 
 #EXTINF:0 , GangBang
