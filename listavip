@@ -783,7 +783,7 @@ http://200.41.79.165:8000/play/a05v
 http://181.65.199.218:8000/play/a01q/index.m3u8
 
 #EXTINF:0 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_tGxUPq3iru--dAOqUU6CHueA6u5G8irLkA&usqp=CAU" group-title="Deportes", DirecTV Sports
-http://200.52.154.125:8000/play/a06p/index.m3u8
+http://200.24.141.2:4000/play/a1qb/index.m3u8
 
 EXTINF:0 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_tGxUPq3iru--dAOqUU6CHueA6u5G8irLkA&usqp=CAU" group-title="Deportes", DirecTV Sports
 http://bgapp.live/play/5-937.php?c=9084&token=blackkghost&f=.m3u8
