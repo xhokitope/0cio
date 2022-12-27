@@ -310,10 +310,13 @@ http://45.236.28.72:8000/play/a0er/index.m3u8
 http://45.228.232.204:16000/play/a05a/index.m3u8
 
 #EXTINF:0 tvg-id="StarChannelSouth.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuy06bmT3Yu_WeK7X68zmYjWp4PzUCxf_X6g&usqp=CAU" group-title="Series | Peliculas", FOX CHANNEL
+http://179.0.98.34:8000/play/a03h/index.m3u8
+
+#EXTINF:0 tvg-id="StarChannelSouth.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuy06bmT3Yu_WeK7X68zmYjWp4PzUCxf_X6g&usqp=CAU" group-title="Series | Peliculas", FOX CHANNEL
 http://186.5.31.251:8000/play/a05x/index.m3u8
 
 #EXTINF:0 tvg-id="StarChannelSouth.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuy06bmT3Yu_WeK7X68zmYjWp4PzUCxf_X6g&usqp=CAU" group-title="Series | Peliculas", FOX CHANNEL
-http://190.108.93.148:8000/play/a0dj/index.m3u8
+http://200.229.147.76:4000/play/a037/index.m3u8
 
 #EXTINF:0 tvg-id="StarChannelSouth.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuy06bmT3Yu_WeK7X68zmYjWp4PzUCxf_X6g&usqp=CAU" group-title="Series | Peliculas", FOX CHANNEL
 http://45.228.232.204:16000/play/a070/index.m3u8
