@@ -26,6 +26,10 @@ http://45.228.232.204:16000/play/a05r/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ22-imiS8G_GjZp562qYWpFBBiFJwtApX06A&usqp=CAU", SEXTREME
 http://160.20.164.171:8001/play/a028
+http://186.5.31.251:8000/play/a0bj/index.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ22-imiS8G_GjZp562qYWpFBBiFJwtApX06A&usqp=CAU", SEXTREME
+http://160.20.164.171:8001/play/a028
 
 EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThNj9bsA-gHXwdqLzIdQdKKpCLVZ_izMQI1Q&usqp=CAU", SEXY HOT
 http://200.6.86.128:12000/play/a0pl
