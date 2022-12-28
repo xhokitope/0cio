@@ -144,6 +144,45 @@ https://d2ab26kihxq8p0.cloudfront.net/hls/live.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPIcrWR5QfDwvVwhpWSjoRcIbNNiO_6qOTJQ&usqp=CAU" group-title="TV INTERNACIONAL", Arica TV CL
 https://5eaccbab48461.streamlock.net:1936/8002/8002/playlist.m3u8
 
+#EXTINF:0 tvg-id="canal14.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2HieE1S9cteMzZ-ku3VQxcgrWb6JHihZkxw&usqp=CAU" group-title="TV INTERNACIONAL", 13C
+http://45.181.121.57:2909/play/067
+
+#EXTINF:0 tvg-id="canal14.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2HieE1S9cteMzZ-ku3VQxcgrWb6JHihZkxw&usqp=CAU" group-title="TV INTERNACIONAL", 13C
+http://170.79.235.29:8000/play/067
+
+#EXTINF:0 tvg-id="caracol.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV3VeWVNCOcosR-ZIrZMd3Sp0WHCI86I0oKQ&usqp=CAU" group-title="TV INTERNACIONAL", Caracol
+http://8.242.187.233:5800/play/a0b1/index.m3u8
+
+#EXTINF:0 tvg-id="chilevision cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzucwECm0m0ebi_Iy5pQ6MbrelO0bjVikNlA&usqp=CAU" group-title="TV INTERNACIONAL", Chilevision
+http://45.181.121.57:2909/play/066
+
+#EXTINF:0 tvg-id="rcn.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgcnvf4KZ7wIbpCx3tbpBI2xGzWxHYX3yQkA&usqp=CAU" group-title="TV INTERNACIONAL", RCN
+http://186.5.31.251:8000/play/a0df/index.m3u8
+
+#EXTINF:0 tvg-id="rcn.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgcnvf4KZ7wIbpCx3tbpBI2xGzWxHYX3yQkA&usqp=CAU" group-title="TV INTERNACIONAL", RCN
+http://179.0.98.34:8000/play/a03r/index.m3u8
+
+#EXTINF:0 tvg-id="rcn.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgcnvf4KZ7wIbpCx3tbpBI2xGzWxHYX3yQkA&usqp=CAU" group-title="TV INTERNACIONAL", RCN
+http://201.244.106.58:8990/play/a01b/index.m3u8
+
+#EXTINF:0 tvg-id="rcn.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgcnvf4KZ7wIbpCx3tbpBI2xGzWxHYX3yQkA&usqp=CAU" group-title="TV INTERNACIONAL", RCN
+http://201.219.223.101:46000/play/a037
+
+#EXTINF:0 tvg-id="teleamazonas.ec" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWZSgLa3P8p9JOknUAJcVEQ9RAb1AgTYYWFw&usqp=CAU" group-title="TV INTERNACIONAL", Teleamazonas
+http://177.234.254.38:8000/play/a04k/index.m3u8
+
+#EXTINF:0 tvg-id="teleamazonas.ec" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWZSgLa3P8p9JOknUAJcVEQ9RAb1AgTYYWFw&usqp=CAU" group-title="TV INTERNACIONAL", Teleamazonas
+http://45.179.140.242:8000/play/a0j4
+
+#EXTINF:0 tvg-id="teleamazonas.ec" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWZSgLa3P8p9JOknUAJcVEQ9RAb1AgTYYWFw&usqp=CAU" group-title="TV INTERNACIONAL", Teleamazonas
+http://186.5.31.251:8000/play/a04g/index.m3u8
+
+#EXTINF:0 tvg-id="teleamazonas.ec" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWZSgLa3P8p9JOknUAJcVEQ9RAb1AgTYYWFw&usqp=CAU" group-title="TV INTERNACIONAL", Teleamazonas
+http://200.24.132.99:8000/play/a00n
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWcoOFfnbFsA6isEF_4h-qrIjL9fMuIB69nA&usqp=CAU" group-title="TV INTERNACIONAL", Teletica 7
+http://190.7.192.165:8000/play/s1
+
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3WZwZrxF7d_UEIfcGiis8Z6McURZzwxFfuA&usqp=CAU" group-title="TV INTERNACIONAL", Lancelot TV ES
 https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/playlist.m3u8
 
@@ -825,24 +864,6 @@ http://bgapp.live/play/5-937.php?c=9089&token=blackkghost&f=.m3u8
 EXTINF:0 tvg-id="DirecTVSportsPlus.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDD2YO-nYpQ2YZIr550RZrrizcv7bKhNc0JQ&usqp=CAU" group-title="Deportes", DirecTV Sports +
 http://bgapp.live/play/5-937.php?c=9090&token=blackkghost&f=.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyThGgslO5ZZVkHhKFbUXS8eB5JhJXW-H8g&usqp=CAU" group-title="Deportes", TNT Sports
-http://201.182.251.146:37583/play/a05v/index.m3u8
-
-#EXTINF:0 tvg-id="TNTSportsArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJn34JqQ3sS1SIXt8Do8LqtUjoRb5yB79z9w&usqp=CAU" group-title="Deportes", TNT Sports 2
-http://45.189.117.32:7579/play/a0ro/index.m3u8
-
-#EXTINF:0 tvg-id="TNTSportsArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJn34JqQ3sS1SIXt8Do8LqtUjoRb5yB79z9w&usqp=CAU" group-title="Deportes", TNT Sports 2
-http://200.41.79.165:8000/play/a059
-
-#EXTINF:0 tvg-id="TNTSportsArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJn34JqQ3sS1SIXt8Do8LqtUjoRb5yB79z9w&usqp=CAU" group-title="Deportes", TNT Sports 2
-http://170.79.235.29:8000/play/234
-
-#EXTINF:0 tvg-id="TNTSportsArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_LXDPoZq66I-aRzisZzV6O45LFVTfasNH7w&usqp=CAU" group-title="Deportes", TNT Sports 3
-http://45.224.23.209:8000/play/a054/index.m3u8
-
-#EXTINF:0 tvg-id="TNTSportsArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_LXDPoZq66I-aRzisZzV6O45LFVTfasNH7w&usqp=CAU" group-title="Deportes", TNT Sports 3
-http://168.194.171.33:8000/play/a01d/index.m3u8
-
 #EXTINF:0 tvg-id="FoxSportsSouth.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="Deportes", FOX SPORTS
 http://179.1.77.222:8000/play/a011
 
@@ -873,19 +894,40 @@ http://45.232.210.1:8062/play/a095/index.m3u8
 #EXTINF:0 tvg-id="FoxSports3Panregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Deportes", FOX SPORTS 3
 http://190.131.228.59:8000/play/a066/index.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0HS97I8EPy66GNAWM9cqZPXJ0lfTanR1CJQ&usqp=CAU" group-title="Deportes", DAZN LaLiga
+#EXTINF:0 tvg-id="tigosports.bo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtYbRXAzX48Nzbu54f_nGoUS7eppwz7lAj-A&usqp=CAU" group-title="Deportes", Tigo Sports
+http://45.5.117.239:8000/play/a062/index.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyThGgslO5ZZVkHhKFbUXS8eB5JhJXW-H8g&usqp=CAU" group-title="Deportes", TNT Sports
+http://201.182.251.146:37583/play/a05v/index.m3u8
+
+#EXTINF:0 tvg-id="TNTSportsArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJn34JqQ3sS1SIXt8Do8LqtUjoRb5yB79z9w&usqp=CAU" group-title="Deportes", TNT Sports 2
+http://45.189.117.32:7579/play/a0ro/index.m3u8
+
+#EXTINF:0 tvg-id="TNTSportsArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJn34JqQ3sS1SIXt8Do8LqtUjoRb5yB79z9w&usqp=CAU" group-title="Deportes", TNT Sports 2
+http://200.41.79.165:8000/play/a059
+
+#EXTINF:0 tvg-id="TNTSportsArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJn34JqQ3sS1SIXt8Do8LqtUjoRb5yB79z9w&usqp=CAU" group-title="Deportes", TNT Sports 2
+http://170.79.235.29:8000/play/234
+
+#EXTINF:0 tvg-id="TNTSportsArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_LXDPoZq66I-aRzisZzV6O45LFVTfasNH7w&usqp=CAU" group-title="Deportes", TNT Sports 3
+http://45.224.23.209:8000/play/a054/index.m3u8
+
+#EXTINF:0 tvg-id="TNTSportsArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_LXDPoZq66I-aRzisZzV6O45LFVTfasNH7w&usqp=CAU" group-title="Deportes", TNT Sports 3
+http://168.194.171.33:8000/play/a01d/index.m3u8
+
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0HS97I8EPy66GNAWM9cqZPXJ0lfTanR1CJQ&usqp=CAU" group-title="Deportes", DAZN LaLiga
 http://154.54.220.247:51323/play/a030/index.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ7CDsh0j7ERHwsQ3HSjox2oE1yVHRTAWNTg&usqp=CAU" group-title="Deportes", Movistar LaLiga
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ7CDsh0j7ERHwsQ3HSjox2oE1yVHRTAWNTg&usqp=CAU" group-title="Deportes", Movistar LaLiga
 http://154.54.220.247:51323/play/a032/index.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp7lGza59YOFRB49zY0EkEdQlL-hYC5OzZYw&usqp=CAU" group-title="Deportes", LaLiga SmartBank
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp7lGza59YOFRB49zY0EkEdQlL-hYC5OzZYw&usqp=CAU" group-title="Deportes", LaLiga SmartBank
 http://154.54.220.247:51323/play/a036/index.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEucQ50P4s3qq4dn3nuqsxwqx0F9Z6Mjekiw&usqp=CAU" group-title="Deportes", Movistar Liga de Campeones
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEucQ50P4s3qq4dn3nuqsxwqx0F9Z6Mjekiw&usqp=CAU" group-title="Deportes", Movistar Liga de Campeones
 http://154.54.220.247:51323/play/a03c/index.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXoRtRyb1bA1lnvf4MjvrNVYnSkUdkbXvVdw&usqp=CAU" group-title="Deportes", Bein Sports 1
+EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXoRtRyb1bA1lnvf4MjvrNVYnSkUdkbXvVdw&usqp=CAU" group-title="Deportes", Bein Sports 1
 http://90.166.42.17:8182/play/a020
 
 #EXTINF:0 tvg-id="beINSportsXtra.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvBvf6qepd2387CGhdtSb4Rd0ZD6zDRXelgQ&usqp=CAU" group-title="Deportes", Bein Sports XTRA EN
@@ -896,102 +938,6 @@ https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m
 
 #EXTINF:0 tvg-id="RealMadridTV.es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3M82Y8YcqtSXtuHDW4Pf2k4KnhvBscSW3BQ&usqp=CAU" group-title="Deportes", Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-
-#EXTINF:0 tvg-id="canal14.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2HieE1S9cteMzZ-ku3VQxcgrWb6JHihZkxw&usqp=CAU" group-title="Mundial Qatar", 13C
-http://170.247.204.18:8000/play/a07a/index.m3u8
-
-#EXTINF:0 tvg-id="canal14.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2HieE1S9cteMzZ-ku3VQxcgrWb6JHihZkxw&usqp=CAU" group-title="Mundial Qatar", 13C
-http://45.160.15.130:2909/play/067
-
-#EXTINF:0 tvg-id="canal14.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2HieE1S9cteMzZ-ku3VQxcgrWb6JHihZkxw&usqp=CAU" group-title="Mundial Qatar", 13C
-http://45.181.121.57:2909/play/067
-
-#EXTINF:0 tvg-id="canal14.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2HieE1S9cteMzZ-ku3VQxcgrWb6JHihZkxw&usqp=CAU" group-title="Mundial Qatar", 13C
-http://170.79.235.29:8000/play/067
-
-#EXTINF:0 tvg-id="caracol.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV3VeWVNCOcosR-ZIrZMd3Sp0WHCI86I0oKQ&usqp=CAU" group-title="Mundial Qatar", Caracol
-http://181.78.12.166:9000/play/a05v
-
-#EXTINF:0 tvg-id="caracol.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV3VeWVNCOcosR-ZIrZMd3Sp0WHCI86I0oKQ&usqp=CAU" group-title="Mundial Qatar", Caracol
-http://190.61.43.124:45000/play/a038
-
-#EXTINF:0 tvg-id="caracol.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV3VeWVNCOcosR-ZIrZMd3Sp0WHCI86I0oKQ&usqp=CAU" group-title="Mundial Qatar", Caracol
-http://190.61.40.186:45000/play/a038
-
-#EXTINF:0 tvg-id="caracol.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV3VeWVNCOcosR-ZIrZMd3Sp0WHCI86I0oKQ&usqp=CAU" group-title="Mundial Qatar", Caracol
-http://190.61.40.189:45000/play/a038
-
-#EXTINF:0 tvg-id="caracol.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV3VeWVNCOcosR-ZIrZMd3Sp0WHCI86I0oKQ&usqp=CAU" group-title="Mundial Qatar", Caracol
-http://8.242.187.233:5800/play/a0b1/index.m3u8
-
-#EXTINF:0 tvg-id="chilevision cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzucwECm0m0ebi_Iy5pQ6MbrelO0bjVikNlA&usqp=CAU" group-title="Mundial Qatar", Chilevision
-http://170.247.204.18:8000/play/a08n/index.m3u8
-
-#EXTINF:0 tvg-id="chilevision cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzucwECm0m0ebi_Iy5pQ6MbrelO0bjVikNlA&usqp=CAU" group-title="Mundial Qatar", Chilevision
-http://45.181.121.57:2909/play/066
-
-#EXTINF:0 tvg-id="chilevision cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzucwECm0m0ebi_Iy5pQ6MbrelO0bjVikNlA&usqp=CAU" group-title="Mundial Qatar", Chilevision
-http://8.243.108.57:8001/play/a01e/index.m3u8
-
-#EXTINF:0 tvg-id="chilevision cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzucwECm0m0ebi_Iy5pQ6MbrelO0bjVikNlA&usqp=CAU" group-title="Mundial Qatar", Chilevision
-http://45.167.194.11:8000/play/a00x
-
-#EXTINF:0 tvg-id="FrecuenciaLatina.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCNrKIpMpnWw1V3psfj-dpZMGqFWoIUsuaw&usqp=CAU" group-title="Mundial Qatar", Latina
-http://181.176.148.142:8000/play/a02p
-
-#EXTINF:0 tvg-id="FrecuenciaLatina.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCNrKIpMpnWw1V3psfj-dpZMGqFWoIUsuaw&usqp=CAU" group-title="Mundial Qatar", Latina
-http://190.43.92.211:8000/play/a0h7/index.m3u8
-
-#EXTINF:0 tvg-id="FrecuenciaLatina.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCNrKIpMpnWw1V3psfj-dpZMGqFWoIUsuaw&usqp=CAU" group-title="Mundial Qatar", Latina
-http://190.43.92.169:8000/play/a0h7/index.m3u8
-
-#EXTINF:0 tvg-id="FrecuenciaLatina.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCNrKIpMpnWw1V3psfj-dpZMGqFWoIUsuaw&usqp=CAU" group-title="Mundial Qatar", Latina
-http://190.239.25.140:8000/play/a02e/index.m3u8
-
-#EXTINF:0 tvg-id="rcn.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgcnvf4KZ7wIbpCx3tbpBI2xGzWxHYX3yQkA&usqp=CAU" group-title="Mundial Qatar", RCN
-http://186.5.31.251:8000/play/a0df/index.m3u8
-
-#EXTINF:0 tvg-id="rcn.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgcnvf4KZ7wIbpCx3tbpBI2xGzWxHYX3yQkA&usqp=CAU" group-title="Mundial Qatar", RCN
-http://179.0.98.34:8000/play/a03r/index.m3u8
-
-#EXTINF:0 tvg-id="rcn.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgcnvf4KZ7wIbpCx3tbpBI2xGzWxHYX3yQkA&usqp=CAU" group-title="Mundial Qatar", RCN
-http://8.243.108.57:8001/play/a00a/index.m3u8
-
-#EXTINF:0 tvg-id="rcn.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgcnvf4KZ7wIbpCx3tbpBI2xGzWxHYX3yQkA&usqp=CAU" group-title="Mundial Qatar", RCN
-http://190.61.40.186:45000/play/a039
-
-#EXTINF:0 tvg-id="rcn.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgcnvf4KZ7wIbpCx3tbpBI2xGzWxHYX3yQkA&usqp=CAU" group-title="Mundial Qatar", RCN
-http://201.244.106.58:8990/play/a01b/index.m3u8
-
-#EXTINF:0 tvg-id="rcn.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgcnvf4KZ7wIbpCx3tbpBI2xGzWxHYX3yQkA&usqp=CAU" group-title="Mundial Qatar", RCN
-http://201.219.223.101:46000/play/a037
-
-#EXTINF:0 tvg-id="tigosports.bo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtYbRXAzX48Nzbu54f_nGoUS7eppwz7lAj-A&usqp=CAU" group-title="Mundial Qatar", Tigo Sports
-http://45.5.117.239:8000/play/a062/index.m3u8
-
-#EXTINF:0 tvg-id="tigosports.bo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtYbRXAzX48Nzbu54f_nGoUS7eppwz7lAj-A&usqp=CAU" group-title="Mundial Qatar", Tigo Sports
-http://177.234.254.38:8000/play/a03z/index.m3u8
-
-#EXTINF:0 tvg-id="teleamazonas.ec" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWZSgLa3P8p9JOknUAJcVEQ9RAb1AgTYYWFw&usqp=CAU" group-title="Mundial Qatar", Teleamazonas
-http://177.234.254.38:8000/play/a04k/index.m3u8
-
-#EXTINF:0 tvg-id="teleamazonas.ec" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWZSgLa3P8p9JOknUAJcVEQ9RAb1AgTYYWFw&usqp=CAU" group-title="Mundial Qatar", Teleamazonas
-http://45.179.140.242:8000/play/a0j4
-
-#EXTINF:0 tvg-id="teleamazonas.ec" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWZSgLa3P8p9JOknUAJcVEQ9RAb1AgTYYWFw&usqp=CAU" group-title="Mundial Qatar", Teleamazonas
-http://186.5.31.251:8000/play/a04g/index.m3u8
-
-#EXTINF:0 tvg-id="teleamazonas.ec" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWZSgLa3P8p9JOknUAJcVEQ9RAb1AgTYYWFw&usqp=CAU" group-title="Mundial Qatar", Teleamazonas
-http://200.24.132.99:8000/play/a00n
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGxzThJ6SVCc66gq5ws73UKKA6eOrvD_ca5A&usqp=CAU" group-title="Mundial Qatar", Telemundo Qatar
-http://200.48.19.141:10021/play/a02u
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWcoOFfnbFsA6isEF_4h-qrIjL9fMuIB69nA&usqp=CAU" group-title="Mundial Qatar", Teletica 7
-http://190.7.192.165:8000/play/s1
-
-#EXTINF:0 tvg-id="TUDN.mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXym3FEHZmfFxX1mrYXYC0NV9tAhzHRmcfOg&usqp=CAU" group-title="Mundial Qatar", TUDN
-http://190.61.102.67:444/play/a07e
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl9uaepsRU-4ARYs9l7tjM2DFtoh8QagXF9w&usqp=CAU" group-title="TV Novelas", Pasiones
 http://160.20.164.171:8001/play/a017
