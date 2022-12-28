@@ -550,21 +550,19 @@ http://190.61.102.67:444/play/a067
 
 EXTINF:0 tvg-id="UniversalPremiereEast.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe5VxnxX7Nxoip3D4yTyNL_RRdMSy6mVdlng&usqp=CAU" group-title="Series | Peliculas", UNIVERSAL PREMIERE O
 
-
 EXTINF:0 tvg-id="UniversalPremiereEast.us" audio-track="spa" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3zC2tEyh76YwKRHpPtLUqJa4anXV-6bFih9ANHPW8IvqeuzT8YzLchA8aNAxWOqviTKL8xqM5RUczP5nkcMNG_E_Uw2Udd7nl_ZOQVICnASGNI-K8N0Zguwit28qWVwmGnYMs91BlseeBkKafTDQYSTc-s4pdbUqQeTDCJshQ4uZ9SzbFljboQws7Og/w1200-h630-p-k-no-nu/universal-crime.png" group-title="Series | Peliculas", UNIVERSAL CRIME
 
-
 #EXTINF:0 tvg-id="WarnerChannelPanregional.us" audio-track="spa" tvg-logo="https://seeklogo.com/images/W/warner-channel-logo-7CD6F1795B-seeklogo.com.png" group-title="Series | Peliculas", WARNER
-http://190.61.41.182:8000/play/a35q/index.m3u8
+http://170.79.235.29:8000/play/081
 
 #EXTINF:0 tvg-id="WarnerChannelPanregional.us" audio-track="spa" tvg-logo="https://seeklogo.com/images/W/warner-channel-logo-7CD6F1795B-seeklogo.com.png" group-title="Series | Peliculas", WARNER
 http://190.187.247.206:8000/play/a014/index.m3u8
 
 #EXTINF:0 tvg-id="WarnerChannelPanregional.us" audio-track="spa" tvg-logo="https://seeklogo.com/images/W/warner-channel-logo-7CD6F1795B-seeklogo.com.png" group-title="Series | Peliculas", WARNER CHANNEL
-http://170.79.235.29:8000/play/081
+http://170.83.242.9:5350/play/a00q
 
 #EXTINF:0 tvg-id="WarnerChannelPanregional.us" audio-track="spa" tvg-logo="https://seeklogo.com/images/W/warner-channel-logo-7CD6F1795B-seeklogo.com.png" group-title="Series | Peliculas", WARNER
-http://170.83.242.9:5350/play/a00q
+http://190.108.93.148:8000/play/a072/index.m3u8
 
 #EXTINF:0 tvg-id="WarnerChannelPanregional.us" tvg-logo="https://seeklogo.com/images/W/warner-channel-logo-7CD6F1795B-seeklogo.com.png" group-title="Series | Peliculas", WARNER
 http://190.60.37.69:8015/play/a01m/index.m3u8
