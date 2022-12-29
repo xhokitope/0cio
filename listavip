@@ -933,11 +933,26 @@ https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m
 #EXTINF:0 tvg-id="RealMadridTV.es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3M82Y8YcqtSXtuHDW4Pf2k4KnhvBscSW3BQ&usqp=CAU" group-title="Deportes", Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBw-S87G0mXPhK2eZLgwN49SvxOs56tdiX1Q&usqp=CAU" group-title="TV Novelas", Kanal D
+http://200.75.113.64:8874/play/a0od/index.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBw-S87G0mXPhK2eZLgwN49SvxOs56tdiX1Q&usqp=CAU" group-title="TV Novelas", Kanal D
+http://186.5.31.251:8000/play/a0a4/index.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBw-S87G0mXPhK2eZLgwN49SvxOs56tdiX1Q&usqp=CAU" group-title="TV Novelas", Kanal D
+http://179.0.98.34:8000/play/a03z/index.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl9uaepsRU-4ARYs9l7tjM2DFtoh8QagXF9w&usqp=CAU" group-title="TV Novelas", Pasiones
+http://200.60.7.43:8000/play/a05e/index.m3u8
+
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl9uaepsRU-4ARYs9l7tjM2DFtoh8QagXF9w&usqp=CAU" group-title="TV Novelas", Pasiones
 http://160.20.164.171:8001/play/a017
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl9uaepsRU-4ARYs9l7tjM2DFtoh8QagXF9w&usqp=CAU" group-title="TV Novelas", Pasiones
-http://186.3.216.78:9955/play/a0y6/index.m3u8
+http://45.228.232.204:16000/play/a080/index.m3u8
+
+#EXTINF:0 tvg-name="RCN Novelas" tvg-id="RCNNovelas.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpQHhqU5K17gjM98YJO1cKU1DitqFBHDXJZw&usqp=CAU" group-title="TV Novelas", RCN Novelas
+http://200.60.7.43:8000/play/a02l/index.m3u8
 
 #EXTINF:0 tvg-name="RCN Novelas" tvg-id="RCNNovelas.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpQHhqU5K17gjM98YJO1cKU1DitqFBHDXJZw&usqp=CAU" group-title="TV Novelas", RCN Novelas
 http://160.20.164.171:8001/play/a02t
@@ -946,10 +961,16 @@ http://160.20.164.171:8001/play/a02t
 http://200.41.79.165:8000/play/a0is
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToTIzWjvfQ72Px-KVde0e91RSOaHbBHOFI0Q&usqp=CAU" group-title="TV Novelas", Telemundo Internacional
+http://201.182.251.146:37581/play/a0bh/index.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToTIzWjvfQ72Px-KVde0e91RSOaHbBHOFI0Q&usqp=CAU" group-title="TV Novelas", Telemundo Internacional
 http://160.20.164.171:8001/play/a01v
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToTIzWjvfQ72Px-KVde0e91RSOaHbBHOFI0Q&usqp=CAU" group-title="TV Novelas", Telemundo Internacional
 http://200.41.79.165:8000/play/a067
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ZHXNTb54LNOnrMhAF16gGuoFW8yD2_gRuw&usqp=CAU" group-title="TV Novelas", Tlnovelas
+http://201.182.251.146:37581/play/a01d/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ZHXNTb54LNOnrMhAF16gGuoFW8yD2_gRuw&usqp=CAU" group-title="TV Novelas", Tlnovelas
 http://160.20.164.171:8001/play/a00r
@@ -958,10 +979,13 @@ http://160.20.164.171:8001/play/a00r
 http://200.41.79.165:8000/play/a0ju
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Z4SKgSuJUFZNis8Tou7FQkjeNGArLRDz5g&usqp=CAU" group-title="TV Novelas", Canal De Las Estrellas
+http://201.182.251.146:37581/play/a054/index.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Z4SKgSuJUFZNis8Tou7FQkjeNGArLRDz5g&usqp=CAU" group-title="TV Novelas", Canal De Las Estrellas
 http://200.41.79.165:8000/play/a064
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Z4SKgSuJUFZNis8Tou7FQkjeNGArLRDz5g&usqp=CAU" group-title="TV Novelas", Canal De Las Estrellas
-http://190.61.41.182:8000/play/a362/index.m3u8
+http://190.108.93.148:8000/play/a07c/index.m3u8
 
 #EXTINF:0 tvg-id="HTV.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQobXdcQEiOqIn9EB3SzPJFQxKBxVwPu0IIRw&usqp=CAU" group-title="Musica En Vivo", HTV
 http://45.228.232.204:16000/play/a05k/index.m3u8

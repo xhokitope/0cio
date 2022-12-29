@@ -25,7 +25,7 @@ https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/viol
 #EXTINF:0 type="stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk5IpNwQGXfqyFLUbTq30LE1kM68z-Ncm4zg&usqp=CAU" group-title="Streamers En Directo", Aroyitt
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/aroyitt
 
-#EXTINF:0 type="stream" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b563146b-3b41-4f0e-937f-031357516c23-profile_image-300x300.png" group-title="Streamers En Directo", AriGameplays
+#EXTINF:0 type="stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQni8vw-uAQnBWHUiXFnHvJF_MeiGB_tU4Yew&usqp=CAU" group-title="Streamers En Directo", AriGameplays
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/arigameplays
 
 #EXTINF:0 type="stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEbfEdfpsOcZ8oe2Y4kGtyeXinS2i6ZWE6wQ&usqp=CAU" group-title="Streamers En Directo", El Mariana
