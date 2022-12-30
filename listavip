@@ -49,25 +49,22 @@ https://dysmuyxh5vstv.cloudfront.net:443/hls/atv2_360.m3u8
 http://190.187.247.206:8000/play/a03n/index.m3u8
 
 #EXTINF:0 tvg-id="PanamericanaTV.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNodEC5o4GRK0MaFR_r8zSsrNxYuJjeDdUzA&usqp=CAU" group-title="TV PERUANA", PANAMERICANA TV
-http://209.45.95.18:8000/play/a030
+http://190.239.25.140:8000/play/a02g/index.m3u8
 
 #EXTINF:0 tvg-id="PanamericanaTV.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNodEC5o4GRK0MaFR_r8zSsrNxYuJjeDdUzA&usqp=CAU" group-title="TV PERUANA", PANAMERICANA TV
 http://190.239.25.140:8000/play/a02g/index.m3u8
 
 #EXTINF:0 tvg-id="PanamericanaTV.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNodEC5o4GRK0MaFR_r8zSsrNxYuJjeDdUzA&usqp=CAU" group-title="TV PERUANA", PANAMERICANA TV
-http://190.108.85.116:8000/play/a06i/index.m3u8
+http://186.5.31.251:8000/play/a09v/index.m3u8
 
 #EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmDXwq_JVNoby065mDeURMs9zHCd4FU9GnvQ&usqp=CAU" group-title="TV PERUANA", GLOBAL (PE)
-http://190.108.85.116:8000/play/a06n/index.m3u8
+http://181.176.173.181:51011/play/a08v/index.m3u8
 
 #EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmDXwq_JVNoby065mDeURMs9zHCd4FU9GnvQ&usqp=CAU" group-title="TV PERUANA", GLOBAL (PE)
 http://186.5.31.251:8000/play/a0a0/index.m3u8
 
 #EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmDXwq_JVNoby065mDeURMs9zHCd4FU9GnvQ&usqp=CAU" group-title="TV PERUANA", GLOBAL (PE)
-http://181.176.173.181:51011/play/a08v/index.m3u8
-
-#EXTINF:0 tvg-id="AmericaTelevision.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnj4six21x50vnaiL29u8xyeoD9Aas4BGSIQ&usqp=CAU" group-title="TV PERUANA", América TV (PE)
-http://209.45.95.18:8000/play/a03c
+http://186.5.31.251:8000/play/a0a0/index.m3u8
 
 #EXTINF:0 tvg-id="AmericaTelevision.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnj4six21x50vnaiL29u8xyeoD9Aas4BGSIQ&usqp=CAU" group-title="TV PERUANA", América TV (PE)
 http://190.239.25.140:8000/play/a02f/index.m3u8
@@ -75,14 +72,23 @@ http://190.239.25.140:8000/play/a02f/index.m3u8
 #EXTINF:0 tvg-id="AmericaTelevision.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnj4six21x50vnaiL29u8xyeoD9Aas4BGSIQ&usqp=CAU" group-title="TV PERUANA", América TV (PE)
 http://186.5.31.251:8000/play/a09u/index.m3u8
 
-EXTINF:0 tvg-id="CanalN.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjFu1v4nogWUR6-t48F7HH8GASg290M1uc6w&usqp=CAU" group-title="TV PERUANA", Canal N
-http://45.225.95.170:8000/play/a0ef/index.m3u8
+#EXTINF:0 tvg-id="AmericaTelevision.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnj4six21x50vnaiL29u8xyeoD9Aas4BGSIQ&usqp=CAU" group-title="TV PERUANA", América TV (PE)
+http://186.5.31.251:8000/play/a09u/index.m3u8
+
+#EXTINF:0 tvg-id="CanalN.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjFu1v4nogWUR6-t48F7HH8GASg290M1uc6w&usqp=CAU" group-title="TV PERUANA", Canal N
+http://186.5.31.251:8000/play/a09y/index.m3u8
+
+#EXTINF:0 tvg-id="CanalN.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjFu1v4nogWUR6-t48F7HH8GASg290M1uc6w&usqp=CAU" group-title="TV PERUANA", Canal N
+http://179.0.98.34:8000/play/a04x/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREhRKq4cEPB0Me2eJuYvc5nkCA97S96Q8Eng&usqp=CAU" group-title="TV PERUANA", Exitosa TV
 http://51.222.154.150/livevd1/user2.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKSMfslaD8NtNeI1iCUvpdB3iUz-9tDEZvNQ&usqp=CAU" group-title="TV PERUANA", RPP
 http://45.225.95.170:8000/play/a0f5/index.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKSMfslaD8NtNeI1iCUvpdB3iUz-9tDEZvNQ&usqp=CAU" group-title="TV PERUANA", RPP
+http://186.5.31.251:8000/play/a0au/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwhBlAg-kzdSDSvlJM2sctkmxdN3QoBeqDcQ&usqp=CAU" group-title="TV PERUANA", RADIO OVACION TV PE
 https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
