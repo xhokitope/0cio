@@ -109,16 +109,19 @@ http://160.20.164.171:8001/play/a037
 http://190.61.102.67:444/play/a00b
 
 #EXTINF:0 tvg-id="StarTVE.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRws7JwZU2xfLudtdjqRhDsx1SLO_59jk2eWA&usqp=CAU" group-title="TV INTERNACIONAL", STAR TVE
-http://200.76.0.24:8000/play/a040/index.m3u8
+http://45.228.232.204:16000/play/a04k/index.m3u8
+
+#EXTINF:0 tvg-id="StarTVE.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRws7JwZU2xfLudtdjqRhDsx1SLO_59jk2eWA&usqp=CAU" group-title="TV INTERNACIONAL", STAR TVE
+http://190.61.102.67:444/play/a04z
 
 #EXTINF:0 tvg-id="TVE.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyqYn9xXLffUOGh3-9pLeRLTHvqvFEGWVrOQ&usqp=CAU" group-title="TV INTERNACIONAL", TVE
 http://170.79.235.29:8000/play/153
 
 #EXTINF:0 tvg-id="TVE.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyqYn9xXLffUOGh3-9pLeRLTHvqvFEGWVrOQ&usqp=CAU" group-title="TV INTERNACIONAL", TVE
-http://170.83.242.9:5350/play/a0oy
+http://186.5.31.251:8000/play/a0b7/index.m3u8
 
 #EXTINF:0 tvg-id="TVE.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyqYn9xXLffUOGh3-9pLeRLTHvqvFEGWVrOQ&usqp=CAU" group-title="TV INTERNACIONAL", TVE
-http://181.78.27.187:5350/play/a0oy
+http://200.229.147.76:4000/play/a01s/index.m3u8
 
 EXTINF:0 tvg-id="TVGloboInternacionalAmericas.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdka71okDcmZ7QxhYdS9yQMjyAtlbPcHm3OQ&usqp=CAU" group-title="TV INTERNACIONAL", GLOBO HD
 http://45.184.160.146:8000/play/a02i
@@ -127,13 +130,13 @@ EXTINF:0 tvg-id="TVGloboInternacionalAmericas.br" tvg-logo="https://encrypted-tb
 http://189.81.142.134:4000/play/a06c
 
 #EXTINF:0 tvg-id="CitytvBogota.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjC-D9Y1Db_bEIJYLOptOU77Bz8RkZn4n3Kg&usqp=CAU" group-title="TV INTERNACIONAL", City TV
-http://201.219.223.101:46000/play/a03l
-
-#EXTINF:0 tvg-id="CitytvBogota.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjC-D9Y1Db_bEIJYLOptOU77Bz8RkZn4n3Kg&usqp=CAU" group-title="TV INTERNACIONAL", City TV
 http://190.60.37.69:8015/play/a03d/index.m3u8
 
 #EXTINF:0 tvg-id="CitytvBogota.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjC-D9Y1Db_bEIJYLOptOU77Bz8RkZn4n3Kg&usqp=CAU" group-title="TV INTERNACIONAL", City TV
 http://200.41.79.165:8000/play/a00g
+
+#EXTINF:0 tvg-id="CitytvBogota.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjC-D9Y1Db_bEIJYLOptOU77Bz8RkZn4n3Kg&usqp=CAU" group-title="TV INTERNACIONAL", City TV
+http://186.5.31.251:8000/play/a0dm/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWbDkR07oq9X2tt_HQWJE31Y-2HdCuIZVyxw&usqp=CAU" group-title="TV INTERNACIONAL", AmericaTeve MIAMI US
 https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
@@ -144,10 +147,10 @@ https://www.dailymotion.com/cdn/live/video/x7gy059.m3u8?sec=akqmKB-jNrmMNz-LdK1P
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQcDTYzBgdcxx2jVjZ6VXf6fmGKlnaKtUZZA&usqp=CAU" group-title="TV INTERNACIONAL", Canal 6 Nicaragua
 https://www.dailymotion.com/cdn/live/video/x7nngbi.m3u8?sec=WVn4cNJlvHIjHOHh2t1zjZyfOAbwjhOA5bbVdlLOvkyAQ5UCYaYx4r_eBRqTjRKlWu32xQMq3xk5VB8lVzXb6Q
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnNygwBUBPEh1bWv4STpIseUuB1Y5DgLyIpQ&usqp=CAU" group-title="TV INTERNACIONAL", LaRed CL
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnNygwBUBPEh1bWv4STpIseUuB1Y5DgLyIpQ&usqp=CAU" group-title="TV INTERNACIONAL", LaRed Chile
 https://d2ab26kihxq8p0.cloudfront.net/hls/live.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPIcrWR5QfDwvVwhpWSjoRcIbNNiO_6qOTJQ&usqp=CAU" group-title="TV INTERNACIONAL", Arica TV CL
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPIcrWR5QfDwvVwhpWSjoRcIbNNiO_6qOTJQ&usqp=CAU" group-title="TV INTERNACIONAL", Arica TV Chile
 https://5eaccbab48461.streamlock.net:1936/8002/8002/playlist.m3u8
 
 #EXTINF:0 tvg-id="canal14.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2HieE1S9cteMzZ-ku3VQxcgrWb6JHihZkxw&usqp=CAU" group-title="TV INTERNACIONAL", 13C
@@ -505,6 +508,9 @@ http://190.108.93.148:8000/play/a083/index.m3u8
 
 #EXTINF:0 tvg-id="SonyChannelSouth.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsMAZLSYszYGCUCY_5Wd77FJMscnxntVQLFg&usqp=CAU" group-title="Series | Peliculas", SONY
 http://131.196.194.2:8000/play/a09p/index.m3u8
+
+#EXTINF:0 tvg-id="SonyMoviesSouth.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdCDSB9pu4OWNcif5Z_260Us3XVzPubyKq2A&usqp=CAU" group-title="Series | Peliculas", SONY Movies
+http://190.61.102.67:444/play/a04w
 
 #EXTINF:0 tvg-id="SpacePanregional.us" audio-track="spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfNGxoxLjOwpqKe9DGdE4f735BPr8fqostZw&usqp=CAU" group-title="Series | Peliculas", SPACE
 http://170.79.235.29:8000/play/119
