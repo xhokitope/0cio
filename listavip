@@ -826,19 +826,19 @@ http://181.176.173.181:51011/play/a07y/index.m3u8
 http://187.102.208.109:50000/play/a01n/index.m3u8
 
 #EXTINF:0 tvg-id="MovistarDeportes.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWqoQOMrVxiQQOvQc3nvAeRHhXmfTG3vtgRQ&usqp=CAU" group-title="Deportes", Movistar Deportes
-http://190.43.232.244:8000/play/a065/index.m3u8
+http://8.243.104.157:8083/play/a03c/index.m3u8
 
 #EXTINF:0 tvg-id="MovistarDeportes.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWqoQOMrVxiQQOvQc3nvAeRHhXmfTG3vtgRQ&usqp=CAU" group-title="Deportes", Movistar Deportes
-http://181.65.199.218:8000/play/a0br/index.m3u8
-
-#EXTINF:0 tvg-id="Goltv.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQncF25OuGhuO0-qo0-IqYO5pXPxed_NRx5UQ&usqp=CAU" group-title="Deportes", GOL TV
-http://190.131.228.59:8000/play/a05u/index.m3u8
+http://168.194.100.99:8000/play/a036
 
 #EXTINF:0 tvg-id="Goltv.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQncF25OuGhuO0-qo0-IqYO5pXPxed_NRx5UQ&usqp=CAU" group-title="Deportes", GOL TV
 http://200.41.79.165:8000/play/a05u
 
 #EXTINF:0 tvg-id="Goltv.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQncF25OuGhuO0-qo0-IqYO5pXPxed_NRx5UQ&usqp=CAU" group-title="Deportes", GOL TV
-http://181.65.199.218:8000/play/a0bv/index.m3u8
+http://8.243.104.157:8083/play/a03e/index.m3u8
+
+#EXTINF:0 tvg-id="Goltv.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQncF25OuGhuO0-qo0-IqYO5pXPxed_NRx5UQ&usqp=CAU" group-title="Deportes", GOL TV
+http://200.24.141.2:4000/play/a0e2/index.m3u8
 
 #EXTINF:0 tvg-id="TYCSports.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8bvldEAciCevtvsrv5aPlA6g6_X1aWbGOhA&usqp=CAU" group-title="Deportes", TyC Sports
 http://160.20.164.171:8001/play/a051
