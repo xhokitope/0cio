@@ -61,8 +61,8 @@ http://191.212.166.203:4000/play/a0fx
 EXTINF:0 tvg-id="XXL.ero" , XXL
 http://178.132.2.27:6600/XXL/index.m3u8
 
-EXTINF:0 tvg-id="Erox.ero" , Erox HD
-http://92.240.225.4:9999/play/66-16-org
+#EXTINF:0 tvg-id="Erox.ero" , Erox HD
+http://185.6.21.210:8000/play/a009
 
 EXTINF:0 , Redlight
 http://212.18.115.191:3169/play/a004/index.m3u8

@@ -858,7 +858,7 @@ http://bgapp.live/play/5-937.php?c=9084&token=blackkghost&f=.m3u8
 EXTINF:0 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_tGxUPq3iru--dAOqUU6CHueA6u5G8irLkA&usqp=CAU" group-title="Deportes", DirecTV Sports
 http://bgapp.live/play/5-937.php?c=9086&token=blackkghost&f=.m3u8
 
-#EXTINF:0 tvg-id="DirecTVSports2.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI-BakSUUHF0BEEBy2fXy1r0zrefouuK9BNA&usqp=CAU" group-title="Deportes", DirecTV Sports 2
+EXTINF:0 tvg-id="DirecTVSports2.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI-BakSUUHF0BEEBy2fXy1r0zrefouuK9BNA&usqp=CAU" group-title="Deportes", DirecTV Sports 2
 http://200.52.154.125:8000/play/a06o/index.m3u8
 
 EXTINF:0 tvg-id="DirecTVSportsPlus.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDD2YO-nYpQ2YZIr550RZrrizcv7bKhNc0JQ&usqp=CAU" group-title="Deportes", DirecTV Sports +
@@ -895,16 +895,16 @@ http://190.131.228.59:8000/play/a066/index.m3u8
 http://181.78.27.187:5350/play/a014
 
 #EXTINF:0 tvg-id="tigosports.bo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtYbRXAzX48Nzbu54f_nGoUS7eppwz7lAj-A&usqp=CAU" group-title="Deportes", Tigo Sports
-http://45.5.117.239:8000/play/a062/index.m3u8
+http://190.61.102.67:444/play/a05x
 
 #EXTINF:0 tvg-id="tigosports.bo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtYbRXAzX48Nzbu54f_nGoUS7eppwz7lAj-A&usqp=CAU" group-title="Deportes", Tigo Sports
-http://177.234.254.38:8000/play/a03z/index.m3u8
+http://200.229.147.76:4000/play/a01y/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyThGgslO5ZZVkHhKFbUXS8eB5JhJXW-H8g&usqp=CAU" group-title="Deportes", TNT Sports
-http://201.182.251.146:37583/play/a05v/index.m3u8
+http://45.160.15.130:2909/play/233
 
-#EXTINF:0 tvg-id="TNTSportsArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJn34JqQ3sS1SIXt8Do8LqtUjoRb5yB79z9w&usqp=CAU" group-title="Deportes", TNT Sports 2
-http://45.189.117.32:7579/play/a0ro/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyThGgslO5ZZVkHhKFbUXS8eB5JhJXW-H8g&usqp=CAU" group-title="Deportes", TNT Sports
+http://179.0.98.34:8000/play/a02p/index.m3u8
 
 #EXTINF:0 tvg-id="TNTSportsArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJn34JqQ3sS1SIXt8Do8LqtUjoRb5yB79z9w&usqp=CAU" group-title="Deportes", TNT Sports 2
 http://200.41.79.165:8000/play/a059
@@ -912,8 +912,11 @@ http://200.41.79.165:8000/play/a059
 #EXTINF:0 tvg-id="TNTSportsArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJn34JqQ3sS1SIXt8Do8LqtUjoRb5yB79z9w&usqp=CAU" group-title="Deportes", TNT Sports 2
 http://170.79.235.29:8000/play/234
 
+#EXTINF:0 tvg-id="TNTSportsArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJn34JqQ3sS1SIXt8Do8LqtUjoRb5yB79z9w&usqp=CAU" group-title="Deportes", TNT Sports 2
+http://45.160.15.130:2909/play/234
+
 #EXTINF:0 tvg-id="TNTSportsArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_LXDPoZq66I-aRzisZzV6O45LFVTfasNH7w&usqp=CAU" group-title="Deportes", TNT Sports 3
-http://45.224.23.209:8000/play/a054/index.m3u8
+http://45.160.15.130:2909/play/235
 
 #EXTINF:0 tvg-id="TNTSportsArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_LXDPoZq66I-aRzisZzV6O45LFVTfasNH7w&usqp=CAU" group-title="Deportes", TNT Sports 3
 http://168.194.171.33:8000/play/a01d/index.m3u8
@@ -924,8 +927,11 @@ http://154.54.220.247:51323/play/a030/index.m3u8
 EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ7CDsh0j7ERHwsQ3HSjox2oE1yVHRTAWNTg&usqp=CAU" group-title="Deportes", Movistar LaLiga
 http://154.54.220.247:51323/play/a032/index.m3u8
 
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp7lGza59YOFRB49zY0EkEdQlL-hYC5OzZYw&usqp=CAU" group-title="Deportes", LaLiga SmartBank
-http://154.54.220.247:51323/play/a036/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp7lGza59YOFRB49zY0EkEdQlL-hYC5OzZYw&usqp=CAU" group-title="Deportes", LaLiga SmartBank
+http://212.9.92.182:49000/play/a02m
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp7lGza59YOFRB49zY0EkEdQlL-hYC5OzZYw&usqp=CAU" group-title="Deportes", LaLiga SmartBank
+http://212.9.92.182:49000/play/a02k
 
 EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEucQ50P4s3qq4dn3nuqsxwqx0F9Z6Mjekiw&usqp=CAU" group-title="Deportes", Movistar Liga de Campeones
 http://154.54.220.247:51323/play/a03c/index.m3u8
