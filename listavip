@@ -847,9 +847,9 @@ http://160.20.164.171:8001/play/a051
 http://200.41.79.165:8000/play/a05v
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8bvldEAciCevtvsrv5aPlA6g6_X1aWbGOhA&usqp=CAU" group-title="Deportes", TyC Sports
-http://181.65.199.218:8000/play/a01q/index.m3u8
+http://181.78.27.187:5350/play/a00w
 
-#EXTINF:0 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_tGxUPq3iru--dAOqUU6CHueA6u5G8irLkA&usqp=CAU" group-title="Deportes", DirecTV Sports
+EXTINF:0 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_tGxUPq3iru--dAOqUU6CHueA6u5G8irLkA&usqp=CAU" group-title="Deportes", DirecTV Sports
 http://200.24.141.2:4000/play/a1qb/index.m3u8
 
 EXTINF:0 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_tGxUPq3iru--dAOqUU6CHueA6u5G8irLkA&usqp=CAU" group-title="Deportes", DirecTV Sports
@@ -868,19 +868,16 @@ EXTINF:0 tvg-id="DirecTVSportsPlus.us" tvg-logo="https://encrypted-tbn0.gstatic.
 http://bgapp.live/play/5-937.php?c=9090&token=blackkghost&f=.m3u8
 
 #EXTINF:0 tvg-id="FoxSportsSouth.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="Deportes", FOX SPORTS
-http://179.1.77.222:8000/play/a011
-
-#EXTINF:0 tvg-id="FoxSportsSouth.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="Deportes", FOX SPORTS
 http://45.232.210.1:8062/play/a08b/index.m3u8
 
 #EXTINF:0 tvg-id="FoxSportsSouth.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="Deportes", FOX SPORTS
-http://181.65.199.218:8000/play/a0fq/index.m3u8
+http://200.24.141.2:4000/play/a0p4/index.m3u8
 
 #EXTINF:0 tvg-id="FoxSports2South.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSwyhYrzw1uIeXHGkzDcvveFXLTa7bVUc2ZQ&usqp=CAU" group-title="Deportes", FOX SPORTS 2
 http://190.131.228.59:8000/play/a065/index.m3u8
 
 #EXTINF:0 tvg-id="FoxSports2South.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSwyhYrzw1uIeXHGkzDcvveFXLTa7bVUc2ZQ&usqp=CAU" group-title="Deportes", FOX SPORTS 2
-http://181.65.199.218:8000/play/a021/index.m3u8
+http://181.78.27.187:5350/play/a013
 
 #EXTINF:0 tvg-id="FoxSports2South.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSwyhYrzw1uIeXHGkzDcvveFXLTa7bVUc2ZQ&usqp=CAU" group-title="Deportes", FOX SPORTS 2
 http://45.232.210.1:8062/play/a094/index.m3u8
@@ -889,13 +886,13 @@ http://45.232.210.1:8062/play/a094/index.m3u8
 http://170.83.242.9:5350/play/a013
 
 #EXTINF:0 tvg-id="FoxSports3Argentina.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Deportes", FOX SPORTS 3
-http://181.65.199.218:8000/play/a022/index.m3u8
-
-#EXTINF:0 tvg-id="FoxSports3Panregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Deportes", FOX SPORTS 3
 http://45.232.210.1:8062/play/a095/index.m3u8
 
 #EXTINF:0 tvg-id="FoxSports3Panregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Deportes", FOX SPORTS 3
 http://190.131.228.59:8000/play/a066/index.m3u8
+
+#EXTINF:0 tvg-id="FoxSports3Panregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Deportes", FOX SPORTS 3
+http://181.78.27.187:5350/play/a014
 
 #EXTINF:0 tvg-id="tigosports.bo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtYbRXAzX48Nzbu54f_nGoUS7eppwz7lAj-A&usqp=CAU" group-title="Deportes", Tigo Sports
 http://45.5.117.239:8000/play/a062/index.m3u8
