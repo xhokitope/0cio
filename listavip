@@ -849,14 +849,14 @@ http://200.41.79.165:8000/play/a05v
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8bvldEAciCevtvsrv5aPlA6g6_X1aWbGOhA&usqp=CAU" group-title="Deportes", TyC Sports
 http://181.78.27.187:5350/play/a00w
 
+#EXTINF:0 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_tGxUPq3iru--dAOqUU6CHueA6u5G8irLkA&usqp=CAU" group-title="Deportes", DirecTV Sports
+https://uruplaytwo.duckdns.org/DIRECTV_SPORTS/index.m3u8
+
+#EXTINF:0 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_tGxUPq3iru--dAOqUU6CHueA6u5G8irLkA&usqp=CAU" group-title="Deportes", DirecTV Sports
+http://138.185.15.250:8000/play/a085/index.m3u8
+
 EXTINF:0 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_tGxUPq3iru--dAOqUU6CHueA6u5G8irLkA&usqp=CAU" group-title="Deportes", DirecTV Sports
 http://200.24.141.2:4000/play/a1qb/index.m3u8
-
-EXTINF:0 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_tGxUPq3iru--dAOqUU6CHueA6u5G8irLkA&usqp=CAU" group-title="Deportes", DirecTV Sports
-http://bgapp.live/play/5-937.php?c=9084&token=blackkghost&f=.m3u8
-
-EXTINF:0 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_tGxUPq3iru--dAOqUU6CHueA6u5G8irLkA&usqp=CAU" group-title="Deportes", DirecTV Sports
-http://bgapp.live/play/5-937.php?c=9086&token=blackkghost&f=.m3u8
 
 EXTINF:0 tvg-id="DirecTVSports2.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI-BakSUUHF0BEEBy2fXy1r0zrefouuK9BNA&usqp=CAU" group-title="Deportes", DirecTV Sports 2
 http://200.52.154.125:8000/play/a06o/index.m3u8
