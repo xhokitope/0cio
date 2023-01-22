@@ -12,16 +12,16 @@ http://45.228.232.204:16000/play/a045/index.m3u8
 #EXTINF:0 tvg-id="PlayboyTVLatinAmerica.us" audio-track="eng,spa", PLAYBOY
 http://160.20.164.171:8001/play/a074
 
-#EXTINF:0 tvg-id="Venus.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png", VENUS
+#EXTINF:0 tvg-id="Venus.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png", VENUS HD
 http://200.6.227.230:7000/play/a019/index.m3u8
 
-#EXTINF:0 tvg-id="Venus.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png", VENUS
+#EXTINF:0 tvg-id="Venus.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png", VENUS  HD
 http://200.229.147.76:4000/play/a05k/index.m3u8
 
-#EXTINF:0 tvg-id="Venus.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png", VENUS
+#EXTINF:0 tvg-id="Venus.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png", VENUS HD
 http://200.12.33.210:8001/play/a02v/index.m3u8
 
-#EXTINF:0 tvg-id="Venus.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png", VENUS
+#EXTINF:0 tvg-id="Venus.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png", VENUS HD
 http://45.228.232.204:16000/play/a05r/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ22-imiS8G_GjZp562qYWpFBBiFJwtApX06A&usqp=CAU", SEXTREME
@@ -43,7 +43,7 @@ http://200.6.86.128:12000/play/a0pl
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAhPSPGn1Ui-5Wc26wrUt89-49ZQ2wKPZOyw&usqp=CAU", Brazzers TV Europe
 http://84.17.61.203:8086/udp/229.157.5.203:1234
 
-#EXTINF:0 , Private
+#EXTINF:0 , Private HD
 http://84.17.61.203:8086/udp/229.157.5.219:1234
 
 EXTINF:0 tvg-id="PenthouseGold.us", Penthouse Gold
