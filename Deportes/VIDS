@@ -37,8 +37,8 @@ http://77.85.200.11:4000/play/a00q
 #EXTINF:0 , Vivid Red HD
 http://84.17.61.203:8086/udp/229.157.5.208:1234
 
-EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThNj9bsA-gHXwdqLzIdQdKKpCLVZ_izMQI1Q&usqp=CAU", SEXY HOT
-http://200.6.86.128:12000/play/a0pl
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThNj9bsA-gHXwdqLzIdQdKKpCLVZ_izMQI1Q&usqp=CAU", SEXY HOT
+http://191.209.60.250:8000/play/a00k
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAhPSPGn1Ui-5Wc26wrUt89-49ZQ2wKPZOyw&usqp=CAU", Brazzers TV Europe
 http://84.17.61.203:8086/udp/229.157.5.203:1234
