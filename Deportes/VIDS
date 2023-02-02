@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:0 , Erotic 8
+http://92.60.230.202:5053/udp/239.1.7.8:22708
+
 #EXTINF:0 tvg-id="PlayboyTVLatinAmerica.us", PLAYBOY
 http://200.75.113.64:8874/play/a0nz/index.m3u8
 
@@ -45,6 +48,9 @@ http://84.17.61.203:8086/udp/229.157.5.203:1234
 
 #EXTINF:0 , Private HD
 http://84.17.61.203:8086/udp/229.157.5.219:1234
+
+#EXTINF:0 , Private HD
+http://185.236.229.31:9981/play/a03p
 
 EXTINF:0 tvg-id="PenthouseGold.us", Penthouse Gold
 http://46.149.191.219:9106/play/a009
