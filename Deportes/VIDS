@@ -4,22 +4,25 @@
 http://92.60.230.202:5053/udp/239.1.7.8:22708
 
 #EXTINF:0 tvg-id="PlayboyTVLatinAmerica.us", PLAYBOY
-http://200.75.113.64:8874/play/a0nz/index.m3u8
+http://181.39.202.98:9948/play/a155/index.m3u8
 
 #EXTINF:0 tvg-id="PlayboyTVLatinAmerica.us", PLAYBOY
-http://200.229.147.76:4000/play/a07m/index.m3u8
+http://190.149.66.90:16000/play/a00h/index.m3u8
 
-#EXTINF:0 tvg-id="PlayboyTVLatinAmerica.us" audio-track="eng,spa", PLAYBOY
+#EXTINF:0 tvg-id="PlayboyTVLatinAmerica.us", PLAYBOY
 http://45.228.232.204:16000/play/a045/index.m3u8
 
-#EXTINF:0 tvg-id="PlayboyTVLatinAmerica.us" audio-track="eng,spa", PLAYBOY
-http://160.20.164.171:8001/play/a074
+#EXTINF:0 tvg-id="PlayboyTVLatinAmerica.us", PLAYBOY
+http://181.65.154.170:8000/play/a09i/index.m3u8
 
 #EXTINF:0 tvg-id="Venus.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png", VENUS HD
-http://200.6.227.230:7000/play/a019/index.m3u8
+http://170.83.242.9:5350/play/a00z
 
 #EXTINF:0 tvg-id="Venus.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png", VENUS  HD
-http://200.229.147.76:4000/play/a05k/index.m3u8
+http://170.83.242.8:5350/play/a00z
+
+#EXTINF:0 tvg-id="Venus.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png", VENUS HD
+http://170.83.242.30:5350/play/a00z
 
 #EXTINF:0 tvg-id="Venus.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png", VENUS HD
 http://200.12.33.210:8001/play/a02v/index.m3u8
