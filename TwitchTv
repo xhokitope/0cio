@@ -4,6 +4,9 @@
 #EXTINF:0 type="stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBqH_p8KNozANAcBjRUUPL80VlSzRIleFXLg&usqp=CAU" group-title="Streamers En Directo", AuronPlay
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/auronplay
 
+#EXTINF:0 type="stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxIJvK3oocj6k_Ip43Nysc-mam5QE_BuIVww&usqp=CAU" group-title="Streamers En Directo", Javi Oliveira
+https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/CqkEMKcA4vIv8-7BTU79fOk10DlVvYomyBL4JDLCY7qHO27G1JGZ9wXOv0QtTHKiUO_cMkgS01EAgV7TzPctJ38m56av-W1zGQV3RZzOr7Q0IYc2xqRNryv4ly7mTFMZ-b9nFJkbFrnKL0Qye0M-NLsout1464ku8BL0Vu8kQS2PgWFrHpSlkeHcHDeauLuzOiXwCvcbi3nX8cafBUB2PTLkZEIyFWVYwRbwwFgaL85bdKPdgH2qN8BDC6kTsDtHsIo6_ERo03YnwKfqdoLD6Oxzgi0bqoCkyzmAcLregPw576jEHbGxOUglJqq55KGeFgaN0toYE3f5ZQ2YKexQvnZlfP_bTrKIAE4vHYZy9b9tAWQc8tgEVgr4-0p97RzrLm_OvTCdfgoQxPzuDwjglUqo69uKvmYKBUH0omuMRznaDSYVbqZ5OMFVxTgiOb8j_BXAonL2gN7RW4wq4QjYvjj7L01QjZrbfv8r8muLgueXCV8AXl5sMovrEbCF-EDArIuXfD50ahB3rpQx6FyqNoeQpV-34m-wiAG76Aiv0gjSZuwnAP43n_mmQWHH3TYQHZDozFYZ-CtNaPBF_hylZzBfgbqifP216te63DXileVukTh2h9vN81_dAzvAiuYAECmv-4Q8iKS7Bkz8DYlMMQkOUuxbo4ePnnWaJVQ2hJvnhfXWlE4U2pmYofNT74na3fwalvsTjIqYDlTTTzfnlb8LDedBlwMjJF0ejRoMd1h03vlLkV73sy6ZIAEqCWV1LXdlc3QtMjDtBQ.m3u8
+
 #EXTINF:0 type="stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNvKx7p-w6Tpr3twlznyVETN6Ryk9r1QSBLw&usqp=CAU" group-title="Streamers En Directo", Ampeterby7
 https://q22link.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/ampeterby7
 

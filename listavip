@@ -49,10 +49,10 @@ http://190.187.247.206:8000/play/a03n/index.m3u8
 http://186.5.31.251:8000/play/a09v/index.m3u8
 
 #EXTINF:0 tvg-id="PanamericanaTV.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNodEC5o4GRK0MaFR_r8zSsrNxYuJjeDdUzA&usqp=CAU" group-title="TV PERUANA", PANAMERICANA TV
-http://209.45.52.14:8000/play/a02u/index.m3u8
+http://200.24.141.2:4000/play/a0av/index.m3u8
 
 #EXTINF:0 tvg-id="PanamericanaTV.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNodEC5o4GRK0MaFR_r8zSsrNxYuJjeDdUzA&usqp=CAU" group-title="TV PERUANA", PANAMERICANA TV
-http://138.185.15.250:8000/play/a06s/index.m3u8
+http://168.194.100.99:8000/play/a01t
 
 #EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmDXwq_JVNoby065mDeURMs9zHCd4FU9GnvQ&usqp=CAU" group-title="TV PERUANA", GLOBAL (PE)
 http://181.176.173.181:51011/play/a08v/index.m3u8
@@ -64,13 +64,13 @@ http://186.5.31.251:8000/play/a0a0/index.m3u8
 http://186.5.31.251:8000/play/a0a0/index.m3u8
 
 #EXTINF:0 tvg-id="AmericaTelevision.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnj4six21x50vnaiL29u8xyeoD9Aas4BGSIQ&usqp=CAU" group-title="TV PERUANA", América TV (PE)
-http://190.239.25.140:8000/play/a02f/index.m3u8
-
-#EXTINF:0 tvg-id="AmericaTelevision.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnj4six21x50vnaiL29u8xyeoD9Aas4BGSIQ&usqp=CAU" group-title="TV PERUANA", América TV (PE)
 http://186.5.31.251:8000/play/a09u/index.m3u8
 
 #EXTINF:0 tvg-id="AmericaTelevision.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnj4six21x50vnaiL29u8xyeoD9Aas4BGSIQ&usqp=CAU" group-title="TV PERUANA", América TV (PE)
-http://186.5.31.251:8000/play/a09u/index.m3u8
+http://200.24.141.2:4000/play/a0ol/index.m3u8
+
+#EXTINF:0 tvg-id="AmericaTelevision.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnj4six21x50vnaiL29u8xyeoD9Aas4BGSIQ&usqp=CAU" group-title="TV PERUANA", América TV (PE)
+http://168.194.100.99:8000/play/a031
 
 #EXTINF:0 tvg-id="CanalN.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjFu1v4nogWUR6-t48F7HH8GASg290M1uc6w&usqp=CAU" group-title="TV PERUANA", Canal N
 http://186.5.31.251:8000/play/a09y/index.m3u8
@@ -97,13 +97,13 @@ https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u
 https://www.dailymotion.com/cdn/live/video/x7uk62a.m3u8?sec=nHiqatT3PgsMDN2wf_FzT7KEjlFkK3V_pUwY3zYSB_FIkX2_0ole3oy1gFoFw7Et3rBR6iZPC8Xz-vMcCq17kw
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9QSnw92P7nGadt37p3xFQrCAvp8tQVplggQ&usqp=CAU" group-title="TV INTERNACIONAL", Antena 3
-http://190.61.102.67:444/play/a00b
+http://45.228.232.204:16000/play/a038/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9QSnw92P7nGadt37p3xFQrCAvp8tQVplggQ&usqp=CAU" group-title="TV INTERNACIONAL", Antena 3
-http://160.20.164.171:8001/play/a037
+http://45.179.164.9:8000/play/a01b/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9QSnw92P7nGadt37p3xFQrCAvp8tQVplggQ&usqp=CAU" group-title="TV INTERNACIONAL", Antena 3
-http://190.61.102.67:444/play/a00b
+
 
 #EXTINF:0 tvg-id="StarTVE.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRws7JwZU2xfLudtdjqRhDsx1SLO_59jk2eWA&usqp=CAU" group-title="TV INTERNACIONAL", STAR TVE
 http://45.228.232.204:16000/play/a04k/index.m3u8
@@ -846,20 +846,20 @@ http://200.41.79.165:8000/play/a05v
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8bvldEAciCevtvsrv5aPlA6g6_X1aWbGOhA&usqp=CAU" group-title="Deportes", TyC Sports
 http://181.78.27.187:5350/play/a00w
 
-EXTINF:0 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_tGxUPq3iru--dAOqUU6CHueA6u5G8irLkA&usqp=CAU" group-title="Deportes", DirecTV Sports
-https://uruplaytwo.duckdns.org/DIRECTV_SPORTS/index.m3u8
-
 #EXTINF:0 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_tGxUPq3iru--dAOqUU6CHueA6u5G8irLkA&usqp=CAU" group-title="Deportes", DirecTV Sports
-http://138.185.15.250:8000/play/a085/index.m3u8
+http://190.61.41.182:8000/play/a02y/index.m3u8
+
+EXTINF:0 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_tGxUPq3iru--dAOqUU6CHueA6u5G8irLkA&usqp=CAU" group-title="Deportes", DirecTV Sports
+
 
 EXTINF:0 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_tGxUPq3iru--dAOqUU6CHueA6u5G8irLkA&usqp=CAU" group-title="Deportes", DirecTV Sports
 http://200.24.141.2:4000/play/a1qb/index.m3u8
 
-EXTINF:0 tvg-id="DirecTVSports2.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI-BakSUUHF0BEEBy2fXy1r0zrefouuK9BNA&usqp=CAU" group-title="Deportes", DirecTV Sports 2
-http://200.52.154.125:8000/play/a06o/index.m3u8
+#EXTINF:0 tvg-id="DirecTVSports2.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI-BakSUUHF0BEEBy2fXy1r0zrefouuK9BNA&usqp=CAU" group-title="Deportes", DirecTV Sports 2
+http://190.61.41.182:8000/play/a02z/index.m3u8
 
-EXTINF:0 tvg-id="DirecTVSportsPlus.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDD2YO-nYpQ2YZIr550RZrrizcv7bKhNc0JQ&usqp=CAU" group-title="Deportes", DirecTV Sports +
-http://bgapp.live/play/5-937.php?c=9089&token=blackkghost&f=.m3u8
+#EXTINF:0 tvg-id="DirecTVSportsPlus.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDD2YO-nYpQ2YZIr550RZrrizcv7bKhNc0JQ&usqp=CAU" group-title="Deportes", DirecTV Sports +
+http://190.61.41.182:8000/play/a030/index.m3u8
 
 EXTINF:0 tvg-id="DirecTVSportsPlus.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDD2YO-nYpQ2YZIr550RZrrizcv7bKhNc0JQ&usqp=CAU" group-title="Deportes", DirecTV Sports +
 http://bgapp.live/play/5-937.php?c=9090&token=blackkghost&f=.m3u8
